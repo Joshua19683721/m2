@@ -184,14 +184,12 @@
     var s = Store.settings();
     $('setAutoSpeak').checked = s.autoSpeak;
     $('setSpeakPenalty').checked = s.speakPenalty;
-    $('setSmartJump').checked = s.smartJump;
     $('setStrictCase').checked = s.strictCase;
     $('setRate').value = s.rate;
     $('setRateVal').textContent = s.rate;
     $('setFontSize').value = s.fontSize;
     $('setFontSizeVal').textContent = s.fontSize;
     $('hintToggle').checked = s.showHints;
-    $('autoNextToggle').checked = s.autoNext;
   }
 
   function bindSettings() {
@@ -208,7 +206,6 @@
     }
     bind('setAutoSpeak', 'autoSpeak');
     bind('setSpeakPenalty', 'speakPenalty');
-    bind('setSmartJump', 'smartJump');
     bind('setStrictCase', 'strictCase', function () { Practice.restart(); });
     bind('setRate', 'rate', function (v) { $('setRateVal').textContent = v; });
     bind('setFontSize', 'fontSize', function (v) {
@@ -217,7 +214,6 @@
       if (wc) wc.style.fontSize = v + 'px';
     });
     bind('hintToggle', 'showHints', function (v) { Practice.restart(); });
-    bind('autoNextToggle', 'autoNext');
 
     $('exportProgressBtn').addEventListener('click', function () {
       download('scene-typing-progress-' + Store.today() + '.json',

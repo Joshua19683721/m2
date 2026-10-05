@@ -29,12 +29,10 @@
   var DEFAULT_SETTINGS = {
     autoSpeak: true,        // 換單元時自動朗讀
     speakPenalty: false,    // 錯字時朗讀整句而非單字
-    smartJump: true,        // 完成後跳到第一個沒練過的單元
     strictCase: false,      // 比對時大小寫必須完全正確
     rate: 0.9,              // 朗讀速度
     fontSize: 32,           // 打字字級
     showHints: true,        // 浮水印提示
-    autoNext: false         // 完成後自動跳下一張
   };
 
   /* ───────── 低層讀寫 ───────── */

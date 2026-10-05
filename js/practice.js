@@ -83,9 +83,6 @@
     var tag = Home.state.scene.icon + ' ' + Home.state.scene.name + '　·　' +
               Store.MODE_LABEL[Home.state.mode];
     $('practiceSceneTag').innerHTML = '<span class="chip">' + Analysis.escapeHtml(tag) + '</span>';
-    $('promptTag').textContent = tag + '　第 ' + (index + 1) + ' / ' + P.units.length + ' 張';
-    $('practicePos').textContent = '第 ' + (index + 1) + ' / ' + P.units.length + ' 張　·　' +
-      Store.MODE_LABEL[Home.state.mode];
     $('practiceFill').style.width = Math.round(100 * (index + 1) / P.units.length) + '%';
 
     $('promptZh').textContent = unit.zh || '';
@@ -338,8 +335,7 @@
   function onKey(e, input, token, idx) {
     if (e.key === ' ' || e.code === 'Space') {
       e.preventDefault();
-      if (isComplete()) next(); else Speech.say(token, 1, { rate: settings.rate });
-      return;
+      next();   // Space 一律跳下一張，不管這一張打完沒有
     }
     if (e.key === 'Backspace' || e.key === 'Delete' || e.key === 'ArrowLeft' ||
         e.key === 'ArrowRight' || e.ctrlKey || e.metaKey || e.key === 'Enter') return;
@@ -417,9 +413,6 @@
       P.totalErr + ' 次　|　按 <strong>Space</strong> 下一張、<strong>Enter</strong> 重練',
       false);
 
-    if (settings.autoNext) {
-      setTimeout(function () { next(); }, 1100);
-    }
   }
 
   function showBanner(html, isError) {
@@ -551,7 +544,6 @@
     Store.recordSession({ cards: 1, words: t.length, err: 0, chars: u.length, seconds: secs });
 
     showBanner('✔ 整句完全正確！按 <strong>Space</strong> 下一張、<strong>Enter</strong> 再打一次', false);
-    if (settings.autoNext) setTimeout(function () { next(); }, 1100);
   }
 
   /* ───────── 進度保存 ───────── */
