@@ -89,8 +89,13 @@
     var ipa = Ipa.ensureIpa(unit);
 
     // 盲打模式不能直接把答案（英文原句）顯示出來
-    $('promptEn').textContent = blind ? '' : unit.en;
-    $('promptEn').style.display = blind ? 'none' : 'block';
+    // 英文原句只在「勾選提示」時顯示：
+    //   勾選   → 中文 + 英文原句 + 音標 + 逐字浮水印
+    //   不勾選 → 中文 + 音標（英文原句與浮水印都藏起來，靠中文自己打出來）
+    // 盲打模式本來就不能顯示答案，一律只給中文。
+    var showEn = !blind && settings.showHints;
+    $('promptEn').textContent = showEn ? unit.en : '';
+    $('promptEn').style.display = showEn ? 'block' : 'none';
     $('promptIpa').textContent = (blind || !ipa) ? '' : '/' + ipa + '/';
     $('promptIpa').style.display = (blind || !ipa) ? 'none' : 'inline-block';
 
