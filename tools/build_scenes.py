@@ -446,7 +446,10 @@ def main():
         "讓「解析」面板不必靠規則猜詞性 */\n"
         "window.SCENE_POS = " + json.dumps(pos, ensure_ascii=False, indent=0, sort_keys=True) + ";\n"
     )
-    OUT.write_text(header + body, encoding="utf-8")
+    # newline="\n"：不論在 Windows 或 Linux 產生，行尾都固定是 LF。
+    # 沒有這行的話，Windows 會寫成 CRLF、Linux 寫成 LF，
+    # CI 的「詞庫是否同步」檢查會整份檔案都不一致而失敗。
+    OUT.write_text(header + body, encoding="utf-8", newline="\n")
     print(f"→ {OUT}  ({OUT.stat().st_size / 1024:.0f} KB)")
 
 

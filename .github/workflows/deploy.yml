@@ -34,14 +34,20 @@ jobs:
       - name: 驗證場景內容與 100% 覆蓋率
         run: python tools/build_scenes.py --check
 
+      # 改了 data/parts*/ 卻忘記重新產生詞庫時擋下（避免線上跑舊內容）
+      # 比對前先把行尾正規化：不論在 Windows 或 Linux 產生，行尾都應該視為相同，
+      # 不然用 Windows 編輯器碰過 scenes.js 就會整份被判成不同步。
       - name: 檢查 data/scenes.js 與來源一致
         run: |
+          cp data/scenes.js /tmp/scenes.committed
           python tools/build_scenes.py
-          if ! git diff --quiet -- data/scenes.js; then
-            echo "❌ data/scenes.js 與 data/parts/ 不同步，請在本地執行 python tools/build_scenes.py 後再 commit"
-            git --no-pager diff --stat -- data/scenes.js
+          if ! diff -q --strip-trailing-cr /tmp/scenes.committed data/scenes.js > /dev/null; then
+            echo "❌ data/scenes.js 與 data/parts/ 不同步"
+            echo "   請在本地執行 python tools/build_scenes.py 後，把 data/scenes.js 一起 commit"
+            diff --strip-trailing-cr /tmp/scenes.committed data/scenes.js | head -40
             exit 1
           fi
+          echo "✅ data/scenes.js 與來源一致"
 
       - name: 檢查詞庫裡沒有簡體字
         run: python tools/scan_simplified.py
