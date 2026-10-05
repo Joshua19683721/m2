@@ -1,0 +1,142 @@
+{
+  "scenes": ["grammar-core","noun-everyday-misc","adj-extra","verbs-feeling","verbs-food"],
+  "issues": [
+    {
+      "scene": "grammar-core",
+      "kind": "ipa",
+      "en": "have got to",
+      "zh": "必須；不得不",
+      "problem": "音標「ˌhæv ˈɡɒt tə」漏了 have 的主重音符號。片語的兩個實詞 have 與 got 各有自己的重音，have 在輕讀片語中要保留 ˈhæv。",
+      "suggestion": "ipa 改為 ˌhæv ˈɡɒt tə → ˈhæv ˌɡɒt tə。"
+    },
+    {
+      "scene": "grammar-core",
+      "kind": "ipa",
+      "en": "because",
+      "zh": "因為",
+      "problem": "音標「bɪˈkɒːz」把長音 ː 加在捲舌音前的元音上。because 的尾音是 /ɪkɒz/，捲舌化發生在 /z/，元音本身就是短音，不該標成長音。",
+      "suggestion": "ipa 改為 bɪˈkɒz。"
+    },
+    {
+      "scene": "grammar-core",
+      "kind": "ipa",
+      "en": "be going to",
+      "zh": "將要；打算",
+      "problem": "音標「bi ˌɡəʊ.ɪŋ tə」中 be 的長音 ː 漏寫了，變成短音 /bi/。",
+      "suggestion": "ipa 改為 bi ˌɡəʊ.ɪŋ tə → biː ˌɡəʊ.ɪŋ tə。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "zh-naturalness",
+      "en": "centre/center",
+      "zh": "中心／中心（美式）",
+      "problem": "兩種拼法都只寫成「中心」，後面重複標成「（美式）」等於沒翻；而且本專案整體採用英式拼法（programme、lift 一類），把美式當成獨立條目沒有必要。",
+      "suggestion": "保留英式拼法即可：en「centre」，zh「中心」，ipa「ˈsen.tə」；若要兩版並列，zh 應寫成「中心（美式=center）」而非兩個都是「中心」。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "meaning",
+      "en": "ID",
+      "zh": "身分、證明",
+      "problem": "「身分」在中文裡就是「identity／personal status」，不是 identification；而且本場另有「ID card 身分證」與「identification 身分證明文件」，用「身分」會把三個詞混在一起。",
+      "suggestion": "zh 改為「身分證明（文件）」或直接刪掉此單字條目，只保留「ID card 身分證」與「identification 身分證明文件」。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "ipa",
+      "en": "trainer",
+      "zh": "運動鞋",
+      "problem": "此條的 trainer 指的是英式用語「運動鞋」，複數 trainers 的音節數不同，單數應重音在第一音節 /ˈtreɪ.nə/，現寫成 ˈtreɪ.nə 之後接一個不代表長音的孤立 a，唸出來會變成三個音節。",
+      "suggestion": "ipa 改為 ˈtreɪ.nə。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "duplicate",
+      "en": "working hours",
+      "zh": "工作時間／上班時間",
+      "problem": "同一個場次裡 words 已有「working hours 工作時間」，phrases 又出現一次「working hours 上班時間」，形成同場重複條目。",
+      "suggestion": "刪掉 phrases 中重複的 working hours，只保留 words 的一筆。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "duplicate",
+      "en": "tourist information centre",
+      "zh": "旅遊服務中心",
+      "problem": "同一個場次裡 words 與 phrases 都有「tourist information centre 旅遊服務中心」，內容完全相同，等於重複教學。",
+      "suggestion": "二選一保留，建議刪掉 phrases 的重複條目。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "duplicate",
+      "en": "movie theater",
+      "zh": "電影院",
+      "problem": "同一個場次裡 words 與 phrases 都收錄「movie theater 電影院」，重複。",
+      "suggestion": "刪掉 phrases 中重複的 movie theater。"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "polysemy",
+      "en": "character",
+      "zh": "角色、性格",
+      "problem": "character 是多義詞，但「角色、性格」這組中文在台灣只對應 to be in character／out of character 或 show character 這種「性格／特性」的用法；影劇裡的「角色」是 cast member／role，character 本身不指「角色」這個身分概念。一般學習者查到時會拿錯義項。",
+      "suggestion": "zh 改為「人物；（小說、影視的）人物角色；性格、特質」，把「角色」改成「影劇小說中的人物」，避免與 role 混淆。"
+    },
+    {
+      "scene": "adj-extra",
+      "kind": "meaning",
+      "en": "horror",
+      "zh": "恐怖；驚嚇",
+      "problem": "「恐怖」在中文是形容詞（可怕的），對不上英文名詞 horror（恐怖事物／驚悚片）；中文只給了形容詞與「嚇一跳」的動詞感，讀者無法把詞性對上。",
+      "suggestion": "zh 改為「恐怖；恐怖片（複數 horrors）」。"
+    },
+    {
+      "scene": "adj-extra",
+      "kind": "zh-naturalness",
+      "en": "be good at",
+      "zh": "擅長於",
+      "problem": "「擅長於」後面在中文裡必須接動詞或名詞化成分（擅長於游泳），且「於」是書面語；學習者常直接照著寫成「我擅長於數學」尚可，但接動詞時會誤以為後面要接名詞，是容易出錯的譯法。",
+      "suggestion": "zh 改為「擅長（做某事）」，例句可寫「be good at maths 擅長數學」。"
+    },
+    {
+      "scene": "adj-extra",
+      "kind": "tips",
+      "en": "比較級與最高級別靠語感：-y 結尾要加 -er、-est，應改成 -ier、-iest（happy → happier → happiest）。",
+      "zh": "",
+      "problem": "這則提示的前後文互相矛盾，而且用詞錯置：正確規則是「以『輔音＋y』結尾的形容詞，比較級變 y 為 i 再加 -er，最高級加 -est」，所以 happy 要「改成 -ier、-iest」這句方向寫反了，-ier、-iest 正是要換過去的形式，不是被換掉的形式。另外「別靠語感」也不對，規則是有規律的。",
+      "suggestion": "改寫為：「比較級與最高級看字尾：-y 結尾要改成 -ier、-iest（happy → happier → happiest）；-e 結尾只加 -r、-st（nice → nicer → nicest）。」"
+    },
+    {
+      "scene": "verbs-feeling",
+      "kind": "ipa",
+      "en": "heal",
+      "zh": "癒合；痊癒",
+      "problem": "音標寫成「hiːl」，長音冒號寫成了羅馬數字 1，讀者會誤唸成 /hɪl/ 或看不懂。",
+      "suggestion": "ipa 改為 hiːl（若工具不接受 1，請直接改用正確的長音符號）。"
+    },
+    {
+      "scene": "verbs-feeling",
+      "kind": "ipa",
+      "en": "prefer / would prefer",
+      "zh": "比較喜歡／寧願",
+      "problem": "後半段「would prefer」的 would 漏了主重音符號。這個條目同時教兩個片語，兩邊都該各自標出重音，否則學習者只學到一個重音位置。",
+      "suggestion": "ipa 改為 prɪˈfɜː ˈwʊd prɪˈfɜː。"
+    },
+    {
+      "scene": "verbs-food",
+      "kind": "zh-naturalness",
+      "en": "roast",
+      "zh": "用烤箱烤；烤過的",
+      "problem": "兩個問題。一是把 roast 限定成「用烤箱烤」，但 roast 指的是用烤箱或明火把食物烤熟變褐，重點是烤的結果而不是器具，束縛在烤箱會誤導。二是形容詞寫成「烤過的」，中文讀起來像「已經烤過（所以不必再烤）」，方向與 roast 的意思相反。",
+      "suggestion": "zh 改為「烤、烘烤；烤肉、烤菜（已烤好的）」；與 bake 的差別寫成「roast 烤整塊肉或蔬菜，bake 用烤箱烘麵包點心」，放在提示中說明。"
+    },
+    {
+      "scene": "verbs-food",
+      "kind": "meaning",
+      "en": "He boils the water and drinks three cups of tea.",
+      "zh": "他煮開水，每天喝三杯茶。",
+      "problem": "英文句沒有「每天」這個意思，中文卻多加了「每天」，中英訊息不一致；學習者對照時會以為漏背了一個時間副詞。另外英文明顯是一般性／習慣性敘述，中文用「每天」也把頻率講死了。",
+      "suggestion": "二擇一修正：zh 改為「他煮開水，喝三杯茶。」；或在 en 補上頻率，en 改為「He boils the water and drinks three cups of tea every day.」"
+    }
+  ],
+  "checked": { "words": 469, "phrases": 70, "sentences": 70, "tips": 15 }
+}

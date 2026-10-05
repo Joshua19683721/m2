@@ -1,0 +1,62 @@
+{
+  "scenes": ["adj-emotion", "adj-things", "noun-clothes-extra", "noun-body", "noun-nature-weather"],
+  "issues": [
+    {
+      "scene": "adj-things",
+      "kind": "ipa",
+      "en": "poor thing/you",
+      "zh": "可憐的東西／可憐的人",
+      "problem": "en 同時列了「poor thing」與「poor you」兩個變體，但 ipa 只有「ˌpɔː ˈθɪŋ」，完全漏掉「poor you」的 /ˈpɔː juː/。學習者讀到這個條目時只學得到前半段的唸法，後半段等於沒有音標。",
+      "suggestion": "ipa 改為 ˌpɔː ˈθɪŋ ˌpɔː ˈjuː；若不想收兩個變體，就把 en 改成只留「poor thing」。"
+    },
+    {
+      "scene": "adj-things",
+      "kind": "meaning",
+      "en": "poor thing/you",
+      "zh": "可憐的東西／可憐的人",
+      "problem": "本場是形容詞場次，但「poor thing」「poor you」是表示同情的感嘆語，不是能放在名詞前的形容詞；zh 又照名詞詞組去翻成「可憐的東西／可憐的人」，學習者只會學到一個錯的用法（說成 poor person 之類）。實際用法是「Poor you!」＝「你好可憐喔！」。",
+      "suggestion": "en 改為「poor thing! / poor you!」，zh 改為「真可憐喔！／你好可憐喔！」，並標註為感嘆語，或移出形容詞場次。"
+    },
+    {
+      "scene": "adj-things",
+      "kind": "tips",
+      "en": "放在名詞前面時，中間不能插別的字。例如可以說一個很大的車子，不能說一個很大車的這種順序。",
+      "zh": "",
+      "problem": "這則提示的規則和例句互相矛盾：規則說「放在名詞前面時，中間不能插別的字」，但它自己給的正確例句「一個很大的車子」裡就夾了「很」；反例「一個很大車的」中文語序根本不通，不是一個真實會犯的錯誤句型，讀者無從對照。",
+      "suggestion": "改寫為：「形容詞放在名詞前面時，中間不能插別的字：可以說『一個大的車子』或『一個很大的車子』，但不能說『一個大的很高車子』。」"
+    },
+    {
+      "scene": "adj-emotion",
+      "kind": "tips",
+      "en": "這組最大的陷阱是兩種尾綴：說自己被這樣困住就用前者，形容會讓別人產生這種感覺的事才用後者。",
+      "zh": "",
+      "problem": "整則提示只說「用前者」「用後者」，但從頭到尾沒有點出「前者」「後者」分別指哪兩個詞尾，提示文字裡也沒有任何可以對應的詞。讀者看到時無從對應，這則提示等於沒有作用。",
+      "suggestion": "改寫為：「這組最大的陷阱是 -ed 與 -ing 兩種詞尾：說自己被這種感覺困住就用 -ed（如 bored、worried），形容會讓別人產生這種感覺的事才用 -ing（如 boring、worrying）。」"
+    },
+    {
+      "scene": "noun-clothes-extra",
+      "kind": "zh-naturalness",
+      "en": "a leather belt",
+      "zh": "皮皮帶",
+      "problem": "「皮皮帶」連續出現兩個「皮」，中文讀起來像口誤打結，沒有任何自然說法；對照同場其他材質片語的寫法（a wool jumper「羊毛毛衣」），這裡應是「皮」字重複的筆誤。",
+      "suggestion": "zh 改為「皮帶」；若要呼應 leather，可寫成「皮質皮帶」。"
+    },
+    {
+      "scene": "noun-nature-weather",
+      "kind": "ipa",
+      "en": "in the middle of the forest",
+      "zh": "在森林中央",
+      "problem": "片語中的 forest 標成「ˈfɔː.ɪst」，這是美式讀音 /ˈfɔːrɪst/。本專案整體採英式體例（jewellery、pyjamas、favourite 等英式拼字，音標也用英式的 ɒ、əʊ），forest 在英式應為 /ˈfɒr.ɪst/，寫成 ˈfɔː.ɪst 會讓學習者唸出美式音。",
+      "suggestion": "ipa 改為 ɪn ðə ˈmɪd.əl əv ðə ˈfɒr.ɪst。"
+    },
+    {
+      "scene": "noun-clothes-extra",
+      "kind": "meaning",
+      "en": "I put my wet gloves and scarf near the heater.",
+      "zh": "我把手套和圍巾放在暖氣旁邊。",
+      "problem": "英文的 wet（溼的）沒有翻出來。中文只寫「我把手套和圍巾放在暖氣旁邊」，讀起來像隨手一放；為什麼要拿到暖氣旁邊，正是因為手套和圍巾是溼的、要烘乾。同一場景的 Take off your wet shoes 有保留「濕」，兩句處理不一致。",
+      "suggestion": "zh 改為「我把溼手套和圍巾放在暖氣旁邊晾乾。」"
+    }
+  ],
+  "checked": { "words": 323, "phrases": 70, "sentences": 70, "tips": 15 }
+}

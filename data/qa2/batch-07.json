@@ -1,0 +1,30 @@
+{
+  "scenes": ["phrasal-verbs", "clothes", "noun-animals", "adj-quality", "adj-people"],
+  "issues": [
+    {
+      "scene": "phrasal-verbs",
+      "kind": "tips",
+      "en": "turn on / turn off / get on / get off / pick up / put down",
+      "zh": "最容易錯的是 turn on 與 turn off、get on 與 get off、pick up 與 put down，都是同一個動詞配不同的小字，建議一次背一整組。",
+      "problem": "這則 tip 自己下的定義是「同一個動詞配不同的小字」，但它列的 pick up 與 put down 是兩個不同的動詞（pick 與 put），完全不符合這個定義，而且兩者也不是相反詞（put down 是放下／記下，不是 pick up 的反義），把它們並列成「一整組」會讓學習者記到錯的對應關係。前面 turn on/turn off、get on/get off 才是符合定義的例子。",
+      "suggestion": "最容易錯的是 turn on 與 turn off、get on 與 get off，都是同一個動詞配不同的小字，建議一次背一整組。"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "tips",
+      "en": "two or more syllables → use more / most",
+      "zh": "比較級與最高級最常錯：單音節的詞直接加尾巴，兩個以上音節的詞前面才加比較用字，而好、壞、很多、很少是不規則變化，必須另外背。",
+      "problem": "規則說錯：兩個音節的形容詞並非一律在前面加 more，像本場收錄的 clever（cleverer）、difficult 之外的 quick 類常見詞，以及 quiet（quieter）、happy（happier）、simple（simpler）、easy（easier）、narrow（narrower）都是直接加 -er、-est。同一個場景的另一則 tip 又寫「三個音節以上的形容詞……不能加短尾巴」，等於承認兩個音節可以加短尾巴，兩則 tip 互相矛盾。正確的界線是三個音節以上（含）才一律用 more、most，兩個音節要看字尾再決定。",
+      "suggestion": "比較級與最高級最常錯：單音節的形容詞直接加 -er、-est，三個音節以上（含）的形容詞前面才加 more、most，兩個音節的要再看字尾決定，而好、壞、很多、很少是不規則變化，必須另外背。"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "duplicate",
+      "en": "My worst holiday was really awful and terrible.",
+      "zh": "我最糟的假期真的既痛苦又糟糕。",
+      "problem": "awful 與 terrible 是同義詞，用 and 並列等於沒有增加任何訊息，是一句重複的空話；而且本場單字表把 awful、terrible 兩個字都解釋成「糟糕的；可怕的」，中譯卻把前一個譯成「痛苦」，跟同場的釋義對不上，形成不一致。",
+      "suggestion": "My worst holiday was really awful. ／ 我最糟的假期真的糟透了。"
+    }
+  ],
+  "checked": { "words": 339, "phrases": 70, "sentences": 70, "tips": 15 }
+}

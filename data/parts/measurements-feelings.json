@@ -1,0 +1,545 @@
+[
+ {
+  "id": "measurements",
+  "icon": "📏",
+  "name": "數量與度量",
+  "nameEn": "Measurements",
+  "summary": "長短、重量、時間的單位，回答「多少、多重、多久」。",
+  "words": [
+   {
+    "en": "centimetre",
+    "zh": "公分",
+    "ipa": "ˈsen.tɪ.miː.tə"
+   },
+   {
+    "en": "metre",
+    "zh": "公尺",
+    "ipa": "ˈmiː.tə"
+   },
+   {
+    "en": "kilometre",
+    "zh": "公里",
+    "ipa": "ˈkɪl.ə.miː.tə"
+   },
+   {
+    "en": "gram",
+    "zh": "公克",
+    "ipa": "ɡræm"
+   },
+   {
+    "en": "kilogram",
+    "zh": "公斤",
+    "ipa": "ˈkɪl.ə.ɡræm"
+   },
+   {
+    "en": "litre",
+    "zh": "公升",
+    "ipa": "ˈliː.tə"
+   },
+   {
+    "en": "degree",
+    "zh": "度",
+    "ipa": "dɪˈɡriː"
+   },
+   {
+    "en": "half",
+    "zh": "一半",
+    "ipa": "hɑːf"
+   },
+   {
+    "en": "quarter",
+    "zh": "四分之一",
+    "ipa": "ˈkwɔː.tə"
+   },
+   {
+    "en": "day",
+    "zh": "天",
+    "ipa": "deɪ"
+   },
+   {
+    "en": "hour",
+    "zh": "小時",
+    "ipa": "ˈaʊə"
+   },
+   {
+    "en": "minute",
+    "zh": "分鐘",
+    "ipa": "ˈmɪn.ɪt"
+   },
+   {
+    "en": "second",
+    "zh": "秒",
+    "ipa": "ˈsek.ənd"
+   },
+   {
+    "en": "week",
+    "zh": "星期",
+    "ipa": "wiːk"
+   },
+   {
+    "en": "month",
+    "zh": "一個月；月份",
+    "ipa": "mʌnθ"
+   },
+   {
+    "en": "year",
+    "zh": "年",
+    "ipa": "jɪə"
+   },
+   {
+    "en": "moment",
+    "zh": "片刻",
+    "ipa": "ˈməʊ.mənt"
+   },
+   {
+    "en": "temperature",
+    "zh": "溫度",
+    "ipa": "ˈtem.prə.tʃə"
+   },
+   {
+    "en": "cm",
+    "zh": "公分（簡寫）",
+    "ipa": "ˌsiː ˈem"
+   },
+   {
+    "en": "km",
+    "zh": "公里（簡寫）",
+    "ipa": "ˌkeɪ ˈem"
+   },
+   {
+    "en": "kg",
+    "zh": "公斤（簡寫）",
+    "ipa": "ˌkeɪ ˈdʒiː"
+   },
+   {
+    "en": "weight",
+    "zh": "重量",
+    "ipa": "weɪt"
+   },
+   {
+    "en": "length",
+    "zh": "長度",
+    "ipa": "leŋθ"
+   },
+   {
+    "en": "height",
+    "zh": "高度",
+    "ipa": "haɪt"
+   },
+   {
+    "en": "distance",
+    "zh": "距離",
+    "ipa": "ˈdɪs.təns"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a kilometre",
+    "zh": "一公里",
+    "ipa": "ə ˈkɪl.ə.miː.tə"
+   },
+   {
+    "en": "a metre",
+    "zh": "一公尺",
+    "ipa": "ə ˈmiː.tə"
+   },
+   {
+    "en": "ten degrees",
+    "zh": "十度",
+    "ipa": "ten dɪˈɡriːz"
+   },
+   {
+    "en": "half an hour",
+    "zh": "半小時",
+    "ipa": "ˌhɑːf ən ˈaʊə"
+   },
+   {
+    "en": "a quarter of an hour",
+    "zh": "一刻鐘",
+    "ipa": "ə ˈkwɔː.tər əv ən ˈaʊə"
+   },
+   {
+    "en": "a minute ago",
+    "zh": "一分鐘前",
+    "ipa": "ə ˈmɪn.ɪt əˈɡəʊ"
+   },
+   {
+    "en": "all day",
+    "zh": "一整天",
+    "ipa": "ˌɔːl ˈdeɪ"
+   },
+   {
+    "en": "next week",
+    "zh": "下星期",
+    "ipa": "nekst ˈwiːk"
+   },
+   {
+    "en": "a long time",
+    "zh": "很長的時間",
+    "ipa": "ə lɒŋ ˈtaɪm"
+   },
+   {
+    "en": "a long way",
+    "zh": "很長的一段路",
+    "ipa": "ə lɒŋ ˈweɪ"
+   },
+   {
+    "en": "a few minutes",
+    "zh": "幾分鐘",
+    "ipa": "ə fjuː ˈmɪn.ɪts"
+   },
+   {
+    "en": "two kilos",
+    "zh": "兩公斤",
+    "ipa": "tuː ˈkiː.ləʊz"
+   },
+   {
+    "en": "half a kilometre",
+    "zh": "半公里",
+    "ipa": "ˌhɑːf ə ˈkɪl.ə.miː.tə"
+   },
+   {
+    "en": "how long",
+    "zh": "多長、多久",
+    "ipa": "haʊ lɒŋ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My house is five kilometres from the station.",
+    "zh": "我的家離車站五公里。"
+   },
+   {
+    "en": "The film is about two hours long.",
+    "zh": "這部電影大約兩個小時。"
+   },
+   {
+    "en": "Please wait a quarter of an hour.",
+    "zh": "請等一刻鐘。"
+   },
+   {
+    "en": "It is very cold today, only ten degrees.",
+    "zh": "今天很冷，只有十度。"
+   },
+   {
+    "en": "My little brother is only a metre tall.",
+    "zh": "我的弟弟只有一公尺高。"
+   },
+   {
+    "en": "We walked for half an hour in the rain.",
+    "zh": "我們在雨裡走了半小時。"
+   },
+   {
+    "en": "The lesson starts in a few minutes.",
+    "zh": "這堂課幾分鐘後開始。"
+   },
+   {
+    "en": "I bought two kilos of apples at the market.",
+    "zh": "我在市場買了兩公斤蘋果。"
+   },
+   {
+    "en": "She phoned me a minute ago, but I was out.",
+    "zh": "她一分鐘前打電話給我，但我不在。"
+   },
+   {
+    "en": "We stayed at home all day yesterday.",
+    "zh": "我們昨天整天待在家裡。"
+   },
+   {
+    "en": "The exam is next week, so I study daily.",
+    "zh": "考試在下星期，所以我每天讀書。"
+   },
+   {
+    "en": "How long does it take to the city centre?",
+    "zh": "到市中心要多久？"
+   },
+   {
+    "en": "This year I want to lose five kilos.",
+    "zh": "今年我想減掉五公斤。"
+   },
+   {
+    "en": "Wait a moment, the water is very hot.",
+    "zh": "等一下，水很燙。"
+   }
+  ],
+  "tips": [
+   "練習回答「多少、多重、多久」時，先想單位再說數字。",
+   "時間單位要分清楚：分鐘與秒很短，小時、天與週比較長。",
+   "量長短時要記得用對單位，公里、公尺、公分各有不同的用法。"
+  ]
+ },
+ {
+  "id": "feelings",
+  "icon": "😊",
+  "name": "感受與形容詞",
+  "nameEn": "Personal Feelings, Opinions and Experiences",
+  "summary": "形容人、心情和東西的形容詞。",
+  "words": [
+   {
+    "en": "happy",
+    "zh": "快樂的",
+    "ipa": "ˈhæp.i"
+   },
+   {
+    "en": "tired",
+    "zh": "疲累的",
+    "ipa": "ˈtaɪəd"
+   },
+   {
+    "en": "excited",
+    "zh": "興奮的",
+    "ipa": "ɪkˈsaɪ.tɪd"
+   },
+   {
+    "en": "bored",
+    "zh": "覺得無聊的",
+    "ipa": "bɔːd"
+   },
+   {
+    "en": "boring",
+    "zh": "無聊的",
+    "ipa": "ˈbɔː.rɪŋ"
+   },
+   {
+    "en": "angry",
+    "zh": "生氣的",
+    "ipa": "ˈæŋ.ɡri"
+   },
+   {
+    "en": "afraid",
+    "zh": "害怕的",
+    "ipa": "əˈfreɪd"
+   },
+   {
+    "en": "sorry",
+    "zh": "抱歉的",
+    "ipa": "ˈsɒr.i"
+   },
+   {
+    "en": "nice",
+    "zh": "好的",
+    "ipa": "naɪs"
+   },
+   {
+    "en": "good",
+    "zh": "好的",
+    "ipa": "ɡʊd"
+   },
+   {
+    "en": "great",
+    "zh": "很棒的",
+    "ipa": "ɡreɪt"
+   },
+   {
+    "en": "fine",
+    "zh": "很好的",
+    "ipa": "faɪn"
+   },
+   {
+    "en": "beautiful",
+    "zh": "美麗的",
+    "ipa": "ˈbjuː.tɪ.fəl"
+   },
+   {
+    "en": "lovely",
+    "zh": "可愛的",
+    "ipa": "ˈlʌv.li"
+   },
+   {
+    "en": "kind",
+    "zh": "親切的",
+    "ipa": "kaɪnd"
+   },
+   {
+    "en": "friendly",
+    "zh": "友善的",
+    "ipa": "ˈfrend.li"
+   },
+   {
+    "en": "funny",
+    "zh": "好笑的",
+    "ipa": "ˈfʌn.i"
+   },
+   {
+    "en": "clever",
+    "zh": "聰明的",
+    "ipa": "ˈklev.ə"
+   },
+   {
+    "en": "brave",
+    "zh": "勇敢的",
+    "ipa": "breɪv"
+   },
+   {
+    "en": "sure",
+    "zh": "確定的",
+    "ipa": "ʃʊə"
+   },
+   {
+    "en": "ready",
+    "zh": "準備好的",
+    "ipa": "ˈred.i"
+   },
+   {
+    "en": "useful",
+    "zh": "有用的",
+    "ipa": "ˈjuːs.fəl"
+   },
+   {
+    "en": "important",
+    "zh": "重要的",
+    "ipa": "ɪmˈpɔː.tənt"
+   },
+   {
+    "en": "interesting",
+    "zh": "有趣的",
+    "ipa": "ˈɪn.trə.stɪŋ"
+   },
+   {
+    "en": "difficult",
+    "zh": "困難的",
+    "ipa": "ˈdɪf.ɪ.kəlt"
+   },
+   {
+    "en": "special",
+    "zh": "特別的",
+    "ipa": "ˈspeʃ.əl"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "very tired",
+    "zh": "非常疲累",
+    "ipa": "ˌver.i ˈtaɪəd"
+   },
+   {
+    "en": "really happy",
+    "zh": "非常快樂",
+    "ipa": "ˌriː.ə.li ˈhæp.i"
+   },
+   {
+    "en": "so excited",
+    "zh": "好興奮",
+    "ipa": "səʊ ɪkˈsaɪ.tɪd"
+   },
+   {
+    "en": "a bit sad",
+    "zh": "有一點難過",
+    "ipa": "ə bɪt ˈsæd"
+   },
+   {
+    "en": "really angry",
+    "zh": "非常生氣",
+    "ipa": "ˌriː.ə.li ˈæŋ.ɡri"
+   },
+   {
+    "en": "quite bored",
+    "zh": "相當無聊",
+    "ipa": "kwaɪt bɔːd"
+   },
+   {
+    "en": "very hungry",
+    "zh": "非常餓",
+    "ipa": "ˌver.i ˈhʌŋ.ɡri"
+   },
+   {
+    "en": "a little afraid",
+    "zh": "有點害怕",
+    "ipa": "ə ˈlɪt.əl əˈfreɪd"
+   },
+   {
+    "en": "very useful",
+    "zh": "非常有用",
+    "ipa": "ˌver.i ˈjuːs.fəl"
+   },
+   {
+    "en": "quite different",
+    "zh": "相當不同",
+    "ipa": "kwaɪt ˈdɪf.rənt"
+   },
+   {
+    "en": "really funny",
+    "zh": "非常好笑",
+    "ipa": "ˌriː.ə.li ˈfʌn.i"
+   },
+   {
+    "en": "very important",
+    "zh": "非常重要",
+    "ipa": "ˌver.i ɪmˈpɔː.tənt"
+   },
+   {
+    "en": "a bit difficult",
+    "zh": "有一點困難",
+    "ipa": "ə bɪt ˈdɪf.ɪ.kəlt"
+   },
+   {
+    "en": "always ready",
+    "zh": "隨時都準備好",
+    "ipa": "ˈɔːl.weɪz ˈred.i"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I am really happy with my new job.",
+    "zh": "我對我的新工作非常滿意。"
+   },
+   {
+    "en": "She was very tired after the long day.",
+    "zh": "工作了一整天後，她非常疲累。"
+   },
+   {
+    "en": "The children are so excited about the school trip.",
+    "zh": "孩子們對學校外出的活動非常興奮。"
+   },
+   {
+    "en": "We were bored at home on a rainy afternoon.",
+    "zh": "下雨的下午待在家裡，我們很無聊。"
+   },
+   {
+    "en": "My brother gets angry when he is hungry.",
+    "zh": "我弟弟一餓就會生氣。"
+   },
+   {
+    "en": "The film was boring, so we went home early.",
+    "zh": "電影很無聊，所以我們提早回家。"
+   },
+   {
+    "en": "Do not be afraid to ask a silly question.",
+    "zh": "不要害怕問笨問題。"
+   },
+   {
+    "en": "This app is really useful for learning English.",
+    "zh": "這個應用程式對學英文非常有用。"
+   },
+   {
+    "en": "My teacher is kind and very funny in class.",
+    "zh": "我的老師很親切，上課很有趣。"
+   },
+   {
+    "en": "The park today is beautiful and very quiet.",
+    "zh": "今天的公園很美麗，又很安靜。"
+   },
+   {
+    "en": "I am sorry, but I am not ready yet.",
+    "zh": "抱歉，我還沒準備好。"
+   },
+   {
+    "en": "This question is difficult, but it is important.",
+    "zh": "這題很難，但很重要。"
+   },
+   {
+    "en": "He is a brave boy and always ready to help.",
+    "zh": "他是個勇敢的男孩，總是準備好幫忙。"
+   },
+   {
+    "en": "That old book is very interesting to read.",
+    "zh": "那本舊書很有趣，值得一讀。"
+   }
+  ],
+  "tips": [
+   "介紹一個人時先說名字，再用兩三個性格或心情的形容詞。",
+   "相反的字要配對記憶，例如快樂與悲傷、大與小，會記得更牢。",
+   "介紹一個人時先說名字，再用兩三個性格或心情的形容詞。"
+  ]
+ }
+]

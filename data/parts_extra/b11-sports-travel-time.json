@@ -1,0 +1,1846 @@
+[
+ {
+  "id": "noun-sports-games",
+  "icon": "🏓",
+  "name": "名詞：運動與遊戲（補充）",
+  "nameEn": "Nouns: Sport & Games",
+  "summary": "player / score / gym / racket / chess… 運動比賽相關名詞。",
+  "note": "match、race、game 都是可數名詞，要加 s。",
+  "group": "運動與遊戲",
+  "words": [
+   {
+    "en": "chess",
+    "zh": "西洋棋",
+    "ipa": "tʃes"
+   },
+   {
+    "en": "climbing",
+    "zh": "攀爬、登山",
+    "ipa": "ˈklaɪ.mɪŋ"
+   },
+   {
+    "en": "competition",
+    "zh": "比賽、競賽",
+    "ipa": "kɒm.pɪˈtɪʃ.ən"
+   },
+   {
+    "en": "crowd",
+    "zh": "人群、觀眾",
+    "ipa": "kraʊd"
+   },
+   {
+    "en": "diving",
+    "zh": "潛水",
+    "ipa": "ˈdaɪ.vɪŋ"
+   },
+   {
+    "en": "football player",
+    "zh": "足球員",
+    "ipa": "ˈfʊt.bɔːl ˌpleɪ.ə"
+   },
+   {
+    "en": "footballer",
+    "zh": "足球員",
+    "ipa": "ˈfʊt.bɔː.lə"
+   },
+   {
+    "en": "game",
+    "zh": "遊戲、比賽",
+    "ipa": "ɡeɪm"
+   },
+   {
+    "en": "golf",
+    "zh": "高爾夫",
+    "ipa": "ɡɒlf"
+   },
+   {
+    "en": "gym",
+    "zh": "健身房",
+    "ipa": "dʒɪm"
+   },
+   {
+    "en": "hockey",
+    "zh": "曲棍球",
+    "ipa": "ˈhɒk.i"
+   },
+   {
+    "en": "match",
+    "zh": "比賽",
+    "ipa": "mætʃ"
+   },
+   {
+    "en": "Olympic",
+    "zh": "奧運的",
+    "ipa": "əˈlɪm.pɪk"
+   },
+   {
+    "en": "pool",
+    "zh": "游泳池",
+    "ipa": "pɔːl"
+   },
+   {
+    "en": "puzzle",
+    "zh": "拼圖、謎題",
+    "ipa": "ˈpʌz.əl"
+   },
+   {
+    "en": "quiz",
+    "zh": "小考、問答競賽",
+    "ipa": "kwɪz"
+   },
+   {
+    "en": "race",
+    "zh": "賽跑、競賽",
+    "ipa": "reɪs"
+   },
+   {
+    "en": "sailing",
+    "zh": "帆船運動、航海",
+    "ipa": "ˈseɪ.lɪŋ"
+   },
+   {
+    "en": "scooter",
+    "zh": "滑板車",
+    "ipa": "ˈskuː.tə"
+   },
+   {
+    "en": "score",
+    "zh": "得分、分數",
+    "ipa": "skɔː"
+   },
+   {
+    "en": "skateboard",
+    "zh": "滑板",
+    "ipa": "ˈskeɪt.bɔːd"
+   },
+   {
+    "en": "skateboarding",
+    "zh": "滑滑板運動",
+    "ipa": "ˈskeɪt.bɔː.dɪŋ"
+   },
+   {
+    "en": "skating",
+    "zh": "溜冰",
+    "ipa": "ˈskeɪ.tɪŋ"
+   },
+   {
+    "en": "skiing",
+    "zh": "滑雪",
+    "ipa": "ˈskiː.ɪŋ"
+   },
+   {
+    "en": "snowboard",
+    "zh": "滑雪板",
+    "ipa": "ˈsnəʊ.bɔːd"
+   },
+   {
+    "en": "snowboarding",
+    "zh": "滑雪運動",
+    "ipa": "ˈsnəʊ.bɔː.dɪŋ"
+   },
+   {
+    "en": "soccer",
+    "zh": "足球",
+    "ipa": "ˈsɒk.ə"
+   },
+   {
+    "en": "surfing",
+    "zh": "衝浪",
+    "ipa": "ˈsɜː.fɪŋ"
+   },
+   {
+    "en": "tennis player",
+    "zh": "網球員",
+    "ipa": "ˈten.ɪs ˌpleɪ.ə"
+   },
+   {
+    "en": "windsurfing",
+    "zh": "風帆浪板運動",
+    "ipa": "ˈwɪnd.sɜː.fɪŋ"
+   },
+   {
+    "en": "athlete",
+    "zh": "運動員",
+    "ipa": "ˈæθ.liːt"
+   },
+   {
+    "en": "badminton",
+    "zh": "羽球",
+    "ipa": "ˈbæd.mɪn.tən"
+   },
+   {
+    "en": "ball",
+    "zh": "球",
+    "ipa": "bɔːl"
+   },
+   {
+    "en": "basketball",
+    "zh": "籃球",
+    "ipa": "ˈbɑːs.kɪt.bɔːl"
+   },
+   {
+    "en": "bat",
+    "zh": "球棒",
+    "ipa": "bæt"
+   },
+   {
+    "en": "champion",
+    "zh": "冠軍",
+    "ipa": "ˈtʃæm.pi.ən"
+   },
+   {
+    "en": "coach",
+    "zh": "教練",
+    "ipa": "kəʊtʃ"
+   },
+   {
+    "en": "cycling",
+    "zh": "騎腳踏車",
+    "ipa": "ˈsaɪ.klɪŋ"
+   },
+   {
+    "en": "draw",
+    "zh": "平手",
+    "ipa": "droː"
+   },
+   {
+    "en": "fitness",
+    "zh": "體能、健康",
+    "ipa": "ˈfɪt.nəs"
+   },
+   {
+    "en": "football",
+    "zh": "足球",
+    "ipa": "ˈfʊt.bɔːl"
+   },
+   {
+    "en": "goal",
+    "zh": "球門、得分",
+    "ipa": "ɡəʊl"
+   },
+   {
+    "en": "glove",
+    "zh": "手套",
+    "ipa": "ɡlʌv"
+   },
+   {
+    "en": "gymnastics",
+    "zh": "體操",
+    "ipa": "dʒɪmˈnæs.tɪks"
+   },
+   {
+    "en": "helmet",
+    "zh": "頭盔",
+    "ipa": "ˈhel.mɪt"
+   },
+   {
+    "en": "jogging",
+    "zh": "慢跑",
+    "ipa": "ˈdʒɒɡ.ɪŋ"
+   },
+   {
+    "en": "marathon",
+    "zh": "馬拉松",
+    "ipa": "ˈmær.ə.θɒn"
+   },
+   {
+    "en": "net",
+    "zh": "球網",
+    "ipa": "net"
+   },
+   {
+    "en": "player",
+    "zh": "球員、選手",
+    "ipa": "ˈpleɪ.ə"
+   },
+   {
+    "en": "prize",
+    "zh": "獎品",
+    "ipa": "praɪz"
+   },
+   {
+    "en": "racket",
+    "zh": "球拍",
+    "ipa": "ˈræk.ɪt"
+   },
+   {
+    "en": "referee",
+    "zh": "裁判",
+    "ipa": "ˌref.əˈriː"
+   },
+   {
+    "en": "riding",
+    "zh": "騎乘",
+    "ipa": "ˈraɪ.dɪŋ"
+   },
+   {
+    "en": "rowing",
+    "zh": "划船",
+    "ipa": "ˈrəʊ.ɪŋ"
+   },
+   {
+    "en": "rules",
+    "zh": "規則",
+    "ipa": "ruːlz"
+   },
+   {
+    "en": "running",
+    "zh": "跑步",
+    "ipa": "ˈrʌn.ɪŋ"
+   },
+   {
+    "en": "sport",
+    "zh": "運動",
+    "ipa": "spɔːt"
+   },
+   {
+    "en": "sporty",
+    "zh": "熱愛運動的",
+    "ipa": "ˈspɔː.ti"
+   },
+   {
+    "en": "stadium",
+    "zh": "體育場",
+    "ipa": "ˈsteɪ.di.əm"
+   },
+   {
+    "en": "swimming",
+    "zh": "游泳",
+    "ipa": "ˈswɪm.ɪŋ"
+   },
+   {
+    "en": "team",
+    "zh": "隊伍",
+    "ipa": "tiːm"
+   },
+   {
+    "en": "tennis",
+    "zh": "網球",
+    "ipa": "ˈten.ɪs"
+   },
+   {
+    "en": "tournament",
+    "zh": "錦標賽",
+    "ipa": "ˈtʊə.nə.mənt"
+   },
+   {
+    "en": "trophy",
+    "zh": "獎盃",
+    "ipa": "ˈtrəʊ.fi"
+   },
+   {
+    "en": "volleyball",
+    "zh": "排球",
+    "ipa": "ˈvɒl.i.bɔːl"
+   },
+   {
+    "en": "win",
+    "zh": "贏、獲勝",
+    "ipa": "wɪn"
+   },
+   {
+    "en": "winner",
+    "zh": "贏家",
+    "ipa": "ˈwɪn.ə"
+   },
+   {
+    "en": "yoga",
+    "zh": "瑜珈",
+    "ipa": "ˈjəʊ.ɡə"
+   },
+   {
+    "en": "sports centre",
+    "zh": "運動中心",
+    "ipa": "ˈspɔːts ˌsen.tə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "play football",
+    "zh": "踢足球",
+    "ipa": "ˌpleɪ ˈfʊt.bɔːl"
+   },
+   {
+    "en": "play chess",
+    "zh": "下西洋棋",
+    "ipa": "ˌpleɪ tʃes"
+   },
+   {
+    "en": "play tennis",
+    "zh": "打網球",
+    "ipa": "ˌpleɪ ˈten.ɪs"
+   },
+   {
+    "en": "play a match",
+    "zh": "參加一場比賽",
+    "ipa": "ˌpleɪ ə mætʃ"
+   },
+   {
+    "en": "win a match",
+    "zh": "贏得一場比賽",
+    "ipa": "ˌwɪn ə mætʃ"
+   },
+   {
+    "en": "score a goal",
+    "zh": "進一球",
+    "ipa": "ˈskɔː ə ɡəʊl"
+   },
+   {
+    "en": "take part in a competition",
+    "zh": "參加競賽",
+    "ipa": "ˌteɪk ˈpɑːt ɪn ə ˌkɒm.pɪˈtɪʃ.ən"
+   },
+   {
+    "en": "go swimming",
+    "zh": "去游泳",
+    "ipa": "ˌɡəʊ ˈswɪm.ɪŋ"
+   },
+   {
+    "en": "go skateboarding",
+    "zh": "去玩滑滑板",
+    "ipa": "ˌɡəʊ ˈskeɪt.bɔː.dɪŋ"
+   },
+   {
+    "en": "do sport",
+    "zh": "做運動",
+    "ipa": "ˌduː ˈspɔːt"
+   },
+   {
+    "en": "be good at sport",
+    "zh": "擅長運動",
+    "ipa": "ˌbiː ˈɡʊd ət ˈspɔːt"
+   },
+   {
+    "en": "a swimming pool",
+    "zh": "一座游泳池",
+    "ipa": "ə ˈswɪm.ɪŋ pɔːl"
+   },
+   {
+    "en": "take up a sport",
+    "zh": "開始從事一項運動",
+    "ipa": "ˌteɪk ˈʌp ə ˈspɔːt"
+   },
+   {
+    "en": "cheer on your team",
+    "zh": "為你的隊伍加油",
+    "ipa": "ˌtʃɪə jɔː ˈtiːm"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My brother plays football for his school team every Saturday.",
+    "zh": "我弟弟每星期六都替學校隊伍踢足球。"
+   },
+   {
+    "en": "The match starts at three o'clock on Saturday afternoon.",
+    "zh": "比賽星期六下午三點開始。"
+   },
+   {
+    "en": "The score was two goals to nil when the match ended.",
+    "zh": "比賽結束時，比分是二比零。"
+   },
+   {
+    "en": "Our class is going to the swimming pool after school.",
+    "zh": "我們班放學後要去游泳池。"
+   },
+   {
+    "en": "I joined a chess club at school last term.",
+    "zh": "我上學期加入了學校的西洋棋社。"
+   },
+   {
+    "en": "The crowd was very excited when he won the game.",
+    "zh": "他贏得比賽時，觀眾非常興奮。"
+   },
+   {
+    "en": "Do you want to learn skateboarding this summer?",
+    "zh": "你今年夏天想學滑滑板嗎？"
+   },
+   {
+    "en": "Their football team won the competition last year.",
+    "zh": "他們的足球隊去年贏得了這項比賽。"
+   },
+   {
+    "en": "He goes to the gym three times every week.",
+    "zh": "他每星期去健身房三次。"
+   },
+   {
+    "en": "Badminton is easy to learn and very fun.",
+    "zh": "羽球很好學，而且很有趣。"
+   },
+   {
+    "en": "We always play a game of chess after dinner.",
+    "zh": "我們晚餐後總是下一盤西洋棋。"
+   },
+   {
+    "en": "The players are warming up before the big match.",
+    "zh": "球員們在這場大賽前做熱身。"
+   },
+   {
+    "en": "Sailing is popular because the sea is near our house.",
+    "zh": "因為我家靠近海邊，帆船運動很受歡迎。"
+   },
+   {
+    "en": "She won first prize at the school sports competition.",
+    "zh": "她在學校運動競賽中贏得了第一名。"
+   }
+  ],
+  "tips": [
+   "比賽、賽跑、遊戲這類詞前面要加冠詞，複數要記得加 s。",
+   "游泳、登山、滑雪這類運動名詞，前面不加定冠詞，也沒有複數變化。",
+   "比分用 score，球門也能用 goal，兩個詞的意思幾乎一樣但別寫混。"
+  ]
+ },
+ {
+  "id": "noun-travel-things",
+  "icon": "🚗",
+  "name": "名詞：交通與旅行（補充）",
+  "nameEn": "Nouns: Transport & Travel",
+  "summary": "ticket / seat / journey / luggage / traffic… 路上與行程相關的名詞。",
+  "note": "luggage 不可數，「一件行李」要說 a piece of luggage。",
+  "group": "交通與旅行",
+  "words": [
+   {
+    "en": "aeroplane",
+    "zh": "飛機",
+    "ipa": "ˈeə.rə.pleɪn"
+   },
+   {
+    "en": "bike",
+    "zh": "腳踏車",
+    "ipa": "baɪk"
+   },
+   {
+    "en": "crossing",
+    "zh": "行人穿越道",
+    "ipa": "ˈkrɒs.ɪŋ"
+   },
+   {
+    "en": "engine",
+    "zh": "引擎",
+    "ipa": "ˈen.dʒɪn"
+   },
+   {
+    "en": "gas station",
+    "zh": "加油站",
+    "ipa": "ˈɡæs ˌsteɪ.ʃən"
+   },
+   {
+    "en": "guidebook",
+    "zh": "旅遊指南",
+    "ipa": "ˈɡaɪd.bʊk"
+   },
+   {
+    "en": "lorry",
+    "zh": "卡車",
+    "ipa": "ˈlɒr.i"
+   },
+   {
+    "en": "motorbike",
+    "zh": "機車",
+    "ipa": "ˈməʊ.tə.baɪk"
+   },
+   {
+    "en": "parking lot",
+    "zh": "停車場",
+    "ipa": "ˈpɑː.kɪŋ lɒt"
+   },
+   {
+    "en": "petrol",
+    "zh": "汽油",
+    "ipa": "ˈpet.rəl"
+   },
+   {
+    "en": "plane",
+    "zh": "飛機",
+    "ipa": "pleɪn"
+   },
+   {
+    "en": "police",
+    "zh": "警察",
+    "ipa": "pəˈliːs"
+   },
+   {
+    "en": "police car",
+    "zh": "警車",
+    "ipa": "pəˈliːs ˌkɑː"
+   },
+   {
+    "en": "ship",
+    "zh": "船",
+    "ipa": "ʃɪp"
+   },
+   {
+    "en": "tram",
+    "zh": "電車",
+    "ipa": "træm"
+   },
+   {
+    "en": "transport",
+    "zh": "交通運輸",
+    "ipa": "ˈtræns.pɔːt"
+   },
+   {
+    "en": "tyre",
+    "zh": "輪胎",
+    "ipa": "ˈtaɪə"
+   },
+   {
+    "en": "wheel",
+    "zh": "輪子",
+    "ipa": "wiːl"
+   },
+   {
+    "en": "airport",
+    "zh": "機場",
+    "ipa": "ˈeə.pɔːt"
+   },
+   {
+    "en": "bus",
+    "zh": "巴士",
+    "ipa": "bʌs"
+   },
+   {
+    "en": "bus stop",
+    "zh": "候車亭",
+    "ipa": "ˈbʌs stɒp"
+   },
+   {
+    "en": "car",
+    "zh": "小汽車",
+    "ipa": "kɑː"
+   },
+   {
+    "en": "car park",
+    "zh": "停車場",
+    "ipa": "ˈkɑː pɑːk"
+   },
+   {
+    "en": "crash",
+    "zh": "撞車、車禍",
+    "ipa": "kræʃ"
+   },
+   {
+    "en": "delay",
+    "zh": "延誤、晚點",
+    "ipa": "dɪˈleɪ"
+   },
+   {
+    "en": "direction",
+    "zh": "方向",
+    "ipa": "dɪˈrek.ʃən"
+   },
+   {
+    "en": "distance",
+    "zh": "距離",
+    "ipa": "ˈdɪs.təns"
+   },
+   {
+    "en": "driver",
+    "zh": "司機",
+    "ipa": "ˈdraɪ.və"
+   },
+   {
+    "en": "fare",
+    "zh": "車資",
+    "ipa": "feə"
+   },
+   {
+    "en": "ferry",
+    "zh": "渡輪",
+    "ipa": "ˈfer.i"
+   },
+   {
+    "en": "flight",
+    "zh": "航班",
+    "ipa": "flaɪt"
+   },
+   {
+    "en": "hire",
+    "zh": "租用",
+    "ipa": "ˈhaɪə"
+   },
+   {
+    "en": "holiday",
+    "zh": "度假",
+    "ipa": "ˈhɒl.ə.deɪ"
+   },
+   {
+    "en": "journey",
+    "zh": "旅程",
+    "ipa": "ˈdʒɜː.ni"
+   },
+   {
+    "en": "licence",
+    "zh": "駕照",
+    "ipa": "ˈlaɪ.səns"
+   },
+   {
+    "en": "luggage",
+    "zh": "行李",
+    "ipa": "ˈlʌɡ.ɪdʒ"
+   },
+   {
+    "en": "map",
+    "zh": "地圖",
+    "ipa": "mæp"
+   },
+   {
+    "en": "minibus",
+    "zh": "小巴",
+    "ipa": "ˈmɪn.i.bʌs"
+   },
+   {
+    "en": "motorway",
+    "zh": "高速公路",
+    "ipa": "ˈməʊ.tə.weɪ"
+   },
+   {
+    "en": "passenger",
+    "zh": "乘客",
+    "ipa": "ˈpæs.ɪn.dʒə"
+   },
+   {
+    "en": "passport",
+    "zh": "護照",
+    "ipa": "ˈpɑːs.pɔːt"
+   },
+   {
+    "en": "pilot",
+    "zh": "機長、飛行員",
+    "ipa": "ˈpaɪ.lət"
+   },
+   {
+    "en": "platform",
+    "zh": "月台",
+    "ipa": "ˈplæt.fɔːm"
+   },
+   {
+    "en": "queue",
+    "zh": "排隊",
+    "ipa": "kjuː"
+   },
+   {
+    "en": "road",
+    "zh": "馬路",
+    "ipa": "rəʊd"
+   },
+   {
+    "en": "roundabout",
+    "zh": "圓環",
+    "ipa": "ˈraʊnd.ə.baʊt"
+   },
+   {
+    "en": "sail",
+    "zh": "航行、揚帆",
+    "ipa": "seɪl"
+   },
+   {
+    "en": "safety belt",
+    "zh": "安全帶",
+    "ipa": "ˈseɪf.ti belt"
+   },
+   {
+    "en": "seat",
+    "zh": "座位",
+    "ipa": "siːt"
+   },
+   {
+    "en": "speed",
+    "zh": "速度",
+    "ipa": "spiːd"
+   },
+   {
+    "en": "speed limit",
+    "zh": "限速",
+    "ipa": "ˈspiːd ˌlɪm.ɪt"
+   },
+   {
+    "en": "station",
+    "zh": "車站",
+    "ipa": "ˈsteɪ.ʃən"
+   },
+   {
+    "en": "street",
+    "zh": "街道",
+    "ipa": "striːt"
+   },
+   {
+    "en": "taxi",
+    "zh": "計程車",
+    "ipa": "ˈtæk.si"
+   },
+   {
+    "en": "ticket",
+    "zh": "車票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "tour",
+    "zh": "旅遊",
+    "ipa": "tʊə"
+   },
+   {
+    "en": "tourist",
+    "zh": "觀光客",
+    "ipa": "ˈtʊə.rɪst"
+   },
+   {
+    "en": "traffic",
+    "zh": "交通",
+    "ipa": "ˈtræf.ɪk"
+   },
+   {
+    "en": "traffic jam",
+    "zh": "塞車",
+    "ipa": "ˈtræf.ɪk dʒæm"
+   },
+   {
+    "en": "train",
+    "zh": "火車",
+    "ipa": "treɪn"
+   },
+   {
+    "en": "travel",
+    "zh": "旅行",
+    "ipa": "ˈtræv.əl"
+   },
+   {
+    "en": "trip",
+    "zh": "旅行、旅程",
+    "ipa": "trɪp"
+   },
+   {
+    "en": "underground",
+    "zh": "地下鐵",
+    "ipa": "ˌʌn.dəˈɡraʊnd"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "catch a train",
+    "zh": "搭火車",
+    "ipa": "ˌkætʃ ə ˈtreɪn"
+   },
+   {
+    "en": "get on a plane",
+    "zh": "登上飛機",
+    "ipa": "ˌɡet ɒn ə ˈpleɪn"
+   },
+   {
+    "en": "book a ticket",
+    "zh": "訂一張票",
+    "ipa": "ˈbʊk ə ˈtɪk.ɪt"
+   },
+   {
+    "en": "wait in a queue",
+    "zh": "排隊等候",
+    "ipa": "ˌweɪt ɪn ə kjuː"
+   },
+   {
+    "en": "pay the fare",
+    "zh": "付車資",
+    "ipa": "ˌpeɪ ðə feə"
+   },
+   {
+    "en": "a one-way ticket",
+    "zh": "單程票",
+    "ipa": "ə ˌwʌnˈweɪ ˈtɪk.ɪt"
+   },
+   {
+    "en": "travel by plane",
+    "zh": "搭飛機旅行",
+    "ipa": "ˈtræv.əl baɪ ˈpleɪn"
+   },
+   {
+    "en": "park the car",
+    "zh": "停車",
+    "ipa": "ˈpɑːk ðə kɑː"
+   },
+   {
+    "en": "cross the road",
+    "zh": "過馬路",
+    "ipa": "ˌkrɒs ðə rəʊd"
+   },
+   {
+    "en": "wear a safety belt",
+    "zh": "繫安全帶",
+    "ipa": "ˌweər ə ˈseɪf.ti belt"
+   },
+   {
+    "en": "fill up with petrol",
+    "zh": "加滿油",
+    "ipa": "ˌfɪl ʌp wɪð ˈpet.rəl"
+   },
+   {
+    "en": "a long journey",
+    "zh": "一段長途旅程",
+    "ipa": "ə ˌlɒŋ ˈdʒɜː.ni"
+   },
+   {
+    "en": "go on holiday",
+    "zh": "去度假",
+    "ipa": "ˌɡəʊ ɒn ˈhɒl.ə.deɪ"
+   },
+   {
+    "en": "miss the flight",
+    "zh": "錯過航班",
+    "ipa": "ˌmɪs ðə flaɪt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We travelled to London by train last summer.",
+    "zh": "我們去年夏天搭火車去倫敦。"
+   },
+   {
+    "en": "The bus to the airport leaves at half past six.",
+    "zh": "前往機場的公車六點半開出。"
+   },
+   {
+    "en": "My father always checks the map before we leave.",
+    "zh": "我爸爸出發前一定會先看地圖。"
+   },
+   {
+    "en": "We put our luggage under the seats.",
+    "zh": "我們把行李放在座位下面。"
+   },
+   {
+    "en": "There was a long queue outside the ticket office.",
+    "zh": "售票處外面排了很長的隊。"
+   },
+   {
+    "en": "The plane was two hours late because of the weather.",
+    "zh": "因為天氣，飛機晚點了兩小時。"
+   },
+   {
+    "en": "She drives a small blue car to work every day.",
+    "zh": "她每天開一輛藍色小車上班。"
+   },
+   {
+    "en": "Every passenger must show a ticket to the driver.",
+    "zh": "每位乘客都必須向司機出示車票。"
+   },
+   {
+    "en": "The road was closed because of a big crash.",
+    "zh": "因為發生嚴重車禍，馬路封閉了。"
+   },
+   {
+    "en": "We hired a car at the station near the hotel.",
+    "zh": "我們在車站附近租了一輛車。"
+   },
+   {
+    "en": "Stop the car here, please. I want to take a photo.",
+    "zh": "請在這裡停車，我想拍一張照片。"
+   },
+   {
+    "en": "The new tram stops near the shopping centre every ten minutes.",
+    "zh": "新電車每十分鐘在購物中心附近停一站。"
+   },
+   {
+    "en": "Children under five travel free on the bus.",
+    "zh": "五歲以下的兒童搭公車免費。"
+   },
+   {
+    "en": "Our journey by ship was long but very comfortable.",
+    "zh": "我們搭船的旅程很久，但很舒服。"
+   }
+  ],
+  "tips": [
+   "行李、交通、汽油都是不可數名詞，不能加 s，也不能說一個行李。",
+   "機場、車站、月台這類場所的名詞前面通常要加定冠詞。",
+   "留意容易打錯的字：機場、乘客、車站這幾個詞都有雙字母，漏一個就錯了。"
+  ]
+ },
+ {
+  "id": "noun-time-dates",
+  "icon": "📅",
+  "name": "名詞：時間與月份（補充）",
+  "nameEn": "Nouns: Time, Months & Dates",
+  "summary": "April / October / o'clock / midday / weekend… 時間與月份。",
+  "note": "月份與星期首字母要大寫；日期用 on，月份用 in。",
+  "group": "時間與日期",
+  "words": [
+   {
+    "en": "April",
+    "zh": "四月",
+    "ipa": "ˈeɪ.prəl"
+   },
+   {
+    "en": "August",
+    "zh": "八月",
+    "ipa": "ˈɔː.ɡəst"
+   },
+   {
+    "en": "century",
+    "zh": "世紀",
+    "ipa": "ˈsen.tʃə.ri"
+   },
+   {
+    "en": "June",
+    "zh": "六月",
+    "ipa": "dʒuːn"
+   },
+   {
+    "en": "lunchtime",
+    "zh": "午餐時間",
+    "ipa": "ˈlʌntʃ.taɪm"
+   },
+   {
+    "en": "March",
+    "zh": "三月",
+    "ipa": "mɑːtʃ"
+   },
+   {
+    "en": "May",
+    "zh": "五月",
+    "ipa": "meɪ"
+   },
+   {
+    "en": "midday",
+    "zh": "中午",
+    "ipa": "ˌmɪdˈdeɪ"
+   },
+   {
+    "en": "November",
+    "zh": "十一月",
+    "ipa": "nəʊˈvem.bə"
+   },
+   {
+    "en": "October",
+    "zh": "十月",
+    "ipa": "ɒkˈtəʊ.bə"
+   },
+   {
+    "en": "afternoon",
+    "zh": "下午",
+    "ipa": "ˌɑːf.təˈnuːn"
+   },
+   {
+    "en": "autumn",
+    "zh": "秋天",
+    "ipa": "ˈɔː.təm"
+   },
+   {
+    "en": "birthday",
+    "zh": "生日",
+    "ipa": "ˈbɜːθ.deɪ"
+   },
+   {
+    "en": "calendar",
+    "zh": "日曆",
+    "ipa": "ˈkæl.ɪn.də"
+   },
+   {
+    "en": "celebration",
+    "zh": "慶祝活動",
+    "ipa": "ˌsel.ɪˈbreɪ.ʃən"
+   },
+   {
+    "en": "Christmas",
+    "zh": "聖誕節",
+    "ipa": "ˈkrɪs.məs"
+   },
+   {
+    "en": "clock",
+    "zh": "時鐘",
+    "ipa": "klɒk"
+   },
+   {
+    "en": "date",
+    "zh": "日期",
+    "ipa": "deɪt"
+   },
+   {
+    "en": "December",
+    "zh": "十二月",
+    "ipa": "dɪˈsem.bə"
+   },
+   {
+    "en": "diary",
+    "zh": "日記",
+    "ipa": "ˈdaɪə.ri"
+   },
+   {
+    "en": "Easter",
+    "zh": "復活節",
+    "ipa": "ˈiː.stə"
+   },
+   {
+    "en": "evening",
+    "zh": "傍晚、晚上",
+    "ipa": "ˈiː.və.nɪŋ"
+   },
+   {
+    "en": "February",
+    "zh": "二月",
+    "ipa": "ˈfeb.ju.ə.ri"
+   },
+   {
+    "en": "festival",
+    "zh": "節慶",
+    "ipa": "ˈfes.tɪ.vəl"
+   },
+   {
+    "en": "Friday",
+    "zh": "星期五",
+    "ipa": "ˈfraɪ.deɪ"
+   },
+   {
+    "en": "future",
+    "zh": "未來",
+    "ipa": "ˈfjuː.tʃə"
+   },
+   {
+    "en": "hour",
+    "zh": "小時",
+    "ipa": "ˈaʊə"
+   },
+   {
+    "en": "January",
+    "zh": "一月",
+    "ipa": "ˈdʒæn.ju.ə.ri"
+   },
+   {
+    "en": "July",
+    "zh": "七月",
+    "ipa": "dʒuˈlaɪ"
+   },
+   {
+    "en": "midnight",
+    "zh": "午夜",
+    "ipa": "ˌmɪdˈnaɪt"
+   },
+   {
+    "en": "minute",
+    "zh": "分鐘",
+    "ipa": "ˈmɪn.ɪt"
+   },
+   {
+    "en": "Monday",
+    "zh": "星期一",
+    "ipa": "ˈmʌn.deɪ"
+   },
+   {
+    "en": "month",
+    "zh": "月份",
+    "ipa": "mʌnθ"
+   },
+   {
+    "en": "morning",
+    "zh": "早上",
+    "ipa": "ˈmɔː.nɪŋ"
+   },
+   {
+    "en": "New Year",
+    "zh": "新年",
+    "ipa": "ˌnjuː ˈjɪə"
+   },
+   {
+    "en": "night",
+    "zh": "夜晚",
+    "ipa": "naɪt"
+   },
+   {
+    "en": "noon",
+    "zh": "正午",
+    "ipa": "nuːn"
+   },
+   {
+    "en": "o'clock",
+    "zh": "幾點鐘",
+    "ipa": "əˈklɒk"
+   },
+   {
+    "en": "quarter",
+    "zh": "一刻鐘；四分之一",
+    "ipa": "ˈkwɔː.tə"
+   },
+   {
+    "en": "Saturday",
+    "zh": "星期六",
+    "ipa": "ˈsæt.ə.deɪ"
+   },
+   {
+    "en": "season",
+    "zh": "季節",
+    "ipa": "ˈsiː.zən"
+   },
+   {
+    "en": "second",
+    "zh": "秒",
+    "ipa": "ˈsek.ənd"
+   },
+   {
+    "en": "September",
+    "zh": "九月",
+    "ipa": "sepˈtem.bə"
+   },
+   {
+    "en": "spring",
+    "zh": "春天",
+    "ipa": "sprɪŋ"
+   },
+   {
+    "en": "summer",
+    "zh": "夏天",
+    "ipa": "ˈsʌm.ə"
+   },
+   {
+    "en": "Sunday",
+    "zh": "星期日",
+    "ipa": "ˈsʌn.deɪ"
+   },
+   {
+    "en": "sunrise",
+    "zh": "日出",
+    "ipa": "ˈsʌn.raɪz"
+   },
+   {
+    "en": "sunset",
+    "zh": "日落",
+    "ipa": "ˈsʌn.set"
+   },
+   {
+    "en": "Thursday",
+    "zh": "星期四",
+    "ipa": "ˈθɜːz.deɪ"
+   },
+   {
+    "en": "time",
+    "zh": "時間",
+    "ipa": "taɪm"
+   },
+   {
+    "en": "timetable",
+    "zh": "時刻表",
+    "ipa": "ˈtaɪm.teɪ.bəl"
+   },
+   {
+    "en": "Tuesday",
+    "zh": "星期二",
+    "ipa": "ˈtjuːz.deɪ"
+   },
+   {
+    "en": "watch",
+    "zh": "手錶",
+    "ipa": "wɒtʃ"
+   },
+   {
+    "en": "Wednesday",
+    "zh": "星期三",
+    "ipa": "ˈwenz.deɪ"
+   },
+   {
+    "en": "week",
+    "zh": "星期",
+    "ipa": "wiːk"
+   },
+   {
+    "en": "weekday",
+    "zh": "平日",
+    "ipa": "ˈwiːk.deɪ"
+   },
+   {
+    "en": "weekend",
+    "zh": "週末",
+    "ipa": "ˌwiːkˈend"
+   },
+   {
+    "en": "winter",
+    "zh": "冬天",
+    "ipa": "ˈwɪn.tə"
+   },
+   {
+    "en": "year",
+    "zh": "年",
+    "ipa": "jɪə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "at midnight",
+    "zh": "在午夜",
+    "ipa": "ət ˈmɪd.naɪt"
+   },
+   {
+    "en": "at noon",
+    "zh": "在正午",
+    "ipa": "ət nuːn"
+   },
+   {
+    "en": "at lunchtime",
+    "zh": "在午餐時間",
+    "ipa": "ət ˈlʌntʃ.taɪm"
+   },
+   {
+    "en": "in the morning",
+    "zh": "在早上",
+    "ipa": "ɪn ðə ˈmɔː.nɪŋ"
+   },
+   {
+    "en": "in the afternoon",
+    "zh": "在下午",
+    "ipa": "ɪn ðə ˌɑːf.təˈnuːn"
+   },
+   {
+    "en": "in the evening",
+    "zh": "在晚上",
+    "ipa": "ɪn ðə ˈiː.və.nɪŋ"
+   },
+   {
+    "en": "at the weekend",
+    "zh": "在週末",
+    "ipa": "ət ðə ˌwiːkˈend"
+   },
+   {
+    "en": "on Monday",
+    "zh": "在星期一",
+    "ipa": "ɒn ˈmʌn.deɪ"
+   },
+   {
+    "en": "next week",
+    "zh": "下星期",
+    "ipa": "nekst wiːk"
+   },
+   {
+    "en": "next month",
+    "zh": "下個月",
+    "ipa": "nekst mʌnθ"
+   },
+   {
+    "en": "half past three",
+    "zh": "三點半",
+    "ipa": "ˌhɑːf ˈpɑːst θriː"
+   },
+   {
+    "en": "a minute ago",
+    "zh": "一分鐘前",
+    "ipa": "ə ˈmɪn.ɪt əˈɡəʊ"
+   },
+   {
+    "en": "all day long",
+    "zh": "一整天",
+    "ipa": "ˌɔːl deɪ ˈlɒŋ"
+   },
+   {
+    "en": "New Year's Day",
+    "zh": "元旦",
+    "ipa": "ˌnjuː ˈjɪəz deɪ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My birthday is in April, so the party is soon.",
+    "zh": "我的生日在四月，所以派對快到了。"
+   },
+   {
+    "en": "We have English lessons at lunchtime on Wednesdays.",
+    "zh": "我們星期三中午有英文課。"
+   },
+   {
+    "en": "The shop closes at six o'clock every evening.",
+    "zh": "這家店每天傍晚六點關門。"
+   },
+   {
+    "en": "Christmas Day falls on a Saturday this year.",
+    "zh": "今年的聖誕節剛好是星期六。"
+   },
+   {
+    "en": "I was born in October, not in November.",
+    "zh": "我是十月出生的，不是十一月。"
+   },
+   {
+    "en": "We waited for the bus for half an hour.",
+    "zh": "我們等公車等了半小時。"
+   },
+   {
+    "en": "School starts again in September after the summer holiday.",
+    "zh": "暑假結束後，學校九月開學。"
+   },
+   {
+    "en": "She looks at her watch every ten minutes.",
+    "zh": "她每十分鐘就看一次手錶。"
+   },
+   {
+    "en": "Many things were different in the last century.",
+    "zh": "上一個世紀有很多事情都不一樣。"
+   },
+   {
+    "en": "Our train leaves at eight and arrives at midday.",
+    "zh": "我們的火車八點發車，中午到達。"
+   },
+   {
+    "en": "I always write my timetable on the back page.",
+    "zh": "我總是把課表寫在最後一頁。"
+   },
+   {
+    "en": "There are thirty days in April and in June.",
+    "zh": "四月和六月都有三十天。"
+   },
+   {
+    "en": "We visited the museum on Sunday afternoon last weekend.",
+    "zh": "我們上週末的星期天下午去參觀博物館。"
+   },
+   {
+    "en": "What time does the swimming pool open on weekdays?",
+    "zh": "游泳池在平日幾點開門？"
+   }
+  ],
+  "tips": [
+   "月份和星期的英文首字母一定要大寫，中文則不用標示大小寫。",
+   "介系詞的用法：日期用某日，月份與年份用某月某年，前面一律加介系詞。",
+   "星期三中間有兩個不發音的字母，二月與星期四也容易拼錯，建議逐字慢慢打。"
+  ]
+ },
+ {
+  "id": "noun-places-extra",
+  "icon": "🏙️",
+  "name": "名詞：地點與空間（補充）",
+  "nameEn": "Nouns: Places & Spaces",
+  "summary": "corner / cabinet / entrance / basement / bench… 場所與空間。",
+  "note": "place、room 這類詞前面通常要加定冠詞 the。",
+  "group": "地點與空間",
+  "words": [
+   {
+    "en": "circus",
+    "zh": "馬戲團",
+    "ipa": "ˈsɜː.kəs"
+   },
+   {
+    "en": "city",
+    "zh": "城市",
+    "ipa": "ˈsɪt.i"
+   },
+   {
+    "en": "closet",
+    "zh": "衣櫥",
+    "ipa": "ˈklɒz.ɪt"
+   },
+   {
+    "en": "court",
+    "zh": "球場；法庭",
+    "ipa": "kɔːt"
+   },
+   {
+    "en": "gallery",
+    "zh": "美術館；畫廊",
+    "ipa": "ˈɡæl.ə.ri"
+   },
+   {
+    "en": "harbour",
+    "zh": "港口",
+    "ipa": "ˈhɑː.bə"
+   },
+   {
+    "en": "port",
+    "zh": "港口",
+    "ipa": "pɔːt"
+   },
+   {
+    "en": "shop assistant",
+    "zh": "店員",
+    "ipa": "ˈʃɒp əˌsɪs.tənt"
+   },
+   {
+    "en": "bank",
+    "zh": "銀行",
+    "ipa": "bæŋk"
+   },
+   {
+    "en": "balcony",
+    "zh": "陽台",
+    "ipa": "ˈbæl.kə.ni"
+   },
+   {
+    "en": "basement",
+    "zh": "地下室",
+    "ipa": "ˈbeɪs.mənt"
+   },
+   {
+    "en": "bedroom",
+    "zh": "臥室",
+    "ipa": "ˈbed.ruːm"
+   },
+   {
+    "en": "bench",
+    "zh": "長椅",
+    "ipa": "bentʃ"
+   },
+   {
+    "en": "bookshop",
+    "zh": "書店",
+    "ipa": "ˈbʊk.ʃɒp"
+   },
+   {
+    "en": "bridge",
+    "zh": "橋",
+    "ipa": "brɪdʒ"
+   },
+   {
+    "en": "building",
+    "zh": "建築物",
+    "ipa": "ˈbɪl.dɪŋ"
+   },
+   {
+    "en": "cafe",
+    "zh": "咖啡館",
+    "ipa": "ˈkæ.feɪ"
+   },
+   {
+    "en": "cabinet",
+    "zh": "櫃子",
+    "ipa": "ˈkæb.ɪ.nət"
+   },
+   {
+    "en": "campsite",
+    "zh": "露營地",
+    "ipa": "ˈkæmp.saɪt"
+   },
+   {
+    "en": "castle",
+    "zh": "城堡",
+    "ipa": "ˈkɑː.səl"
+   },
+   {
+    "en": "cinema",
+    "zh": "電影院",
+    "ipa": "ˈsɪn.ə.mə"
+   },
+   {
+    "en": "church",
+    "zh": "教堂",
+    "ipa": "tʃɜː.tʃ"
+   },
+   {
+    "en": "coffee shop",
+    "zh": "咖啡店",
+    "ipa": "ˈkɒf.iː ˌʃɒp"
+   },
+   {
+    "en": "corner",
+    "zh": "角落",
+    "ipa": "ˈkɔː.nə"
+   },
+   {
+    "en": "department store",
+    "zh": "百貨公司",
+    "ipa": "dɪˈpɑːt.mənt stɔː"
+   },
+   {
+    "en": "entrance",
+    "zh": "入口",
+    "ipa": "ˈen.trəns"
+   },
+   {
+    "en": "factory",
+    "zh": "工廠",
+    "ipa": "ˈfæk.tri"
+   },
+   {
+    "en": "farm",
+    "zh": "農場",
+    "ipa": "fɑːm"
+   },
+   {
+    "en": "field",
+    "zh": "田地；場地",
+    "ipa": "fiːld"
+   },
+   {
+    "en": "flat",
+    "zh": "公寓",
+    "ipa": "flæt"
+   },
+   {
+    "en": "floor",
+    "zh": "地板；樓層",
+    "ipa": "flɔː"
+   },
+   {
+    "en": "garden",
+    "zh": "花園",
+    "ipa": "ˈɡɑː.dən"
+   },
+   {
+    "en": "gate",
+    "zh": "大門",
+    "ipa": "ɡeɪt"
+   },
+   {
+    "en": "hairdresser",
+    "zh": "理髮廳",
+    "ipa": "ˈheə.dres.ə"
+   },
+   {
+    "en": "hospital",
+    "zh": "醫院",
+    "ipa": "ˈhɒs.pɪ.təl"
+   },
+   {
+    "en": "island",
+    "zh": "島嶼",
+    "ipa": "ˈaɪ.lənd"
+   },
+   {
+    "en": "kitchen",
+    "zh": "廚房",
+    "ipa": "ˈkɪtʃ.ɪn"
+   },
+   {
+    "en": "library",
+    "zh": "圖書館",
+    "ipa": "ˈlaɪ.brə.ri"
+   },
+   {
+    "en": "lift",
+    "zh": "電梯",
+    "ipa": "lɪft"
+   },
+   {
+    "en": "market",
+    "zh": "市集",
+    "ipa": "ˈmɑː.kɪt"
+   },
+   {
+    "en": "museum",
+    "zh": "博物館",
+    "ipa": "mjuˈziː.əm"
+   },
+   {
+    "en": "night club",
+    "zh": "夜總會",
+    "ipa": "ˈnaɪt.klɒb"
+   },
+   {
+    "en": "office",
+    "zh": "辦公室",
+    "ipa": "ˈɒf.ɪs"
+   },
+   {
+    "en": "palace",
+    "zh": "宮殿",
+    "ipa": "ˈpæl.ə.s"
+   },
+   {
+    "en": "park",
+    "zh": "公園",
+    "ipa": "pɑːk"
+   },
+   {
+    "en": "playground",
+    "zh": "遊樂場",
+    "ipa": "ˈpleɪ.ɡraʊnd"
+   },
+   {
+    "en": "post office",
+    "zh": "郵局",
+    "ipa": "ˈpəʊst ˌɒf.ɪs"
+   },
+   {
+    "en": "roof",
+    "zh": "屋頂",
+    "ipa": "ruːf"
+   },
+   {
+    "en": "shop",
+    "zh": "商店",
+    "ipa": "ʃɒp"
+   },
+   {
+    "en": "square",
+    "zh": "廣場",
+    "ipa": "skweə"
+   },
+   {
+    "en": "staircase",
+    "zh": "樓梯",
+    "ipa": "ˈsteə.kəs"
+   },
+   {
+    "en": "supermarket",
+    "zh": "超級市場",
+    "ipa": "ˈsuː.pə.mɑː.kɪt"
+   },
+   {
+    "en": "temple",
+    "zh": "寺廟",
+    "ipa": "ˈtem.pəl"
+   },
+   {
+    "en": "theatre",
+    "zh": "戲劇院",
+    "ipa": "ˈθɪə.tə"
+   },
+   {
+    "en": "toilet",
+    "zh": "廁所",
+    "ipa": "ˈtɔɪ.lət"
+   },
+   {
+    "en": "tower",
+    "zh": "塔",
+    "ipa": "ˈtaʊə"
+   },
+   {
+    "en": "tunnel",
+    "zh": "隧道",
+    "ipa": "ˈtʌn.əl"
+   },
+   {
+    "en": "village",
+    "zh": "村莊",
+    "ipa": "ˈvɪl.ɪdʒ"
+   },
+   {
+    "en": "wall",
+    "zh": "牆",
+    "ipa": "wɔːl"
+   },
+   {
+    "en": "yard",
+    "zh": "院子",
+    "ipa": "jɑːd"
+   },
+   {
+    "en": "zoo",
+    "zh": "動物園",
+    "ipa": "zuː"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go to the city centre",
+    "zh": "到市中心",
+    "ipa": "ˌɡəʊ tə ðə ˈsen.tə"
+   },
+   {
+    "en": "in the corner",
+    "zh": "在角落",
+    "ipa": "ɪn ðə ˈkɔː.nə"
+   },
+   {
+    "en": "at the entrance",
+    "zh": "在入口",
+    "ipa": "ət ði ˈen.trəns"
+   },
+   {
+    "en": "on the ground floor",
+    "zh": "在一樓",
+    "ipa": "ɒn ðə ˌɡraʊnd ˈflɔː"
+   },
+   {
+    "en": "take the lift",
+    "zh": "搭電梯",
+    "ipa": "ˌteɪk ðə lɪft"
+   },
+   {
+    "en": "in the basement",
+    "zh": "在地下室",
+    "ipa": "ɪn ðə ˈbeɪs.mənt"
+   },
+   {
+    "en": "next to the library",
+    "zh": "在圖書館旁邊",
+    "ipa": "nekst tə ðə ˈlaɪ.brə.ri"
+   },
+   {
+    "en": "walk through the park",
+    "zh": "走過公園",
+    "ipa": "ˌwɔːk θruː ðə pɑːk"
+   },
+   {
+    "en": "an art gallery",
+    "zh": "一間美術館",
+    "ipa": "ən ˈɑːt ˌɡæl.ə.ri"
+   },
+   {
+    "en": "the city hall",
+    "zh": "市政廳",
+    "ipa": "ðə ˌsɪt.i ˈhɔːl"
+   },
+   {
+    "en": "near the bus stop",
+    "zh": "在公車站附近",
+    "ipa": "ˌnɪə ðə ˈbʌs stɒp"
+   },
+   {
+    "en": "on the left side",
+    "zh": "在左邊",
+    "ipa": "ɒn ðə ˌleft ˈsaɪd"
+   },
+   {
+    "en": "a busy street",
+    "zh": "一條熱鬧的街道",
+    "ipa": "ə ˌbɪz.i striːt"
+   },
+   {
+    "en": "in a small town",
+    "zh": "在一個小城鎮",
+    "ipa": "ɪn ə ˌsmɔːl ˈtaʊn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The museum is next to the big park in the city centre.",
+    "zh": "博物館就在市中心那座大公園旁邊。"
+   },
+   {
+    "en": "There is a small supermarket at the end of our street.",
+    "zh": "我們街道的盡頭有一家小超市。"
+   },
+   {
+    "en": "We took the lift up to the gallery on the top floor.",
+    "zh": "我們搭電梯上到頂樓的美術館。"
+   },
+   {
+    "en": "The old castle is a popular place for school trips.",
+    "zh": "那座古老的城堡是學校校外教學的熱門地點。"
+   },
+   {
+    "en": "Please wait near the entrance until the bell rings.",
+    "zh": "請在入口附近等到鈴聲響。"
+   },
+   {
+    "en": "My father works in an office near the harbour.",
+    "zh": "我爸爸在港口附近的一間辦公室上班。"
+   },
+   {
+    "en": "We ate lunch in the cafe under the old church.",
+    "zh": "我們在老教堂下面的咖啡館吃午餐。"
+   },
+   {
+    "en": "The circus is in the town square until Sunday.",
+    "zh": "馬戲團在鎮上的廣場表演到星期日。"
+   },
+   {
+    "en": "Her bedroom is on the second floor above the kitchen.",
+    "zh": "她的臥室在三樓，就在廚房上面。"
+   },
+   {
+    "en": "The village has a tiny shop and a post office.",
+    "zh": "那個村莊有一家小店和一家郵局。"
+   },
+   {
+    "en": "We bought a map at the tourist office near the port.",
+    "zh": "我們在港口附近的旅遊服務中心買了地圖。"
+   },
+   {
+    "en": "Tourists love the colourful markets in the old city.",
+    "zh": "觀光客很喜歡老城區色彩繽紛的市集。"
+   },
+   {
+    "en": "The hospital is opposite the park, next to the church.",
+    "zh": "醫院在公園對面，緊鄰著教堂。"
+   },
+   {
+    "en": "We watched the match on a tennis court behind the school.",
+    "zh": "我們在學校後面的網球場看比賽。"
+   }
+  ],
+  "tips": [
+   "博物館、車站、公園這種公共場所，前面幾乎都要加定冠詞。",
+   "衣櫥和廁所是兩個不同的詞，千萬不要弄混，廁所另有說法。",
+   "港口、美術館、戲院這幾個英式單字字母比較多，打字時特別容易漏字。"
+  ]
+ }
+]

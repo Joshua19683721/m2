@@ -1,0 +1,70 @@
+{
+  "scenes": ["verbs-extra", "verbs-people", "verbs-school", "adj-quality", "adj-people"],
+  "issues": [
+    {
+      "scene": "verbs-extra",
+      "kind": "tips",
+      "en": "聽寫時常把 -ng 與 -nk 聽混（long 與 lorry 不同），建議放慢速度逐字輸入，再回頭核對字母。",
+      "zh": "（tips）",
+      "problem": "例詞選錯了，這句提示等於沒有教到東西。lorry 的結尾是 -rry，完全不含 -nk，拿它跟 long（-ng）對比說明不了「-ng 與 -nk 聽混」；而且 long 的拼法並不常與 -nk 詞混淆。學習者照這句話練習會找不到對應的詞。",
+      "suggestion": "改成真正成對的 -ng／-nk 對比例：聽寫時常把 -ng 與 -nk 聽混（sing 與 sink 不同），建議放慢速度逐字輸入，再回頭核對字母。"
+    },
+    {
+      "scene": "verbs-people",
+      "kind": "zh-simplified",
+      "en": "Everyone in the audience cheered and clapped loudly.",
+      "zh": "觀眾席上的每個人都大声喝采。",
+      "problem": "中文含簡體字「声」（簡體作「声」，繁體應作「聲」），違反本專案繁體中文（台灣用字）的規範。",
+      "suggestion": "中文改為「觀眾席上的每個人都大力喝采。」或「觀眾席上的每個人都大聲喝采。」"
+    },
+    {
+      "scene": "verbs-school",
+      "kind": "ipa",
+      "en": "qualification",
+      "zh": "資格",
+      "problem": "音標「kˌkwɒl.ɪˈfɪˈkeɪ.ʃən」有兩處明顯錯誤：最前面多了一個多餘的「k」；而且同一個字出現兩個主重音符號（ˈfɪ 與 ˈkeɪ），qualification 的主重音只在最後一音節 /ˈkeɪʃn/，前一音節 -fɪ- 應為次重音。",
+      "suggestion": "音標改為 ˌkwɒl.ɪ.fɪˈkeɪ.ʃən。"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "duplicate",
+      "en": "good morning",
+      "zh": "早安",
+      "problem": "同一個場景中重複：「good morning」同時出現在 words 清單（早安）和 phrases 清單（早安），造成同一條目收錄兩次。",
+      "suggestion": "保留 words 清單中的一筆，從 phrases 清單移除重複的「good morning」。"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "duplicate",
+      "en": "good night",
+      "zh": "晚安（道別用語）／晚安",
+      "problem": "同一個場景中重複：「good night」同時出現在 words 清單（晚安（道別用語））和 phrases 清單（晚安），造成同一條目收錄兩次。",
+      "suggestion": "保留 words 清單中的一筆，從 phrases 清單移除重複的「good night」。"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "meaning",
+      "en": "My worst holiday was really awful and terrible.",
+      "zh": "我最糟的假期真的既痛苦又糟糕。",
+      "problem": "譯文多出英文沒有的意思。英文 awful 與 terrible 在此都是同義的「糟糕、可怕」，譯文卻把其中一個改成「痛苦」（painful），語意完全不同；中文變成「既痛苦又糟糕」兩個近義形容詞並列，也讀起來不自然。",
+      "suggestion": "中文改為「我最糟的假期真的糟透了。」；或若要保留兩詞並列，可寫「我最糟的假期真的很糟、也很可怕。」"
+    },
+    {
+      "scene": "adj-quality",
+      "kind": "tips",
+      "en": "帶「很」的意思的加強語氣不要亂加：口語的幾個好、還不錯比較自然，正式場合才用很棒。",
+      "zh": "（tips）",
+      "problem": "提示文字本身有錯字，語意不通：「口語的幾個好」不成詞，也沒有任何意思，讀者無法從這句學到規則。",
+      "suggestion": "改為「加強語氣不要亂加：口語說『蠻好的』『還不錯』比較自然，正式場合才用『很棒』。」"
+    },
+    {
+      "scene": "adj-people",
+      "kind": "tips",
+      "en": "容易弄混的是描述感受的兩種尾綴：前者說自己被這樣困住，後者說會讓別人產生這種感覺，一次要記兩個。",
+      "zh": "（tips）",
+      "problem": "提示提到的兩種尾綴（-ed 與 -ing，例如 bored／boring）在 adj-people 這個場景裡根本不存在；本場景的形容詞是 -ful、-ive、-ous、-able、-ate、-ic、-less 這類結尾。學習者在這組詞裡找不到可對照的一對，提示對這一組沒有幫助。",
+      "suggestion": "改成針對本場景真實存在的對比，例如「容易弄混的是『待人』和『待事』：careful 是自己做事小心，careless 是做事不細心；這組反義詞要一起記。」"
+    }
+  ],
+  "checked": { "words": 320, "phrases": 70, "sentences": 70, "tips": 15 }
+}

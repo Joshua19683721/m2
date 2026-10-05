@@ -1,0 +1,62 @@
+{
+  "scenes": ["family-friends", "food-drink", "health", "hobbies", "house-home"],
+  "issues": [
+    {
+      "scene": "family-friends",
+      "kind": "zh-naturalness",
+      "en": "Our neighbour has a very friendly dog.",
+      "zh": "我們的鄰居家有一隻很親人的狗。",
+      "problem": "「親人」是名詞，指至親／親屬；「很親人的狗」中文讀起來不通順，也不是 friendly 的譯法。friendly 在此應作「友善的」。",
+      "suggestion": "我們的鄰居家有一隻很友善的狗。"
+    },
+    {
+      "scene": "family-friends",
+      "kind": "zh-naturalness",
+      "en": "What is your surname, and who is your father?",
+      "zh": "你姓什麼，和你爸爸是誰？",
+      "problem": "中文用連接詞「和」把兩個獨立的問句串起來不合語法，母語者不會這樣說，應拆成兩問或用逗號並列。",
+      "suggestion": "你姓什麼？你爸爸是誰？"
+    },
+    {
+      "scene": "health",
+      "kind": "meaning",
+      "en": "He had an accident and broke his arm.",
+      "zh": "他出了意外，手臂受傷了。",
+      "problem": "broke 是「骨折」，屬特定傷勢；譯成「手臂受傷」只表達一般弄傷，意思被弱化，與英文不符。",
+      "suggestion": "他出了意外，手臂骨折了。"
+    },
+    {
+      "scene": "hobbies",
+      "kind": "duplicate",
+      "en": "go shopping",
+      "zh": "去購物",
+      "problem": "同一場景中「go shopping」同時出現在 words 與 phrases 兩個清單，內容完全重複（英文與音標都相同），造成重複出題。",
+      "suggestion": "片語改為 do some shopping（ɡəʊ ˈdʌm ˈʃɒp.ɪŋ），或從 words 中移除 go shopping。"
+    },
+    {
+      "scene": "hobbies",
+      "kind": "tips",
+      "en": "take a picture with a camera",
+      "zh": "拍照用 take photos，相機是 camera，不要說成 take a picture with a camera。",
+      "problem": "此提示的建議錯誤：take a picture with a camera / take a photo with a camera 是完全正確的英文，會誤導學習者避用正確句型。",
+      "suggestion": "拍照用 take photos 或 take a photo；若要強調使用相機，take a photo with a camera 也是正確說法。"
+    },
+    {
+      "scene": "house-home",
+      "kind": "duplicate",
+      "en": "dining room",
+      "zh": "餐廳",
+      "problem": "同一場景中「dining room」同時列在 words 與 phrases，英文、中文與音標皆完全相同，屬重複條目。",
+      "suggestion": "片語改為 have dinner in the dining room，或從 words 中移除 dining room（保留 phrases 版本）。"
+    },
+    {
+      "scene": "house-home",
+      "kind": "tips",
+      "en": "in the kitchen / in the bathroom",
+      "zh": "房間名稱前面通常不加冠詞：in the kitchen、in the bathroom。",
+      "problem": "提示內容自相矛盾且與英文規則相反：房間名稱前必須加定詞 the，而它自己列出的例句也都帶 the，會直接教錯。",
+      "suggestion": "房間名稱前面要加定詞 the：in the kitchen、in the bathroom、in the living room。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

@@ -1,0 +1,38 @@
+{
+  "scenes": ["colours", "comms-tech", "documents", "entertainment", "family-friends"],
+  "issues": [
+    {
+      "scene": "entertainment",
+      "kind": "duplicate",
+      "en": "The kids laugh at the funny photos every day.",
+      "zh": "小朋友每天都看那些好笑的照照片。",
+      "problem": "「照片」的「照」字重複，出現「照照片」，是明顯的贅字錯誤。",
+      "suggestion": "小朋友每天都看那些好笑的照片。"
+    },
+    {
+      "scene": "family-friends",
+      "kind": "zh-naturalness",
+      "en": "What is your surname, and who is your father?",
+      "zh": "你姓什麼，和你爸爸是誰？",
+      "problem": "用連詞「和」連接兩個獨立疑問句，中文不成立，應改用問號或頓號分開問。",
+      "suggestion": "你姓什麼？你爸爸是誰？"
+    },
+    {
+      "scene": "documents",
+      "kind": "tips",
+      "en": "",
+      "zh": "這組字很多以 t 結尾，例如 bill、ticket、text、postcard，末尾的音別漏掉。",
+      "problem": "規則敘述錯誤：所舉例子中的 bill 收於 /l/、postcard 收於 /d/，兩者都不是以 t 結尾，只有 ticket 與 text 才是。",
+      "suggestion": "這組字多以 t、l 或 d 等子音收尾，例如 ticket、text、bill、postcard，末尾的音別漏掉。"
+    },
+    {
+      "scene": "family-friends",
+      "kind": "tips",
+      "en": "",
+      "zh": "稱謂前要加定詞：講自己的家人用「我的」，講別人的家人用「那位的」。",
+      "problem": "規則說錯：中文稱謂前並無一律加定詞的規則（應說「我媽」而非「我的媽媽」），且講別人的家人應用「他的／她的」，「那位的」不是正確對應的說法。",
+      "suggestion": "英文稱謂前要加所有格：講自己的家人用 my，講別人的家人用 his、her 或 their。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

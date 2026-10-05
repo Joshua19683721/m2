@@ -1,0 +1,54 @@
+{
+  "scenes": ["travel-transport", "weather", "work-jobs", "word-sets", "grammar-adverbs"],
+  "issues": [
+    {
+      "scene": "travel-transport",
+      "kind": "ipa",
+      "en": "airport",
+      "zh": "機場",
+      "problem": "音標出現亂碼字元「ˈe��.pɔːt」，元音位置不是有效的 IPA 符號，無法正常顯示或發音。",
+      "suggestion": "ˈeə.pɔːt"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "zh-simplified",
+      "en": "a long delay",
+      "zh": "长时间的延誤",
+      "problem": "「长」是簡體字，全站應統一使用繁體「長」；且「长时间的延誤」語序生硬。",
+      "suggestion": "長時間的延誤"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "meaning",
+      "en": "Take a map and look at the motorway signs.",
+      "zh": "帶張地圖看看高速公路的標示。",
+      "problem": "「標示」意指「加以標註、標明」，並非「標誌」；signs 應作交通標誌。",
+      "suggestion": "帶張地圖看看高速公路的標誌。"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "meaning",
+      "en": "We missed the bus, so we walked to the station.",
+      "zh": "我們錯過公車，所以走回車站。",
+      "problem": "英文只說 walked to（走到車站），沒有「回」的意思；「走回」憑空加入了折返的語意。",
+      "suggestion": "我們錯過公車，所以走到車站。"
+    },
+    {
+      "scene": "work-jobs",
+      "kind": "zh-naturalness",
+      "en": "Please ask your boss about the new job.",
+      "zh": "請問你的老闆關於新工作的事。",
+      "problem": "中文的「問」需搭配「向…詢問」才自然，「問你的老闆關於新工作的事」屬直譯語序，台灣母語者不會這樣說。",
+      "suggestion": "請向你的老闆詢問新工作的事。"
+    },
+    {
+      "scene": "grammar-adverbs",
+      "kind": "duplicate",
+      "en": "alright",
+      "zh": "沒問題；好吧",
+      "problem": "同一場景的單字清單中已有「all right/alright」，「alright」為同一詞的完全重複條目。",
+      "suggestion": "刪除重複的「alright」或合併為單一條目 all right/alright"
+    }
+  ],
+  "checked": { "words": 236, "phrases": 70, "sentences": 70, "tips": 15 }
+}

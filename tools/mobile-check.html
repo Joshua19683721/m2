@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>手機版排版檢查</title>
+<style>
+  body { background:#05060a; color:#8ef5c0; font:12px/1.75 Consolas,"Microsoft JhengHei",monospace; margin:0; padding:12px; }
+  h1 { font-size:14px; color:#fff; margin:0 0 8px; }
+  iframe { width:390px; height:320px; border:1px solid #2a3040; display:block; margin:8px 0 16px; border-radius:6px; }
+  #rep { white-space:pre-wrap; margin-bottom:12px; }
+  .bad { color:#ff8a8a; } .good { color:#8ef5c0; }
+</style>
+</head>
+<body>
+<h1>手機版排版檢查（390px 視窗）</h1>
+<pre id="rep">檢查中…</pre>
+
+<iframe id="f1" src="../index.html?mob=1#practice/grammar-core/words/5"></iframe>
+<iframe id="f2" src="../index.html?mob=2"></iframe>
+<iframe id="f3" src="../index.html?mob=3#practice/food-drink/blind/1"></iframe>
+
+<script>
+/* 檢查三個畫面在 390px 下有沒有橫向溢出。
+   位於「關閉狀態的抽屜 / 隱藏元素」不算問題，所以要先排除它們。 */
+setTimeout(function () {
+  var CASES = [
+    ['f1', '練習頁 · 逐字輸入'],
+    ['f2', '首頁 · 場景總覽'],
+    ['f3', '練習頁 · 盲打整句']
+  ];
+  var out = [];
+
+  CASES.forEach(function (c) {
+    var f = document.getElementById(c[0]);
+    var d = f.contentDocument;
+    var doc = d.documentElement;
+    var over = doc.scrollWidth - doc.clientWidth;
+
+    out.push('── ' + c[1]);
+    out.push('   視窗 ' + doc.clientWidth + 'px ／ 內容 ' + doc.scrollWidth + 'px');
+    out.push(over > 0 ? '   ✗ 橫向溢出 ' + over + 'px' : '   ✓ 沒有橫向溢出');
+
+    var bad = [];
+    d.querySelectorAll('*').forEach(function (el) {
+      // 跳過隱藏或滑出畫面的元素（解析抽屜關閉時本來就在畫面外）
+      if (el.closest('.drawer') && !el.closest('.drawer.open')) return;
+      if (el.hidden || getComputedStyle(el).display === 'none') return;
+      var r = el.getBoundingClientRect();
+      if (r.width > 0 && r.right > doc.clientWidth + 1) {
+        bad.push(el.tagName.toLowerCase() +
+          (el.id ? '#' + el.id : '') +
+          (typeof el.className === 'string' && el.className
+            ? '.' + el.className.trim().split(/\s+/)[0] : '') +
+          ' right=' + Math.round(r.right));
+      }
+    });
+    if (bad.length) {
+      out.push('   ✗ 超出螢幕的元素：');
+      bad.slice(0, 8).forEach(function (b) { out.push('       ' + b); });
+    }
+    out.push('');
+  });
+
+  var allOk = !/✗/.test(out.join(''));
+  out.unshift(allOk ? '✅ 三個畫面在 390px 都沒有橫向溢出\n' : '❌ 有畫面出現橫向溢出\n');
+  document.getElementById('rep').textContent = out.join('\n');
+  document.title = allOk ? 'MOBILE-OK' : 'MOBILE-BAD';
+}, 2000);
+</script>
+</body>
+</html>

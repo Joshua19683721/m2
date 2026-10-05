@@ -1,0 +1,1916 @@
+[
+ {
+  "id": "adj-quality",
+  "icon": "📊",
+  "name": "形容詞：性質與程度",
+  "nameEn": "Adjectives: Quality & Degree",
+  "summary": "good / better / best、important / possible / usual… 性質與比較。",
+  "note": "比較級與最高級（-er / -est、more / most）是拼字重災區。",
+  "group": "形容詞",
+  "words": [
+   {
+    "en": "amazing",
+    "zh": "令人驚豔的；了不起的",
+    "ipa": "əˈmeɪ.zɪŋ"
+   },
+   {
+    "en": "awesome",
+    "zh": "極棒的；好厲害的",
+    "ipa": "ˈɔː.səʊm"
+   },
+   {
+    "en": "awful",
+    "zh": "糟糕的；可怕的",
+    "ipa": "ˈɔː.fəl"
+   },
+   {
+    "en": "bad",
+    "zh": "壞的；差的；有害的",
+    "ipa": "bæd"
+   },
+   {
+    "en": "brilliant",
+    "zh": "極好的；才華洋溢的",
+    "ipa": "ˈbrɪl.jənt"
+   },
+   {
+    "en": "correct",
+    "zh": "正確的；對的",
+    "ipa": "kəˈrekt"
+   },
+   {
+    "en": "different",
+    "zh": "不同的；有差異的",
+    "ipa": "ˈdɪf.rənt"
+   },
+   {
+    "en": "double",
+    "zh": "雙倍的；兩人份的",
+    "ipa": "ˈdʌb.əl"
+   },
+   {
+    "en": "excellent",
+    "zh": "極好的；優異的",
+    "ipa": "ˈek.sə.lənt"
+   },
+   {
+    "en": "fantastic",
+    "zh": "極好的；神奇的",
+    "ipa": "fænˈtas.tɪk"
+   },
+   {
+    "en": "favourite",
+    "zh": "最喜歡的；最愛的",
+    "ipa": "ˈfeɪ.və.rɪt"
+   },
+   {
+    "en": "foreign",
+    "zh": "外國的；外來的",
+    "ipa": "ˈfɒr.ən"
+   },
+   {
+    "en": "good afternoon",
+    "zh": "午安",
+    "ipa": "ˌɡʊd əfˈtɜː.nuːn"
+   },
+   {
+    "en": "good evening",
+    "zh": "晚安",
+    "ipa": "ˌɡʊd ˈiː.və.nɪŋ"
+   },
+   {
+    "en": "impossible",
+    "zh": "不可能的；做不到的",
+    "ipa": "ɪmˈpɒs.ə.bəl"
+   },
+   {
+    "en": "international",
+    "zh": "國際的",
+    "ipa": "ˌɪn.təˈnæʃ.ən.əl"
+   },
+   {
+    "en": "local",
+    "zh": "當地的；本地的",
+    "ipa": "ˈləʊ.kəl"
+   },
+   {
+    "en": "national",
+    "zh": "國家的；全國的",
+    "ipa": "ˈnæʃ.ən.əl"
+   },
+   {
+    "en": "perfect",
+    "zh": "完美的；無可挑剔的",
+    "ipa": "ˈpɜː.fɪkt"
+   },
+   {
+    "en": "possible",
+    "zh": "可能的；做得到的",
+    "ipa": "ˈpɒs.ə.bəl"
+   },
+   {
+    "en": "real",
+    "zh": "真實的；真正的",
+    "ipa": "rɪəl"
+   },
+   {
+    "en": "right",
+    "zh": "正確的；右邊的",
+    "ipa": "raɪt"
+   },
+   {
+    "en": "right hand",
+    "zh": "右手的；右方的",
+    "ipa": "ˌraɪt ˈhænd"
+   },
+   {
+    "en": "same",
+    "zh": "相同的；一樣的",
+    "ipa": "seɪm"
+   },
+   {
+    "en": "similar",
+    "zh": "相似的；差不多的",
+    "ipa": "ˈsɪm.ə.lə"
+   },
+   {
+    "en": "spare",
+    "zh": "空著的；備用的；閒暇的",
+    "ipa": "speə"
+   },
+   {
+    "en": "terrible",
+    "zh": "可怕的；糟糕的",
+    "ipa": "ˈter.ə.bəl"
+   },
+   {
+    "en": "true",
+    "zh": "真實的；對的",
+    "ipa": "truː"
+   },
+   {
+    "en": "unusual",
+    "zh": "不尋常的；少見的",
+    "ipa": "ʌnˈjuː.ʒu.əl"
+   },
+   {
+    "en": "usual",
+    "zh": "平常的；通常的",
+    "ipa": "ˈjuː.ʒu.əl"
+   },
+   {
+    "en": "whole",
+    "zh": "全部的；整個的",
+    "ipa": "həʊl"
+   },
+   {
+    "en": "wonderful",
+    "zh": "精彩的；美好的",
+    "ipa": "ˈwʌn.də.fəl"
+   },
+   {
+    "en": "worst",
+    "zh": "最糟的；最差的",
+    "ipa": "wɜːst"
+   },
+   {
+    "en": "wrong",
+    "zh": "錯誤的；不對的",
+    "ipa": "rɒŋ"
+   },
+   {
+    "en": "good",
+    "zh": "好的；不錯的",
+    "ipa": "ɡʊd"
+   },
+   {
+    "en": "better",
+    "zh": "更好的；較好的",
+    "ipa": "ˈbet.ə"
+   },
+   {
+    "en": "best",
+    "zh": "最好的",
+    "ipa": "best"
+   },
+   {
+    "en": "important",
+    "zh": "重要的；要緊的",
+    "ipa": "ɪmˈpɔː.tənt"
+   },
+   {
+    "en": "useful",
+    "zh": "有用的；實用的",
+    "ipa": "ˈjuːs.fəl"
+   },
+   {
+    "en": "nice",
+    "zh": "好的；友善的；舒服的",
+    "ipa": "naɪs"
+   },
+   {
+    "en": "difficult",
+    "zh": "困難的；難的",
+    "ipa": "ˈdɪf.ɪ.kəlt"
+   },
+   {
+    "en": "special",
+    "zh": "特別的；特殊的",
+    "ipa": "ˈspeʃ.əl"
+   },
+   {
+    "en": "common",
+    "zh": "普通的；常見的",
+    "ipa": "ˈkɒm.ən"
+   },
+   {
+    "en": "clear",
+    "zh": "清楚的；晴朗的",
+    "ipa": "klɪə"
+   },
+   {
+    "en": "ready",
+    "zh": "準備好的；願意的",
+    "ipa": "ˈred.i"
+   },
+   {
+    "en": "sure",
+    "zh": "確定的；一定會的",
+    "ipa": "ʃʊə"
+   },
+   {
+    "en": "certain",
+    "zh": "確定的；某個特定的",
+    "ipa": "ˈsɜː.tən"
+   },
+   {
+    "en": "complete",
+    "zh": "完整的；全部的",
+    "ipa": "kəmˈpliːt"
+   },
+   {
+    "en": "funny",
+    "zh": "好笑的；滑稽的",
+    "ipa": "ˈfʌn.i"
+   },
+   {
+    "en": "strange",
+    "zh": "奇怪的；古怪的",
+    "ipa": "streɪndʒ"
+   },
+   {
+    "en": "free",
+    "zh": "免費的；空著的；自由的",
+    "ipa": "friː"
+   },
+   {
+    "en": "extra",
+    "zh": "額外的；多出的",
+    "ipa": "ˈek.strə"
+   },
+   {
+    "en": "cheap",
+    "zh": "便宜的；廉價的",
+    "ipa": "tʃiːp"
+   },
+   {
+    "en": "expensive",
+    "zh": "昂貴的；花費多的",
+    "ipa": "ɪkˈspen.sɪv"
+   },
+   {
+    "en": "careful",
+    "zh": "小心的；仔細的",
+    "ipa": "ˈkeə.fəl"
+   },
+   {
+    "en": "helpful",
+    "zh": "有幫助的；願意幫忙的",
+    "ipa": "ˈhelp.fəl"
+   },
+   {
+    "en": "lucky",
+    "zh": "幸運的；好運的",
+    "ipa": "ˈlʌk.i"
+   },
+   {
+    "en": "quick",
+    "zh": "快的；迅速的",
+    "ipa": "kwɪk"
+   },
+   {
+    "en": "slow",
+    "zh": "慢的；緩慢的",
+    "ipa": "sləʊ"
+   },
+   {
+    "en": "hungry",
+    "zh": "餓的；肚子餓的",
+    "ipa": "ˈhʌŋ.ɡri"
+   },
+   {
+    "en": "thirsty",
+    "zh": "渴的；口渴的",
+    "ipa": "ˈθɜː.sti"
+   },
+   {
+    "en": "tired",
+    "zh": "累的；疲倦的",
+    "ipa": "ˈtaɪəd"
+   },
+   {
+    "en": "comfortable",
+    "zh": "舒服的；舒適的",
+    "ipa": "ˈkʌmf.tə.bəl"
+   },
+   {
+    "en": "necessary",
+    "zh": "必要的；必須的",
+    "ipa": "ˈnes.ə.sər.i"
+   },
+   {
+    "en": "healthy",
+    "zh": "健康的；對身體好的",
+    "ipa": "ˈhel.θi"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "as good as",
+    "zh": "和……一樣好",
+    "ipa": "əz ˈɡʊd əz"
+   },
+   {
+    "en": "good at",
+    "zh": "擅長；善於",
+    "ipa": "ˌɡʊd ˈæt"
+   },
+   {
+    "en": "bad for",
+    "zh": "對……有害",
+    "ipa": "ˌbæd ˈfɔː"
+   },
+   {
+    "en": "good for",
+    "zh": "對……有益",
+    "ipa": "ˌɡʊd ˈfɔː"
+   },
+   {
+    "en": "better than",
+    "zh": "比……還好",
+    "ipa": "ˈbet.ə ðən"
+   },
+   {
+    "en": "best friend",
+    "zh": "最好的朋友",
+    "ipa": "ˌbest ˈfrend"
+   },
+   {
+    "en": "more important",
+    "zh": "更加重要",
+    "ipa": "ˌmɔːr ɪmˈpɔː.tənt"
+   },
+   {
+    "en": "quite different",
+    "zh": "很不一樣的",
+    "ipa": "ˌkwaɪt ˈdɪf.rənt"
+   },
+   {
+    "en": "quite sure",
+    "zh": "非常確定",
+    "ipa": "ˌkwaɪt ˈʃʊə"
+   },
+   {
+    "en": "the right answer",
+    "zh": "正確的答案",
+    "ipa": "ðə ˌraɪt ˈɑːn.sə"
+   },
+   {
+    "en": "good morning",
+    "zh": "早安",
+    "ipa": "ˌɡʊd ˈmɔː.nɪŋ"
+   },
+   {
+    "en": "good night",
+    "zh": "晚安",
+    "ipa": "ˌɡʊd ˈnaɪt"
+   },
+   {
+    "en": "extra time",
+    "zh": "額外的時間；延長時間",
+    "ipa": "ˌek.strə ˈtaɪm"
+   },
+   {
+    "en": "usual time",
+    "zh": "平常的時間",
+    "ipa": "ˈjuː.ʒu.əl ˈtaɪm"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "This book is good, but the second one is better.",
+    "zh": "這本書不錯，但第二本更好。"
+   },
+   {
+    "en": "Our English teacher is funny and very helpful.",
+    "zh": "我們的英文老師很幽默，也非常願意幫忙。"
+   },
+   {
+    "en": "Smoking is bad for your health, so please don't.",
+    "zh": "抽菸對你的健康有害，所以請不要抽。"
+   },
+   {
+    "en": "Good morning, everyone! Our test starts at nine.",
+    "zh": "大家早安！我們的考試九點開始。"
+   },
+   {
+    "en": "It is difficult to say which answer is correct.",
+    "zh": "很難說哪一個答案是正確的。"
+   },
+   {
+    "en": "My worst holiday was really awful.",
+    "zh": "我最糟的假期真的糟透了。"
+   },
+   {
+    "en": "A good breakfast is important before a long trip.",
+    "zh": "長途旅行前，一頓好的早餐很重要。"
+   },
+   {
+    "en": "Is it possible to change my ticket to a cheaper one?",
+    "zh": "有可能把我的車票換成比較便宜的嗎？"
+   },
+   {
+    "en": "That seems unusual, but the real reason is different.",
+    "zh": "那似乎很不尋常，但真正的原因是不一樣的。"
+   },
+   {
+    "en": "His story is possible, but it is not true.",
+    "zh": "他的說法有可能，但那不是真的。"
+   },
+   {
+    "en": "The two shops are quite similar, so the prices are the same.",
+    "zh": "這兩家店很相似，所以價格是一樣的。"
+   },
+   {
+    "en": "The concert was fantastic and the last song was wonderful.",
+    "zh": "演唱會非常棒，最後一首歌也很精彩。"
+   },
+   {
+    "en": "Good night, everyone. See you in the morning.",
+    "zh": "大家晚安，明天見。"
+   },
+   {
+    "en": "The local cafe has free coffee every morning.",
+    "zh": "當地那間咖啡館每天早上都免費供應咖啡。"
+   }
+  ],
+  "tips": [
+   "加強語氣不要亂加：口語說「蠻好的」「還不錯」比較自然，正式場合才用「很棒」。",
+   "三個音節以上的形容詞（例如重要的、困難的）不能加短尾巴，請一律用前面加字的那一種寫法。",
+   "帶「很」的意思的加強語氣不要亂加：口語的幾個好、還不錯比較自然，正式場合才用很棒。"
+  ]
+ },
+ {
+  "id": "adj-people",
+  "icon": "🙂",
+  "name": "形容詞：形容人",
+  "nameEn": "Adjectives: Describing People",
+  "summary": "friendly / clever / honest / shy… 用來說一個人怎樣的形容詞。",
+  "note": "-ed 形容被/how的感受，-ing 形容主動/how的感受。",
+  "group": "形容詞",
+  "words": [
+   {
+    "en": "busy",
+    "zh": "忙碌的；沒空的",
+    "ipa": "ˈbɪz.i"
+   },
+   {
+    "en": "famous",
+    "zh": "有名的；出名的",
+    "ipa": "ˈfeɪ.məs"
+   },
+   {
+    "en": "lazy",
+    "zh": "懶惰的；懶的",
+    "ipa": "ˈleɪ.zi"
+   },
+   {
+    "en": "noisy",
+    "zh": "吵鬧的；吵的",
+    "ipa": "ˈnɔɪ.zi"
+   },
+   {
+    "en": "polite",
+    "zh": "有禮貌的；客氣的",
+    "ipa": "pəˈlaɪt"
+   },
+   {
+    "en": "popular",
+    "zh": "受歡迎的；熱門的",
+    "ipa": "ˈpɒp.jə.lə"
+   },
+   {
+    "en": "pretty",
+    "zh": "漂亮的；可愛的",
+    "ipa": "ˈprɪt.i"
+   },
+   {
+    "en": "quiet",
+    "zh": "安靜的；文靜的",
+    "ipa": "ˈkwaɪ.ət"
+   },
+   {
+    "en": "serious",
+    "zh": "嚴肅的；認真的",
+    "ipa": "ˈsɪə.ri.əs"
+   },
+   {
+    "en": "shy",
+    "zh": "害羞的；怕生的",
+    "ipa": "ʃaɪ"
+   },
+   {
+    "en": "smart",
+    "zh": "聰明的；有頭腦的",
+    "ipa": "smɑːt"
+   },
+   {
+    "en": "kind",
+    "zh": "親切的；和藹的",
+    "ipa": "kaɪnd"
+   },
+   {
+    "en": "friendly",
+    "zh": "友善的；友好的",
+    "ipa": "ˈfrend.li"
+   },
+   {
+    "en": "honest",
+    "zh": "誠實的；老實的",
+    "ipa": "ˈɒn.ɪst"
+   },
+   {
+    "en": "brave",
+    "zh": "勇敢的；勇敢的人",
+    "ipa": "breɪv"
+   },
+   {
+    "en": "clever",
+    "zh": "聰明的；機靈的",
+    "ipa": "ˈklev.ə"
+   },
+   {
+    "en": "strict",
+    "zh": "嚴格的；嚴厲的",
+    "ipa": "strɪkt"
+   },
+   {
+    "en": "considerate",
+    "zh": "體貼的；貼心的",
+    "ipa": "kənˈsɪd.ər.ət"
+   },
+   {
+    "en": "patient",
+    "zh": "有耐心的；能忍耐的",
+    "ipa": "ˈpeɪ.ʃənt"
+   },
+   {
+    "en": "tidy",
+    "zh": "整潔的；整齊的",
+    "ipa": "ˈtaɪ.di"
+   },
+   {
+    "en": "careless",
+    "zh": "粗心的；不細心的",
+    "ipa": "ˈkeə.ləs"
+   },
+   {
+    "en": "generous",
+    "zh": "大方的；慷慨的",
+    "ipa": "ˈdʒen.ə.rəs"
+   },
+   {
+    "en": "hard-working",
+    "zh": "勤勞的；工作努力的",
+    "ipa": "ˌhɑːdˈwɜː.kɪŋ"
+   },
+   {
+    "en": "outgoing",
+    "zh": "外向的；愛交朋友的",
+    "ipa": "ˈaʊt.ɡəʊ.ɪŋ"
+   },
+   {
+    "en": "confident",
+    "zh": "自信的；有把握的",
+    "ipa": "ˈkɒn.fɪ.dənt"
+   },
+   {
+    "en": "creative",
+    "zh": "有創意的；善於創作的",
+    "ipa": "kriˈeɪ.tɪv"
+   },
+   {
+    "en": "curious",
+    "zh": "好奇的；求知的",
+    "ipa": "ˈkjʊə.ri.əs"
+   },
+   {
+    "en": "sociable",
+    "zh": "善於交際的；愛交朋友的",
+    "ipa": "ˈsəʊ.ʃə.bəl"
+   },
+   {
+    "en": "well-mannered",
+    "zh": "有禮貌的；舉止得體的",
+    "ipa": "ˌwelˈmæn.əd"
+   },
+   {
+    "en": "handsome",
+    "zh": "英俊的；體面的",
+    "ipa": "ˈhæn.səm"
+   },
+   {
+    "en": "cute",
+    "zh": "可愛的；漂亮的",
+    "ipa": "kjuːt"
+   },
+   {
+    "en": "young",
+    "zh": "年輕的；幼小的",
+    "ipa": "jʌŋ"
+   },
+   {
+    "en": "sensible",
+    "zh": "明智的；合理的",
+    "ipa": "ˈsen.sə.bəl"
+   },
+   {
+    "en": "sensitive",
+    "zh": "敏感的；易受影響的",
+    "ipa": "ˈsen.sə.tɪv"
+   },
+   {
+    "en": "independent",
+    "zh": "獨立的；不依賴人的",
+    "ipa": "ˌɪn.dɪˈpen.dənt"
+   },
+   {
+    "en": "talkative",
+    "zh": "健談的；愛說話的",
+    "ipa": "ˈtɔː.kə.tɪv"
+   },
+   {
+    "en": "ambitious",
+    "zh": "有抱負的；有野心的",
+    "ipa": "æmˈbɪʃ.əs"
+   },
+   {
+    "en": "modest",
+    "zh": "謙虛的；不張揚的",
+    "ipa": "ˈmɒd.ɪst"
+   },
+   {
+    "en": "elderly",
+    "zh": "年長的；上了年紀的",
+    "ipa": "ˈel.də.li"
+   },
+   {
+    "en": "elegant",
+    "zh": "優雅的；雅緻的",
+    "ipa": "ˈel.ɪ.ɡənt"
+   },
+   {
+    "en": "charming",
+    "zh": "有魅力的；迷人的",
+    "ipa": "ˈtʃɑː.mɪŋ"
+   },
+   {
+    "en": "naughty",
+    "zh": "調皮的；淘氣的",
+    "ipa": "ˈnɔː.ti"
+   },
+   {
+    "en": "bossy",
+    "zh": "專橫的；愛指使人的",
+    "ipa": "ˈbɒs.i"
+   },
+   {
+    "en": "sincere",
+    "zh": "真誠的；懇切的",
+    "ipa": "sɪnˈsɪə"
+   },
+   {
+    "en": "silly",
+    "zh": "傻氣的；愚蠢的",
+    "ipa": "ˈsɪl.i"
+   },
+   {
+    "en": "obedient",
+    "zh": "聽話的；順從的",
+    "ipa": "əˈbiː.di.ənt"
+   },
+   {
+    "en": "selfish",
+    "zh": "自私的；只顧自己的",
+    "ipa": "ˈsel.fɪʃ"
+   },
+   {
+    "en": "unselfish",
+    "zh": "無私的；不計較的",
+    "ipa": "ˌʌnˈsel.fɪʃ"
+   },
+   {
+    "en": "easy-going",
+    "zh": "隨和的；不計較的",
+    "ipa": "ˌiː.ziˈɡəʊ.ɪŋ"
+   },
+   {
+    "en": "well-dressed",
+    "zh": "穿著講究的；衣著整齊的",
+    "ipa": "ˌwelˈdrest"
+   },
+   {
+    "en": "athletic",
+    "zh": "擅長運動的；體格好的",
+    "ipa": "əθˈlet.ɪk"
+   },
+   {
+    "en": "musical",
+    "zh": "懂音樂的；有音樂天分的",
+    "ipa": "ˈmjuː.zɪ.kəl"
+   },
+   {
+    "en": "artistic",
+    "zh": "有藝術天分的；藝術的",
+    "ipa": "ɑːˈtɪs.tɪk"
+   },
+   {
+    "en": "proud",
+    "zh": "自豪的；驕傲的",
+    "ipa": "praʊd"
+   },
+   {
+    "en": "humble",
+    "zh": "謙遜的；虛心的",
+    "ipa": "ˈhʌm.bəl"
+   },
+   {
+    "en": "responsible",
+    "zh": "負責任的；可靠的",
+    "ipa": "rɪˈspɒn.sə.bəl"
+   },
+   {
+    "en": "thoughtful",
+    "zh": "貼心的；善解人意的",
+    "ipa": "ˈθɔːt.fəl"
+   },
+   {
+    "en": "energetic",
+    "zh": "精力充沛的；活潑的",
+    "ipa": "ˌen.əˈdʒet.ɪk"
+   },
+   {
+    "en": "fussy",
+    "zh": "挑剔的；大驚小怪的",
+    "ipa": "ˈfʌs.i"
+   },
+   {
+    "en": "affectionate",
+    "zh": "親愛的；深情的",
+    "ipa": "əˈfek.ʃən.ət"
+   },
+   {
+    "en": "good-looking",
+    "zh": "好看的；漂亮的",
+    "ipa": "ˌɡʊdˈlʊk.ɪŋ"
+   },
+   {
+    "en": "middle-aged",
+    "zh": "中年的",
+    "ipa": "ˌmɪd.əlˈeɪdʒd"
+   },
+   {
+    "en": "cheeky",
+    "zh": "頑皮的；淘氣的",
+    "ipa": "ˈtʃiː.ki"
+   },
+   {
+    "en": "hot-tempered",
+    "zh": "脾氣大的；易怒的",
+    "ipa": "ˌhɒtˈtem.pəd"
+   },
+   {
+    "en": "gentle",
+    "zh": "溫和的；輕柔的",
+    "ipa": "ˈdʒen.təl"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "be kind to somebody",
+    "zh": "對某人好；善待某人",
+    "ipa": "bi ˈkaɪnd tə ˈsʌm.bə.di"
+   },
+   {
+    "en": "be friendly to somebody",
+    "zh": "對某人友善",
+    "ipa": "bi ˈfrend.li tə ˈsʌm.bə.di"
+   },
+   {
+    "en": "be famous for",
+    "zh": "以……而聞名",
+    "ipa": "bi ˈfeɪ.məs fɔː"
+   },
+   {
+    "en": "be proud of somebody",
+    "zh": "以某人為榮",
+    "ipa": "bi ˈpraʊd əv ˈsʌm.bə.di"
+   },
+   {
+    "en": "be shy with strangers",
+    "zh": "在陌生人面前很害羞",
+    "ipa": "bi ˈʃaɪ wɪð ˈstreɪn.dʒəz"
+   },
+   {
+    "en": "be quiet in class",
+    "zh": "上課時保持安靜",
+    "ipa": "bi ˈkwaɪ.ət ɪn ˈklɑːs"
+   },
+   {
+    "en": "get on with somebody",
+    "zh": "和某人相處得不錯",
+    "ipa": "ˌɡet ˈɒn wɪð ˈsʌm.bə.di"
+   },
+   {
+    "en": "a hard-working student",
+    "zh": "勤勞的學生",
+    "ipa": "ə ˌhɑːdˈwɜː.kɪŋ ˈstjuː.dənt"
+   },
+   {
+    "en": "a polite answer",
+    "zh": "有禮貌的回答",
+    "ipa": "ə pəˈlaɪt ˈɑːn.sə"
+   },
+   {
+    "en": "a popular song",
+    "zh": "熱門歌曲",
+    "ipa": "ə ˈpɒp.jə.lə ˈsɒŋ"
+   },
+   {
+    "en": "a serious problem",
+    "zh": "嚴重的問題",
+    "ipa": "ə ˈsɪə.ri.əs ˈprɒb.ləm"
+   },
+   {
+    "en": "too busy to",
+    "zh": "忙到無法……",
+    "ipa": "tuː ˈbɪz.i tə"
+   },
+   {
+    "en": "so noisy that",
+    "zh": "吵到……的程度",
+    "ipa": "suː ˈnɔɪ.zi ðæt"
+   },
+   {
+    "en": "a smart idea",
+    "zh": "聰明的主意",
+    "ipa": "ə smɑːt aɪˈdɪə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My sister is very shy but she is very kind.",
+    "zh": "我的姊姊很害羞，但她非常善良。"
+   },
+   {
+    "en": "The famous singer from our city is very polite.",
+    "zh": "我們城市那位有名的歌手非常有禮貌。"
+   },
+   {
+    "en": "Please be quiet, the room is full of busy people.",
+    "zh": "請安靜，房間裡擠滿了忙碌的人。"
+   },
+   {
+    "en": "Tom is clever, but he is lazy in the mornings.",
+    "zh": "湯姆很聰明，但每天早上都很懶。"
+   },
+   {
+    "en": "The kids are noisy, but the babies are quiet.",
+    "zh": "孩子們很吵，但嬰兒很安靜。"
+   },
+   {
+    "en": "My boss is strict, serious and very hard-working.",
+    "zh": "我的老闆很嚴格、很嚴肅，而且非常勤勞。"
+   },
+   {
+    "en": "This song is popular with young people everywhere.",
+    "zh": "這首歌很受各地年輕人喜歡。"
+   },
+   {
+    "en": "What a smart and polite girl she is!",
+    "zh": "她是個多聰明又有禮貌的女孩啊！"
+   },
+   {
+    "en": "He is generous and friendly, so we all work with him.",
+    "zh": "他既大方又友善，所以我們都和他一起做事。"
+   },
+   {
+    "en": "My grandmother is elegant, tidy and very gentle.",
+    "zh": "我奶奶很優雅、很整潔，而且非常溫和。"
+   },
+   {
+    "en": "Please be patient, the doctor is very busy today.",
+    "zh": "請耐心一點，醫生今天很忙。"
+   },
+   {
+    "en": "A quiet, polite child is easy to teach.",
+    "zh": "安靜又有禮貌的孩子很好教。"
+   },
+   {
+    "en": "The naughty boys are too noisy for me.",
+    "zh": "那些調皮的男孩對我來說太吵了。"
+   },
+   {
+    "en": "She is proud of her clever and brave daughter.",
+    "zh": "她為自己聰明又勇敢的女兒感到驕傲。"
+   }
+  ],
+  "tips": [
+   "這組形容詞多以 -ful、-ive、-ous、-able 結尾，注意不要漏字或寫成 -full、-iveness。",
+   "容易弄混的是描述感受的兩種尾綴：前者說自己被這樣困住，後者說會讓別人產生這種感覺，一次要記兩個。",
+   "相反詞要成對背。安靜對吵鬧、勤勞對懶惰，練打字的時候順便把相反的那一個也打一次。"
+  ]
+ },
+ {
+  "id": "adj-emotion",
+  "icon": "🎭",
+  "name": "形容詞：情緒與感覺",
+  "nameEn": "Adjectives: Emotions & Feelings",
+  "summary": "exciting / boring / worried / pleased… 描述情緒與感受的形容詞。",
+  "note": "這組多半有 -ed / -ing 兩種形式，要一起記。",
+  "group": "形容詞",
+  "words": [
+   {
+    "en": "exciting",
+    "zh": "令人興奮的；刺激的",
+    "ipa": "ɪkˈsaɪ.tɪŋ"
+   },
+   {
+    "en": "frightened",
+    "zh": "害怕的；受驚的",
+    "ipa": "ˈfraɪ.tənd"
+   },
+   {
+    "en": "glad",
+    "zh": "高興的；樂意的",
+    "ipa": "ɡlæd"
+   },
+   {
+    "en": "interested",
+    "zh": "感興趣的；有興趣的",
+    "ipa": "ˈɪn.trə.stɪd"
+   },
+   {
+    "en": "pleased",
+    "zh": "滿意的；高興的",
+    "ipa": "pliːzd"
+   },
+   {
+    "en": "sad",
+    "zh": "難過的；傷心的",
+    "ipa": "sæd"
+   },
+   {
+    "en": "scary",
+    "zh": "嚇人的；可怕的",
+    "ipa": "ˈskeə.ri"
+   },
+   {
+    "en": "surprised",
+    "zh": "驚訝的；吃驚的",
+    "ipa": "səˈpraɪzd"
+   },
+   {
+    "en": "unhappy",
+    "zh": "不開心的；難過的",
+    "ipa": "ʌnˈhæp.i"
+   },
+   {
+    "en": "upset",
+    "zh": "難過的；心裡不舒服的",
+    "ipa": "ʌpˈset"
+   },
+   {
+    "en": "worried",
+    "zh": "擔心的；憂慮的",
+    "ipa": "ˈwʌ.r.id"
+   },
+   {
+    "en": "happy",
+    "zh": "開心的；快樂的",
+    "ipa": "ˈhæp.i"
+   },
+   {
+    "en": "angry",
+    "zh": "生氣的；憤怒的",
+    "ipa": "ˈæŋ.ɡri"
+   },
+   {
+    "en": "afraid",
+    "zh": "害怕的；恐懼的",
+    "ipa": "əˈfreɪd"
+   },
+   {
+    "en": "bored",
+    "zh": "無聊的；覺得悶",
+    "ipa": "bɔːd"
+   },
+   {
+    "en": "boring",
+    "zh": "無聊的；會讓人發悶的",
+    "ipa": "ˈbɔː.rɪŋ"
+   },
+   {
+    "en": "excited",
+    "zh": "興奮的；激動的",
+    "ipa": "ɪkˈsaɪ.tɪd"
+   },
+   {
+    "en": "surprising",
+    "zh": "令人驚訝的；出乎意料的",
+    "ipa": "səˈpraɪ.zɪŋ"
+   },
+   {
+    "en": "worrying",
+    "zh": "令人擔心的；令人憂慮的",
+    "ipa": "ˈwʌ.r.i.ɪŋ"
+   },
+   {
+    "en": "upsetting",
+    "zh": "令人難過的；令人不安的",
+    "ipa": "ʌpˈset.ɪŋ"
+   },
+   {
+    "en": "tiring",
+    "zh": "令人疲累的；累人的",
+    "ipa": "ˈtaɪə.rɪŋ"
+   },
+   {
+    "en": "annoying",
+    "zh": "惱人的；令人討厭的",
+    "ipa": "əˈnɔɪ.ɪŋ"
+   },
+   {
+    "en": "annoyed",
+    "zh": "惱怒的；被惹毛的",
+    "ipa": "əˈnɔɪd"
+   },
+   {
+    "en": "frightening",
+    "zh": "令人害怕的；嚇人的",
+    "ipa": "ˈfraɪ.tən.ɪŋ"
+   },
+   {
+    "en": "disappointed",
+    "zh": "失望的；沮喪的",
+    "ipa": "ˌdɪs.əˈpɔɪn.tɪd"
+   },
+   {
+    "en": "relaxed",
+    "zh": "放鬆的；輕鬆的",
+    "ipa": "rɪˈlækst"
+   },
+   {
+    "en": "nervous",
+    "zh": "緊張的；不安的",
+    "ipa": "ˈnɜː.vəs"
+   },
+   {
+    "en": "tense",
+    "zh": "緊張的；緊繃的",
+    "ipa": "tens"
+   },
+   {
+    "en": "lonely",
+    "zh": "孤單的；寂寞的",
+    "ipa": "ˈləʊn.li"
+   },
+   {
+    "en": "jealous",
+    "zh": "羨慕的；吃醋的",
+    "ipa": "ˈdʒel.əs"
+   },
+   {
+    "en": "embarrassed",
+    "zh": "尷尬的；不好意思的",
+    "ipa": "ɪmˈbær.əst"
+   },
+   {
+    "en": "amazed",
+    "zh": "驚訝的；大感驚訝的",
+    "ipa": "əˈmeɪzd"
+   },
+   {
+    "en": "amused",
+    "zh": "被逗笑的；覺得好笑的",
+    "ipa": "əˈmjuːzd"
+   },
+   {
+    "en": "confused",
+    "zh": "困惑的；弄糊塗的",
+    "ipa": "kənˈfjuːzd"
+   },
+   {
+    "en": "homesick",
+    "zh": "想家的；思鄉的",
+    "ipa": "ˈhəʊm.sɪk"
+   },
+   {
+    "en": "grateful",
+    "zh": "感激的；感謝的",
+    "ipa": "ˈɡreɪt.fəl"
+   },
+   {
+    "en": "cheerful",
+    "zh": "開朗的；開心的",
+    "ipa": "ˈtʃɪə.fəl"
+   },
+   {
+    "en": "satisfied",
+    "zh": "滿意的；心滿意足的",
+    "ipa": "ˈsæt.ɪs.faɪd"
+   },
+   {
+    "en": "shocked",
+    "zh": "震驚的；大為驚訝的",
+    "ipa": "ʃɒkt"
+   },
+   {
+    "en": "scared",
+    "zh": "害怕的；嚇到的",
+    "ipa": "skeəd"
+   },
+   {
+    "en": "delighted",
+    "zh": "非常開心的；極滿足的",
+    "ipa": "dɪˈlaɪ.tɪd"
+   },
+   {
+    "en": "thrilled",
+    "zh": "極其興奮的；興奮難抑的",
+    "ipa": "θrɪld"
+   },
+   {
+    "en": "miserable",
+    "zh": "悲慘的；可憐的",
+    "ipa": "ˈmɪz.ə.bəl"
+   },
+   {
+    "en": "hurt",
+    "zh": "受傷的；難過的",
+    "ipa": "hɜːt"
+   },
+   {
+    "en": "anxious",
+    "zh": "焦慮的；擔心的",
+    "ipa": "ˈæŋk.ʃəs"
+   },
+   {
+    "en": "thankful",
+    "zh": "感激的；感恩的",
+    "ipa": "ˈθæŋk.fəl"
+   },
+   {
+    "en": "eager",
+    "zh": "渴望的；急著要做的",
+    "ipa": "ˈiː.ɡə"
+   },
+   {
+    "en": "sorry",
+    "zh": "抱歉的；難過的",
+    "ipa": "ˈsɒr.i"
+   },
+   {
+    "en": "calm",
+    "zh": "平靜的；鎮靜的",
+    "ipa": "kɑːm"
+   },
+   {
+    "en": "sleepy",
+    "zh": "睏的；想睡的",
+    "ipa": "ˈsliː.pi"
+   },
+   {
+    "en": "moody",
+    "zh": "心情多變的；陰晴不定的",
+    "ipa": "ˈmuː.di"
+   },
+   {
+    "en": "optimistic",
+    "zh": "樂觀的；抱持希望的",
+    "ipa": "ˌɒp.tɪˈmɪs.tɪk"
+   },
+   {
+    "en": "pessimistic",
+    "zh": "悲觀的；悲觀失望的",
+    "ipa": "ˌpes.tɪˈmɪs.tɪk"
+   },
+   {
+    "en": "impatient",
+    "zh": "沒耐心的；不耐煩的",
+    "ipa": "ɪmˈpeɪ.ʃənt"
+   },
+   {
+    "en": "content",
+    "zh": "滿足的；滿意的",
+    "ipa": "kənˈtent"
+   },
+   {
+    "en": "concerned",
+    "zh": "擔心的；關切的",
+    "ipa": "kənˈsɜːnd"
+   },
+   {
+    "en": "frustrated",
+    "zh": "挫折的；氣餒的",
+    "ipa": "frʌˈstreɪ.tɪd"
+   },
+   {
+    "en": "ashamed",
+    "zh": "羞愧的；不好意思的",
+    "ipa": "əˈʃeɪmd"
+   },
+   {
+    "en": "guilty",
+    "zh": "內疚的；有罪的",
+    "ipa": "ˈɡɪl.ti"
+   },
+   {
+    "en": "gloomy",
+    "zh": "陰沉的；不開心的",
+    "ipa": "ˈɡluː.mi"
+   },
+   {
+    "en": "offended",
+    "zh": "被冒犯的；生氣的",
+    "ipa": "əˈfend.ɪd"
+   },
+   {
+    "en": "enthusiastic",
+    "zh": "熱血的；熱衷的",
+    "ipa": "ɪnˌθjuː.ziˈæs.tɪk"
+   },
+   {
+    "en": "sympathetic",
+    "zh": "同情的；有同理心的",
+    "ipa": "ˌsɪm.pəˈθet.ɪk"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "be afraid of",
+    "zh": "害怕……",
+    "ipa": "bi əˈfreɪd əv"
+   },
+   {
+    "en": "be worried about",
+    "zh": "擔心……",
+    "ipa": "bi ˈwʌ.r.id əˈbaʊt"
+   },
+   {
+    "en": "be excited about",
+    "zh": "為……感到興奮",
+    "ipa": "bi ɪkˈsaɪ.tɪd əˈbaʊt"
+   },
+   {
+    "en": "be interested in",
+    "zh": "對……感興趣",
+    "ipa": "bi ˈɪn.trə.stɪd ɪn"
+   },
+   {
+    "en": "be pleased with",
+    "zh": "對……感到滿意",
+    "ipa": "bi pliːzd wɪð"
+   },
+   {
+    "en": "be surprised at",
+    "zh": "對……感到驚訝",
+    "ipa": "bi səˈpraɪzd æt"
+   },
+   {
+    "en": "be angry with somebody",
+    "zh": "生某人的氣",
+    "ipa": "bi ˈæŋ.ɡri wɪð ˈsʌm.bə.di"
+   },
+   {
+    "en": "be sad about",
+    "zh": "為……感到難過",
+    "ipa": "bi ˈsæd əˈbaʊt"
+   },
+   {
+    "en": "be happy about",
+    "zh": "為……感到開心",
+    "ipa": "bi ˈhæp.i əˈbaʊt"
+   },
+   {
+    "en": "get bored with",
+    "zh": "對……感到無聊",
+    "ipa": "ˌɡet ˈbɔːd wɪð"
+   },
+   {
+    "en": "be glad to",
+    "zh": "很樂意……",
+    "ipa": "bi ˈɡlæd tə"
+   },
+   {
+    "en": "feel upset about",
+    "zh": "為……感到難過",
+    "ipa": "fiːl ʌpˈset əˈbaʊt"
+   },
+   {
+    "en": "be disappointed with",
+    "zh": "對……感到失望",
+    "ipa": "bi ˌdɪs.əˈpɔɪn.tɪd wɪð"
+   },
+   {
+    "en": "make somebody happy",
+    "zh": "讓某人開心",
+    "ipa": "ˌmeɪk ˈsʌm.bə.di ˈhæp.i"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I was bored and unhappy, so I called my friend.",
+    "zh": "我又無聊又不開心，所以打電話給朋友。"
+   },
+   {
+    "en": "The children were excited about their exciting school trip.",
+    "zh": "孩子們對這趟刺激的校外教學很興奮。"
+   },
+   {
+    "en": "My sister was angry with me and she looked upset.",
+    "zh": "我姊姊生我的氣，看起來很難過。"
+   },
+   {
+    "en": "The little boy was frightened but his sister was not afraid.",
+    "zh": "那個小男孩很害怕，但他姊姊一點也不怕。"
+   },
+   {
+    "en": "I was pleased and happy when I passed the exam.",
+    "zh": "我通過考試的時候又滿意又開心。"
+   },
+   {
+    "en": "We were surprised and scared by the noise upstairs.",
+    "zh": "樓上的聲音讓我們又驚訝又害怕。"
+   },
+   {
+    "en": "Everyone was interested in the happy ending of the film.",
+    "zh": "大家都對這部電影快樂的結局很感興趣。"
+   },
+   {
+    "en": "That film was boring and we felt bored.",
+    "zh": "那部電影很無聊，我們也覺得很無聊。"
+   },
+   {
+    "en": "The terrible news shocked us and made us worried.",
+    "zh": "這則可怕的消息讓我們震驚又擔心。"
+   },
+   {
+    "en": "She was upset and angry after losing her new bag.",
+    "zh": "她弄丟了新包包之後，又難過又生氣。"
+   },
+   {
+    "en": "We are grateful and happy about the good news.",
+    "zh": "我們因為這個好消息又感激又開心。"
+   },
+   {
+    "en": "The little cat was lonely and sad in the empty house.",
+    "zh": "那隻小貓在空房子裡又孤單又難過。"
+   },
+   {
+    "en": "I was nervous before the exam, but I felt calm after.",
+    "zh": "考試前我很緊張，但之後就平靜下來了。"
+   },
+   {
+    "en": "The story was frightening and it made us all worried.",
+    "zh": "那個故事很嚇人，讓我們都很擔心。"
+   }
+  ],
+  "tips": [
+   "這組最大的陷阱是 -ed 與 -ing 兩種詞尾：說自己被這種感覺困住就用 -ed（如 bored、worried），形容會讓別人產生這種感覺的事才用 -ing（如 boring、worrying）。",
+   "描述狀態的形容詞（開心、累、睏）前面直接放主詞就好，不用再加強調的字；真正要特別寫的是搭配用的片語。",
+   "相反詞要成對記：開心對難過、高興對生氣、害怕對勇敢，練打字的時候一起複習最快。"
+  ]
+ },
+ {
+  "id": "adj-things",
+  "icon": "🔍",
+  "name": "形容詞：形容物",
+  "nameEn": "Adjectives: Describing Things",
+  "summary": "big / heavy / beautiful / dangerous… 說一樣東西怎樣的形容詞。",
+  "note": "注意 big / large、little / small 這類同義詞的差別。",
+  "group": "形容詞",
+  "words": [
+   {
+    "en": "big",
+    "zh": "大的；巨大的",
+    "ipa": "bɪɡ"
+   },
+   {
+    "en": "dangerous",
+    "zh": "危險的；有危險的",
+    "ipa": "ˈdeɪn.dʒə.rəs"
+   },
+   {
+    "en": "deep",
+    "zh": "深的；深邃的",
+    "ipa": "diːp"
+   },
+   {
+    "en": "delicious",
+    "zh": "美味的；好吃的",
+    "ipa": "dɪˈlɪʃ.əs"
+   },
+   {
+    "en": "dirty",
+    "zh": "髒的；不乾淨的",
+    "ipa": "ˈdɜː.ti"
+   },
+   {
+    "en": "easy",
+    "zh": "容易的；輕鬆的",
+    "ipa": "ˈiː.zi"
+   },
+   {
+    "en": "electric",
+    "zh": "電的；電力的",
+    "ipa": "ɪˈlek.trɪk"
+   },
+   {
+    "en": "fresh",
+    "zh": "新鮮的；剛摘下來的",
+    "ipa": "freʃ"
+   },
+   {
+    "en": "full",
+    "zh": "滿的；裝滿的",
+    "ipa": "fʊl"
+   },
+   {
+    "en": "hard",
+    "zh": "硬的；難的；辛苦的",
+    "ipa": "hɑːd"
+   },
+   {
+    "en": "heavy",
+    "zh": "重的；沉重的",
+    "ipa": "ˈhev.i"
+   },
+   {
+    "en": "high",
+    "zh": "高的；高度的",
+    "ipa": "haɪ"
+   },
+   {
+    "en": "large",
+    "zh": "大的；巨大的",
+    "ipa": "lɑːdʒ"
+   },
+   {
+    "en": "little",
+    "zh": "小的；一點點的",
+    "ipa": "ˈlɪt.əl"
+   },
+   {
+    "en": "low",
+    "zh": "低的；矮的",
+    "ipa": "ləʊ"
+   },
+   {
+    "en": "modern",
+    "zh": "現代的；新式的",
+    "ipa": "ˈməʊ.dən"
+   },
+   {
+    "en": "new",
+    "zh": "新的；新來的",
+    "ipa": "njuː"
+   },
+   {
+    "en": "old",
+    "zh": "老的；舊的；……歲的",
+    "ipa": "əʊld"
+   },
+   {
+    "en": "poor",
+    "zh": "貧窮的；可憐的",
+    "ipa": "pɔː"
+   },
+   {
+    "en": "poor thing",
+    "zh": "真可憐喔！（感嘆用語，不是形容詞）",
+    "ipa": "ˌpɔː ˈθɪŋ"
+   },
+   {
+    "en": "poor you",
+    "zh": "你好可憐喔！",
+    "ipa": "ˌpɔː ˈjuː"
+   },
+   {
+    "en": "rich",
+    "zh": "有錢的；富有的；豐富的",
+    "ipa": "rɪtʃ"
+   },
+   {
+    "en": "safe",
+    "zh": "安全的；平安的",
+    "ipa": "seɪf"
+   },
+   {
+    "en": "short",
+    "zh": "短的；矮的；短的（時間）",
+    "ipa": "ʃɔːt"
+   },
+   {
+    "en": "simple",
+    "zh": "簡單的；容易的",
+    "ipa": "ˈsɪm.pəl"
+   },
+   {
+    "en": "small",
+    "zh": "小的；細小的",
+    "ipa": "smɔːl"
+   },
+   {
+    "en": "soft",
+    "zh": "柔軟的；軟的",
+    "ipa": "sɒft"
+   },
+   {
+    "en": "striped",
+    "zh": "有條紋的",
+    "ipa": "straɪpt"
+   },
+   {
+    "en": "strong",
+    "zh": "強壯的；結實的；濃的",
+    "ipa": "strɒŋ"
+   },
+   {
+    "en": "tall",
+    "zh": "高的（人或物）",
+    "ipa": "tɔːl"
+   },
+   {
+    "en": "thin",
+    "zh": "薄的；瘦的；細的",
+    "ipa": "θɪn"
+   },
+   {
+    "en": "wide",
+    "zh": "寬的；寬廣的",
+    "ipa": "waɪd"
+   },
+   {
+    "en": "wooden",
+    "zh": "木製的；木頭的",
+    "ipa": "ˈwʊd.ən"
+   },
+   {
+    "en": "hot",
+    "zh": "熱的；燙的",
+    "ipa": "hɒt"
+   },
+   {
+    "en": "cold",
+    "zh": "冷的；寒冷的",
+    "ipa": "kəʊld"
+   },
+   {
+    "en": "warm",
+    "zh": "溫暖的；暖和的",
+    "ipa": "wɔːm"
+   },
+   {
+    "en": "cool",
+    "zh": "涼的；涼爽的",
+    "ipa": "kuːl"
+   },
+   {
+    "en": "clean",
+    "zh": "乾淨的；清潔的",
+    "ipa": "kliːn"
+   },
+   {
+    "en": "wet",
+    "zh": "溼的；潮溼的",
+    "ipa": "wet"
+   },
+   {
+    "en": "dry",
+    "zh": "乾的；乾燥的",
+    "ipa": "draɪ"
+   },
+   {
+    "en": "sweet",
+    "zh": "甜的；好聞的",
+    "ipa": "swiːt"
+   },
+   {
+    "en": "sour",
+    "zh": "酸的；酸溜溜的",
+    "ipa": "ˈsaʊə"
+   },
+   {
+    "en": "salty",
+    "zh": "鹹的；鹹味很重的",
+    "ipa": "ˈsɔːl.ti"
+   },
+   {
+    "en": "fat",
+    "zh": "胖的；肥的",
+    "ipa": "fæt"
+   },
+   {
+    "en": "beautiful",
+    "zh": "美麗的；漂亮的",
+    "ipa": "ˈbjuː.tɪ.fəl"
+   },
+   {
+    "en": "ugly",
+    "zh": "醜的；難看的",
+    "ipa": "ˈʌɡ.li"
+   },
+   {
+    "en": "lovely",
+    "zh": "可愛的；美好的",
+    "ipa": "ˈlʌv.li"
+   },
+   {
+    "en": "sharp",
+    "zh": "尖銳的；銳利的",
+    "ipa": "ʃɑːp"
+   },
+   {
+    "en": "smooth",
+    "zh": "平滑的；光滑的",
+    "ipa": "smuːð"
+   },
+   {
+    "en": "rough",
+    "zh": "粗糙的；不平滑的",
+    "ipa": "rʌf"
+   },
+   {
+    "en": "round",
+    "zh": "圓的；圓形的",
+    "ipa": "raʊnd"
+   },
+   {
+    "en": "light",
+    "zh": "輕的；明亮的",
+    "ipa": "laɪt"
+   },
+   {
+    "en": "dark",
+    "zh": "暗的；黑暗的",
+    "ipa": "dɑːk"
+   },
+   {
+    "en": "bright",
+    "zh": "明亮的；光亮的",
+    "ipa": "braɪt"
+   },
+   {
+    "en": "shiny",
+    "zh": "發亮的；有光澤的",
+    "ipa": "ˈʃaɪ.ni"
+   },
+   {
+    "en": "plastic",
+    "zh": "塑膠的；塑膠製的",
+    "ipa": "ˈplæs.tɪk"
+   },
+   {
+    "en": "metal",
+    "zh": "金屬的；金屬",
+    "ipa": "ˈmet.əl"
+   },
+   {
+    "en": "leather",
+    "zh": "皮革的；皮革製的",
+    "ipa": "ˈleð.ə"
+   },
+   {
+    "en": "cotton",
+    "zh": "棉的；棉布",
+    "ipa": "ˈkɒt.ən"
+   },
+   {
+    "en": "woollen",
+    "zh": "羊毛的；羊毛製的",
+    "ipa": "ˈwʊl.ən"
+   },
+   {
+    "en": "golden",
+    "zh": "金黃的；金色的",
+    "ipa": "ˈɡəʊl.dən"
+   },
+   {
+    "en": "ancient",
+    "zh": "古代的；古老的",
+    "ipa": "ˈeɪn.ʃənt"
+   },
+   {
+    "en": "huge",
+    "zh": "巨大的；龐大的",
+    "ipa": "hjuːdʒ"
+   },
+   {
+    "en": "tiny",
+    "zh": "極小的；微小的",
+    "ipa": "ˈtaɪ.ni"
+   },
+   {
+    "en": "giant",
+    "zh": "巨大的；巨人的",
+    "ipa": "ˈdʒaɪ.ənt"
+   },
+   {
+    "en": "narrow",
+    "zh": "狹窄的；窄的",
+    "ipa": "ˈnær.əʊ"
+   },
+   {
+    "en": "empty",
+    "zh": "空的；空著的",
+    "ipa": "ˈemp.ti"
+   },
+   {
+    "en": "broken",
+    "zh": "壞掉的；破的",
+    "ipa": "ˈbrəʊ.kən"
+   },
+   {
+    "en": "thick",
+    "zh": "厚的；濃的",
+    "ipa": "θɪk"
+   },
+   {
+    "en": "weak",
+    "zh": "弱的；虛弱的",
+    "ipa": "wiːk"
+   },
+   {
+    "en": "stiff",
+    "zh": "硬的；僵硬的",
+    "ipa": "stɪf"
+   },
+   {
+    "en": "slippery",
+    "zh": "滑的；容易滑倒的",
+    "ipa": "ˈslɪp.ər.i"
+   },
+   {
+    "en": "bumpy",
+    "zh": "凹凸不平的；顛簸的",
+    "ipa": "ˈbʌm.pi"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "big enough to",
+    "zh": "夠大到可以……",
+    "ipa": "ˌbɪɡ ɪˈnʌf tə"
+   },
+   {
+    "en": "too heavy to lift",
+    "zh": "重到舉不起來",
+    "ipa": "tuː ˈhev.i tə ˈlɪft"
+   },
+   {
+    "en": "a little dirty",
+    "zh": "有點髒的",
+    "ipa": "ə ˈlɪt.əl ˈdɜː.ti"
+   },
+   {
+    "en": "very clean",
+    "zh": "非常乾淨",
+    "ipa": "ˌveə.ri ˈkliːn"
+   },
+   {
+    "en": "fresh fruit",
+    "zh": "新鮮水果",
+    "ipa": "ˌfreʃ ˈfruːt"
+   },
+   {
+    "en": "delicious food",
+    "zh": "美味的食物",
+    "ipa": "dɪˈlɪʃ.əs ˈfuːd"
+   },
+   {
+    "en": "a dangerous road",
+    "zh": "危險的馬路",
+    "ipa": "ə ˈdeɪn.dʒə.rəs ˈrəʊd"
+   },
+   {
+    "en": "an electric kettle",
+    "zh": "電熱水壺",
+    "ipa": "ən ɪˈlek.trɪk ˈket.əl"
+   },
+   {
+    "en": "a wooden chair",
+    "zh": "木製的椅子",
+    "ipa": "ə ˈwʊd.ən ˈtʃeə"
+   },
+   {
+    "en": "a metal box",
+    "zh": "金屬盒子",
+    "ipa": "ə ˈmet.əl ˈbɒks"
+   },
+   {
+    "en": "a striped T-shirt",
+    "zh": "條紋上衣",
+    "ipa": "ə ˌstraɪpt ˈtiː.ʃɜːt"
+   },
+   {
+    "en": "a tall building",
+    "zh": "高樓大廈",
+    "ipa": "ə ˈtɔːl ˈbɪl.dɪŋ"
+   },
+   {
+    "en": "a short story",
+    "zh": "短篇小說",
+    "ipa": "ə ˈʃɔːt ˈstɔː.ri"
+   },
+   {
+    "en": "a wide road",
+    "zh": "寬廣的馬路",
+    "ipa": "ə ˌwaɪd ˈrəʊd"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My new phone is small, light and easy to use.",
+    "zh": "我的新手機又小又輕，而且很好用。"
+   },
+   {
+    "en": "The bread was fresh and the soup was delicious.",
+    "zh": "麵包很新鮮，湯也很好喝。"
+   },
+   {
+    "en": "Don't touch the wet floor, because it is dangerous.",
+    "zh": "別碰那個溼地板，因為很危險。"
+   },
+   {
+    "en": "My shoes are dirty, so I will clean them.",
+    "zh": "我的鞋子很髒，所以我要把它們洗乾淨。"
+   },
+   {
+    "en": "This wooden table is heavy but very strong.",
+    "zh": "這張木桌很重，但非常結實。"
+   },
+   {
+    "en": "The blue bag is small, but the black one is large.",
+    "zh": "藍色包包很小，但黑色的那個很大。"
+   },
+   {
+    "en": "A tall tree stands behind our old house.",
+    "zh": "一棵高高的樹立在我們老房子的後面。"
+   },
+   {
+    "en": "The hot soup is too salty for me.",
+    "zh": "那個很燙的湯對我來說太鹹了。"
+   },
+   {
+    "en": "The road is narrow, but it is very safe.",
+    "zh": "這條路很狹窄，但很安全。"
+   },
+   {
+    "en": "I bought a modern electric kettle for my mother.",
+    "zh": "我幫媽媽買了一台現代的電熱水壺。"
+   },
+   {
+    "en": "My shirt is white with thin blue stripes.",
+    "zh": "我的襯衫是白色的，上面有細藍條紋。"
+   },
+   {
+    "en": "The book is short, but the story is very simple.",
+    "zh": "這本書很薄，但故事很簡單。"
+   },
+   {
+    "en": "The box was empty and the old lock was broken.",
+    "zh": "盒子是空的，而那個舊鎖已經壞了。"
+   },
+   {
+    "en": "The deep blue sea looked beautiful this morning.",
+    "zh": "今天早上那深藍色的大海美極了。"
+   }
+  ],
+  "tips": [
+   "形容詞放在名詞前面時，中間不能插別的字：可以說「一個很大的車子」，但不能說「一個大的很高車子」。",
+   "low 與 high 是一對，short 與 tall、thin 與 thick 也一樣；這幾組相反詞放在一起背最不容易搞混。",
+   "放在名詞前面時，中間不能插別的字。例如可以說一個很大的車子，不能說一個很大車的這種順序。"
+  ]
+ }
+]

@@ -1,0 +1,1380 @@
+[
+ {
+  "id": "noun-clothes-extra",
+  "icon": "👕",
+  "name": "名詞：衣物配件（補充）",
+  "nameEn": "Nouns: Clothes & Accessories",
+  "summary": "把衣物、鞋襪、配件一次補齊：jacket / jeans / wallet / perfume…",
+  "note": "leather / wool / fur / metal 這類材質名詞前通常不加 a。",
+  "group": "衣物與配件",
+  "words": [
+   {
+    "en": "apron",
+    "zh": "圍裙",
+    "ipa": "ˈeɪ.prən"
+   },
+   {
+    "en": "backpack",
+    "zh": "背包",
+    "ipa": "ˈbæk.pæk"
+   },
+   {
+    "en": "bag",
+    "zh": "袋子；提包",
+    "ipa": "bæɡ"
+   },
+   {
+    "en": "balloon",
+    "zh": "氣球",
+    "ipa": "bəˈluːn"
+   },
+   {
+    "en": "bathing suit",
+    "zh": "泳衣",
+    "ipa": "ˈbɑː.ðɪŋ suːt"
+   },
+   {
+    "en": "belt",
+    "zh": "皮帶；腰帶",
+    "ipa": "belt"
+   },
+   {
+    "en": "blouse",
+    "zh": "襯衫（女裝）",
+    "ipa": "blaʊz"
+   },
+   {
+    "en": "boot",
+    "zh": "靴子",
+    "ipa": "buːt"
+   },
+   {
+    "en": "bow",
+    "zh": "蝴蝶結",
+    "ipa": "baʊ"
+   },
+   {
+    "en": "bracelet",
+    "zh": "手鍊",
+    "ipa": "ˈbreɪs.lət"
+   },
+   {
+    "en": "button",
+    "zh": "鈕扣；按鈕",
+    "ipa": "ˈbʌt.ən"
+   },
+   {
+    "en": "cap",
+    "zh": "鴨舌帽",
+    "ipa": "kæp"
+   },
+   {
+    "en": "cloth",
+    "zh": "布；抹布",
+    "ipa": "klɒθ"
+   },
+   {
+    "en": "clothes",
+    "zh": "衣服",
+    "ipa": "kləʊðz"
+   },
+   {
+    "en": "coat",
+    "zh": "外套；大衣",
+    "ipa": "kəʊt"
+   },
+   {
+    "en": "cotton",
+    "zh": "棉；棉布",
+    "ipa": "ˈkɒt.ən"
+   },
+   {
+    "en": "costume",
+    "zh": "服裝；戲服",
+    "ipa": "ˈkɒs.tjuːm"
+   },
+   {
+    "en": "denim",
+    "zh": "牛仔布",
+    "ipa": "ˈden.ɪm"
+   },
+   {
+    "en": "dress",
+    "zh": "洋裝；連身裙",
+    "ipa": "dres"
+   },
+   {
+    "en": "earring",
+    "zh": "耳環",
+    "ipa": "ˈɪə.rɪŋ"
+   },
+   {
+    "en": "fabric",
+    "zh": "布料；織物",
+    "ipa": "ˈfæb.rɪk"
+   },
+   {
+    "en": "flip-flops",
+    "zh": "夾腳拖鞋",
+    "ipa": "ˈflɪp.flɒps"
+   },
+   {
+    "en": "fur",
+    "zh": "毛皮",
+    "ipa": "fɜː"
+   },
+   {
+    "en": "glasses",
+    "zh": "眼鏡",
+    "ipa": "ˈɡlɑː.sɪz"
+   },
+   {
+    "en": "glove",
+    "zh": "手套",
+    "ipa": "ɡlʌv"
+   },
+   {
+    "en": "handbag",
+    "zh": "手提包",
+    "ipa": "ˈhænd.bæɡ"
+   },
+   {
+    "en": "hat",
+    "zh": "帽子",
+    "ipa": "hæt"
+   },
+   {
+    "en": "high heels",
+    "zh": "高跟鞋",
+    "ipa": "ˌhaɪ ˈhiːlz"
+   },
+   {
+    "en": "hoodie",
+    "zh": "連帽外套",
+    "ipa": "ˈhʊd.i"
+   },
+   {
+    "en": "jacket",
+    "zh": "夾克",
+    "ipa": "ˈdʒæk.ɪt"
+   },
+   {
+    "en": "jeans",
+    "zh": "牛仔褲",
+    "ipa": "dʒiːnz"
+   },
+   {
+    "en": "jewellery",
+    "zh": "珠寶首飾",
+    "ipa": "ˈdʒuː.əl.ri"
+   },
+   {
+    "en": "jumper",
+    "zh": "毛衣",
+    "ipa": "ˈdʒʌm.pə"
+   },
+   {
+    "en": "leather",
+    "zh": "皮革",
+    "ipa": "ˈleð.ə"
+   },
+   {
+    "en": "make-up",
+    "zh": "化妝品；化妝",
+    "ipa": "ˈmeɪk.ʌp"
+   },
+   {
+    "en": "necklace",
+    "zh": "項鍊",
+    "ipa": "ˈnek.ləs"
+   },
+   {
+    "en": "perfume",
+    "zh": "香水",
+    "ipa": "ˈpɜː.fjuːm"
+   },
+   {
+    "en": "pocket",
+    "zh": "口袋",
+    "ipa": "ˈpɒk.ɪt"
+   },
+   {
+    "en": "purse",
+    "zh": "錢包（女用）",
+    "ipa": "pɜːs"
+   },
+   {
+    "en": "pyjamas",
+    "zh": "睡衣",
+    "ipa": "pɪˈdʒɑː.məz"
+   },
+   {
+    "en": "raincoat",
+    "zh": "雨衣",
+    "ipa": "ˈreɪn.kəʊt"
+   },
+   {
+    "en": "ring",
+    "zh": "戒指；環",
+    "ipa": "rɪŋ"
+   },
+   {
+    "en": "sandals",
+    "zh": "涼鞋",
+    "ipa": "ˈsæn.dəlz"
+   },
+   {
+    "en": "scarf",
+    "zh": "圍巾",
+    "ipa": "skɑːf"
+   },
+   {
+    "en": "shirt",
+    "zh": "襯衫",
+    "ipa": "ʃɜːt"
+   },
+   {
+    "en": "shoe",
+    "zh": "鞋子",
+    "ipa": "ʃuː"
+   },
+   {
+    "en": "shorts",
+    "zh": "短褲",
+    "ipa": "ʃɔːts"
+   },
+   {
+    "en": "silk",
+    "zh": "絲；絲綢",
+    "ipa": "sɪlk"
+   },
+   {
+    "en": "skirt",
+    "zh": "裙子",
+    "ipa": "skɜːt"
+   },
+   {
+    "en": "sock",
+    "zh": "襪子",
+    "ipa": "sɒk"
+   },
+   {
+    "en": "suit",
+    "zh": "西裝；套裝",
+    "ipa": "suːt"
+   },
+   {
+    "en": "sunglasses",
+    "zh": "太陽眼鏡",
+    "ipa": "ˈsʌn.ɡlɑː.sɪz"
+   },
+   {
+    "en": "sweater",
+    "zh": "毛衣",
+    "ipa": "ˈswet.ə"
+   },
+   {
+    "en": "swimming costume",
+    "zh": "泳衣",
+    "ipa": "ˈswɪm.ɪŋ ˈkɒs.tjuːm"
+   },
+   {
+    "en": "swimsuit",
+    "zh": "泳裝",
+    "ipa": "ˈswɪm.suːt"
+   },
+   {
+    "en": "thread",
+    "zh": "線；縫線",
+    "ipa": "θred"
+   },
+   {
+    "en": "tie",
+    "zh": "領帶",
+    "ipa": "taɪ"
+   },
+   {
+    "en": "tights",
+    "zh": "緊身褲",
+    "ipa": "taɪts"
+   },
+   {
+    "en": "trousers",
+    "zh": "長褲",
+    "ipa": "ˈtraʊ.zəz"
+   },
+   {
+    "en": "T-shirt",
+    "zh": "圓領衫",
+    "ipa": "ˈtiː.ʃɜːt"
+   },
+   {
+    "en": "uniform",
+    "zh": "制服",
+    "ipa": "ˈjuː.nɪ.fɔːm"
+   },
+   {
+    "en": "waistcoat",
+    "zh": "西裝背心",
+    "ipa": "ˈweɪs.kəʊt"
+   },
+   {
+    "en": "wallet",
+    "zh": "皮夾",
+    "ipa": "ˈwɒl.ɪt"
+   },
+   {
+    "en": "watch",
+    "zh": "手錶；觀看",
+    "ipa": "wɒtʃ"
+   },
+   {
+    "en": "wool",
+    "zh": "羊毛",
+    "ipa": "wʊl"
+   },
+   {
+    "en": "zip",
+    "zh": "拉鍊",
+    "ipa": "zɪp"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a pair of shoes",
+    "zh": "一雙鞋",
+    "ipa": "ə peər əv ˈʃuːz"
+   },
+   {
+    "en": "a pair of socks",
+    "zh": "一雙襪子",
+    "ipa": "ə peər əv ˈsɒks"
+   },
+   {
+    "en": "a pair of trousers",
+    "zh": "一條長褲",
+    "ipa": "ə peər əv ˈtraʊ.zəz"
+   },
+   {
+    "en": "put on a jacket",
+    "zh": "穿上夾克",
+    "ipa": "ˌpʊt ˈɒn ə ˈdʒæk.ɪt"
+   },
+   {
+    "en": "take off your shoes",
+    "zh": "脫掉鞋子",
+    "ipa": "ˌteɪk ˈɒf jɔː ˈʃuːz"
+   },
+   {
+    "en": "wear a raincoat",
+    "zh": "穿著雨衣",
+    "ipa": "ˌweər ə ˈreɪn.kəʊt"
+   },
+   {
+    "en": "try on a dress",
+    "zh": "試穿洋裝",
+    "ipa": "ˌtraɪ ˈɒn ə dres"
+   },
+   {
+    "en": "get dressed",
+    "zh": "穿好衣服",
+    "ipa": "ˌɡet ˈdrest"
+   },
+   {
+    "en": "in uniform",
+    "zh": "穿著制服",
+    "ipa": "ɪn ˈjuː.nɪ.fɔːm"
+   },
+   {
+    "en": "wear glasses",
+    "zh": "戴眼鏡",
+    "ipa": "ˌweər ˈɡlɑː.sɪz"
+   },
+   {
+    "en": "a leather belt",
+    "zh": "皮質皮帶",
+    "ipa": "ə ˈleð.ə belt"
+   },
+   {
+    "en": "shopping for clothes",
+    "zh": "買衣服",
+    "ipa": "ˈʃɒp.ɪŋ fɔː kləʊðz"
+   },
+   {
+    "en": "a wool jumper",
+    "zh": "羊毛毛衣",
+    "ipa": "ə wʊl ˈdʒʌm.pə"
+   },
+   {
+    "en": "hang up your coat",
+    "zh": "把外套掛起來",
+    "ipa": "ˌhæŋ ˈʌp jɔː ˈkəʊt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "She wears a black jacket and a wool scarf to work.",
+    "zh": "她上班穿著黑色夾克和羊毛圍巾。"
+   },
+   {
+    "en": "My new jeans are too long, so I wear my black trousers.",
+    "zh": "我新買的牛仔褲太長了，所以我穿黑色長褲。"
+   },
+   {
+    "en": "It is cold today, so put on your raincoat and a hat.",
+    "zh": "今天很冷，所以穿上雨衣和帽子。"
+   },
+   {
+    "en": "I put my wet gloves and scarf near the heater.",
+    "zh": "我把溼手套和圍巾放在暖氣旁邊晾乾。"
+   },
+   {
+    "en": "Please wear a swimming costume, because we are going to the pool.",
+    "zh": "請穿泳衣，因為我們要去游泳池。"
+   },
+   {
+    "en": "The shop sells T-shirts, socks and hats at low prices.",
+    "zh": "這家店以低價販賣圓領衫、襪子和帽子。"
+   },
+   {
+    "en": "My little brother needs a new pair of shoes for school.",
+    "zh": "我弟弟上學需要一雙新鞋。"
+   },
+   {
+    "en": "She is wearing a beautiful necklace and a gold ring.",
+    "zh": "她戴著一條美麗的項鍊和一枚金戒指。"
+   },
+   {
+    "en": "Do not forget your wallet and your glasses when you leave.",
+    "zh": "離開的時候別忘了帶皮夾和眼鏡。"
+   },
+   {
+    "en": "This coat is made of soft wool, so it is very warm.",
+    "zh": "這件外套是柔軟的羊毛做的，所以很暖和。"
+   },
+   {
+    "en": "We wear a blue uniform every Monday at school.",
+    "zh": "我們每週一在學校都穿藍色制服。"
+   },
+   {
+    "en": "Take off your wet shoes before you walk on the clean floor.",
+    "zh": "在走過乾淨的地板之前，先把濕鞋子脫掉。"
+   },
+   {
+    "en": "He wears a leather belt with his black jeans and a white shirt.",
+    "zh": "他穿黑色牛仔褲和白色襯衫，腰上繫著皮帶。"
+   },
+   {
+    "en": "My grandmother always wears glasses and a simple gold ring.",
+    "zh": "我奶奶總是戴著眼鏡和一枚素面的金戒指。"
+   }
+  ],
+  "tips": [
+   "褲子類名詞沒有單數形式：jeans、shorts、trousers、tights 永遠是複數，要配「一雙」「一條」才自然。",
+   "材質名詞（leather、wool、fur、cotton、silk）前面不加冠詞，要說 a leather belt、a wool jumper，不是 a leather。",
+   "put on 是「穿上」、take off 是「脫下」，wear 是「一直穿著」的狀態，三個詞的分界要練熟。"
+  ]
+ },
+ {
+  "id": "noun-body",
+  "icon": "🫀",
+  "name": "名詞：身體與健康",
+  "nameEn": "Nouns: Body & Health",
+  "summary": "finger / shoulder / stomach / headache… 身體部位與不適。",
+  "note": "身體部位前通常不加定冠詞：my head 疼，不是 my the head。",
+  "group": "身體與健康",
+  "words": [
+   {
+    "en": "ankle",
+    "zh": "腳踝",
+    "ipa": "ˈæŋ.kəl"
+   },
+   {
+    "en": "arm",
+    "zh": "手臂",
+    "ipa": "ɑːm"
+   },
+   {
+    "en": "back",
+    "zh": "背；後背",
+    "ipa": "bæk"
+   },
+   {
+    "en": "backache",
+    "zh": "背痛",
+    "ipa": "ˈbæk.eɪk"
+   },
+   {
+    "en": "bandage",
+    "zh": "繃帶",
+    "ipa": "ˈbæn.dɪdʒ"
+   },
+   {
+    "en": "beard",
+    "zh": "鬍鬚",
+    "ipa": "bɪəd"
+   },
+   {
+    "en": "blood",
+    "zh": "血",
+    "ipa": "blʌd"
+   },
+   {
+    "en": "body",
+    "zh": "身體",
+    "ipa": "ˈbɒd.i"
+   },
+   {
+    "en": "bone",
+    "zh": "骨頭",
+    "ipa": "bəʊn"
+   },
+   {
+    "en": "brain",
+    "zh": "腦",
+    "ipa": "breɪn"
+   },
+   {
+    "en": "cheek",
+    "zh": "臉頰",
+    "ipa": "tʃiːk"
+   },
+   {
+    "en": "chest",
+    "zh": "胸部",
+    "ipa": "tʃest"
+   },
+   {
+    "en": "chin",
+    "zh": "下巴",
+    "ipa": "tʃɪn"
+   },
+   {
+    "en": "cold",
+    "zh": "感冒；著涼",
+    "ipa": "kəʊld"
+   },
+   {
+    "en": "doctor",
+    "zh": "醫生",
+    "ipa": "ˈdɒk.tə"
+   },
+   {
+    "en": "ear",
+    "zh": "耳朵",
+    "ipa": "ɪə"
+   },
+   {
+    "en": "elbow",
+    "zh": "手肘",
+    "ipa": "ˈel.bəʊ"
+   },
+   {
+    "en": "eyebrow",
+    "zh": "眉毛",
+    "ipa": "ˈaɪ.braʊ"
+   },
+   {
+    "en": "eyelash",
+    "zh": "睫毛",
+    "ipa": "ˈaɪ.læʃ"
+   },
+   {
+    "en": "eye",
+    "zh": "眼睛",
+    "ipa": "aɪ"
+   },
+   {
+    "en": "face",
+    "zh": "臉",
+    "ipa": "feɪs"
+   },
+   {
+    "en": "finger",
+    "zh": "手指",
+    "ipa": "ˈfɪŋ.ɡə"
+   },
+   {
+    "en": "foot",
+    "zh": "腳",
+    "ipa": "fʊt"
+   },
+   {
+    "en": "forehead",
+    "zh": "額頭",
+    "ipa": "ˈfɔː.rid"
+   },
+   {
+    "en": "hand",
+    "zh": "手",
+    "ipa": "hænd"
+   },
+   {
+    "en": "hair",
+    "zh": "頭髮",
+    "ipa": "heə"
+   },
+   {
+    "en": "headache",
+    "zh": "頭痛",
+    "ipa": "ˈhed.eɪk"
+   },
+   {
+    "en": "health",
+    "zh": "健康",
+    "ipa": "helθ"
+   },
+   {
+    "en": "heart",
+    "zh": "心臟",
+    "ipa": "hɑːt"
+   },
+   {
+    "en": "hip",
+    "zh": "髖部",
+    "ipa": "hɪp"
+   },
+   {
+    "en": "hospital",
+    "zh": "醫院",
+    "ipa": "ˈhɒs.pɪ.təl"
+   },
+   {
+    "en": "jaw",
+    "zh": "下顎",
+    "ipa": "dʒɔː"
+   },
+   {
+    "en": "knee",
+    "zh": "膝蓋",
+    "ipa": "niː"
+   },
+   {
+    "en": "leg",
+    "zh": "腿",
+    "ipa": "leɡ"
+   },
+   {
+    "en": "lip",
+    "zh": "嘴唇",
+    "ipa": "lɪp"
+   },
+   {
+    "en": "lung",
+    "zh": "肺",
+    "ipa": "lʌŋ"
+   },
+   {
+    "en": "medicine",
+    "zh": "藥",
+    "ipa": "ˈmed.ɪ.sn"
+   },
+   {
+    "en": "mouth",
+    "zh": "嘴巴",
+    "ipa": "maʊθ"
+   },
+   {
+    "en": "muscle",
+    "zh": "肌肉",
+    "ipa": "ˈmʌs.kəl"
+   },
+   {
+    "en": "nail",
+    "zh": "指甲",
+    "ipa": "neɪl"
+   },
+   {
+    "en": "neck",
+    "zh": "脖子",
+    "ipa": "nek"
+   },
+   {
+    "en": "nose",
+    "zh": "鼻子",
+    "ipa": "nəʊz"
+   },
+   {
+    "en": "nurse",
+    "zh": "護士",
+    "ipa": "nɜːs"
+   },
+   {
+    "en": "pain",
+    "zh": "疼痛",
+    "ipa": "peɪn"
+   },
+   {
+    "en": "palm",
+    "zh": "手掌",
+    "ipa": "pɑːm"
+   },
+   {
+    "en": "rib",
+    "zh": "肋骨",
+    "ipa": "rɪb"
+   },
+   {
+    "en": "shoulder",
+    "zh": "肩膀",
+    "ipa": "ˈʃəʊl.də"
+   },
+   {
+    "en": "sick",
+    "zh": "生病的",
+    "ipa": "sɪk"
+   },
+   {
+    "en": "skin",
+    "zh": "皮膚",
+    "ipa": "skɪn"
+   },
+   {
+    "en": "spine",
+    "zh": "脊椎",
+    "ipa": "spaɪn"
+   },
+   {
+    "en": "stomach",
+    "zh": "胃；肚子",
+    "ipa": "ˈstʌm.ək"
+   },
+   {
+    "en": "stomach ache",
+    "zh": "肚子痛",
+    "ipa": "ˈstʌm.ək eɪk"
+   },
+   {
+    "en": "thigh",
+    "zh": "大腿",
+    "ipa": "θaɪ"
+   },
+   {
+    "en": "throat",
+    "zh": "喉嚨",
+    "ipa": "θrəʊt"
+   },
+   {
+    "en": "thumb",
+    "zh": "拇指",
+    "ipa": "θʌm"
+   },
+   {
+    "en": "toe",
+    "zh": "腳趾",
+    "ipa": "təʊ"
+   },
+   {
+    "en": "tongue",
+    "zh": "舌頭",
+    "ipa": "tʌŋ"
+   },
+   {
+    "en": "tooth",
+    "zh": "牙齒",
+    "ipa": "tuːθ"
+   },
+   {
+    "en": "toothache",
+    "zh": "牙痛",
+    "ipa": "ˈtuː.θeɪk"
+   },
+   {
+    "en": "waist",
+    "zh": "腰",
+    "ipa": "weɪst"
+   },
+   {
+    "en": "wrist",
+    "zh": "手腕",
+    "ipa": "rɪst"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "have a headache",
+    "zh": "頭痛",
+    "ipa": "hæv ə ˈhed.eɪk"
+   },
+   {
+    "en": "an ache in my back",
+    "zh": "背痛",
+    "ipa": "ən eɪk ɪn maɪ ˈbæk"
+   },
+   {
+    "en": "hurt my knee",
+    "zh": "膝蓋受傷",
+    "ipa": "hɜːt maɪ ˈniː"
+   },
+   {
+    "en": "a bad toothache",
+    "zh": "嚴重的牙痛",
+    "ipa": "ə ˈbæd ˈtuː.θeɪk"
+   },
+   {
+    "en": "cut my finger",
+    "zh": "割到手指",
+    "ipa": "ˌkʌt maɪ ˈfɪŋ.ɡə"
+   },
+   {
+    "en": "a pain in my stomach",
+    "zh": "肚子痛",
+    "ipa": "ə ˈpeɪn ɪn maɪ ˈstʌm.ək"
+   },
+   {
+    "en": "wash your hands",
+    "zh": "洗手",
+    "ipa": "ˈwɒʃ jɔː hændz"
+   },
+   {
+    "en": "brush your teeth",
+    "zh": "刷牙",
+    "ipa": "ˈbrʌʃ jɔː ˈtiːθ"
+   },
+   {
+    "en": "see a doctor",
+    "zh": "看醫生",
+    "ipa": "ˈsiː ə ˈdɒk.tə"
+   },
+   {
+    "en": "take some medicine",
+    "zh": "吃藥",
+    "ipa": "ˌteɪk sʌm ˈmed.ɪ.sn"
+   },
+   {
+    "en": "have a temperature",
+    "zh": "發燒",
+    "ipa": "ˌhæv ə ˈtem.prə.tʃə"
+   },
+   {
+    "en": "feel sick",
+    "zh": "覺得不舒服",
+    "ipa": "ˈfiːl ˈsɪk"
+   },
+   {
+    "en": "stay in bed",
+    "zh": "臥床休息",
+    "ipa": "ˈsteɪ ɪn ˈbed"
+   },
+   {
+    "en": "in good health",
+    "zh": "身體健康",
+    "ipa": "ɪn ˌɡʊd ˈhelθ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I have a terrible headache and my head feels heavy.",
+    "zh": "我頭痛得厲害，覺得腦袋很重。"
+   },
+   {
+    "en": "She hurt her knee when she fell off her bike.",
+    "zh": "她從腳踏車上摔下來，膝蓋受傷了。"
+   },
+   {
+    "en": "Wash your hands before you eat your dinner.",
+    "zh": "吃晚餐前先把雙手洗乾淨。"
+   },
+   {
+    "en": "The doctor said I must stay in bed today.",
+    "zh": "醫生說我今天必須臥床休息。"
+   },
+   {
+    "en": "My little brother has a cold and a headache.",
+    "zh": "我弟弟又感冒又頭痛。"
+   },
+   {
+    "en": "He broke his arm, so he cannot play football.",
+    "zh": "他手臂骨折了，所以不能踢足球。"
+   },
+   {
+    "en": "Brush your teeth twice a day for healthy teeth.",
+    "zh": "每天刷兩次牙，牙齒才會健康。"
+   },
+   {
+    "en": "My grandmother has beautiful long white hair.",
+    "zh": "我奶奶有一頭美麗的長白髮。"
+   },
+   {
+    "en": "The baby closed her eyes and opened her mouth.",
+    "zh": "寶寶閉上眼睛，然後張開嘴巴。"
+   },
+   {
+    "en": "I wear glasses because I cannot see the board clearly.",
+    "zh": "我戴眼鏡，因為我看不清楚黑板。"
+   },
+   {
+    "en": "This medicine is bitter, but it helps my stomach.",
+    "zh": "這種藥很苦，但對我的胃有幫助。"
+   },
+   {
+    "en": "He put a bandage on his finger after the fall.",
+    "zh": "他摔倒之後，用繃帶包住手指。"
+   },
+   {
+    "en": "Her face is round, and she has big brown eyes.",
+    "zh": "她臉圓圓的，有一雙棕色的大眼睛。"
+   },
+   {
+    "en": "A pain in my chest makes me feel sick today.",
+    "zh": "今天胸口痛讓我覺得不舒服。"
+   }
+  ],
+  "tips": [
+   "身體部位前面通常不加定冠詞：說 my head hurts、my knee hurts，不要寫成 my the head。",
+   "複數要特別小心：foot 變 feet、tooth 變 teeth 是不規則的，finger、shoulder 則照規則加 s。",
+   "冠詞看音不看字：a headache、a toothache 用 a，但 an ache 用 an，因為 ache 是母音音素開頭。"
+  ]
+ },
+ {
+  "id": "noun-nature-weather",
+  "icon": "🌦️",
+  "name": "名詞：大自然與天象",
+  "nameEn": "Nouns: Nature & Sky",
+  "summary": "mountain / river / cloud / space / wildlife… 自然景觀與天上的東西。",
+  "note": "weather 不可數；談天氣好壞用 good / bad，不用 many。",
+  "group": "自然與天象",
+  "words": [
+   {
+    "en": "air",
+    "zh": "空氣",
+    "ipa": "eə"
+   },
+   {
+    "en": "beach",
+    "zh": "海灘",
+    "ipa": "biːtʃ"
+   },
+   {
+    "en": "branch",
+    "zh": "樹枝",
+    "ipa": "brɑːntʃ"
+   },
+   {
+    "en": "breeze",
+    "zh": "微風",
+    "ipa": "briːz"
+   },
+   {
+    "en": "cave",
+    "zh": "洞穴",
+    "ipa": "keɪv"
+   },
+   {
+    "en": "cliff",
+    "zh": "懸崖",
+    "ipa": "klɪf"
+   },
+   {
+    "en": "cloud",
+    "zh": "雲",
+    "ipa": "klaʊd"
+   },
+   {
+    "en": "coral",
+    "zh": "珊瑚",
+    "ipa": "ˈkɒr.əl"
+   },
+   {
+    "en": "desert",
+    "zh": "沙漠",
+    "ipa": "ˈdez.ət"
+   },
+   {
+    "en": "earth",
+    "zh": "地球",
+    "ipa": "ɜːθ"
+   },
+   {
+    "en": "field",
+    "zh": "田野",
+    "ipa": "fiːld"
+   },
+   {
+    "en": "flower",
+    "zh": "花",
+    "ipa": "ˈflaʊ.ə"
+   },
+   {
+    "en": "fog",
+    "zh": "霧",
+    "ipa": "fɒɡ"
+   },
+   {
+    "en": "frost",
+    "zh": "霜",
+    "ipa": "frɒst"
+   },
+   {
+    "en": "grass",
+    "zh": "草",
+    "ipa": "ɡrɑːs"
+   },
+   {
+    "en": "hill",
+    "zh": "小丘",
+    "ipa": "hɪl"
+   },
+   {
+    "en": "ice",
+    "zh": "冰",
+    "ipa": "aɪs"
+   },
+   {
+    "en": "iceberg",
+    "zh": "冰山",
+    "ipa": "ˈaɪs.bɜːɡ"
+   },
+   {
+    "en": "ice cream",
+    "zh": "冰淇淋",
+    "ipa": "ˈaɪs kriːm"
+   },
+   {
+    "en": "ice skating",
+    "zh": "溜冰",
+    "ipa": "ˈaɪs ˌskeɪ.tɪŋ"
+   },
+   {
+    "en": "island",
+    "zh": "島",
+    "ipa": "ˈaɪ.lənd"
+   },
+   {
+    "en": "lake",
+    "zh": "湖",
+    "ipa": "leɪk"
+   },
+   {
+    "en": "landscape",
+    "zh": "風景；景色",
+    "ipa": "ˈlænd.skeɪp"
+   },
+   {
+    "en": "leaf",
+    "zh": "葉子",
+    "ipa": "liːf"
+   },
+   {
+    "en": "lightning",
+    "zh": "閃電",
+    "ipa": "ˈlaɪt.nɪŋ"
+   },
+   {
+    "en": "moon",
+    "zh": "月亮",
+    "ipa": "muːn"
+   },
+   {
+    "en": "mountain",
+    "zh": "山；高山",
+    "ipa": "ˈmaʊn.tɪn"
+   },
+   {
+    "en": "nature",
+    "zh": "大自然",
+    "ipa": "ˈneɪ.tʃə"
+   },
+   {
+    "en": "nest",
+    "zh": "鳥巢；窩",
+    "ipa": "nest"
+   },
+   {
+    "en": "ocean",
+    "zh": "海洋",
+    "ipa": "ˈəʊ.ʃn"
+   },
+   {
+    "en": "planet",
+    "zh": "行星",
+    "ipa": "ˈplæn.ɪt"
+   },
+   {
+    "en": "plant",
+    "zh": "植物",
+    "ipa": "plɑːnt"
+   },
+   {
+    "en": "pond",
+    "zh": "池塘",
+    "ipa": "pɒnd"
+   },
+   {
+    "en": "rain",
+    "zh": "雨",
+    "ipa": "reɪn"
+   },
+   {
+    "en": "rainbow",
+    "zh": "彩虹",
+    "ipa": "ˈreɪn.bəʊ"
+   },
+   {
+    "en": "river",
+    "zh": "河流",
+    "ipa": "ˈrɪv.ə"
+   },
+   {
+    "en": "rock",
+    "zh": "岩石",
+    "ipa": "rɒk"
+   },
+   {
+    "en": "root",
+    "zh": "樹根",
+    "ipa": "ruːt"
+   },
+   {
+    "en": "sand",
+    "zh": "沙",
+    "ipa": "sænd"
+   },
+   {
+    "en": "sea",
+    "zh": "海",
+    "ipa": "siː"
+   },
+   {
+    "en": "seed",
+    "zh": "種子",
+    "ipa": "siːd"
+   },
+   {
+    "en": "sky",
+    "zh": "天空",
+    "ipa": "skaɪ"
+   },
+   {
+    "en": "snow",
+    "zh": "雪",
+    "ipa": "snəʊ"
+   },
+   {
+    "en": "soil",
+    "zh": "土壤",
+    "ipa": "sɔɪl"
+   },
+   {
+    "en": "space",
+    "zh": "太空；空間",
+    "ipa": "speɪs"
+   },
+   {
+    "en": "star",
+    "zh": "星星",
+    "ipa": "stɑː"
+   },
+   {
+    "en": "storm",
+    "zh": "暴風雨",
+    "ipa": "stɔːm"
+   },
+   {
+    "en": "sun",
+    "zh": "太陽",
+    "ipa": "sʌn"
+   },
+   {
+    "en": "sunrise",
+    "zh": "日出",
+    "ipa": "ˈsʌn.raɪz"
+   },
+   {
+    "en": "sunshine",
+    "zh": "陽光",
+    "ipa": "ˈsʌn.ʃaɪn"
+   },
+   {
+    "en": "temperature",
+    "zh": "溫度",
+    "ipa": "ˈtem.prə.tʃə"
+   },
+   {
+    "en": "thunder",
+    "zh": "雷聲",
+    "ipa": "ˈθʌn.də"
+   },
+   {
+    "en": "tree",
+    "zh": "樹",
+    "ipa": "triː"
+   },
+   {
+    "en": "valley",
+    "zh": "山谷",
+    "ipa": "ˈvæl.i"
+   },
+   {
+    "en": "volcano",
+    "zh": "火山",
+    "ipa": "vɒlˈkeɪ.nəʊ"
+   },
+   {
+    "en": "water",
+    "zh": "水",
+    "ipa": "ˈwɔː.tə"
+   },
+   {
+    "en": "wave",
+    "zh": "波浪",
+    "ipa": "weɪv"
+   },
+   {
+    "en": "weather",
+    "zh": "天氣",
+    "ipa": "ˈweð.ə"
+   },
+   {
+    "en": "wind",
+    "zh": "風",
+    "ipa": "wɪnd"
+   },
+   {
+    "en": "wing",
+    "zh": "翅膀",
+    "ipa": "wɪŋ"
+   },
+   {
+    "en": "wildlife",
+    "zh": "野生動物",
+    "ipa": "ˈwaɪld.laɪf"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go for a walk in nature",
+    "zh": "到大自然裡散步",
+    "ipa": "ˌɡəʊ fər ə ˈwɔːk ɪn ˈneɪ.tʃə"
+   },
+   {
+    "en": "in the sunshine",
+    "zh": "在陽光下",
+    "ipa": "ɪn ðə ˈsʌn.ʃaɪn"
+   },
+   {
+    "en": "go ice skating",
+    "zh": "去溜冰",
+    "ipa": "ˌɡəʊ ˈaɪs ˌskeɪ.tɪŋ"
+   },
+   {
+    "en": "eat ice cream",
+    "zh": "吃冰淇淋",
+    "ipa": "ˈiːt ˈaɪs kriːm"
+   },
+   {
+    "en": "watch the stars at night",
+    "zh": "晚上看星星",
+    "ipa": "ˈwɒtʃ ðə ˈstɑːz ət ˈnaɪt"
+   },
+   {
+    "en": "under the rainbow",
+    "zh": "在彩虹下面",
+    "ipa": "ˈʌn.də ðə ˈreɪn.bəʊ"
+   },
+   {
+    "en": "a rainbow after the storm",
+    "zh": "暴風雨後的彩虹",
+    "ipa": "ə ˈreɪn.bəʊ ˈɑːf.tə ðə ˈstɔːm"
+   },
+   {
+    "en": "in the middle of the forest",
+    "zh": "在森林中央",
+    "ipa": "ɪn ðə ˈmɪd.əl əv ðə ˈfɒr.ɪst"
+   },
+   {
+    "en": "on top of the mountain",
+    "zh": "在山的頂端",
+    "ipa": "ɒn ˌtɒp əv ðə ˈmaʊn.tɪn"
+   },
+   {
+    "en": "by the sea",
+    "zh": "在海邊",
+    "ipa": "baɪ ðə ˈsiː"
+   },
+   {
+    "en": "heavy rain",
+    "zh": "大雨",
+    "ipa": "ˌhev.i ˈreɪn"
+   },
+   {
+    "en": "strong wind",
+    "zh": "強風",
+    "ipa": "ˌstrɒŋ ˈwɪnd"
+   },
+   {
+    "en": "wild animals in the park",
+    "zh": "公園裡的野生動物",
+    "ipa": "ˌwaɪld ˈæn.ɪ.məlz ɪn ðə ˈpɑːk"
+   },
+   {
+    "en": "protect nature",
+    "zh": "保護大自然",
+    "ipa": "prəˈtekt ˈneɪ.tʃə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The weather is beautiful today, so we are going for a walk.",
+    "zh": "今天天氣很好，所以我們要去散步。"
+   },
+   {
+    "en": "There are white clouds in the blue sky above our school.",
+    "zh": "我們學校上方的藍天上飄著白雲。"
+   },
+   {
+    "en": "Last winter we went ice skating on the frozen lake.",
+    "zh": "去年冬天我們在結冰的湖上溜冰。"
+   },
+   {
+    "en": "A big bird is building a nest in the tall tree.",
+    "zh": "一隻大鳥正在高高的樹上築巢。"
+   },
+   {
+    "en": "After the storm, a beautiful rainbow appeared over the hill.",
+    "zh": "暴風雨過後，一道美麗的彩虹出現在山丘上。"
+   },
+   {
+    "en": "My favourite season is winter because I love the snow.",
+    "zh": "我最喜歡的季節是冬天，因為我喜歡下雪。"
+   },
+   {
+    "en": "We often see wild animals and birds in this nature park.",
+    "zh": "我們常在這座自然公園看到野生動物和鳥。"
+   },
+   {
+    "en": "The temperature is thirty degrees, so the sun is very strong.",
+    "zh": "溫度是三十度，所以太陽很烈。"
+   },
+   {
+    "en": "Fish swim in the river and play near the rocks.",
+    "zh": "魚在河裡游來游去，還在岩石附近玩耍。"
+   },
+   {
+    "en": "He bought two ice creams at the shop near the beach.",
+    "zh": "他在海灘附近的商店買了兩個冰淇淋。"
+   },
+   {
+    "en": "Space is very big, and there are millions of stars.",
+    "zh": "太空非常廣大，有數百萬顆星星。"
+   },
+   {
+    "en": "Thick fog covered the mountain early this morning.",
+    "zh": "今天一大早，濃霧籠罩了整座山。"
+   },
+   {
+    "en": "We planted a small tree and a flower in the garden.",
+    "zh": "我們在花園裡種了一棵小樹和一朵花。"
+   },
+   {
+    "en": "The moon and the planet look beautiful from the top of the hill.",
+    "zh": "從山頂上看，月亮和行星都很美麗。"
+   }
+  ],
+  "tips": [
+   "weather 是不可數名詞：天氣很好要說 the weather is good 或 nice，不能說 a good weather，也不能用 many。",
+   "mountain、river、hill 泛指一類地形時不加 the，指特定那一座才加，例如 we climbed the mountain。",
+   "ice 在這類片語中通常不可數（ice cream、ice skating），想說一塊冰要說 a piece of ice，不能寫 an ice。"
+  ]
+ }
+]

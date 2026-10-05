@@ -1,0 +1,550 @@
+[
+ {
+  "id": "work-jobs",
+  "icon": "💼",
+  "name": "工作與職業",
+  "nameEn": "Work and Jobs",
+  "summary": "職業名稱、工作地點和上班相關的字。",
+  "words": [
+   {
+    "en": "actor",
+    "zh": "演員",
+    "ipa": "ˈæk.tə"
+   },
+   {
+    "en": "artist",
+    "zh": "藝術家",
+    "ipa": "ˈɑː.tɪst"
+   },
+   {
+    "en": "boss",
+    "zh": "老闆",
+    "ipa": "bɒs"
+   },
+   {
+    "en": "cleaner",
+    "zh": "清潔員",
+    "ipa": "ˈkliː.nə"
+   },
+   {
+    "en": "coach",
+    "zh": "教練",
+    "ipa": "kəʊtʃ"
+   },
+   {
+    "en": "cook",
+    "zh": "廚師",
+    "ipa": "kʊk"
+   },
+   {
+    "en": "customer",
+    "zh": "顧客",
+    "ipa": "ˈkʌs.tə.mə"
+   },
+   {
+    "en": "dentist",
+    "zh": "牙醫",
+    "ipa": "ˈden.tɪst"
+   },
+   {
+    "en": "driver",
+    "zh": "司機",
+    "ipa": "ˈdraɪ.və"
+   },
+   {
+    "en": "engineer",
+    "zh": "工程師",
+    "ipa": "ˌen.dʒɪˈnɪə"
+   },
+   {
+    "en": "farmer",
+    "zh": "農夫",
+    "ipa": "ˈfɑː.mə"
+   },
+   {
+    "en": "job",
+    "zh": "工作",
+    "ipa": "dʒɒb"
+   },
+   {
+    "en": "journalist",
+    "zh": "記者",
+    "ipa": "ˈdʒɜː.nə.lɪst"
+   },
+   {
+    "en": "manager",
+    "zh": "經理",
+    "ipa": "ˈmæn.ɪ.dʒə"
+   },
+   {
+    "en": "mechanic",
+    "zh": "機械技師",
+    "ipa": "məˈkæn.ɪk"
+   },
+   {
+    "en": "musician",
+    "zh": "音樂家",
+    "ipa": "mjuˈzɪʃ.ən"
+   },
+   {
+    "en": "nurse",
+    "zh": "護士",
+    "ipa": "nɜːs"
+   },
+   {
+    "en": "painter",
+    "zh": "油漆工",
+    "ipa": "ˈpeɪn.tə"
+   },
+   {
+    "en": "photographer",
+    "zh": "攝影師",
+    "ipa": "fəˈtɒɡ.rə.fə"
+   },
+   {
+    "en": "pilot",
+    "zh": "機師",
+    "ipa": "ˈpaɪ.lət"
+   },
+   {
+    "en": "police officer",
+    "zh": "警察",
+    "ipa": "pəˈliːs ˈɒf.ɪ.sə"
+   },
+   {
+    "en": "receptionist",
+    "zh": "接待員",
+    "ipa": "rɪˈsep.ʃən.ɪst"
+   },
+   {
+    "en": "secretary",
+    "zh": "秘書",
+    "ipa": "ˈsek.rə.tri"
+   },
+   {
+    "en": "teacher",
+    "zh": "老師",
+    "ipa": "ˈtiː.tʃə"
+   },
+   {
+    "en": "waiter",
+    "zh": "服務生",
+    "ipa": "ˈweɪ.tə"
+   },
+   {
+    "en": "worker",
+    "zh": "工人",
+    "ipa": "ˈwɜː.kə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go to work",
+    "zh": "去上班",
+    "ipa": "ɡəʊ tə wɜːk"
+   },
+   {
+    "en": "a full-time job",
+    "zh": "全職工作",
+    "ipa": "ə ˌfʊl ˈtaɪm dʒɒb"
+   },
+   {
+    "en": "a part-time job",
+    "zh": "兼職工作",
+    "ipa": "ə ˌpɑːt ˈtaɪm dʒɒb"
+   },
+   {
+    "en": "get a job",
+    "zh": "找到工作",
+    "ipa": "ɡet ə dʒɒb"
+   },
+   {
+    "en": "look for a job",
+    "zh": "找工作",
+    "ipa": "luːk fər ə dʒɒb"
+   },
+   {
+    "en": "ask the boss",
+    "zh": "問老闆",
+    "ipa": "ɑːsk ðə bɒs"
+   },
+   {
+    "en": "work hard",
+    "zh": "努力工作",
+    "ipa": "wɜːk hɑːd"
+   },
+   {
+    "en": "work in an office",
+    "zh": "在辦公室工作",
+    "ipa": "wɜːk ɪn ən ˈɒf.ɪs"
+   },
+   {
+    "en": "start work",
+    "zh": "開始上班",
+    "ipa": "stɑːt wɜːk"
+   },
+   {
+    "en": "finish work",
+    "zh": "下班",
+    "ipa": "ˈfɪn.ɪʃ wɜːk"
+   },
+   {
+    "en": "take a break",
+    "zh": "休息一下",
+    "ipa": "teɪk ə breɪk"
+   },
+   {
+    "en": "talk to the manager",
+    "zh": "和經理說話",
+    "ipa": "tɔːk tə ðə ˈmæn.ɪ.dʒə"
+   },
+   {
+    "en": "earn money",
+    "zh": "賺錢",
+    "ipa": "ɜːn ˈmʌn.i"
+   },
+   {
+    "en": "a job interview",
+    "zh": "工作面試",
+    "ipa": "ə dʒɒb ˈɪn.tə.vjuː"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My mother is a nurse and she works hard.",
+    "zh": "我媽媽是護士，她工作很努力。"
+   },
+   {
+    "en": "My father is a waiter in a small restaurant.",
+    "zh": "我爸爸是餐廳的服務生。"
+   },
+   {
+    "en": "The police officer helped a tourist yesterday.",
+    "zh": "那位警察昨天幫助了一位旅客。"
+   },
+   {
+    "en": "Our manager is friendly to every worker here.",
+    "zh": "我們的經理對每位員工都很親切。"
+   },
+   {
+    "en": "She got a job in a clothes factory.",
+    "zh": "她在一家成衣工廠找到工作。"
+   },
+   {
+    "en": "The secretary answers the phone every morning.",
+    "zh": "秘書每天早上接電話。"
+   },
+   {
+    "en": "He is a mechanic and he likes his work.",
+    "zh": "他是機械技師，他喜歡自己的工作。"
+   },
+   {
+    "en": "The engineer checks the machine before lunch.",
+    "zh": "工程師在午餐前檢查機器。"
+   },
+   {
+    "en": "I want to be a teacher at a primary school.",
+    "zh": "我想當小學的老師。"
+   },
+   {
+    "en": "The journalist writes about life in this city.",
+    "zh": "那位記者寫這座城市的生活。"
+   },
+   {
+    "en": "The pilot flies to different countries every week.",
+    "zh": "那位機師每週飛往不同的國家。"
+   },
+   {
+    "en": "The farmer gets up very early every day.",
+    "zh": "那位農夫每天很早就起床。"
+   },
+   {
+    "en": "Please ask your boss about the new job.",
+    "zh": "請向你的老闆詢問新工作的事。"
+   },
+   {
+    "en": "The artist draws pictures of the old town.",
+    "zh": "那位畫家畫老城區的畫。"
+   }
+  ],
+  "tips": [
+   "職業名稱多半是長詞，打完一個音節再接下一個，節奏會更穩。",
+   "主詞換成「他」「她」「它」時，動詞詞尾別漏打。",
+   "兩個字或三個字組成的職業名稱，中間的空格要確實打出來。"
+  ]
+ },
+ {
+  "id": "word-sets",
+  "icon": "🔢",
+  "name": "基礎詞集",
+  "nameEn": "Word sets",
+  "summary": "Cambridge A2 Key 附錄一的必背詞組：數字、星期、月份、國家與洲。",
+  "words": [
+   {
+    "en": "one",
+    "zh": "一",
+    "ipa": "wʌn"
+   },
+   {
+    "en": "hundred",
+    "zh": "一百",
+    "ipa": "ˈhʌn.drəd"
+   },
+   {
+    "en": "Monday",
+    "zh": "星期一",
+    "ipa": "ˈmʌn.deɪ"
+   },
+   {
+    "en": "Tuesday",
+    "zh": "星期二",
+    "ipa": "ˈtjuːz.deɪ"
+   },
+   {
+    "en": "Wednesday",
+    "zh": "星期三",
+    "ipa": "ˈwenz.deɪ"
+   },
+   {
+    "en": "Thursday",
+    "zh": "星期四",
+    "ipa": "ˈθɜːz.deɪ"
+   },
+   {
+    "en": "Friday",
+    "zh": "星期五",
+    "ipa": "ˈfraɪ.deɪ"
+   },
+   {
+    "en": "Saturday",
+    "zh": "星期六",
+    "ipa": "ˈsæt.ə.deɪ"
+   },
+   {
+    "en": "Sunday",
+    "zh": "星期日",
+    "ipa": "ˈsʌn.deɪ"
+   },
+   {
+    "en": "January",
+    "zh": "一月",
+    "ipa": "ˈdʒæn.ju.ə.r.i"
+   },
+   {
+    "en": "February",
+    "zh": "二月",
+    "ipa": "ˈfeb.jər.i"
+   },
+   {
+    "en": "July",
+    "zh": "七月",
+    "ipa": "dʒuˈlaɪ"
+   },
+   {
+    "en": "December",
+    "zh": "十二月",
+    "ipa": "dɪˈsem.bər"
+   },
+   {
+    "en": "spring",
+    "zh": "春天",
+    "ipa": "sprɪŋ"
+   },
+   {
+    "en": "summer",
+    "zh": "夏天",
+    "ipa": "ˈsʌm.ə"
+   },
+   {
+    "en": "autumn",
+    "zh": "秋天",
+    "ipa": "ˈɔː.təm"
+   },
+   {
+    "en": "winter",
+    "zh": "冬天",
+    "ipa": "ˈwɪn.tə"
+   },
+   {
+    "en": "Brazil",
+    "zh": "巴西",
+    "ipa": "brəˈzɪl"
+   },
+   {
+    "en": "Brazilian",
+    "zh": "巴西人",
+    "ipa": "brəˈzɪl.i.ən"
+   },
+   {
+    "en": "China",
+    "zh": "中國",
+    "ipa": "ˈtʃaɪ.nə"
+   },
+   {
+    "en": "Chinese",
+    "zh": "中國人",
+    "ipa": "ˌtʃaɪˈnaɪz"
+   },
+   {
+    "en": "Japan",
+    "zh": "日本",
+    "ipa": "dʒəˈpæn"
+   },
+   {
+    "en": "Japanese",
+    "zh": "日本人",
+    "ipa": "ˌdʒæp.əˈniːz"
+   },
+   {
+    "en": "Africa",
+    "zh": "非洲",
+    "ipa": "ˈæf.rɪ.kə"
+   },
+   {
+    "en": "Asia",
+    "zh": "亞洲",
+    "ipa": "ˈeɪ.ʒə"
+   },
+   {
+    "en": "Europe",
+    "zh": "歐洲",
+    "ipa": "ˈjʊə.rəp"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "next Monday",
+    "zh": "下週一",
+    "ipa": "nekst ˈmʌn.deɪ"
+   },
+   {
+    "en": "last Monday",
+    "zh": "上週一",
+    "ipa": "lɑːst ˈmʌn.deɪ"
+   },
+   {
+    "en": "next week",
+    "zh": "下週",
+    "ipa": "nekst wiːk"
+   },
+   {
+    "en": "every day",
+    "zh": "每天",
+    "ipa": "ˈev.ri.deɪ"
+   },
+   {
+    "en": "every morning",
+    "zh": "每天早上",
+    "ipa": "ˈev.ri ˈmɔː.nɪŋ"
+   },
+   {
+    "en": "two weeks ago",
+    "zh": "兩週前",
+    "ipa": "tuː wiːks əˈɡəʊ"
+   },
+   {
+    "en": "three months ago",
+    "zh": "三個月前",
+    "ipa": "θriː mʌnθs əˈɡəʊ"
+   },
+   {
+    "en": "last year",
+    "zh": "去年",
+    "ipa": "lɑːst jɪə"
+   },
+   {
+    "en": "next year",
+    "zh": "明年",
+    "ipa": "nekst jɪə"
+   },
+   {
+    "en": "the year before last",
+    "zh": "前年",
+    "ipa": "ðə jɪə bɪˌfɔː lɑːst"
+   },
+   {
+    "en": "in January",
+    "zh": "在一月",
+    "ipa": "ɪn ˈdʒæn.ju.ə.r.i"
+   },
+   {
+    "en": "in December",
+    "zh": "在十二月",
+    "ipa": "ɪn dɪˈsem.bər"
+   },
+   {
+    "en": "this summer",
+    "zh": "這個夏天",
+    "ipa": "ðɪs ˈsʌm.ə"
+   },
+   {
+    "en": "at the weekend",
+    "zh": "在週末",
+    "ipa": "ət ðə ˌwiːkˈend"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We go to the beach every summer with my family.",
+    "zh": "我們每年夏天和家人一起去海灘。"
+   },
+   {
+    "en": "School starts again on the first of September.",
+    "zh": "學校九月一日又開學了。"
+   },
+   {
+    "en": "Last year we travelled to China in the winter.",
+    "zh": "去年我們在冬天去了中國。"
+   },
+   {
+    "en": "She was born in Japan and speaks Japanese.",
+    "zh": "她出生在日本，也會說日語。"
+   },
+   {
+    "en": "My older brother lives in Brazil and loves it.",
+    "zh": "我哥哥住在巴西，他很喜歡那裡。"
+   },
+   {
+    "en": "We visited Europe two years ago in July.",
+    "zh": "我們兩年前在七月去歐洲旅遊。"
+   },
+   {
+    "en": "The course begins on Monday and ends on Friday.",
+    "zh": "課程星期一開始，星期五結束。"
+   },
+   {
+    "en": "I drink tea every morning before I leave.",
+    "zh": "我每天早上出門前都喝茶。"
+   },
+   {
+    "en": "He is Brazilian and his wife is Chinese.",
+    "zh": "他是巴西人，他的妻子是中國人。"
+   },
+   {
+    "en": "Asia is the largest continent in the world.",
+    "zh": "亞洲是世界上最大的洲。"
+   },
+   {
+    "en": "There were a hundred people at the concert.",
+    "zh": "演唱會上有一百個人。"
+   },
+   {
+    "en": "Next Monday the new term begins for us.",
+    "zh": "我們的新學期下週一開始。"
+   },
+   {
+    "en": "Christmas Day is always in December every year.",
+    "zh": "聖誕節總是在十二月。"
+   },
+   {
+    "en": "The weather is really cold here in winter.",
+    "zh": "這裡的冬天真的很冷。"
+   }
+  ],
+  "tips": [
+   "星期與月份的名詞開頭要大寫，打字時要特別留意。",
+   "星期三和星期四的開頭都有相同的音，要多練習幾次。",
+   "國家名稱和人民的名稱要分清楚，兩者的詞尾不同。"
+  ]
+ }
+]

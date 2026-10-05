@@ -1,0 +1,550 @@
+[
+ {
+  "id": "places-buildings",
+  "icon": "🏛️",
+  "name": "場所：建築",
+  "nameEn": "Places: Buildings",
+  "summary": "建築物：銀行、學校、醫院、商店。",
+  "words": [
+   {
+    "en": "apartment",
+    "zh": "公寓",
+    "ipa": "əˈpɑː.tə.mənt"
+   },
+   {
+    "en": "bank",
+    "zh": "銀行",
+    "ipa": "bæŋk"
+   },
+   {
+    "en": "bookshop",
+    "zh": "書店",
+    "ipa": "ˈbʊk.ʃɒp"
+   },
+   {
+    "en": "building",
+    "zh": "建築物",
+    "ipa": "ˈbɪl.dɪŋ"
+   },
+   {
+    "en": "cafe",
+    "zh": "咖啡館",
+    "ipa": "ˈkæf.eɪ"
+   },
+   {
+    "en": "castle",
+    "zh": "城堡",
+    "ipa": "ˈkɑː.səl"
+   },
+   {
+    "en": "cinema",
+    "zh": "電影院",
+    "ipa": "ˈsɪn.ə.mə"
+   },
+   {
+    "en": "college",
+    "zh": "學院",
+    "ipa": "ˈkɒl.ɪdʒ"
+   },
+   {
+    "en": "department store",
+    "zh": "百貨公司",
+    "ipa": "dɪˈpɑː.tə.mənt stɔː"
+   },
+   {
+    "en": "entrance",
+    "zh": "入口",
+    "ipa": "ˈen.trəns"
+   },
+   {
+    "en": "exit",
+    "zh": "出口",
+    "ipa": "ˈek.sɪt"
+   },
+   {
+    "en": "factory",
+    "zh": "工廠",
+    "ipa": "ˈfæk.tə.ri"
+   },
+   {
+    "en": "guest-house",
+    "zh": "旅社",
+    "ipa": "ˈɡest.haʊs"
+   },
+   {
+    "en": "hospital",
+    "zh": "醫院",
+    "ipa": "ˈhɒs.pɪ.təl"
+   },
+   {
+    "en": "hotel",
+    "zh": "旅館",
+    "ipa": "həʊˈtel"
+   },
+   {
+    "en": "house",
+    "zh": "房子",
+    "ipa": "haʊs"
+   },
+   {
+    "en": "library",
+    "zh": "圖書館",
+    "ipa": "ˈlaɪ.bə.ri"
+   },
+   {
+    "en": "lift",
+    "zh": "電梯",
+    "ipa": "lɪft"
+   },
+   {
+    "en": "museum",
+    "zh": "博物館",
+    "ipa": "mjuˈziː.əm"
+   },
+   {
+    "en": "office",
+    "zh": "辦公室",
+    "ipa": "ˈɒf.ɪs"
+   },
+   {
+    "en": "pharmacy",
+    "zh": "藥局",
+    "ipa": "ˈfɑː.mə.si"
+   },
+   {
+    "en": "police station",
+    "zh": "警察局",
+    "ipa": "pəˈliːs ˈsteɪ.ʃən"
+   },
+   {
+    "en": "post office",
+    "zh": "郵局",
+    "ipa": "pəʊst ˈɒf.ɪs"
+   },
+   {
+    "en": "school",
+    "zh": "學校",
+    "ipa": "skuːl"
+   },
+   {
+    "en": "shop",
+    "zh": "商店",
+    "ipa": "ʃɒp"
+   },
+   {
+    "en": "supermarket",
+    "zh": "超級市場",
+    "ipa": "ˈsuː.pə.mɑː.kɪt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go to the bank",
+    "zh": "去銀行",
+    "ipa": "ɡəʊ tə ðə bæŋk"
+   },
+   {
+    "en": "at the cinema",
+    "zh": "在電影院",
+    "ipa": "æt ðə ˈsɪn.ə.mə"
+   },
+   {
+    "en": "next to the school",
+    "zh": "在學校旁邊",
+    "ipa": "nekst tə ðə skuːl"
+   },
+   {
+    "en": "opposite the hotel",
+    "zh": "在旅館對面",
+    "ipa": "əˈpɒ.zɪt ðə həʊˈtel"
+   },
+   {
+    "en": "on the second floor",
+    "zh": "在三樓",
+    "ipa": "ɒn ðə ˈse.kənd flɔː"
+   },
+   {
+    "en": "in front of the hospital",
+    "zh": "在醫院前面",
+    "ipa": "ɪn frʌnt ɒv ðə ˈhɒs.pɪ.təl"
+   },
+   {
+    "en": "between the bank and the post office",
+    "zh": "在銀行和郵局之間",
+    "ipa": "bɪˈtwiːn ðə bæŋk ən ðə pəʊst ˈɒf.ɪs"
+   },
+   {
+    "en": "take the lift to the fifth floor",
+    "zh": "搭電梯到五樓",
+    "ipa": "teɪk ðə lɪft tə ðə fɪfθ flɔː"
+   },
+   {
+    "en": "near the railway station",
+    "zh": "靠近火車站",
+    "ipa": "nɪə ðə ˈreɪl.weɪ ˈsteɪ.ʃən"
+   },
+   {
+    "en": "across from the museum",
+    "zh": "在博物館對面",
+    "ipa": "əˈkrɒs frəm ðə mjuˈziː.əm"
+   },
+   {
+    "en": "work in a department store",
+    "zh": "在百貨公司工作",
+    "ipa": "wɜːk ɪn ə dɪˈpɑː.tə.mənt stɔː"
+   },
+   {
+    "en": "have lunch at the cafe",
+    "zh": "在咖啡館吃午餐",
+    "ipa": "hæv lʌntʃ æt ðə ˈkæf.eɪ"
+   },
+   {
+    "en": "wait outside the entrance",
+    "zh": "在入口外面等候",
+    "ipa": "weɪt ˌaʊtˈsaɪd ðə ˈen.trəns"
+   },
+   {
+    "en": "close to the swimming pool",
+    "zh": "靠近游泳池",
+    "ipa": "kləʊz tə ðə ˈswɪm.ɪŋ puːl"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The museum is opposite the railway station.",
+    "zh": "博物館在火車站對面。"
+   },
+   {
+    "en": "Turn left at the bank and walk straight on.",
+    "zh": "在銀行左轉然後直走。"
+   },
+   {
+    "en": "We met our friends in front of the cinema.",
+    "zh": "我們在電影院前面碰到朋友。"
+   },
+   {
+    "en": "Children love the swimming pool in our hotel.",
+    "zh": "孩子們很喜歡旅館的游泳池。"
+   },
+   {
+    "en": "My mum buys fresh bread at the supermarket.",
+    "zh": "我媽會去超市買新鮮麵包。"
+   },
+   {
+    "en": "The police station is just past the post office.",
+    "zh": "警察局就在郵局過去一點。"
+   },
+   {
+    "en": "There is a small cafe next to the library.",
+    "zh": "圖書館旁邊有一間小咖啡館。"
+   },
+   {
+    "en": "The hospital is between the school and the bank.",
+    "zh": "醫院在學校和銀行之間。"
+   },
+   {
+    "en": "The entrance is on the left of the building.",
+    "zh": "入口在建築物的左邊。"
+   },
+   {
+    "en": "He works in a big factory on the edge of town.",
+    "zh": "他在城鎮邊緣的大工廠工作。"
+   },
+   {
+    "en": "We took a photo in front of the castle.",
+    "zh": "我們在城堡前拍了張照片。"
+   },
+   {
+    "en": "The department store opens at ten every morning.",
+    "zh": "百貨公司每天早上十點開門。"
+   },
+   {
+    "en": "My sister studies at the college in our town.",
+    "zh": "我姊姊在城鎮裡的學院讀書。"
+   },
+   {
+    "en": "Is there a pharmacy near the hotel?",
+    "zh": "旅館附近有藥局嗎？"
+   }
+  ],
+  "tips": [
+   "特指某一個場所時前面用 the，例如 I like the shop on my street；泛指或第一次提到用 a，例如 There is a shop near here。",
+   "英式樓層怎麼說：ground floor 是一樓，first floor 是二樓，second floor 是三樓。",
+   "英式樓層怎麼說：ground floor 是一樓，往上依序是 first floor、second floor。"
+  ]
+ },
+ {
+  "id": "places-countryside",
+  "icon": "🏞️",
+  "name": "場所：郊野",
+  "nameEn": "Places: Countryside",
+  "summary": "野外的地方：山、河、森林、海邊。",
+  "words": [
+   {
+    "en": "area",
+    "zh": "區域",
+    "ipa": "ˈeə.ri.ə"
+   },
+   {
+    "en": "forest",
+    "zh": "森林",
+    "ipa": "ˈfɒ.rɪst"
+   },
+   {
+    "en": "ocean",
+    "zh": "大海",
+    "ipa": "ˈəʊ.ʃn"
+   },
+   {
+    "en": "sea",
+    "zh": "海",
+    "ipa": "siː"
+   },
+   {
+    "en": "beach",
+    "zh": "海灘",
+    "ipa": "biːtʃ"
+   },
+   {
+    "en": "hill",
+    "zh": "小山",
+    "ipa": "hɪl"
+   },
+   {
+    "en": "path",
+    "zh": "小徑",
+    "ipa": "pɑːθ"
+   },
+   {
+    "en": "sky",
+    "zh": "天空",
+    "ipa": "skaɪ"
+   },
+   {
+    "en": "campsite",
+    "zh": "露營地",
+    "ipa": "ˈkæmp.saɪt"
+   },
+   {
+    "en": "island",
+    "zh": "島嶼",
+    "ipa": "ˈaɪ.lənd"
+   },
+   {
+    "en": "railway",
+    "zh": "鐵路",
+    "ipa": "ˈreɪl.weɪ"
+   },
+   {
+    "en": "village",
+    "zh": "村莊",
+    "ipa": "ˈvɪ.lɪdʒ"
+   },
+   {
+    "en": "farm",
+    "zh": "農場",
+    "ipa": "fɑːm"
+   },
+   {
+    "en": "lake",
+    "zh": "湖",
+    "ipa": "leɪk"
+   },
+   {
+    "en": "rainforest",
+    "zh": "雨林",
+    "ipa": "ˈreɪn.fɒ.rɪst"
+   },
+   {
+    "en": "wood",
+    "zh": "樹林",
+    "ipa": "wʊd"
+   },
+   {
+    "en": "field",
+    "zh": "田地",
+    "ipa": "fiːld"
+   },
+   {
+    "en": "mountain",
+    "zh": "山",
+    "ipa": "ˈmaʊn.tən"
+   },
+   {
+    "en": "river",
+    "zh": "河",
+    "ipa": "ˈrɪv.ə"
+   },
+   {
+    "en": "countryside",
+    "zh": "郊區",
+    "ipa": "ˈkʌn.tri.saɪd"
+   },
+   {
+    "en": "tree",
+    "zh": "樹",
+    "ipa": "triː"
+   },
+   {
+    "en": "grass",
+    "zh": "草",
+    "ipa": "ɡrɑːs"
+   },
+   {
+    "en": "cliff",
+    "zh": "懸崖",
+    "ipa": "klɪf"
+   },
+   {
+    "en": "coast",
+    "zh": "海岸",
+    "ipa": "kəʊst"
+   },
+   {
+    "en": "cave",
+    "zh": "洞穴",
+    "ipa": "keɪv"
+   },
+   {
+    "en": "valley",
+    "zh": "山谷",
+    "ipa": "ˈvæl.i"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in the countryside",
+    "zh": "在郊區",
+    "ipa": "ɪn ðə ˈkʌn.tri.saɪd"
+   },
+   {
+    "en": "up the hill",
+    "zh": "往小山上走",
+    "ipa": "ʌp ðə hɪl"
+   },
+   {
+    "en": "along the river",
+    "zh": "沿著河",
+    "ipa": "əˈlɒŋ ðə ˈrɪv.ə"
+   },
+   {
+    "en": "on the beach",
+    "zh": "在海灘上",
+    "ipa": "ɒn ðə biːtʃ"
+   },
+   {
+    "en": "across the field",
+    "zh": "穿過田地",
+    "ipa": "əˈkrɒs ðə fiːld"
+   },
+   {
+    "en": "through the forest",
+    "zh": "穿過森林",
+    "ipa": "θruː ðə ˈfɒ.rɪst"
+   },
+   {
+    "en": "near the lake",
+    "zh": "靠近湖邊",
+    "ipa": "nɪə ðə leɪk"
+   },
+   {
+    "en": "at the campsite",
+    "zh": "在露營地",
+    "ipa": "æt ðə ˈkæmp.saɪt"
+   },
+   {
+    "en": "in the mountains",
+    "zh": "在山裡",
+    "ipa": "ɪn ðə ˈmaʊn.tənz"
+   },
+   {
+    "en": "on the island",
+    "zh": "在島上",
+    "ipa": "ɒn ðə ˈaɪ.lənd"
+   },
+   {
+    "en": "by the sea",
+    "zh": "在海邊",
+    "ipa": "baɪ ðə siː"
+   },
+   {
+    "en": "down the path",
+    "zh": "沿著小路往下走",
+    "ipa": "daʊn ðə pɑːθ"
+   },
+   {
+    "en": "on the farm",
+    "zh": "在農場",
+    "ipa": "ɒn ðə fɑːm"
+   },
+   {
+    "en": "look at the sky",
+    "zh": "仰望天空",
+    "ipa": "lʊk æt ðə skaɪ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We walked up the hill to see the view.",
+    "zh": "我們走上小山去看風景。"
+   },
+   {
+    "en": "Our village is up in the mountains, far from the city.",
+    "zh": "我們的村莊在山裡，離市區很遠。"
+   },
+   {
+    "en": "Children are playing football in the field near the river.",
+    "zh": "孩子們在河邊的田地裡踢足球。"
+   },
+   {
+    "en": "We had lunch on the grass by the lake.",
+    "zh": "我們在湖邊的草地上吃午餐。"
+   },
+   {
+    "en": "We followed the path through the forest for an hour.",
+    "zh": "我們沿著小徑穿過森林走了一小時。"
+   },
+   {
+    "en": "My grandparents live in a house beside the farm.",
+    "zh": "我的祖父母住在農場旁邊的房子裡。"
+   },
+   {
+    "en": "The sea was cold, but the beach was beautiful.",
+    "zh": "海很冷，不過海灘很漂亮。"
+   },
+   {
+    "en": "It is very quiet in the countryside at night.",
+    "zh": "郊區的夜晚非常安靜。"
+   },
+   {
+    "en": "The sky is very clear above the hills tonight.",
+    "zh": "今晚山丘上方的天空很晴朗。"
+   },
+   {
+    "en": "The railway goes through the valley to the coast.",
+    "zh": "鐵路穿過山谷通往海岸。"
+   },
+   {
+    "en": "There is a campsite on the island for tourists.",
+    "zh": "島上有給旅客使用的露營地。"
+   },
+   {
+    "en": "We found an interesting cave under the cliff.",
+    "zh": "我們在懸崖下發現一個有趣的洞穴。"
+   },
+   {
+    "en": "Rain falls in the rainforest every single day.",
+    "zh": "雨林裡每天都在下雨。"
+   },
+   {
+    "en": "We climbed the mountain and looked at the ocean.",
+    "zh": "我們爬上了山，然後看著大海。"
+   }
+  ],
+  "tips": [
+   "郊野位置多用介系詞：in the countryside 在郊區、on the beach 在海灘上、in the forest 在森林裡。",
+   "方向詞放在 the 後面：up the hill 是往上爬，down the path 是沿小路往下走。",
+   "泛稱自然景觀時不加 the，指特定地方才加，例如 we can see the mountain。"
+  ]
+ }
+]

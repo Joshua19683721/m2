@@ -1,0 +1,6846 @@
+{
+ "meta": {
+  "generatedFrom": "Cambridge A2 Key Vocabulary List（字母序 1713 條）",
+  "reason": "主題表只收錄約 1/3 的詞；其餘是文法詞與一般詞彙，依詞性與語義分派到新增場景，確保整份官方詞表 100% 涵蓋。",
+  "contract": "生成器必須把每個場景 words 陣列中的所有 en 原樣放進該場景的 words"
+ },
+ "totalMissing": 1215,
+ "assigned": 1215,
+ "scenes": [
+  {
+   "id": "grammar-core",
+   "icon": "🧩",
+   "name": "基礎文法核心詞",
+   "nameEn": "Core Grammar Words",
+   "summary": "人稱、指示詞、所有格、情態與助動詞、連接詞——每一句都會用到的高頻詞。",
+   "note": "句子骨架，打錯整句語意就錯了，請優先練熟。",
+   "wordCount": 95,
+   "words": [
+    {
+     "en": "a/an",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "a few",
+     "pos": "det, adj & pron",
+     "examples": [
+      "I invited a few of my friends. I’ll be ready in a few minutes."
+     ]
+    },
+    {
+     "en": "all",
+     "pos": "adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "all kinds of",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "all sorts of",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "all the time",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "an",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "and",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "another",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "any",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "anybody",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "anyone",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "anything",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "as",
+     "pos": "conj & adv & prep",
+     "examples": [
+      "as good as as soon as possible the same as as well as well as"
+     ]
+    },
+    {
+     "en": "be",
+     "pos": "av & v",
+     "examples": []
+    },
+    {
+     "en": "because",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "both",
+     "pos": "pron & det",
+     "examples": []
+    },
+    {
+     "en": "but",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "can",
+     "pos": "n & mv",
+     "examples": [
+      "I can ride a bike. (ability) Can I have one? (request) Can I help you? (offer) It can be cold here in winter. (possibility) You can watch TV now. (permission)"
+     ]
+    },
+    {
+     "en": "cannot",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "could",
+     "pos": "mv",
+     "examples": [
+      "I couldn’t find the information Could you lend me some money? We could go to the cinema tonight."
+     ]
+    },
+    {
+     "en": "each",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "each other",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "every",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "everybody",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "everyone",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "everything",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "except",
+     "pos": "conj & prep",
+     "examples": []
+    },
+    {
+     "en": "few",
+     "pos": "det & adj",
+     "examples": []
+    },
+    {
+     "en": "have",
+     "pos": "av & v",
+     "examples": []
+    },
+    {
+     "en": "have got to",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "have to",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "he",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "her",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "hers",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "herself",
+     "pos": "pron",
+     "examples": [
+      "by herself"
+     ]
+    },
+    {
+     "en": "him",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "himself",
+     "pos": "pron",
+     "examples": [
+      "by himself"
+     ]
+    },
+    {
+     "en": "his",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "I",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "if",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "it",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "its",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "itself",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "many",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "me",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "might",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "mine",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "much",
+     "pos": "adj, adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "must",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "my",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "myself",
+     "pos": "pron",
+     "examples": [
+      "by myself"
+     ]
+    },
+    {
+     "en": "no",
+     "pos": "adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "nobody",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "no one",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "nothing",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "or",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "other",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "our",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "ours",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "ourselves",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "several",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "shall",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "she",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "should",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "so",
+     "pos": "conj & adv",
+     "examples": [
+      "So, I think it’s right. (conj) He ate too much, so he felt ill. (conj) He wanted to go but he didn’t say so. (adv)"
+     ]
+    },
+    {
+     "en": "some",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "somebody",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "someone",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "something",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "such",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "than",
+     "pos": "prep & conj",
+     "examples": []
+    },
+    {
+     "en": "that",
+     "pos": "conj & pron",
+     "examples": []
+    },
+    {
+     "en": "the",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "their",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "theirs",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "them",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "themselves",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "these",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "they",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "this",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "those",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "us",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "we",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "what",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "which",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "while",
+     "pos": "conj",
+     "examples": []
+    },
+    {
+     "en": "who",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "whose",
+     "pos": "det & pron",
+     "examples": []
+    },
+    {
+     "en": "will",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "would",
+     "pos": "mv",
+     "examples": []
+    },
+    {
+     "en": "you",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "your",
+     "pos": "det",
+     "examples": []
+    },
+    {
+     "en": "yours",
+     "pos": "pron",
+     "examples": []
+    },
+    {
+     "en": "yourself",
+     "pos": "pron",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "grammar-prepositions",
+   "icon": "🧭",
+   "name": "介系詞與方位",
+   "nameEn": "Prepositions",
+   "summary": "in / on / at / for / of… 地點、時間、方向與固定搭配都在這裡。",
+   "note": "中文沒有介系詞，是台灣學生最容易漏掉的一類詞。",
+   "wordCount": 48,
+   "words": [
+    {
+     "en": "about",
+     "pos": "adv & prep",
+     "examples": [
+      "What about a cold drink? I have about £3. (adv) a book about animals (prep)"
+     ]
+    },
+    {
+     "en": "above",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "across",
+     "pos": "adv & prep",
+     "examples": [
+      "The bank’s across the road. He walked across the bridge."
+     ]
+    },
+    {
+     "en": "against",
+     "pos": "prep",
+     "examples": [
+      "We watched England play against France."
+     ]
+    },
+    {
+     "en": "along",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "among",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "around",
+     "pos": "adv & prep",
+     "examples": [
+      "to travel around (adv) to sit around the table (prep)"
+     ]
+    },
+    {
+     "en": "as well",
+     "pos": "adv, prep",
+     "examples": []
+    },
+    {
+     "en": "at",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "at / @",
+     "pos": "prep",
+     "examples": [
+      "My email address is david@gmail.com"
+     ]
+    },
+    {
+     "en": "at all",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "because of",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "behind",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "below",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "beside",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "between",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "by",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "by accident",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "by the way",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "by post",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "down",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "during",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "for",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "from",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "in",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "including",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "in front of",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "into",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "like",
+     "pos": "adv, prep & v",
+     "examples": [
+      "What’s the weather like? (adv) It’s like an orange but bigger. (prep) I’d like a drink. (v)"
+     ]
+    },
+    {
+     "en": "minus",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "of",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "on",
+     "pos": "prep & adv",
+     "examples": []
+    },
+    {
+     "en": "opposite",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "out of",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "over",
+     "pos": "prep & adv",
+     "examples": [
+      "over 60 people (adv) to travel all over the world (prep)"
+     ]
+    },
+    {
+     "en": "past",
+     "pos": "prep & n",
+     "examples": [
+      "In the past, people didn’t have laptops. It’s quarter past twelve."
+     ]
+    },
+    {
+     "en": "per",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "plus",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "since",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "through",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "till",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "to",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "under",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "until",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "up",
+     "pos": "prep & adv",
+     "examples": []
+    },
+    {
+     "en": "v/versus",
+     "pos": "prep",
+     "examples": [
+      "Manchester United v Liverpool"
+     ]
+    },
+    {
+     "en": "with",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "without",
+     "pos": "prep",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "grammar-adverbs",
+   "icon": "⏱️",
+   "name": "常用副詞",
+   "nameEn": "Common Adverbs",
+   "summary": "程度、時間、頻率、方向副詞——讓句子更自然的那一點點東西。",
+   "note": "副詞多半長得像形容詞但位置不同，是拼字練習的大坑。",
+   "wordCount": 118,
+   "words": [
+    {
+     "en": "actually",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "after",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "afterwards",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "again",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "ago",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "all right/alright",
+     "pos": "adj, adv & exclam",
+     "examples": []
+    },
+    {
+     "en": "almost",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "alone",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "already",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "alright",
+     "pos": "adj, adv & exclam",
+     "examples": []
+    },
+    {
+     "en": "also",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "always",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "a.m.",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "anymore",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "anyway",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "anywhere",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "away",
+     "pos": "adv",
+     "examples": [
+      "He’s gone away. It’s two kilometres away."
+     ]
+    },
+    {
+     "en": "back",
+     "pos": "n, adv & adj",
+     "examples": []
+    },
+    {
+     "en": "badly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "before",
+     "pos": "adv, conj & prep",
+     "examples": []
+    },
+    {
+     "en": "best",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "better",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "bit",
+     "pos": "n & adv",
+     "examples": [
+      "Just a little bit of cake, please. I’m feeling a bit tired."
+     ]
+    },
+    {
+     "en": "carefully",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "certainly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "clearly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "daily",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "downstairs",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "early",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "easily",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "else",
+     "pos": "adv",
+     "examples": [
+      "Anything else?"
+     ]
+    },
+    {
+     "en": "enough",
+     "pos": "adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "especially",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "even",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "ever",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "everywhere",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "exactly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "far",
+     "pos": "adv",
+     "examples": [
+      "How far is the next garage?"
+     ]
+    },
+    {
+     "en": "fast",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "fast food",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "finally",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "first",
+     "pos": "adv & adj",
+     "examples": [
+      "First… then… (adv) John came first. (adv) first prize (adj)"
+     ]
+    },
+    {
+     "en": "first name",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "first of all",
+     "pos": "adv",
+     "examples": [
+      "First of all, you must wash your hands."
+     ]
+    },
+    {
+     "en": "free",
+     "pos": "adj & adv",
+     "examples": [
+      "I got a free ticket to the match. Are you free on Saturday?"
+     ]
+    },
+    {
+     "en": "here",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "home",
+     "pos": "n & adv",
+     "examples": []
+    },
+    {
+     "en": "how",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "however",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "immediately",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "indoors",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "inside",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "instead",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "instead of",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "just",
+     "pos": "adv",
+     "examples": [
+      "I’ve just seen Tom. Just a moment."
+     ]
+    },
+    {
+     "en": "last",
+     "pos": "adj & det",
+     "examples": []
+    },
+    {
+     "en": "late",
+     "pos": "adv & adj",
+     "examples": [
+      "The train is going to be late. (adj)"
+     ]
+    },
+    {
+     "en": "later",
+     "pos": "adv",
+     "examples": [
+      "I’ll see you later."
+     ]
+    },
+    {
+     "en": "least",
+     "pos": "adv",
+     "examples": [
+      "at least"
+     ]
+    },
+    {
+     "en": "left",
+     "pos": "adj, adv & n",
+     "examples": [
+      "Go to the left. (n) left hand (adj) Turn left. (adv)"
+     ]
+    },
+    {
+     "en": "less",
+     "pos": "adj, det & pron",
+     "examples": []
+    },
+    {
+     "en": "long",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "luckily",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "maybe",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "monthly",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "more",
+     "pos": "adj, adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "most",
+     "pos": "adj, adv, det & pron",
+     "examples": []
+    },
+    {
+     "en": "near",
+     "pos": "adv & prep",
+     "examples": []
+    },
+    {
+     "en": "nearly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "never",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "next",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "next to",
+     "pos": "prep",
+     "examples": []
+    },
+    {
+     "en": "north",
+     "pos": "n, adj & adv",
+     "examples": []
+    },
+    {
+     "en": "not",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "now",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "of course",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "off",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "often",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "once",
+     "pos": "adv",
+     "examples": [
+      "only once"
+     ]
+    },
+    {
+     "en": "only",
+     "pos": "adv & adj",
+     "examples": [
+      "I only wanted to help. the only one"
+     ]
+    },
+    {
+     "en": "out",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "outdoors",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "outside",
+     "pos": "prep & adv",
+     "examples": []
+    },
+    {
+     "en": "perhaps",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "p.m.",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "possibly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "probably",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "quickly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "quite",
+     "pos": "adv",
+     "examples": [
+      "Are you quite sure? quite old"
+     ]
+    },
+    {
+     "en": "really",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "recently",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "slowly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "sometimes",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "somewhere",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "soon",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "south",
+     "pos": "n, adj & adv",
+     "examples": []
+    },
+    {
+     "en": "still",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "straight",
+     "pos": "adj & adv",
+     "examples": [
+      "a straight line (adj) Go straight on. (adv)"
+     ]
+    },
+    {
+     "en": "suddenly",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "then",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "there",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "together",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "tonight",
+     "pos": "n & adv",
+     "examples": []
+    },
+    {
+     "en": "too",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "twice",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "upstairs",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "usually",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "very",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "weekly",
+     "pos": "adj & adv",
+     "examples": []
+    },
+    {
+     "en": "well",
+     "pos": "adv & adj",
+     "examples": []
+    },
+    {
+     "en": "well known",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "west",
+     "pos": "n, adj & adv",
+     "examples": []
+    },
+    {
+     "en": "when",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "where",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "why",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "worse",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "yes",
+     "pos": "adv",
+     "examples": []
+    },
+    {
+     "en": "yet",
+     "pos": "adv",
+     "examples": [
+      "Has he arrived yet?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "phrasal-verbs",
+   "icon": "🔗",
+   "name": "片語動詞",
+   "nameEn": "Phrasal Verbs",
+   "summary": "get up / look after / turn off… 兩個字合起來才有意義的動詞。",
+   "note": "片語動詞要整個背，不要拆成兩個獨立的字去背。",
+   "wordCount": 21,
+   "words": [
+    {
+     "en": "break down",
+     "pos": "phr v",
+     "examples": [
+      "The car has broken down."
+     ]
+    },
+    {
+     "en": "fall over",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "fill in",
+     "pos": "phr v",
+     "examples": [
+      "to fill in a form"
+     ]
+    },
+    {
+     "en": "find out",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "get off",
+     "pos": "phr v",
+     "examples": [
+      "to get off the bus"
+     ]
+    },
+    {
+     "en": "get on",
+     "pos": "phr v",
+     "examples": [
+      "to get on the bus"
+     ]
+    },
+    {
+     "en": "get up",
+     "pos": "phr v",
+     "examples": [
+      "to get up in the morning"
+     ]
+    },
+    {
+     "en": "grow up",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "look after",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "look at",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "look for",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "look out",
+     "pos": "phr v",
+     "examples": [
+      "Look out – it’s going to fall!"
+     ]
+    },
+    {
+     "en": "pick up",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "put on",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "sit down",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "take off",
+     "pos": "phr v",
+     "examples": [
+      "She took off her shoes."
+     ]
+    },
+    {
+     "en": "turn off",
+     "pos": "phr v",
+     "examples": [
+      "Turn the TV off."
+     ]
+    },
+    {
+     "en": "turn on",
+     "pos": "phr v",
+     "examples": [
+      "Turn the heating on."
+     ]
+    },
+    {
+     "en": "wake up",
+     "pos": "phr v",
+     "examples": []
+    },
+    {
+     "en": "work out",
+     "pos": "phr v",
+     "examples": [
+      "exercise"
+     ]
+    },
+    {
+     "en": "write down",
+     "pos": "phr v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-talking",
+   "icon": "💬",
+   "name": "動詞：溝通與想法",
+   "nameEn": "Verbs: Talking & Thinking",
+   "summary": "say / tell / think / know / understand… 說話與思考的動詞。",
+   "note": "注意 say 與 tell、look 與 see、hear 與 listen 的差別。",
+   "wordCount": 30,
+   "words": [
+    {
+     "en": "agree",
+     "pos": "v",
+     "examples": [
+      "Yes, I agree with you. Don’t you agree, Sam?"
+     ]
+    },
+    {
+     "en": "answer",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "ask",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "believe",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "decide",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "describe",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "discuss",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "explain",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "forget",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "guess",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "guess what",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "hope",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "know",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "mean",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "need",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "notice",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "plan",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "question",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "remember",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "say",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "shout",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "speak",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "spell",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "suppose",
+     "pos": "v",
+     "examples": [
+      "I suppose so. I suppose you’re right."
+     ]
+    },
+    {
+     "en": "talk",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "tell",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "think",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "understand",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "want",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "wish",
+     "pos": "n",
+     "examples": [
+      "Best wishes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "verbs-daily",
+   "icon": "🧹",
+   "name": "動詞：日常與家務",
+   "nameEn": "Verbs: Daily Life",
+   "summary": "clean / carry / open / close / put / take… 每天在做的事。",
+   "note": "put / take / get 這組三兄弟的搭配最常考。",
+   "wordCount": 47,
+   "words": [
+    {
+     "en": "begin",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "borrow",
+     "pos": "v",
+     "examples": [
+      "She borrowed a book from the library."
+     ]
+    },
+    {
+     "en": "break",
+     "pos": "n & v",
+     "examples": [
+      "a break for lunch (n) Someone’s broken the window. (v)"
+     ]
+    },
+    {
+     "en": "bring",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "bring back",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "brush",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "build",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "carry",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "catch",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "choose",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "clean",
+     "pos": "adj & v",
+     "examples": []
+    },
+    {
+     "en": "clear",
+     "pos": "adj",
+     "examples": [
+      "It’s not clear to me."
+     ]
+    },
+    {
+     "en": "close to",
+     "pos": "prep phr",
+     "examples": []
+    },
+    {
+     "en": "continue",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "cover",
+     "pos": "v &n",
+     "examples": [
+      "I had to cover my eyes. There was a flower on the book’s cover."
+     ]
+    },
+    {
+     "en": "cut",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "deliver",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "do",
+     "pos": "av & v",
+     "examples": []
+    },
+    {
+     "en": "dry",
+     "pos": "adj & v",
+     "examples": []
+    },
+    {
+     "en": "empty",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fill",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "find",
+     "pos": "v",
+     "examples": [
+      "I found my keys under the sofa."
+     ]
+    },
+    {
+     "en": "finish",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "fix",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "keep",
+     "pos": "v",
+     "examples": [
+      "May I keep this? Keep right!"
+     ]
+    },
+    {
+     "en": "lend",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "lose",
+     "pos": "v",
+     "examples": [
+      "We lost the game. I’ve lost my passport."
+     ]
+    },
+    {
+     "en": "make",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "make sure",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "move",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "own",
+     "pos": "adj",
+     "examples": [
+      "They cook their own meals."
+     ]
+    },
+    {
+     "en": "pack",
+     "pos": "v",
+     "examples": [
+      "pack a suitcase"
+     ]
+    },
+    {
+     "en": "pull",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "push",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "put",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "repair",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "save",
+     "pos": "v",
+     "examples": [
+      "to save money to save time"
+     ]
+    },
+    {
+     "en": "shut",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "start",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "stop",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "take",
+     "pos": "v",
+     "examples": [
+      "I’ll take it to your room. It takes three hours."
+     ]
+    },
+    {
+     "en": "take part",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "throw",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "tidy",
+     "pos": "adj & v",
+     "examples": []
+    },
+    {
+     "en": "tidy up",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "use",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "wash",
+     "pos": "v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-food",
+   "icon": "🍳",
+   "name": "動詞：飲食與烹調",
+   "nameEn": "Verbs: Food & Cooking",
+   "summary": "eat / drink / cook / boil / taste… 從廚房到餐桌的動詞。",
+   "note": "可數名詞後面的 eat / have 要用複數，是本場最大陷阱。",
+   "wordCount": 9,
+   "words": [
+    {
+     "en": "add",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "bake",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "boil",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "mix",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "order",
+     "pos": "n & v",
+     "examples": [
+      "We have received your order. You order your meal from the waiter."
+     ]
+    },
+    {
+     "en": "roast",
+     "pos": "v & adj",
+     "examples": []
+    },
+    {
+     "en": "season",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "serve",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "toast",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-school",
+   "icon": "📖",
+   "name": "動詞：學校與學習",
+   "nameEn": "Verbs: School & Learning",
+   "summary": "learn / study / practise / pass / remember… 學習相關的動詞。",
+   "note": "learn 與 study 意思接近但搭法不同，練的時候要一起記。",
+   "wordCount": 12,
+   "words": [
+    {
+     "en": "check",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "copy",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "draw",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "fail",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "learn",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "pass",
+     "pos": "v",
+     "examples": [
+      "You pass the station on the left. to pass a driving test"
+     ]
+    },
+    {
+     "en": "play",
+     "pos": "v & n",
+     "examples": [
+      "to play football (v) to play the guitar (v) a play at the theatre (n)"
+     ]
+    },
+    {
+     "en": "read",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "review",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sing",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "teach",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "write",
+     "pos": "v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-moving",
+   "icon": "🚶",
+   "name": "動詞：移動與出行",
+   "nameEn": "Verbs: Moving & Travelling",
+   "summary": "go / come / walk / drive / travel / arrive… 移動的動詞。",
+   "note": "方向副詞放句尾（go home、come back）不要放句首。",
+   "wordCount": 26,
+   "words": [
+    {
+     "en": "arrive",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "climb",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "come",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "come back",
+     "pos": "v",
+     "examples": [
+      "We came back from our holiday yesterday."
+     ]
+    },
+    {
+     "en": "cross",
+     "pos": "n & v",
+     "examples": [
+      "Don’t cross the road here! (v)"
+     ]
+    },
+    {
+     "en": "cycle",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "drive",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "enter",
+     "pos": "v",
+     "examples": [
+      "Are you going to enter the poster competition?",
+      "Please enter through the side door."
+     ]
+    },
+    {
+     "en": "fall",
+     "pos": "n & v",
+     "examples": [
+      "in the fall (n) He fell and hurt his leg. (v)"
+     ]
+    },
+    {
+     "en": "fly",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "follow",
+     "pos": "v",
+     "examples": [
+      "follow somebody on social media"
+     ]
+    },
+    {
+     "en": "go",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "hurry",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "jump",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "leave",
+     "pos": "v",
+     "examples": [
+      "The train leaves at 10 o’clock. I left my bag in the cinema. There isn’t any milk left."
+     ]
+    },
+    {
+     "en": "return",
+     "pos": "n & v",
+     "examples": [
+      "my return from holiday (n) He returned home late. (v) She returned her library books. (v)"
+     ]
+    },
+    {
+     "en": "ride",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "run",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "sail",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "stay",
+     "pos": "v",
+     "examples": [
+      "I can’t stay long. I stayed in New York for 10 days. The shop stays open late."
+     ]
+    },
+    {
+     "en": "tour",
+     "pos": "n",
+     "examples": [
+      "The band are on tour this month."
+     ]
+    },
+    {
+     "en": "tour guide",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "travel",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "turn",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "visit",
+     "pos": "v, n",
+     "examples": []
+    },
+    {
+     "en": "wait",
+     "pos": "v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-feeling",
+   "icon": "💗",
+   "name": "動詞：感覺與狀態",
+   "nameEn": "Verbs: Feeling & State",
+   "summary": "become / feel / seem / enjoy / worry… 狀態與感受的動詞。",
+   "note": "become 後面接形容詞，get 後面也可接形容詞，兩者常一起出題。",
+   "wordCount": 13,
+   "words": [
+    {
+     "en": "become",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "enjoy",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "feel",
+     "pos": "v",
+     "examples": [
+      "to feel well"
+     ]
+    },
+    {
+     "en": "hate",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "look",
+     "pos": "v",
+     "examples": [
+      "You look happy. Don’t look now!"
+     ]
+    },
+    {
+     "en": "love",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "mind",
+     "pos": "v",
+     "examples": [
+      "Do you mind if I close the window? I don’t mind if… Never mind. Mind your head!"
+     ]
+    },
+    {
+     "en": "please",
+     "pos": "v & exclam",
+     "examples": [
+      "I’m very pleased for you. (v) Please be quiet!"
+     ]
+    },
+    {
+     "en": "prefer / would prefer",
+     "pos": "v",
+     "examples": [
+      "I prefer football to basketball. I’d prefer to come with you."
+     ]
+    },
+    {
+     "en": "relax",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "seem",
+     "pos": "v",
+     "examples": [
+      "She seems happy. It seemed like a good idea."
+     ]
+    },
+    {
+     "en": "surprise",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "worry",
+     "pos": "v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-people",
+   "icon": "🤝",
+   "name": "動詞：人際與關係",
+   "nameEn": "Verbs: People & Relationships",
+   "summary": "meet / help / love / marry / join / invite… 跟人有關的動詞。",
+   "note": "invite someone to do something 的 to 很容易漏掉。",
+   "wordCount": 11,
+   "words": [
+    {
+     "en": "give",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "give back",
+     "pos": "v",
+     "examples": [
+      "I’ll give them back to you tomorrow. I’ll give back your books tomorrow."
+     ]
+    },
+    {
+     "en": "give somebody a call/ring",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "help",
+     "pos": "v & n",
+     "examples": [
+      "Call me if you need any help."
+     ]
+    },
+    {
+     "en": "invite",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "meet",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "receive",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "share",
+     "pos": "v",
+     "examples": [
+      "Bob and Sam share an office. Will you share your sandwich with me?",
+      "She shared her pictures online."
+     ]
+    },
+    {
+     "en": "thank",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "thank you",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "welcome",
+     "pos": "adj & exclam",
+     "examples": [
+      "You’re welcome (adj) Welcome to London! (exclam)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adj-people",
+   "icon": "🙂",
+   "name": "形容詞：形容人",
+   "nameEn": "Adjectives: Describing People",
+   "summary": "friendly / clever / honest / shy… 用來說一個人怎樣的形容詞。",
+   "note": "-ed 形容被/how的感受，-ing 形容主動/how的感受。",
+   "wordCount": 11,
+   "words": [
+    {
+     "en": "busy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "famous",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "lazy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "noisy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "polite",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "popular",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "pretty",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "quiet",
+     "pos": "adj",
+     "examples": [
+      "Please be quiet! The restaurant was quiet last night."
+     ]
+    },
+    {
+     "en": "serious",
+     "pos": "adj",
+     "examples": [
+      "She is a very serious person."
+     ]
+    },
+    {
+     "en": "shy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "smart",
+     "pos": "adj",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "adj-things",
+   "icon": "🔍",
+   "name": "形容詞：形容物",
+   "nameEn": "Adjectives: Describing Things",
+   "summary": "big / heavy / beautiful / dangerous… 說一樣東西怎樣的形容詞。",
+   "note": "注意 big / large、little / small 這類同義詞的差別。",
+   "wordCount": 32,
+   "words": [
+    {
+     "en": "big",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "dangerous",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "deep",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "delicious",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "dirty",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "easy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "electric",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fresh",
+     "pos": "adj",
+     "examples": [
+      "fresh fruit"
+     ]
+    },
+    {
+     "en": "full",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "hard",
+     "pos": "adj & adv",
+     "examples": [
+      "hard wood (adj) the homework was hard (adj) to work hard (adv)"
+     ]
+    },
+    {
+     "en": "heavy",
+     "pos": "adj",
+     "examples": [
+      "a heavy blanket"
+     ]
+    },
+    {
+     "en": "high",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "large",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "little",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "low",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "modern",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "new",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "old",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "poor",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "poor thing/you",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "rich",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "safe",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "short",
+     "pos": "adj",
+     "examples": [
+      "a short time"
+     ]
+    },
+    {
+     "en": "simple",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "small",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "soft",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "striped",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "strong",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "tall",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "thin",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "wide",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "wooden",
+     "pos": "adj",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "adj-quality",
+   "icon": "📊",
+   "name": "形容詞：性質與程度",
+   "nameEn": "Adjectives: Quality & Degree",
+   "summary": "good / better / best、important / possible / usual… 性質與比較。",
+   "note": "比較級與最高級（-er / -est、more / most）是拼字重災區。",
+   "wordCount": 36,
+   "words": [
+    {
+     "en": "amazing",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "awesome",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "awful",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "bad",
+     "pos": "adj",
+     "examples": [
+      "(be) bad for somebody"
+     ]
+    },
+    {
+     "en": "brilliant",
+     "pos": "adj",
+     "examples": [
+      "I thought the film was brilliant!"
+     ]
+    },
+    {
+     "en": "correct",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "different",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "double",
+     "pos": "adj",
+     "examples": [
+      "a double room"
+     ]
+    },
+    {
+     "en": "excellent",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fantastic",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "favourite",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "foreign",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "good afternoon",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "good evening",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "good morning",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "good night",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "impossible",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "international",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "local",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "national",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "perfect",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "possible",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "real",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "right",
+     "pos": "n, adj & adv",
+     "examples": [
+      "He swam to the right. (n) your right hand (adj) That’s the right answer. (adj) Turn right here. (adv)"
+     ]
+    },
+    {
+     "en": "right hand",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "same",
+     "pos": "adj & pron",
+     "examples": [
+      "at the same time (adj) Your watch is the same as mine. (pron)"
+     ]
+    },
+    {
+     "en": "similar",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "spare",
+     "pos": "adj",
+     "examples": [
+      "I read a lot in my spare time."
+     ]
+    },
+    {
+     "en": "terrible",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "true",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "unusual",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "usual",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "whole",
+     "pos": "adj & n",
+     "examples": [
+      "the whole world (adj) the whole of July (n)"
+     ]
+    },
+    {
+     "en": "wonderful",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "worst",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "wrong",
+     "pos": "adj",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "adj-emotion",
+   "icon": "🎭",
+   "name": "形容詞：情緒與感覺",
+   "nameEn": "Adjectives: Emotions & Feelings",
+   "summary": "exciting / boring / worried / pleased… 描述情緒與感受的形容詞。",
+   "note": "這組多半有 -ed / -ing 兩種形式，要一起記。",
+   "wordCount": 11,
+   "words": [
+    {
+     "en": "exciting",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "frightened",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "glad",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "interested",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "pleased",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "sad",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "scary",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "surprised",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "unhappy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "upset",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "worried",
+     "pos": "adj",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "verbs-extra",
+   "icon": "🔁",
+   "name": "動詞：其他高頻動詞",
+   "nameEn": "Verbs: More High-Frequency Verbs",
+   "summary": "主題表沒列、但日常真的會用到的一批動詞，一次補齊。",
+   "note": "這組多是簡單現在式動詞，練的是 -s / -ed 這兩個尾巴。",
+   "wordCount": 64,
+   "words": [
+    {
+     "en": "act",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "allow",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "belong",
+     "pos": "v",
+     "examples": [
+      "The bag belongs to me."
+     ]
+    },
+    {
+     "en": "board",
+     "pos": "n",
+     "examples": [
+      "The teacher’s writing on the (black/white) board."
+     ]
+    },
+    {
+     "en": "board game",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bother",
+     "pos": "v",
+     "examples": [
+      "Sorry to bother you."
+     ]
+    },
+    {
+     "en": "call",
+     "pos": "n & v",
+     "examples": [
+      "I’ll call (phone) again later this afternoon. He’s called John. I’m waiting for a call from Anna."
+     ]
+    },
+    {
+     "en": "celebrate",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "contact",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "cry",
+     "pos": "v",
+     "examples": [
+      "The baby’s crying."
+     ]
+    },
+    {
+     "en": "die",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "discover",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "dive",
+     "pos": "v",
+     "examples": [
+      "I learnt to dive at the swimming pool."
+     ]
+    },
+    {
+     "en": "drop",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "earn",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "end",
+     "pos": "v & n",
+     "examples": []
+    },
+    {
+     "en": "excuse",
+     "pos": "v",
+     "examples": [
+      "Excuse me!"
+     ]
+    },
+    {
+     "en": "explore",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "get",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "get back",
+     "pos": "v",
+     "examples": [
+      "I need to take the bus to get back home."
+     ]
+    },
+    {
+     "en": "get dressed",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "get fit",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "get married",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "happen",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "hear",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "hit",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "hold",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "improve",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "include",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "invent",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "kick",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "kiss",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "laugh",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "let",
+     "pos": "v",
+     "examples": [
+      "Let’s go to the beach. Let me know when you arrive. My parents let me go to the beach."
+     ]
+    },
+    {
+     "en": "listen",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "live",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "matter",
+     "pos": "n & v",
+     "examples": [
+      "It doesn’t matter. (v) What’s the matter? (n)"
+     ]
+    },
+    {
+     "en": "offer",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "perform",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "point",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "post",
+     "pos": "v & n",
+     "examples": [
+      "to post a letter What’s in the post today? to post something online"
+     ]
+    },
+    {
+     "en": "prepare",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "print",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "record",
+     "pos": "v",
+     "examples": [
+      "T hey’re recording a new album."
+     ]
+    },
+    {
+     "en": "repeat",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "rest",
+     "pos": "n & v",
+     "examples": [
+      "to have a rest (n) ‘Try to rest,’ the doctor said. (v) the rest of the day (n)"
+     ]
+    },
+    {
+     "en": "see",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "sell",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "send",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "set",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shampoo",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "show",
+     "pos": "v & n",
+     "examples": [
+      "Show me your photos. (v) a film show (n) show somebody round (v)"
+     ]
+    },
+    {
+     "en": "sit",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "sleep",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "smoke",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "sort",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sound",
+     "pos": "v",
+     "examples": [
+      "That sounds nice. To sound good/interesting/strange, etc."
+     ]
+    },
+    {
+     "en": "stand",
+     "pos": "v",
+     "examples": [
+      "She was standing at the bus stop."
+     ]
+    },
+    {
+     "en": "steal",
+     "pos": "v",
+     "examples": [
+      "Someone’s stolen my bag!"
+     ]
+    },
+    {
+     "en": "surf",
+     "pos": "v",
+     "examples": [
+      "I like surfing (on) the internet."
+     ]
+    },
+    {
+     "en": "try",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "wake",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "wear",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "work",
+     "pos": "n & v",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "adj-extra",
+   "icon": "🎨",
+   "name": "形容詞：其他形容詞",
+   "nameEn": "Adjectives: More Adjectives",
+   "summary": "把主題表沒列的形容詞補齊，分大小、狀態與感覺三類。",
+   "note": "形容詞拼錯最多的是 -ful / -less / -y 這幾種結尾。",
+   "wordCount": 76,
+   "words": [
+    {
+     "en": "able",
+     "pos": "adj",
+     "examples": [
+      "be able to"
+     ]
+    },
+    {
+     "en": "action",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "advanced",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "aged",
+     "pos": "adj",
+     "examples": [
+      "aged 10 – 16"
+     ]
+    },
+    {
+     "en": "amazed",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "attractive",
+     "pos": "adj",
+     "examples": [
+      "The walls are an attractive colour."
+     ]
+    },
+    {
+     "en": "available",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "blond",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "boiled",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "born",
+     "pos": "v",
+     "examples": [
+      "I was born in Manchester."
+     ]
+    },
+    {
+     "en": "broken",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "careful",
+     "pos": "adj",
+     "examples": [
+      "Be careful!"
+     ]
+    },
+    {
+     "en": "classical",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "closed",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "comfortable",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "complete",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "crowded",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "dead",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "dear",
+     "pos": "adj",
+     "examples": [
+      "Dear Anne,"
+     ]
+    },
+    {
+     "en": "delayed",
+     "pos": "adj",
+     "examples": [
+      "The flight is delayed."
+     ]
+    },
+    {
+     "en": "dressed",
+     "pos": "adj",
+     "examples": [
+      "Hurry, you need to get dressed!"
+     ]
+    },
+    {
+     "en": "extinct",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "extra",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fair",
+     "pos": "adj",
+     "examples": [
+      "She has fair hair."
+     ]
+    },
+    {
+     "en": "fat",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "final",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fit",
+     "pos": "adj",
+     "examples": [
+      "I joined a gym to get fit. I run to keep fit."
+     ]
+    },
+    {
+     "en": "flat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "fried",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "fun",
+     "pos": "adj & n",
+     "examples": []
+    },
+    {
+     "en": "further",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "good-looking",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "grilled",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "half-price",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "healthy",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "helpful",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "horrible",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "horror",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "huge",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "ill",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "indoor",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "latest",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "left-hand",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "lost",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "loud",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "lucky",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "mad",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "metal",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "missing",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "musical",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "natural",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "nervous",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "normal",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "outdoor",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "paper",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "plastic",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "pleasant",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "quick",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "relaxing",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "round",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "scared",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "single",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "slim",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "slow",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "strange",
+     "pos": "adj",
+     "examples": [
+      "That’s a strange story!"
+     ]
+    },
+    {
+     "en": "successful",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "surprising",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "sweet",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "tasty",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "thirsty",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "total",
+     "pos": "adj & n",
+     "examples": []
+    },
+    {
+     "en": "unfortunately",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "various",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "wild",
+     "pos": "adj",
+     "examples": [
+      "wild animals"
+     ]
+    },
+    {
+     "en": "young",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "zero",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-animals",
+   "icon": "🐾",
+   "name": "名詞：動物與昆蟲",
+   "nameEn": "Nouns: Animals & Insects",
+   "summary": "cat / bird / insect / animal… 動物單字與片語。",
+   "note": "動物名詞的複數很多不規則（mouse → mice）。",
+   "wordCount": 47,
+   "words": [
+    {
+     "en": "animal",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bat",
+     "pos": "n",
+     "examples": [
+      "a baseball bat"
+     ]
+    },
+    {
+     "en": "bear",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "beetle",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bird",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "butterfly",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "camel",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cow",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "creature",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "crocodile",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dinosaur",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dog",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dolphin",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "donkey",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "duck",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "eagle",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "elephant",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "frog",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "giraffe",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "goat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hippo",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "horse",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "insect",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jellyfish",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "kangaroo",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "kitten",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lion",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lizard",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "monkey",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "octopus",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "panda",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "parrot",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "penguin",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "puppy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "rabbit",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shark",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sheep",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "snail",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "snake",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "spider",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "swan",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tiger",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tortoise",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "whale",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "zebra",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-nature-weather",
+   "icon": "🌦️",
+   "name": "名詞：大自然與天象",
+   "nameEn": "Nouns: Nature & Sky",
+   "summary": "mountain / river / cloud / space / wildlife… 自然景觀與天上的東西。",
+   "note": "weather 不可數；談天氣好壞用 good / bad，不用 many。",
+   "wordCount": 8,
+   "words": [
+    {
+     "en": "ice cream",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ice skating",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "nature",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "nest",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "rock",
+     "pos": "n",
+     "examples": [
+      "rock concert"
+     ]
+    },
+    {
+     "en": "space",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wildlife",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wing",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-body",
+   "icon": "🫀",
+   "name": "名詞：身體與健康",
+   "nameEn": "Nouns: Body & Health",
+   "summary": "finger / shoulder / stomach / headache… 身體部位與不適。",
+   "note": "身體部位前通常不加定冠詞：my head 疼，不是 my the head。",
+   "wordCount": 10,
+   "words": [
+    {
+     "en": "beard",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "blood",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "brain",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "face",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "finger",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hair",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "headache",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mouth",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "neck",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "toe",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-clothes-extra",
+   "icon": "👕",
+   "name": "名詞：衣物配件（補充）",
+   "nameEn": "Nouns: Clothes & Accessories",
+   "summary": "把衣物、鞋襪、配件一次補齊：jacket / jeans / wallet / perfume…",
+   "note": "leather / wool / fur / metal 這類材質名詞前通常不加 a。",
+   "wordCount": 51,
+   "words": [
+    {
+     "en": "backpack",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bag",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "balloon",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bathing suit",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "belt",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "blouse",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "boot",
+     "pos": "n",
+     "examples": [
+      "a pair of boots"
+     ]
+    },
+    {
+     "en": "bracelet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cap",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "clothes",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "coat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "costume",
+     "pos": "n",
+     "examples": [
+      "I forgot my swimming costume."
+     ]
+    },
+    {
+     "en": "dress",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "earring",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "fur",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "glasses",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "glove",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "handbag",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hoodie",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jacket",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jeans",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "jewellery",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jumper",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "leather",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "make-up",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "necklace",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "perfume",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pocket",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "purse",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "raincoat",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ring",
+     "pos": "n & v",
+     "examples": [
+      "He bought her a gold ring. Give me a ring if you’re free. I rang home last night."
+     ]
+    },
+    {
+     "en": "scarf",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shirt",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shoe",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shorts",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "skirt",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sock",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "suit",
+     "pos": "n",
+     "examples": [
+      "He was wearing a grey suit."
+     ]
+    },
+    {
+     "en": "sunglasses",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "sweater",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "swimming costume",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "swimsuit",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tie",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tights",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "trousers",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "T-shirt",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "uniform",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wallet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "watch",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "wool",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-food-extra",
+   "icon": "🍽️",
+   "name": "名詞：食物飲品（補充）",
+   "nameEn": "Nouns: Food & Drink",
+   "summary": "把食材、菜色與飲料補齊：banana / pasta / steak / lemonade…",
+   "note": "食物名詞通常可數，加 s 就變複數（potatoes）。",
+   "wordCount": 45,
+   "words": [
+    {
+     "en": "banana",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bean",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "biscuit",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "burger",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "butter",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "candy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "carrot",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cereal",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chilli",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chips",
+     "pos": "n pl",
+     "examples": [
+      "egg and chips"
+     ]
+    },
+    {
+     "en": "cola",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cookie",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "curry",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dessert",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "garlic",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grape",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "honey",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ingredient",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jam",
+     "pos": "n",
+     "examples": [
+      "fruit jam"
+     ]
+    },
+    {
+     "en": "lemon",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lemonade",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mango",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "meal",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "melon",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mineral water",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mushroom",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "oil",
+     "pos": "n",
+     "examples": [
+      "My car needs more oil. cooking oil"
+     ]
+    },
+    {
+     "en": "omelette",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "onion",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pasta",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pear",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pepper",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "potato",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "recipe",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "salad",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "salt",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sauce",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sausage",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "slice",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "snack",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "steak",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "strawberry",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sugar",
+     "pos": "n",
+     "examples": [
+      "I suggest having the meeting in the office."
+     ]
+    },
+    {
+     "en": "supper",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tomato",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-home-things",
+   "icon": "🧰",
+   "name": "名詞：居家用品（補充）",
+   "nameEn": "Nouns: Home & Furniture",
+   "summary": "sofa / wardrobe / cupboard / mirror / key… 家具與居家雜物。",
+   "note": "equipment、furniture 是不可數名詞，永遠不加 s。",
+   "wordCount": 51,
+   "words": [
+    {
+     "en": "bathtub",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "battery",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bin",
+     "pos": "n",
+     "examples": [
+      "Can you throw the rubbish in the bin?"
+     ]
+    },
+    {
+     "en": "blanket",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bookcase",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bookshelf",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bottle",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bottom",
+     "pos": "n",
+     "examples": [
+      "at the bottom of the stairs"
+     ]
+    },
+    {
+     "en": "bowl",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "box",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cabinet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "carpet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "case",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ceiling",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chair",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "comb",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cup",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dish",
+     "pos": "n",
+     "examples": [
+      "Chicken and chips is my favourite dish. I broke a dish when I was doing the washing up."
+     ]
+    },
+    {
+     "en": "door",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "drawer",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "equipment",
+     "pos": "n",
+     "examples": [
+      "You need special equipment to go diving."
+     ]
+    },
+    {
+     "en": "floor",
+     "pos": "n",
+     "examples": [
+      "The bedrooms are on the first floor. Don’t leave your clothes on the floor."
+     ]
+    },
+    {
+     "en": "fork",
+     "pos": "n",
+     "examples": [
+      "knife and fork"
+     ]
+    },
+    {
+     "en": "fridge",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "glass",
+     "pos": "n & adj",
+     "examples": []
+    },
+    {
+     "en": "key",
+     "pos": "n",
+     "examples": [
+      "This is the key to my house. The answer key is at the back of the book."
+     ]
+    },
+    {
+     "en": "kitchen",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "knife",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lamp",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "machine",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mirror",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mug",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "plate",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sheet",
+     "pos": "n",
+     "examples": [
+      "a bed sheet a sheet of paper"
+     ]
+    },
+    {
+     "en": "shelf",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shower",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sink",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "soap",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sofa",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "spoon",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "stairs",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "table",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "table tennis",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "toilet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "toothbrush",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "towel",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wall",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wardrobe",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "washing machine",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "washing-up",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "window",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-school-things",
+   "icon": "🎒",
+   "name": "名詞：學校用品與科目",
+   "nameEn": "Nouns: School & Subjects",
+   "summary": "pencil / timetable / vocabulary / chemistry… 上學會用到與會學到的。",
+   "note": "homework 不可數，不能說 a homework。",
+   "wordCount": 14,
+   "words": [
+    {
+     "en": "biology",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chemistry",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "geography",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "headteacher",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pen",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pencil",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pencil case",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "physics",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pupil",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "scissors",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "spelling",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "studies",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "timetable",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "vocabulary",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-tech-media",
+   "icon": "💾",
+   "name": "名詞：科技與媒體（補充）",
+   "nameEn": "Nouns: Technology & Media",
+   "summary": "website / program / printer / social media… 螢幕上的東西。",
+   "note": "news 不可數，「一則新聞」要說 a piece of news。",
+   "wordCount": 34,
+   "words": [
+    {
+     "en": "app",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "blog",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "CD",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cell phone",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "channel",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chatroom",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "digital camera",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "document",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "DVD",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "DVD player",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "folder",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "link",
+     "pos": "n",
+     "examples": [
+      "Click on the link."
+     ]
+    },
+    {
+     "en": "microphone",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mobile",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "net",
+     "pos": "n",
+     "examples": [
+      "I found a great website on the net."
+     ]
+    },
+    {
+     "en": "page",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "paragraph",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "PC",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "phone",
+     "pos": "v & n",
+     "examples": []
+    },
+    {
+     "en": "photo",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "photography",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "picture",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "program",
+     "pos": "n",
+     "examples": [
+      "a computer program"
+     ]
+    },
+    {
+     "en": "selfie",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "site",
+     "pos": "n",
+     "examples": [
+      "internet site"
+     ]
+    },
+    {
+     "en": "social media",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "speaker",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "technology",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "telephone",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "television",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "text message",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "upload",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "web",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wifi",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-sports-games",
+   "icon": "🏓",
+   "name": "名詞：運動與遊戲（補充）",
+   "nameEn": "Nouns: Sport & Games",
+   "summary": "player / score / gym / racket / chess… 運動比賽相關名詞。",
+   "note": "match、race、game 都是可數名詞，要加 s。",
+   "wordCount": 30,
+   "words": [
+    {
+     "en": "chess",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "climbing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "competition",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "crowd",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "diving",
+     "pos": "adj",
+     "examples": [
+      "I’ve j oined a diving club."
+     ]
+    },
+    {
+     "en": "football player",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "footballer",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "game",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "golf",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "gym",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hockey",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "match",
+     "pos": "n",
+     "examples": [
+      "football match"
+     ]
+    },
+    {
+     "en": "Olympic",
+     "pos": "adj",
+     "examples": []
+    },
+    {
+     "en": "pool",
+     "pos": "n",
+     "examples": [
+      "swimming pool"
+     ]
+    },
+    {
+     "en": "puzzle",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "quiz",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "race",
+     "pos": "n & v",
+     "examples": [
+      "a running race (n) She raced her brother to the bus stop. (v)"
+     ]
+    },
+    {
+     "en": "sailing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "scooter",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "score",
+     "pos": "n, v",
+     "examples": []
+    },
+    {
+     "en": "skateboard",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "skateboarding",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "skating",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "skiing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "snowboard",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "snowboarding",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "soccer",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "surfing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tennis player",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "windsurfing",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-people-roles",
+   "icon": "🧑‍🤝‍🧑",
+   "name": "名詞：人物與職業（補充）",
+   "nameEn": "Nouns: People & Jobs",
+   "summary": "adult / neighbour / colleague / scientist / celebrity… 各種身分的人。",
+   "note": "adult、colleague 是可數名詞，前面要加 a / the。",
+   "wordCount": 38,
+   "words": [
+    {
+     "en": "adult",
+     "pos": "adj & n",
+     "examples": []
+    },
+    {
+     "en": "baby",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "band",
+     "pos": "n",
+     "examples": [
+      "The band are on tour this month."
+     ]
+    },
+    {
+     "en": "boy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "boyfriend",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "businessman",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "businesswoman",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "celebrity",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "colleague",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dad",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "Dr",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "fan",
+     "pos": "n",
+     "examples": [
+      "She’s a football fan."
+     ]
+    },
+    {
+     "en": "girlfriend",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grandchild",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grandfather",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grandmother",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grandparent",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "granny",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "guest",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "guide",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "housewife",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "kid",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "king",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "man",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "member",
+     "pos": "n",
+     "examples": [
+      "a member of a club"
+     ]
+    },
+    {
+     "en": "mom",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "Ms",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mum",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "partner",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "people",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "person",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "queen",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "schoolchild",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "scientist",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "staff",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "visitor",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "waitress",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "woman",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-places-extra",
+   "icon": "🏙️",
+   "name": "名詞：地點與空間（補充）",
+   "nameEn": "Nouns: Places & Spaces",
+   "summary": "corner / cabinet / entrance / basement / bench… 場所與空間。",
+   "note": "place、room 這類詞前面通常要加定冠詞 the。",
+   "wordCount": 8,
+   "words": [
+    {
+     "en": "circus",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "city",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "closet",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "court",
+     "pos": "n",
+     "examples": [
+      "a tennis court"
+     ]
+    },
+    {
+     "en": "gallery",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "harbour",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "port",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shop assistant",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-travel-things",
+   "icon": "🚗",
+   "name": "名詞：交通與旅行（補充）",
+   "nameEn": "Nouns: Transport & Travel",
+   "summary": "ticket / seat / journey / luggage / traffic… 路上與行程相關的名詞。",
+   "note": "luggage 不可數，「一件行李」要說 a piece of luggage。",
+   "wordCount": 18,
+   "words": [
+    {
+     "en": "aeroplane",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "bike",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "crossing",
+     "pos": "n",
+     "examples": [
+      "Use the crossing to cross the street."
+     ]
+    },
+    {
+     "en": "engine",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "gas station",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "guidebook",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lorry",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "motorbike",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "parking lot",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "petrol",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "plane",
+     "pos": "n",
+     "examples": [
+      "The plane was late."
+     ]
+    },
+    {
+     "en": "police",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "police car",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ship",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tram",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "transport",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tyre",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "wheel",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-money-shopping",
+   "icon": "💰",
+   "name": "名詞：金錢與購物（補充）",
+   "nameEn": "Nouns: Money & Shopping",
+   "summary": "coin / change / credit card / discount / customer… 錢與買賣。",
+   "note": "money、cash 不可數，要數幾元才用 a dollar、a pound。",
+   "wordCount": 7,
+   "words": [
+    {
+     "en": "credit card",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "discount",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "money",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pence",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "penny",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "rent",
+     "pos": "v",
+     "examples": []
+    },
+    {
+     "en": "sale",
+     "pos": "n",
+     "examples": [
+      "for sale I bought it in the sale."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noun-time-dates",
+   "icon": "📅",
+   "name": "名詞：時間與月份（補充）",
+   "nameEn": "Nouns: Time, Months & Dates",
+   "summary": "April / October / o'clock / midday / weekend… 時間與月份。",
+   "note": "月份與星期首字母要大寫；日期用 on，月份用 in。",
+   "wordCount": 10,
+   "words": [
+    {
+     "en": "April",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "August",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "century",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "June",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lunchtime",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "March",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "May",
+     "pos": "n, mv",
+     "examples": []
+    },
+    {
+     "en": "midday",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "November",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "October",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-abstract",
+   "icon": "💭",
+   "name": "名詞：想法與抽象概念",
+   "nameEn": "Nouns: Ideas & Feelings",
+   "summary": "idea / reason / chance / trouble / success / opinion… 看不見的概念。",
+   "note": "抽象名詞的冠詞要看情況，是學生最容易錯的地方。",
+   "wordCount": 20,
+   "words": [
+    {
+     "en": "advice",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "danger",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "design",
+     "pos": "v, n",
+     "examples": []
+    },
+    {
+     "en": "dream",
+     "pos": "n & v",
+     "examples": []
+    },
+    {
+     "en": "example",
+     "pos": "n",
+     "examples": [
+      "Look at the example first. for example"
+     ]
+    },
+    {
+     "en": "experience",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "experiment",
+     "pos": "n",
+     "examples": [
+      "The science experiment was fun."
+     ]
+    },
+    {
+     "en": "fact",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "idea",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "information",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "invention",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mistake",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "news",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "opinion",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "problem",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "reason",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "story",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "success",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "topic",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "trouble",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "daily-expressions",
+   "icon": "💬",
+   "name": "日常會話用語",
+   "nameEn": "Everyday Expressions",
+   "summary": "OK / Wow / Of course / Well done… 真正會用到的固定說法。",
+   "note": "這些多半是固定成句，直接整句背最快。",
+   "wordCount": 13,
+   "words": [
+    {
+     "en": "bye",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "congratulations!",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "goodbye",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "hello",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "hey",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "hi",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "oh",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "oh dear!",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "OK/okay",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "pardon",
+     "pos": "exclam",
+     "examples": [
+      "Pardon?"
+     ]
+    },
+    {
+     "en": "thanks",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "wow",
+     "pos": "exclam",
+     "examples": []
+    },
+    {
+     "en": "Yeah!",
+     "pos": "exclam",
+     "examples": []
+    }
+   ]
+  },
+  {
+   "id": "noun-everyday-misc",
+   "icon": "✨",
+   "name": "名詞：其他日常詞彙",
+   "nameEn": "Nouns: Everyday Miscellaneous",
+   "summary": "主題表沒有歸類的零散名詞收在一起，方便一次補齊。",
+   "note": "這一組比較雜，建議當成複習清單來過。",
+   "wordCount": 151,
+   "words": [
+    {
+     "en": "accident",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "accommodation",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "activity",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "adventure",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "advert",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "age",
+     "pos": "n",
+     "examples": [
+      "I don’t know his age."
+     ]
+    },
+    {
+     "en": "alarm clock",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "album",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ambulance",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "apartment building",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "art",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "beginner",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "beginning",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "birth",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "block",
+     "pos": "n",
+     "examples": [
+      "Shall we walk round the block?"
+     ]
+    },
+    {
+     "en": "bookstore",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "business",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "business person",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "camping",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "capital",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "career",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "centre/center",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "chain",
+     "pos": "n",
+     "examples": [
+      "She wore a gold chain. I need a new bicycle chain."
+     ]
+    },
+    {
+     "en": "character",
+     "pos": "n",
+     "examples": [
+      "He was my favourite character in the film."
+     ]
+    },
+    {
+     "en": "chef",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "circle",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "clown",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "comedy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "company",
+     "pos": "n",
+     "examples": [
+      "What’s the name of your company?"
+     ]
+    },
+    {
+     "en": "conversation",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "cooking",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "country",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dancing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "department",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "details",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "difference",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "directions",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "doll",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "dot",
+     "pos": "n",
+     "examples": [
+      "dot com"
+     ]
+    },
+    {
+     "en": "drawing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "driver's licence",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "drugstore",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "electricity",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "elevator",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "environment",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "event",
+     "pos": "n",
+     "examples": [
+      "The Olympic games is a great event."
+     ]
+    },
+    {
+     "en": "explorer",
+     "pos": "n",
+     "examples": [
+      "This book’s about famous explorers."
+     ]
+    },
+    {
+     "en": "fashion",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "feelings",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "fishing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "French fries",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "front",
+     "pos": "n",
+     "examples": [
+      "at the front of the train Stand in front of me."
+     ]
+    },
+    {
+     "en": "future",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "gift",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "girl",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grade",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grand",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "grocery store",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ground",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "group",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "guy",
+     "pos": "n",
+     "examples": [
+      "He’s a really nice guy."
+     ]
+    },
+    {
+     "en": "headphones",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "heating",
+     "pos": "n",
+     "examples": [
+      "Can you turn the heating on?"
+     ]
+    },
+    {
+     "en": "helicopter",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "hip hop",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ID",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "ID card",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "identification",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "instructions",
+     "pos": "n pl",
+     "examples": []
+    },
+    {
+     "en": "invitation",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "jazz",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "kit",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "kite",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "language",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "level",
+     "pos": "n",
+     "examples": [
+      "language level"
+     ]
+    },
+    {
+     "en": "life",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "line",
+     "pos": "n",
+     "examples": [
+      "draw a line the next line"
+     ]
+    },
+    {
+     "en": "list",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "lots / a lot",
+     "pos": "n",
+     "examples": [
+      "a lot of homework."
+     ]
+    },
+    {
+     "en": "luck",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "mail",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "memory",
+     "pos": "n",
+     "examples": [
+      "My computer has 100GB of memory."
+     ]
+    },
+    {
+     "en": "middle",
+     "pos": "n",
+     "examples": [
+      "Bob’s the one in the middle of the photo."
+     ]
+    },
+    {
+     "en": "mile",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "million",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "model",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "movie",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "movie star",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "movie theater",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "name",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "nationality",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "noise",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "number",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "occupation",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "painting",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pair",
+     "pos": "n",
+     "examples": [
+      "a pair of shoes"
+     ]
+    },
+    {
+     "en": "part",
+     "pos": "n",
+     "examples": [
+      "the best part of the day"
+     ]
+    },
+    {
+     "en": "penfriend",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "performance",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "piece",
+     "pos": "n",
+     "examples": [
+      "a piece of cake"
+     ]
+    },
+    {
+     "en": "pity",
+     "pos": "n",
+     "examples": [
+      "What a pity!"
+     ]
+    },
+    {
+     "en": "place",
+     "pos": "n",
+     "examples": [
+      "a nice place for a picnic Let’s meet at my place. book a place on a course to take place"
+     ]
+    },
+    {
+     "en": "polar bear",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "pop",
+     "pos": "n",
+     "examples": [
+      "pop music"
+     ]
+    },
+    {
+     "en": "poster",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "practice",
+     "pos": "n",
+     "examples": [
+      "football practice"
+     ]
+    },
+    {
+     "en": "present",
+     "pos": "n",
+     "examples": [
+      "a birthday present"
+     ]
+    },
+    {
+     "en": "programme",
+     "pos": "n",
+     "examples": [
+      "a TV programme"
+     ]
+    },
+    {
+     "en": "rap",
+     "pos": "n",
+     "examples": [
+      "rap music"
+     ]
+    },
+    {
+     "en": "reading",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "riding",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "rubber",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "runner",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "running",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sentence",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "September",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "shame",
+     "pos": "n",
+     "examples": [
+      "What a shame!"
+     ]
+    },
+    {
+     "en": "side",
+     "pos": "n",
+     "examples": [
+      "this side of the room"
+     ]
+    },
+    {
+     "en": "sightseeing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sign",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "singing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "sitting room",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "size",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "smoking",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "stage",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "stripes",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "stuff",
+     "pos": "n",
+     "examples": [
+      "That’s where I keep all my stuff."
+     ]
+    },
+    {
+     "en": "surfboarding",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tail",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "thing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "title",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "top",
+     "pos": "n",
+     "examples": [
+      "the top of the page"
+     ]
+    },
+    {
+     "en": "tourist",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "tourist information centre",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "toy",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "training",
+     "pos": "n",
+     "examples": [
+      "sport"
+     ]
+    },
+    {
+     "en": "trainer",
+     "pos": "n",
+     "examples": [
+      "a pair of trainers"
+     ]
+    },
+    {
+     "en": "tune",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "type",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "variety",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "view",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "violin",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "walking",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "way",
+     "pos": "n",
+     "examples": [
+      "Do it this way. one-way street Is this the quickest way home? by the way (prep phr)"
+     ]
+    },
+    {
+     "en": "winner",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "word",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "working hours",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "world",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "writer",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "writing",
+     "pos": "n",
+     "examples": []
+    },
+    {
+     "en": "yog",
+     "pos": "n",
+     "examples": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "noun-home-things",
+  "icon": "🧰",
+  "name": "名詞：居家用品（補充）",
+  "nameEn": "Nouns: Home & Furniture",
+  "summary": "sofa / wardrobe / cupboard / mirror / key… 家具與居家雜物。",
+  "note": "equipment、furniture 是不可數名詞，永遠不加 s。",
+  "group": "居家用品",
+  "words": [
+   {
+    "en": "bathtub",
+    "zh": "浴缸",
+    "ipa": "ˈbɑːθ.tʌb"
+   },
+   {
+    "en": "battery",
+    "zh": "電池",
+    "ipa": "ˈbæt.ər.i"
+   },
+   {
+    "en": "bin",
+    "zh": "垃圾桶",
+    "ipa": "bɪn"
+   },
+   {
+    "en": "blanket",
+    "zh": "毯子；毛毯",
+    "ipa": "ˈblæŋ.kɪt"
+   },
+   {
+    "en": "bookcase",
+    "zh": "書櫃",
+    "ipa": "ˈbʊk.keɪs"
+   },
+   {
+    "en": "bookshelf",
+    "zh": "書架",
+    "ipa": "ˈbʊk.ʃelf"
+   },
+   {
+    "en": "bottle",
+    "zh": "瓶子",
+    "ipa": "ˈbɒt.əl"
+   },
+   {
+    "en": "bottom",
+    "zh": "底部；下面",
+    "ipa": "ˈbɒt.əm"
+   },
+   {
+    "en": "bowl",
+    "zh": "碗；缽",
+    "ipa": "bəʊl"
+   },
+   {
+    "en": "box",
+    "zh": "盒子；箱子",
+    "ipa": "bɒks"
+   },
+   {
+    "en": "cabinet",
+    "zh": "櫥櫃",
+    "ipa": "ˈkæb.ɪ.nət"
+   },
+   {
+    "en": "carpet",
+    "zh": "地毯",
+    "ipa": "ˈkɑː.pɪt"
+   },
+   {
+    "en": "case",
+    "zh": "盒子；箱子",
+    "ipa": "keɪs"
+   },
+   {
+    "en": "ceiling",
+    "zh": "天花板",
+    "ipa": "ˈsiː.lɪŋ"
+   },
+   {
+    "en": "chair",
+    "zh": "椅子",
+    "ipa": "tʃeə"
+   },
+   {
+    "en": "comb",
+    "zh": "梳子",
+    "ipa": "kəʊm"
+   },
+   {
+    "en": "cup",
+    "zh": "杯子",
+    "ipa": "kʌp"
+   },
+   {
+    "en": "dish",
+    "zh": "盤子；菜餚",
+    "ipa": "dɪʃ"
+   },
+   {
+    "en": "door",
+    "zh": "門",
+    "ipa": "dɔː"
+   },
+   {
+    "en": "drawer",
+    "zh": "抽屜",
+    "ipa": "ˈdrɔː.ə"
+   },
+   {
+    "en": "equipment",
+    "zh": "器材；設備（不可數）",
+    "ipa": "ɪˈkwɪp.mənt"
+   },
+   {
+    "en": "floor",
+    "zh": "地板；樓層",
+    "ipa": "flɔː"
+   },
+   {
+    "en": "fork",
+    "zh": "叉子",
+    "ipa": "fɔːk"
+   },
+   {
+    "en": "fridge",
+    "zh": "冰箱",
+    "ipa": "frɪdʒ"
+   },
+   {
+    "en": "glass",
+    "zh": "玻璃杯；玻璃",
+    "ipa": "ɡlɑːs"
+   },
+   {
+    "en": "key",
+    "zh": "鑰匙",
+    "ipa": "kiː"
+   },
+   {
+    "en": "kitchen",
+    "zh": "廚房",
+    "ipa": "ˈkɪtʃ.ɪn"
+   },
+   {
+    "en": "knife",
+    "zh": "小刀；餐刀",
+    "ipa": "naɪf"
+   },
+   {
+    "en": "lamp",
+    "zh": "燈；桌燈",
+    "ipa": "læmp"
+   },
+   {
+    "en": "machine",
+    "zh": "機器",
+    "ipa": "məˈʃiːn"
+   },
+   {
+    "en": "mirror",
+    "zh": "鏡子",
+    "ipa": "ˈmɪr.ə"
+   },
+   {
+    "en": "mug",
+    "zh": "大杯子；馬克杯",
+    "ipa": "mʌɡ"
+   },
+   {
+    "en": "plate",
+    "zh": "盤子",
+    "ipa": "pleɪt"
+   },
+   {
+    "en": "sheet",
+    "zh": "床單；一張（紙）",
+    "ipa": "ʃiːt"
+   },
+   {
+    "en": "shelf",
+    "zh": "架子；層板",
+    "ipa": "ʃelf"
+   },
+   {
+    "en": "shower",
+    "zh": "淋浴；蓮蓬頭",
+    "ipa": "ˈʃaʊ.ə"
+   },
+   {
+    "en": "sink",
+    "zh": "水槽",
+    "ipa": "sɪŋk"
+   },
+   {
+    "en": "soap",
+    "zh": "肥皂",
+    "ipa": "səʊp"
+   },
+   {
+    "en": "sofa",
+    "zh": "沙發",
+    "ipa": "ˈsəʊ.fə"
+   },
+   {
+    "en": "spoon",
+    "zh": "湯匙；匙",
+    "ipa": "spuːn"
+   },
+   {
+    "en": "stairs",
+    "zh": "樓梯（複數）",
+    "ipa": "steəz"
+   },
+   {
+    "en": "table",
+    "zh": "桌子；餐桌",
+    "ipa": "ˈteɪ.bəl"
+   },
+   {
+    "en": "table tennis",
+    "zh": "桌球",
+    "ipa": "ˌteɪ.bəl ˈten.ɪs"
+   },
+   {
+    "en": "toilet",
+    "zh": "廁所；馬桶",
+    "ipa": "ˈtɔɪ.lət"
+   },
+   {
+    "en": "toothbrush",
+    "zh": "牙刷",
+    "ipa": "ˈtuːθ.brʌʃ"
+   },
+   {
+    "en": "towel",
+    "zh": "毛巾",
+    "ipa": "ˈtaʊ.əl"
+   },
+   {
+    "en": "wall",
+    "zh": "牆壁",
+    "ipa": "wɔːl"
+   },
+   {
+    "en": "wardrobe",
+    "zh": "衣櫃",
+    "ipa": "ˈwɔː.drəʊb"
+   },
+   {
+    "en": "washing machine",
+    "zh": "洗衣機",
+    "ipa": "ˌwɒʃ.ɪŋ məˈʃiːn"
+   },
+   {
+    "en": "washing-up",
+    "zh": "洗碗；清洗餐具",
+    "ipa": "ˌwɒʃ.ɪŋˈʌp"
+   },
+   {
+    "en": "window",
+    "zh": "窗戶",
+    "ipa": "ˈwɪn.dəʊ"
+   },
+   {
+    "en": "armchair",
+    "zh": "扶手椅",
+    "ipa": "ˈɑːm.tʃeə"
+   },
+   {
+    "en": "cushion",
+    "zh": "靠墊；坐墊",
+    "ipa": "ˈkʊʃ.ən"
+   },
+   {
+    "en": "curtain",
+    "zh": "窗簾",
+    "ipa": "ˈkɜː.tən"
+   },
+   {
+    "en": "rug",
+    "zh": "小地毯",
+    "ipa": "rʌɡ"
+   },
+   {
+    "en": "ladder",
+    "zh": "梯子",
+    "ipa": "ˈlæd.ə"
+   },
+   {
+    "en": "bulb",
+    "zh": "燈泡",
+    "ipa": "bʌlb"
+   },
+   {
+    "en": "freezer",
+    "zh": "冷凍庫",
+    "ipa": "ˈfriː.zə"
+   },
+   {
+    "en": "oven",
+    "zh": "烤箱",
+    "ipa": "ˈʌv.ən"
+   },
+   {
+    "en": "cooker",
+    "zh": "爐子；瓦斯爐",
+    "ipa": "ˈkʊk.ə"
+   },
+   {
+    "en": "pan",
+    "zh": "平底鍋",
+    "ipa": "pæn"
+   },
+   {
+    "en": "pot",
+    "zh": "鍋子",
+    "ipa": "pɒt"
+   },
+   {
+    "en": "kettle",
+    "zh": "水壺",
+    "ipa": "ˈket.əl"
+   },
+   {
+    "en": "rubbish",
+    "zh": "垃圾",
+    "ipa": "ˈrʌb.ɪʃ"
+   },
+   {
+    "en": "mattress",
+    "zh": "床墊",
+    "ipa": "ˈmæt.trəs"
+   },
+   {
+    "en": "pillow",
+    "zh": "枕頭",
+    "ipa": "ˈpɪl.əʊ"
+   },
+   {
+    "en": "vase",
+    "zh": "花瓶",
+    "ipa": "vɑːz"
+   },
+   {
+    "en": "clock",
+    "zh": "時鐘",
+    "ipa": "klɒk"
+   },
+   {
+    "en": "radio",
+    "zh": "收音機",
+    "ipa": "ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "television",
+    "zh": "電視機",
+    "ipa": "ˈtel.ɪ.vɪʒ.ən"
+   },
+   {
+    "en": "tin",
+    "zh": "鐵罐；罐頭",
+    "ipa": "tɪn"
+   },
+   {
+    "en": "stool",
+    "zh": "小凳子",
+    "ipa": "stuːl"
+   },
+   {
+    "en": "bathroom",
+    "zh": "浴室",
+    "ipa": "ˈbɑːθ.ruːm"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in the kitchen",
+    "zh": "在廚房裡",
+    "ipa": "ɪn ðə ˈkɪtʃ.ɪn"
+   },
+   {
+    "en": "in the bathroom",
+    "zh": "在浴室裡",
+    "ipa": "ɪn ðə ˈbɑːθ.ruːm"
+   },
+   {
+    "en": "on the table",
+    "zh": "在桌子上",
+    "ipa": "ɒn ðə ˈteɪ.bəl"
+   },
+   {
+    "en": "on the floor",
+    "zh": "在地板上",
+    "ipa": "ɒn ðə flɔː"
+   },
+   {
+    "en": "under the bed",
+    "zh": "在床底下",
+    "ipa": "ˈʌn.də ðə bed"
+   },
+   {
+    "en": "up and down the stairs",
+    "zh": "上上下下樓梯",
+    "ipa": "ˌʌp ən ˈdaʊn ðə steəz"
+   },
+   {
+    "en": "do the washing-up",
+    "zh": "洗碗",
+    "ipa": "ˌduː ðə ˌwɒʃ.ɪŋˈʌp"
+   },
+   {
+    "en": "turn on the light",
+    "zh": "開燈",
+    "ipa": "ˌtɜːn ɒn ðə ˈlaɪt"
+   },
+   {
+    "en": "watch television",
+    "zh": "看電視",
+    "ipa": "ˌwɒtʃ ˈtel.ɪ.vɪʒ.ən"
+   },
+   {
+    "en": "open the door",
+    "zh": "開門",
+    "ipa": "ˌəʊ.pən ðə ˈdɔː"
+   },
+   {
+    "en": "tidy up the room",
+    "zh": "整理房間",
+    "ipa": "ˌtaɪ.di ʌp ðə ˈruːm"
+   },
+   {
+    "en": "a cup of tea",
+    "zh": "一杯茶",
+    "ipa": "ə kʌp əv ˈtiː"
+   },
+   {
+    "en": "a glass of water",
+    "zh": "一杯水",
+    "ipa": "ə ɡlɑːs əv ˈwɔː.tə"
+   },
+   {
+    "en": "put it in the drawer",
+    "zh": "把它放進抽屜裡",
+    "ipa": "pʊt ɪt ɪn ðə ˈdrɔː.ə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My mother is washing the dishes in the kitchen.",
+    "zh": "我媽媽正在廚房裡洗碗。"
+   },
+   {
+    "en": "The blue sofa is next to the small table.",
+    "zh": "藍色的沙發緊鄰著小桌子。"
+   },
+   {
+    "en": "I keep my keys in the drawer beside the door.",
+    "zh": "我把鑰匙放在門邊的抽屜裡。"
+   },
+   {
+    "en": "There is a big mirror on the wall near the stairs.",
+    "zh": "樓梯附近的牆壁上有一面大鏡子。"
+   },
+   {
+    "en": "Please close the window and turn off the lamp.",
+    "zh": "請關上窗戶並關掉桌燈。"
+   },
+   {
+    "en": "We watch television on the sofa every evening.",
+    "zh": "我們每天晚上都在沙發上看電視。"
+   },
+   {
+    "en": "The washing machine is in the small bathroom.",
+    "zh": "洗衣機在那間小浴室裡。"
+   },
+   {
+    "en": "He put the empty bottles in the bin.",
+    "zh": "他把空瓶子放進垃圾桶。"
+   },
+   {
+    "en": "My wardrobe is next to the door in my bedroom.",
+    "zh": "我的衣櫃在我臥室的門旁邊。"
+   },
+   {
+    "en": "The cat sleeps on my blanket under the table.",
+    "zh": "貓睡在我桌子下面的毯子上。"
+   },
+   {
+    "en": "Dad always does the washing-up after dinner.",
+    "zh": "爸爸總是在晚餐後洗碗。"
+   },
+   {
+    "en": "I need a new bulb for this lamp.",
+    "zh": "這盞燈需要一個新燈泡。"
+   },
+   {
+    "en": "We played table tennis in the living room.",
+    "zh": "我們在客廳打桌球。"
+   },
+   {
+    "en": "He hung the wet towel over the bathtub.",
+    "zh": "他把濕毛巾掛在浴缸上。"
+   }
+  ],
+  "tips": [
+   "equipment 是不可數名詞，永遠不加 s，也不能說 a equipment，要說 some equipment 或 a piece of equipment。",
+   "stairs 本身已經是複數，不能再加 s；同型的還有 scissors、clothes，練習時特別容易多打一個 s。",
+   "washing-up 是英式的「洗碗」，等於美式的 dishwashing，打字時中間的連字號不要漏掉。"
+  ]
+ },
+ {
+  "id": "noun-school-things",
+  "icon": "🎒",
+  "name": "名詞：學校用品與科目",
+  "nameEn": "Nouns: School & Subjects",
+  "summary": "pencil / timetable / vocabulary / chemistry… 上學會用到與會學到的。",
+  "note": "homework 不可數，不能說 a homework。",
+  "group": "學校用品",
+  "words": [
+   {
+    "en": "biology",
+    "zh": "生物",
+    "ipa": "baɪˈɒl.ə.dʒi"
+   },
+   {
+    "en": "chemistry",
+    "zh": "化學",
+    "ipa": "ˈkem.ɪ.stri"
+   },
+   {
+    "en": "geography",
+    "zh": "地理",
+    "ipa": "dʒiˈɒɡ.rəf.i"
+   },
+   {
+    "en": "headteacher",
+    "zh": "校長",
+    "ipa": "ˌhedˈtiː.tʃə"
+   },
+   {
+    "en": "pen",
+    "zh": "筆",
+    "ipa": "pen"
+   },
+   {
+    "en": "pencil",
+    "zh": "鉛筆",
+    "ipa": "ˈpen.səl"
+   },
+   {
+    "en": "pencil case",
+    "zh": "鉛筆盒",
+    "ipa": "ˈpen.səl keɪs"
+   },
+   {
+    "en": "physics",
+    "zh": "物理",
+    "ipa": "ˈfɪz.ɪks"
+   },
+   {
+    "en": "pupil",
+    "zh": "學生；小學生",
+    "ipa": "ˈpjuː.pəl"
+   },
+   {
+    "en": "scissors",
+    "zh": "剪刀（複數）",
+    "ipa": "ˈsɪz.əz"
+   },
+   {
+    "en": "spelling",
+    "zh": "拼字；拼寫",
+    "ipa": "ˈspel.ɪŋ"
+   },
+   {
+    "en": "studies",
+    "zh": "學業；研究（複數）",
+    "ipa": "ˈstʌ.diz"
+   },
+   {
+    "en": "timetable",
+    "zh": "課程表",
+    "ipa": "ˈtaɪm.tə.bəl"
+   },
+   {
+    "en": "vocabulary",
+    "zh": "詞彙",
+    "ipa": "vəˈkæb.jə.lər.i"
+   },
+   {
+    "en": "maths",
+    "zh": "數學",
+    "ipa": "mæθs"
+   },
+   {
+    "en": "history",
+    "zh": "歷史",
+    "ipa": "ˈhɪs.tər.i"
+   },
+   {
+    "en": "art",
+    "zh": "美術；藝術",
+    "ipa": "ɑːt"
+   },
+   {
+    "en": "music",
+    "zh": "音樂",
+    "ipa": "ˈmjuː.zɪk"
+   },
+   {
+    "en": "PE",
+    "zh": "體育課",
+    "ipa": "ˌpiː ˈiː"
+   },
+   {
+    "en": "science",
+    "zh": "科學",
+    "ipa": "ˈsaɪ.əns"
+   },
+   {
+    "en": "homework",
+    "zh": "家庭作業（不可數）",
+    "ipa": "ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "textbook",
+    "zh": "教科書",
+    "ipa": "ˈtekst.bʊk"
+   },
+   {
+    "en": "notebook",
+    "zh": "筆記本",
+    "ipa": "ˈnəʊt.bʊk"
+   },
+   {
+    "en": "ruler",
+    "zh": "尺；直尺",
+    "ipa": "ˈruː.lə"
+   },
+   {
+    "en": "rubber",
+    "zh": "橡皮擦",
+    "ipa": "ˈrʌb.ə"
+   },
+   {
+    "en": "eraser",
+    "zh": "橡皮擦",
+    "ipa": "ɪˈreɪ.zə"
+   },
+   {
+    "en": "glue",
+    "zh": "膠水",
+    "ipa": "ɡluː"
+   },
+   {
+    "en": "crayon",
+    "zh": "蠟筆",
+    "ipa": "ˈkreɪ.ən"
+   },
+   {
+    "en": "desk",
+    "zh": "書桌；課桌",
+    "ipa": "desk"
+   },
+   {
+    "en": "blackboard",
+    "zh": "黑板",
+    "ipa": "ˈblæk.bɔːd"
+   },
+   {
+    "en": "whiteboard",
+    "zh": "白板",
+    "ipa": "ˈwaɪt.bɔːd"
+   },
+   {
+    "en": "classroom",
+    "zh": "教室",
+    "ipa": "ˈklɑːs.ruːm"
+   },
+   {
+    "en": "playground",
+    "zh": "操場",
+    "ipa": "ˈpleɪ.ɡraʊnd"
+   },
+   {
+    "en": "library",
+    "zh": "圖書館",
+    "ipa": "ˈlaɪ.brər.i"
+   },
+   {
+    "en": "laboratory",
+    "zh": "實驗室",
+    "ipa": "ləˈbɒr.ə.tri"
+   },
+   {
+    "en": "lesson",
+    "zh": "課；課程",
+    "ipa": "ˈles.ən"
+   },
+   {
+    "en": "exam",
+    "zh": "考試",
+    "ipa": "ɪɡˈzæm"
+   },
+   {
+    "en": "test",
+    "zh": "測驗",
+    "ipa": "test"
+   },
+   {
+    "en": "mark",
+    "zh": "分數",
+    "ipa": "mɑːk"
+   },
+   {
+    "en": "grade",
+    "zh": "年級；成績",
+    "ipa": "ɡreɪd"
+   },
+   {
+    "en": "term",
+    "zh": "學期",
+    "ipa": "tɜːm"
+   },
+   {
+    "en": "schoolbag",
+    "zh": "書包",
+    "ipa": "ˈskuːl.bæɡ"
+   },
+   {
+    "en": "uniform",
+    "zh": "制服",
+    "ipa": "ˈjuː.nɪ.fɔːm"
+   },
+   {
+    "en": "tie",
+    "zh": "領帶",
+    "ipa": "taɪ"
+   },
+   {
+    "en": "English",
+    "zh": "英文",
+    "ipa": "ˈɪŋ.ɡlɪʃ"
+   },
+   {
+    "en": "Chinese",
+    "zh": "國文；中文",
+    "ipa": "ˌtʃaɪˈniːz"
+   },
+   {
+    "en": "ICT",
+    "zh": "資訊科技",
+    "ipa": "ˌaɪ.siːˈtiː"
+   },
+   {
+    "en": "project",
+    "zh": "專題作業",
+    "ipa": "ˈprɒj.ekt"
+   },
+   {
+    "en": "dictionary",
+    "zh": "字典",
+    "ipa": "ˈdɪk.ʃən.ər.i"
+   },
+   {
+    "en": "diary",
+    "zh": "日記",
+    "ipa": "ˈdaɪ.ər.i"
+   },
+   {
+    "en": "teacher",
+    "zh": "老師",
+    "ipa": "ˈtiː.tʃə"
+   },
+   {
+    "en": "classmate",
+    "zh": "同學",
+    "ipa": "ˈklɑːs.meɪt"
+   },
+   {
+    "en": "flashcard",
+    "zh": "單字卡",
+    "ipa": "ˈflæʃ.kɑːd"
+   },
+   {
+    "en": "clipboard",
+    "zh": "記事板",
+    "ipa": "ˈklɪp.bɔːd"
+   },
+   {
+    "en": "penfriend",
+    "zh": "筆友",
+    "ipa": "ˈpen.frend"
+   },
+   {
+    "en": "composition",
+    "zh": "作文",
+    "ipa": "ˌkɒm.pəˈzɪʃ.ən"
+   },
+   {
+    "en": "subject",
+    "zh": "科目",
+    "ipa": "ˈsʌb.dʒɪkt"
+   },
+   {
+    "en": "class",
+    "zh": "班級；課",
+    "ipa": "klɑːs"
+   },
+   {
+    "en": "lunch box",
+    "zh": "便當盒",
+    "ipa": "ˈlʌntʃ bɒks"
+   },
+   {
+    "en": "corridor",
+    "zh": "走廊",
+    "ipa": "ˈkɒr.ɪ.dɔː"
+   },
+   {
+    "en": "bell",
+    "zh": "鈴；鈴聲",
+    "ipa": "bel"
+   },
+   {
+    "en": "school",
+    "zh": "學校",
+    "ipa": "skuːl"
+   },
+   {
+    "en": "handwriting",
+    "zh": "書寫；筆跡",
+    "ipa": "ˈhænd.raɪ.tɪŋ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in the classroom",
+    "zh": "在教室裡",
+    "ipa": "ɪn ðə ˈklɑːs.ruːm"
+   },
+   {
+    "en": "at the blackboard",
+    "zh": "在黑板前",
+    "ipa": "ət ðə ˈblæk.bɔːd"
+   },
+   {
+    "en": "on the timetable",
+    "zh": "在課程表上",
+    "ipa": "ɒn ðə ˈtaɪm.tə.bəl"
+   },
+   {
+    "en": "in a pencil case",
+    "zh": "在鉛筆盒裡",
+    "ipa": "ɪn ə ˈpen.səl keɪs"
+   },
+   {
+    "en": "do your homework",
+    "zh": "做家庭作業",
+    "ipa": "ˌduː jɔː ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "do a science experiment",
+    "zh": "做科學實驗",
+    "ipa": "ˌduː ə ˈsaɪ.əns ɪkˈsper.ɪ.mənt"
+   },
+   {
+    "en": "learn new vocabulary",
+    "zh": "學新的詞彙",
+    "ipa": "ˌlɜːn njuː vəˈkæb.jə.lər.i"
+   },
+   {
+    "en": "in the school library",
+    "zh": "在學校圖書館",
+    "ipa": "ɪn ðə ˌskuːl ˈlaɪ.brər.i"
+   },
+   {
+    "en": "take notes",
+    "zh": "記筆記",
+    "ipa": "ˌteɪk ˈnəʊts"
+   },
+   {
+    "en": "ask the teacher",
+    "zh": "問老師",
+    "ipa": "ˈɑːsk ðə ˈtiː.tʃə"
+   },
+   {
+    "en": "an English lesson",
+    "zh": "一堂英文課",
+    "ipa": "ən ˈɪŋ.ɡlɪʃ ˈles.ən"
+   },
+   {
+    "en": "during the test",
+    "zh": "測驗期間",
+    "ipa": "ˈdjʊə.rɪŋ ðə test"
+   },
+   {
+    "en": "play in the playground",
+    "zh": "在操場上玩耍",
+    "ipa": "ˌpleɪ ɪn ðə ˈpleɪ.ɡraʊnd"
+   },
+   {
+    "en": "wear a uniform",
+    "zh": "穿制服",
+    "ipa": "ˌweər ə ˈjuː.nɪ.fɔːm"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Our biology teacher is very kind to us.",
+    "zh": "我們的生物老師對我們很好。"
+   },
+   {
+    "en": "I bought a new pencil case for this term.",
+    "zh": "我為這學期買了一個新鉛筆盒。"
+   },
+   {
+    "en": "Please put your homework on the teacher's desk.",
+    "zh": "請把你的家庭作業放在老師的桌上。"
+   },
+   {
+    "en": "The chemistry lesson starts at nine o'clock.",
+    "zh": "化學課九點開始。"
+   },
+   {
+    "en": "She is spelling her name on the whiteboard.",
+    "zh": "她正在白板上拼寫她的名字。"
+   },
+   {
+    "en": "I always learn new vocabulary in the library.",
+    "zh": "我總是在圖書館學新的詞彙。"
+   },
+   {
+    "en": "The science experiment was exciting but difficult.",
+    "zh": "那個科學實驗很刺激，但也很困難。"
+   },
+   {
+    "en": "Our timetable says we have geography on Friday.",
+    "zh": "我們的課程表上寫著星期五有地理課。"
+   },
+   {
+    "en": "He needs a ruler and an eraser for art.",
+    "zh": "他上美術課需要一把尺和一塊橡皮擦。"
+   },
+   {
+    "en": "The pupils are waiting outside the classroom.",
+    "zh": "學生們正在教室外面等候。"
+   },
+   {
+    "en": "Our headteacher welcomed us back to school.",
+    "zh": "我們的校長歡迎我們回到學校。"
+   },
+   {
+    "en": "Can you help me with my history homework?",
+    "zh": "你可以幫我做歷史作業嗎？"
+   },
+   {
+    "en": "I must finish this composition before the bell.",
+    "zh": "我必須在鈴響之前完成這篇作文。"
+   },
+   {
+    "en": "She is taking notes in her notebook.",
+    "zh": "她正在筆記本上記筆記。"
+   }
+  ],
+  "tips": [
+   "homework、equipment 這類功課或器材都是不可數名詞，不能說 a homework，也不能加 s。",
+   "scissors 本身已經是複數，英文慣用 a pair of scissors，打字時不要變成 scissor。",
+   "科目名的重音位置不同：physics、chemistry 重音在第一音節，biology、geography 重音在中間，先慢後快分開練。"
+  ]
+ },
+ {
+  "id": "noun-abstract",
+  "icon": "💭",
+  "name": "名詞：想法與抽象概念",
+  "nameEn": "Nouns: Ideas & Feelings",
+  "summary": "idea / reason / chance / trouble / success / opinion… 看不見的概念。",
+  "note": "抽象名詞的冠詞要看情況，是學生最容易錯的地方。",
+  "group": "抽象概念",
+  "words": [
+   {
+    "en": "advice",
+    "zh": "建議；忠告",
+    "ipa": "ədˈvaɪs"
+   },
+   {
+    "en": "danger",
+    "zh": "危險",
+    "ipa": "ˈdeɪn.dʒə"
+   },
+   {
+    "en": "design",
+    "zh": "設計；圖樣",
+    "ipa": "dɪˈzaɪn"
+   },
+   {
+    "en": "dream",
+    "zh": "夢；夢想",
+    "ipa": "driːm"
+   },
+   {
+    "en": "example",
+    "zh": "例子",
+    "ipa": "ɪɡˈzɑːm.pəl"
+   },
+   {
+    "en": "experience",
+    "zh": "經驗；經歷",
+    "ipa": "ɪkˈspɪə.ri.əns"
+   },
+   {
+    "en": "experiment",
+    "zh": "實驗",
+    "ipa": "ɪkˈsper.ɪ.mənt"
+   },
+   {
+    "en": "fact",
+    "zh": "事實",
+    "ipa": "fækt"
+   },
+   {
+    "en": "idea",
+    "zh": "主意；想法",
+    "ipa": "aɪˈdɪə"
+   },
+   {
+    "en": "information",
+    "zh": "資訊；消息",
+    "ipa": "ˌɪn.fəˈmeɪ.ʃən"
+   },
+   {
+    "en": "invention",
+    "zh": "發明（物）",
+    "ipa": "ɪnˈven.ʃən"
+   },
+   {
+    "en": "mistake",
+    "zh": "錯誤",
+    "ipa": "mɪˈsteɪk"
+   },
+   {
+    "en": "news",
+    "zh": "新聞",
+    "ipa": "njuːz"
+   },
+   {
+    "en": "opinion",
+    "zh": "意見；看法",
+    "ipa": "əˈpɪn.jən"
+   },
+   {
+    "en": "problem",
+    "zh": "問題",
+    "ipa": "ˈprɒb.ləm"
+   },
+   {
+    "en": "reason",
+    "zh": "原因；理由",
+    "ipa": "ˈriː.zən"
+   },
+   {
+    "en": "story",
+    "zh": "故事",
+    "ipa": "ˈstɔː.ri"
+   },
+   {
+    "en": "success",
+    "zh": "成功",
+    "ipa": "səkˈses"
+   },
+   {
+    "en": "topic",
+    "zh": "主題；話題",
+    "ipa": "ˈtɒp.ɪk"
+   },
+   {
+    "en": "trouble",
+    "zh": "麻煩；困難",
+    "ipa": "ˈtrʌ.bəl"
+   },
+   {
+    "en": "thought",
+    "zh": "想法；思考",
+    "ipa": "θɔːt"
+   },
+   {
+    "en": "chance",
+    "zh": "機會",
+    "ipa": "tʃɑːns"
+   },
+   {
+    "en": "choice",
+    "zh": "選擇",
+    "ipa": "tʃɔɪs"
+   },
+   {
+    "en": "decision",
+    "zh": "決定",
+    "ipa": "dɪˈsɪʒ.ən"
+   },
+   {
+    "en": "meaning",
+    "zh": "意思；含義",
+    "ipa": "ˈmiː.nɪŋ"
+   },
+   {
+    "en": "belief",
+    "zh": "相信；信念",
+    "ipa": "bɪˈliːf"
+   },
+   {
+    "en": "truth",
+    "zh": "真相；事實",
+    "ipa": "truːθ"
+   },
+   {
+    "en": "worry",
+    "zh": "擔心",
+    "ipa": "ˈwʌr.i"
+   },
+   {
+    "en": "fear",
+    "zh": "害怕；恐懼",
+    "ipa": "fɪə"
+   },
+   {
+    "en": "feeling",
+    "zh": "感覺；感受",
+    "ipa": "ˈfiː.lɪŋ"
+   },
+   {
+    "en": "emotion",
+    "zh": "情緒",
+    "ipa": "ɪˈməʊ.ʃən"
+   },
+   {
+    "en": "mood",
+    "zh": "心情",
+    "ipa": "muːd"
+   },
+   {
+    "en": "secret",
+    "zh": "秘密",
+    "ipa": "ˈsiː.krət"
+   },
+   {
+    "en": "purpose",
+    "zh": "目的",
+    "ipa": "ˈpɜː.pəs"
+   },
+   {
+    "en": "aim",
+    "zh": "目標",
+    "ipa": "eɪm"
+   },
+   {
+    "en": "goal",
+    "zh": "目標；球門",
+    "ipa": "ɡəʊl"
+   },
+   {
+    "en": "effect",
+    "zh": "影響；效果",
+    "ipa": "ɪˈfekt"
+   },
+   {
+    "en": "result",
+    "zh": "結果",
+    "ipa": "rɪˈzʌlt"
+   },
+   {
+    "en": "cause",
+    "zh": "原因",
+    "ipa": "kɔːz"
+   },
+   {
+    "en": "advantage",
+    "zh": "好處；優勢",
+    "ipa": "ədˈvɑːn.tɪdʒ"
+   },
+   {
+    "en": "disadvantage",
+    "zh": "缺點；不利條件",
+    "ipa": "ˌdɪs.ədˈvɑːn.tɪdʒ"
+   },
+   {
+    "en": "solution",
+    "zh": "解決方法",
+    "ipa": "səˈluː.ʃən"
+   },
+   {
+    "en": "discovery",
+    "zh": "發現",
+    "ipa": "dɪˈskʌv.ər.i"
+   },
+   {
+    "en": "research",
+    "zh": "研究",
+    "ipa": "rɪˈsɜː.tʃ"
+   },
+   {
+    "en": "knowledge",
+    "zh": "知識",
+    "ipa": "ˈnɒl.ɪdʒ"
+   },
+   {
+    "en": "skill",
+    "zh": "技巧",
+    "ipa": "skɪl"
+   },
+   {
+    "en": "talent",
+    "zh": "天才；才能",
+    "ipa": "ˈtæl.ənt"
+   },
+   {
+    "en": "effort",
+    "zh": "努力",
+    "ipa": "ˈef.ət"
+   },
+   {
+    "en": "attention",
+    "zh": "注意力",
+    "ipa": "əˈten.ʃən"
+   },
+   {
+    "en": "imagination",
+    "zh": "想像力",
+    "ipa": "ɪˌmæ.dʒɪˈneɪ.ʃən"
+   },
+   {
+    "en": "memory",
+    "zh": "記憶；記憶力",
+    "ipa": "ˈmem.ər.i"
+   },
+   {
+    "en": "future",
+    "zh": "未來",
+    "ipa": "ˈfjuː.tʃə"
+   },
+   {
+    "en": "past",
+    "zh": "過去",
+    "ipa": "pɑːst"
+   },
+   {
+    "en": "progress",
+    "zh": "進步",
+    "ipa": "ˈprəʊ.ɡres"
+   },
+   {
+    "en": "change",
+    "zh": "改變",
+    "ipa": "tʃeɪndʒ"
+   },
+   {
+    "en": "possibility",
+    "zh": "可能性",
+    "ipa": "ˌpɒs.ɪˈbɪl.ət.i"
+   },
+   {
+    "en": "promise",
+    "zh": "承諾",
+    "ipa": "ˈprɒm.ɪs"
+   },
+   {
+    "en": "happiness",
+    "zh": "幸福",
+    "ipa": "ˈhæp.i.nəs"
+   },
+   {
+    "en": "ability",
+    "zh": "能力",
+    "ipa": "əˈbɪl.ət.i"
+   },
+   {
+    "en": "courage",
+    "zh": "勇氣",
+    "ipa": "ˈkʌr.ɪdʒ"
+   },
+   {
+    "en": "freedom",
+    "zh": "自由",
+    "ipa": "ˈfriː.dəm"
+   },
+   {
+    "en": "peace",
+    "zh": "和平",
+    "ipa": "piːs"
+   },
+   {
+    "en": "luck",
+    "zh": "運氣",
+    "ipa": "lʌk"
+   },
+   {
+    "en": "amount",
+    "zh": "數量",
+    "ipa": "əˈmaʊnt"
+   },
+   {
+    "en": "quality",
+    "zh": "品質",
+    "ipa": "ˈkwɒl.ət.i"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in fact",
+    "zh": "事實上",
+    "ipa": "ɪn ˈfækt"
+   },
+   {
+    "en": "for example",
+    "zh": "例如",
+    "ipa": "fər ɪɡˈzɑːm.pəl"
+   },
+   {
+    "en": "have an idea",
+    "zh": "有一個主意",
+    "ipa": "ˌhæv ən aɪˈdɪə"
+   },
+   {
+    "en": "no idea",
+    "zh": "完全沒想法",
+    "ipa": "ˌnəʊ aɪˈdɪə"
+   },
+   {
+    "en": "tell a story",
+    "zh": "說一個故事",
+    "ipa": "ˌtel ə ˈstɔː.ri"
+   },
+   {
+    "en": "make a mistake",
+    "zh": "犯下錯誤",
+    "ipa": "ˌmeɪk ə mɪˈsteɪk"
+   },
+   {
+    "en": "ask for advice",
+    "zh": "尋求建議",
+    "ipa": "ˈɑːsk fər ədˈvaɪs"
+   },
+   {
+    "en": "in my opinion",
+    "zh": "在我看來",
+    "ipa": "ɪn maɪ əˈpɪn.jən"
+   },
+   {
+    "en": "have an experience",
+    "zh": "有過這樣的經驗",
+    "ipa": "ˌhæv ən ɪkˈspɪə.ri.əns"
+   },
+   {
+    "en": "get into trouble",
+    "zh": "惹上麻煩",
+    "ipa": "ˌɡet ˈɪn.tə ˈtrʌ.bəl"
+   },
+   {
+    "en": "in danger",
+    "zh": "處於危險中",
+    "ipa": "ɪn ˈdeɪn.dʒə"
+   },
+   {
+    "en": "a big success",
+    "zh": "一項大成功",
+    "ipa": "ə ˌbɪɡ səkˈses"
+   },
+   {
+    "en": "good news",
+    "zh": "好消息",
+    "ipa": "ˌɡʊd ˈnjuːz"
+   },
+   {
+    "en": "a possible solution",
+    "zh": "一個可能的解決方法",
+    "ipa": "ə ˌpɒs.ə.bəl səˈluː.ʃən"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I have no idea how to solve this problem.",
+    "zh": "我完全不知道要怎麼解決這個問題。"
+   },
+   {
+    "en": "Everyone makes mistakes when they learn something new.",
+    "zh": "每個人在學新東西時都會犯錯。"
+   },
+   {
+    "en": "His success was the result of years of hard work.",
+    "zh": "他的成功是多年努力的結果。"
+   },
+   {
+    "en": "In my opinion, this design is simple but beautiful.",
+    "zh": "在我看來，這個設計簡單又漂亮。"
+   },
+   {
+    "en": "The film tells a true story about a great invention.",
+    "zh": "這部電影講述了一個關於偉大發明的真實故事。"
+   },
+   {
+    "en": "Good news! In fact, there is no real danger now.",
+    "zh": "好消息！事實上，現在沒有真正的危險了。"
+   },
+   {
+    "en": "He had a terrible dream and could not think of the reason.",
+    "zh": "他做了個可怕的夢，卻想不出原因。"
+   },
+   {
+    "en": "Can you give me an example of a good idea?",
+    "zh": "你可以給我一個好點子的例子嗎？"
+   },
+   {
+    "en": "It was a good idea, but the plan soon got us into trouble.",
+    "zh": "那是個好主意，但計畫很快讓我們惹上了麻煩。"
+   },
+   {
+    "en": "Our teacher said that practice brings experience and real skill.",
+    "zh": "老師說練習能帶來經驗和真正的技巧。"
+   },
+   {
+    "en": "Do you have any information about the new discovery?",
+    "zh": "你有關於這項新發現的任何資訊嗎？"
+   },
+   {
+    "en": "The topic of our project is the future of our town.",
+    "zh": "我們專題的主題是我們小鎮的未來。"
+   },
+   {
+    "en": "She asked me for advice, but I had no idea.",
+    "zh": "她向我尋求建議，但我完全沒有想法。"
+   },
+   {
+    "en": "A good leader listens to everyone's opinion and respects their freedom.",
+    "zh": "好的領導者會傾聽每個人的意見，並尊重他們的自由。"
+   }
+  ],
+  "tips": [
+   "news、information、advice 都是不可數名詞，不能加 s，也不能說 a news 或 an advice。",
+   "抽象名詞後面的介詞要看語意：advice about、information on、reason for、effect on，介詞錯了意思就變。",
+   "可數與不可數要分清楚：many ideas、much information，advice、news、information 一律用 much。"
+  ]
+ }
+]

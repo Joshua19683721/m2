@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<title>撇號字元 vs 字型</title>`r`n<!-- 在瀏覽器開啟這個檔案，可以確認你的電腦上 U+0027 長什麼樣子 -->
+<style>
+  body { background:#0e1017; color:#fff; font:14px/2.4 "Microsoft JhengHei",sans-serif; padding:20px; }
+  h2 { font-size:14px; color:#8ef5c0; margin:18px 0 6px; }
+  .row { display:flex; align-items:center; gap:14px; margin:4px 0; }
+  .tag { width:250px; font:12px Consolas,monospace; color:#9aa4b8; }
+  /* 完全複製 App 的浮水印樣式 */
+  .wm { font-family: 'Courier New', Courier, Consolas, monospace; font-size:14px; font-weight:600;
+        letter-spacing:1px; white-space:nowrap; }
+  .wm .un { color:#c084fc; text-decoration:underline; text-underline-offset:3px; }
+  .wm2 { font-family: 'Courier New', monospace; font-size:14px; font-weight:600;
+         letter-spacing:1px; white-space:nowrap; }
+  .wm2 .un { color:#c084fc; text-decoration:underline; text-underline-offset:3px; }
+  .big { font-size:40px; }
+  code { color:#ffd479; }
+</style>
+</head>
+<body>
+<h2>1. 同一個字元（U+0027 半形撇號）在不同字型下</h2>`r`n<p style="font-size:12px;color:#9aa4b8">App 現在的練習畫面用第 1 / 2 那一列的字型。</p>
+<div class="row"><span class="tag">'Courier New', Courier, Consolas（App 現在用的）</span>
+  <span class="wm">Who<span class="un">'s</span></span></div>
+<div class="row"><span class="tag">'Courier New', monospace</span>
+  <span class="wm2">Who<span class="un">'s</span></span></div>
+<div class="row"><span class="tag">monospace（系統預設）</span>
+  <span style="font-family:monospace;font-weight:600;letter-spacing:1px">Who<span class="un">'s</span></span></div>
+<div class="row"><span class="tag">inherit（無 monospace）</span>
+  <span style="font-weight:600">Who<span class="un">'s</span></span></div>
+
+<h2>2. 不同字元在 App 目前的字型下</h2>
+<div class="row"><span class="tag"><code>U+0027</code> 半形撇號 '</span>
+  <span class="wm">Who<span class="un">'s</span></span></div>
+<div class="row"><span class="tag"><code>U+2019</code> 右引號 ’</span>
+  <span class="wm">Who<span class="un">’s</span></span></div>
+<div class="row"><span class="tag"><code>U+FF07</code> 全形撇號 ＇</span>
+  <span class="wm">Who<span class="un">＇s</span></span></div>
+<div class="row"><span class="tag"><code>U+0060</code> 反引號 `</span>
+  <span class="wm">Who<span class="un">`s</span></span></div>
+
+<h2>3. 放大對照（左 U+0027 / 右 U+2019）</h2>
+<div class="row" style="gap:24px">
+  <span class="wm big" style="color:#fff">It's o'clock</span>
+  <span class="wm big" style="color:#fff">It’s o’clock</span>
+</div>
+</body>
+</html>

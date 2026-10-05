@@ -1,0 +1,46 @@
+{
+  "scenes": ["noun-time-dates", "noun-places-extra", "grammar-prepositions", "phrasal-verbs", "verbs-talking"],
+  "issues": [
+    {
+      "scene": "noun-time-dates",
+      "kind": "tips",
+      "en": "Wednesday",
+      "zh": "星期三中間有兩個不發音的字母，二月與星期四也容易拼錯，建議逐字慢慢打。",
+      "problem": "內容錯誤：Wednesday 只有一個不發音的字母，即 We 與 n 之間的 d（讀作 /ˈwenzdeɪ/），並沒有「兩個」不發音的字母。",
+      "suggestion": "星期三中間有一個不發音的字母（Wed 的 d），二月與星期四也容易拼錯，建議逐字慢慢打。"
+    },
+    {
+      "scene": "noun-places-extra",
+      "kind": "meaning",
+      "en": "Her bedroom is on the second floor above the kitchen.",
+      "zh": "她的臥室在二樓，就在廚房上面。",
+      "problem": "樓層數法與本場景自己的英式慣例不一致：本場景片語已把 the ground floor 譯為「一樓」（英式 ground floor 即台灣的一樓），依此 the first floor 應是二樓、the second floor 應是三樓，此處卻譯為「二樓」，等於改用美式計法。",
+      "suggestion": "她的臥室在三樓，就在廚房上面。（若要保留「二樓」，應把片語 on the ground floor 一併改為 on the first floor／二樓，以維持同一套樓層算法。）"
+    },
+    {
+      "scene": "phrasal-verbs",
+      "kind": "zh-simplified",
+      "en": "fall over",
+      "zh": "摔倒；（自行車等）翻倒",
+      "problem": "「自行車」是中國大陸說法，非台灣用語；台灣標準說法為「腳踏車」。同一場景的 get off／get on 也寫作「腳踏車」，前後不一致。",
+      "suggestion": "摔倒；（腳踏車等）翻倒"
+    },
+    {
+      "scene": "phrasal-verbs",
+      "kind": "meaning",
+      "en": "Look out! That glass is going to fall off the table.",
+      "zh": "小心！那個杯子快要從桌上掉下來了。",
+      "problem": "語意不精確：that glass 指的是玻璃杯（tumbler），「杯子」在中文預設指馬克杯／茶杯，會讓學習者誤把 glass 與 cup 當成同義詞。",
+      "suggestion": "小心！那個玻璃杯快要從桌上掉下來了。"
+    },
+    {
+      "scene": "phrasal-verbs",
+      "kind": "tips",
+      "en": "pick up / put down",
+      "zh": "最容易錯的是 turn on 與 turn off、get on 與 get off、pick up 與 put down，都是同一個動詞配不同的小字，建議一次背一整組。",
+      "problem": "提示自我矛盾：所舉的 pick up 與 put down 基礎動詞不同（pick／put），不符合前面說的「同一個動詞配不同的小字」，教學規則會造成誤解。",
+      "suggestion": "最容易錯的是 turn on 與 turn off、get on 與 get off、pick up 與 pick down，都是同一個動詞配不同的小字，建議一次背一整組。"
+    }
+  ],
+  "checked": { "words": 314, "phrases": 70, "sentences": 70, "tips": 15 }
+}

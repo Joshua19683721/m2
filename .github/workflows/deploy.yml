@@ -1,0 +1,78 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一時間只跑一次部署，新的 push 會取消舊的
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: 驗證內容
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # build_scenes.py 的簡體字關卡需要 OpenCC
+      - name: 安裝檢查工具
+        run: pip install --quiet opencc-python-reimplemented
+
+      # 內容有問題（缺 ipa、句子誤帶 ipa、彎引號、簡體字、漏收官方詞表的詞）就擋下，不讓上線
+      - name: 驗證場景內容與 100% 覆蓋率
+        run: python tools/build_scenes.py --check
+
+      - name: 檢查 data/scenes.js 與來源一致
+        run: |
+          python tools/build_scenes.py
+          if ! git diff --quiet -- data/scenes.js; then
+            echo "❌ data/scenes.js 與 data/parts/ 不同步，請在本地執行 python tools/build_scenes.py 後再 commit"
+            git --no-pager diff --stat -- data/scenes.js
+            exit 1
+          fi
+
+      - name: 檢查詞庫裡沒有簡體字
+        run: python tools/scan_simplified.py
+
+      - name: 回歸測試
+        run: |
+          node tools/test.js
+          node tools/test_apostrophe.js
+
+      - name: 設定 Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # 把網站需要的三個資料夾與入口檔打包
+      - name: 打包
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: |
+            index.html
+            css/
+            js/
+            data/scenes.js
+            tools/mobile-check.html
+
+  deploy:
+    name: 部署
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

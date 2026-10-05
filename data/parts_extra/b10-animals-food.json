@@ -1,0 +1,974 @@
+[
+ {
+  "id": "noun-animals",
+  "icon": "🐾",
+  "name": "名詞：動物與昆蟲",
+  "nameEn": "Nouns: Animals & Insects",
+  "summary": "cat / bird / insect / animal… 動物單字與片語。",
+  "note": "動物名詞的複數很多不規則（mouse → mice）。",
+  "group": "動物",
+  "words": [
+   {
+    "en": "animal",
+    "zh": "動物",
+    "ipa": "ˈæn.ɪ.məl"
+   },
+   {
+    "en": "bat",
+    "zh": "蝙蝠；打擊用的棒",
+    "ipa": "bæt"
+   },
+   {
+    "en": "bear",
+    "zh": "熊",
+    "ipa": "beə"
+   },
+   {
+    "en": "beetle",
+    "zh": "甲蟲",
+    "ipa": "ˈbiː.təl"
+   },
+   {
+    "en": "bird",
+    "zh": "鳥",
+    "ipa": "bɜːd"
+   },
+   {
+    "en": "butterfly",
+    "zh": "蝴蝶",
+    "ipa": "ˈbʌ.tə.flaɪ"
+   },
+   {
+    "en": "camel",
+    "zh": "駱駝",
+    "ipa": "ˈkæm.əl"
+   },
+   {
+    "en": "cat",
+    "zh": "貓",
+    "ipa": "kæt"
+   },
+   {
+    "en": "cow",
+    "zh": "母牛；乳牛",
+    "ipa": "kaʊ"
+   },
+   {
+    "en": "creature",
+    "zh": "生物；動物",
+    "ipa": "ˈkriː.tʃə"
+   },
+   {
+    "en": "crocodile",
+    "zh": "鱷魚",
+    "ipa": "ˈkrɒk.ə.daɪl"
+   },
+   {
+    "en": "dinosaur",
+    "zh": "恐龍",
+    "ipa": "ˈdaɪ.nə.sɔː"
+   },
+   {
+    "en": "dog",
+    "zh": "狗",
+    "ipa": "dɒɡ"
+   },
+   {
+    "en": "dolphin",
+    "zh": "海豚",
+    "ipa": "ˈdɒl.fɪn"
+   },
+   {
+    "en": "donkey",
+    "zh": "驢子",
+    "ipa": "ˈdɒŋ.ki"
+   },
+   {
+    "en": "duck",
+    "zh": "鴨子",
+    "ipa": "dʌk"
+   },
+   {
+    "en": "eagle",
+    "zh": "老鷹",
+    "ipa": "ˈiː.ɡəl"
+   },
+   {
+    "en": "elephant",
+    "zh": "大象",
+    "ipa": "ˈel.ɪ.fənt"
+   },
+   {
+    "en": "frog",
+    "zh": "青蛙",
+    "ipa": "frɒɡ"
+   },
+   {
+    "en": "giraffe",
+    "zh": "長頸鹿",
+    "ipa": "dʒəˈrɑːf"
+   },
+   {
+    "en": "goat",
+    "zh": "山羊",
+    "ipa": "ɡəʊt"
+   },
+   {
+    "en": "hippo",
+    "zh": "河馬",
+    "ipa": "ˈhɪp.əʊ"
+   },
+   {
+    "en": "horse",
+    "zh": "馬",
+    "ipa": "hɔːs"
+   },
+   {
+    "en": "insect",
+    "zh": "昆蟲",
+    "ipa": "ˈɪn.sekt"
+   },
+   {
+    "en": "jellyfish",
+    "zh": "水母",
+    "ipa": "ˈdʒel.i.fɪʃ"
+   },
+   {
+    "en": "kangaroo",
+    "zh": "袋鼠",
+    "ipa": "ˌkæŋ.ɡəˈruː"
+   },
+   {
+    "en": "kitten",
+    "zh": "小貓",
+    "ipa": "ˈkɪt.ən"
+   },
+   {
+    "en": "lion",
+    "zh": "獅子",
+    "ipa": "ˈlaɪ.ən"
+   },
+   {
+    "en": "lizard",
+    "zh": "蜥蜴",
+    "ipa": "ˈlɪz.əd"
+   },
+   {
+    "en": "monkey",
+    "zh": "猴子",
+    "ipa": "ˈmʌŋ.ki"
+   },
+   {
+    "en": "octopus",
+    "zh": "章魚",
+    "ipa": "ˈɒk.tə.pəs"
+   },
+   {
+    "en": "panda",
+    "zh": "貓熊",
+    "ipa": "ˈpæn.də"
+   },
+   {
+    "en": "parrot",
+    "zh": "鸚鵡",
+    "ipa": "ˈpær.ət"
+   },
+   {
+    "en": "penguin",
+    "zh": "企鵝",
+    "ipa": "ˈpeŋ.ɡwɪn"
+   },
+   {
+    "en": "pet",
+    "zh": "寵物",
+    "ipa": "pet"
+   },
+   {
+    "en": "puppy",
+    "zh": "小狗",
+    "ipa": "ˈpʌp.i"
+   },
+   {
+    "en": "rabbit",
+    "zh": "兔子",
+    "ipa": "ˈræb.ɪt"
+   },
+   {
+    "en": "shark",
+    "zh": "鯊魚",
+    "ipa": "ʃɑːk"
+   },
+   {
+    "en": "sheep",
+    "zh": "綿羊",
+    "ipa": "ʃiːp"
+   },
+   {
+    "en": "snail",
+    "zh": "蝸牛",
+    "ipa": "sneɪl"
+   },
+   {
+    "en": "snake",
+    "zh": "蛇",
+    "ipa": "sneɪk"
+   },
+   {
+    "en": "spider",
+    "zh": "蜘蛛",
+    "ipa": "ˈspaɪ.də"
+   },
+   {
+    "en": "swan",
+    "zh": "天鵝",
+    "ipa": "swɒn"
+   },
+   {
+    "en": "tiger",
+    "zh": "老虎",
+    "ipa": "ˈtaɪ.ɡə"
+   },
+   {
+    "en": "tortoise",
+    "zh": "陸龜",
+    "ipa": "ˈtɔː.təs"
+   },
+   {
+    "en": "whale",
+    "zh": "鯨魚",
+    "ipa": "weɪl"
+   },
+   {
+    "en": "zebra",
+    "zh": "斑馬",
+    "ipa": "ˈzeb.rə"
+   },
+   {
+    "en": "mouse",
+    "zh": "老鼠",
+    "ipa": "maʊs"
+   },
+   {
+    "en": "rat",
+    "zh": "老鼠（較小的）",
+    "ipa": "ræt"
+   },
+   {
+    "en": "worm",
+    "zh": "蟲子；蚯蚓",
+    "ipa": "wɜːm"
+   },
+   {
+    "en": "bee",
+    "zh": "蜜蜂",
+    "ipa": "biː"
+   },
+   {
+    "en": "fly",
+    "zh": "蒼蠅；飛",
+    "ipa": "flaɪ"
+   },
+   {
+    "en": "ant",
+    "zh": "螞蟻",
+    "ipa": "ænt"
+   },
+   {
+    "en": "crab",
+    "zh": "螃蟹",
+    "ipa": "kræb"
+   },
+   {
+    "en": "pig",
+    "zh": "豬",
+    "ipa": "pɪɡ"
+   },
+   {
+    "en": "calf",
+    "zh": "小牛",
+    "ipa": "kɑːf"
+   },
+   {
+    "en": "cub",
+    "zh": "幼獸；幼兒",
+    "ipa": "kʌb"
+   },
+   {
+    "en": "pony",
+    "zh": "小馬",
+    "ipa": "ˈpəʊ.ni"
+   },
+   {
+    "en": "goldfish",
+    "zh": "金魚",
+    "ipa": "ˈɡəʊld.fɪʃ"
+   },
+   {
+    "en": "hamster",
+    "zh": "倉鼠",
+    "ipa": "ˈhæm.stə"
+   },
+   {
+    "en": "gorilla",
+    "zh": "大猩猩",
+    "ipa": "ɡəˈrɪl.ə"
+   },
+   {
+    "en": "leopard",
+    "zh": "豹",
+    "ipa": "ˈlep.əd"
+   },
+   {
+    "en": "hedgehog",
+    "zh": "刺蝟",
+    "ipa": "ˈhedʒ.hɒɡ"
+   },
+   {
+    "en": "paw",
+    "zh": "爪子；腳掌",
+    "ipa": "pɔː"
+   },
+   {
+    "en": "feather",
+    "zh": "羽毛",
+    "ipa": "ˈfeð.ə"
+   },
+   {
+    "en": "whiskers",
+    "zh": "鬍鬚；觸鬚",
+    "ipa": "ˈwɪs.kəz"
+   },
+   {
+    "en": "reptile",
+    "zh": "爬蟲類動物",
+    "ipa": "ˈrep.taɪl"
+   },
+   {
+    "en": "tail",
+    "zh": "尾巴",
+    "ipa": "teɪl"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a pet dog",
+    "zh": "一隻寵物狗",
+    "ipa": "ə pet ˈdɒɡ"
+   },
+   {
+    "en": "in the wild",
+    "zh": "在野外",
+    "ipa": "ɪn ðə ˈwaɪld"
+   },
+   {
+    "en": "a herd of cows",
+    "zh": "一群牛",
+    "ipa": "ə ˈhɜːd əv kaʊz"
+   },
+   {
+    "en": "a flock of birds",
+    "zh": "一群鳥",
+    "ipa": "ə flɒk əv bɜːdz"
+   },
+   {
+    "en": "a litter of kittens",
+    "zh": "一窩小貓",
+    "ipa": "ə ˈlɪt.ər əv ˈkɪt.ənz"
+   },
+   {
+    "en": "a school of fish",
+    "zh": "一群魚",
+    "ipa": "ə skuːl əv fɪʃ"
+   },
+   {
+    "en": "a swarm of bees",
+    "zh": "一群蜜蜂",
+    "ipa": "ə swɔːm əv biːz"
+   },
+   {
+    "en": "a pride of lions",
+    "zh": "一群獅子",
+    "ipa": "ə praɪd əv ˈlaɪ.ənz"
+   },
+   {
+    "en": "go to the zoo",
+    "zh": "去動物園",
+    "ipa": "ˌɡəʊ tə ðə ˈzuː"
+   },
+   {
+    "en": "look after your pet",
+    "zh": "照顧你的寵物",
+    "ipa": "ˌlʊk ˈɑː.tə jɔː pet"
+   },
+   {
+    "en": "feed the animals",
+    "zh": "餵動物",
+    "ipa": "ˌfiːd ðiː ˈæn.ɪ.məlz"
+   },
+   {
+    "en": "wild animals",
+    "zh": "野生動物",
+    "ipa": "ˌwaɪld ˈæn.ɪ.məlz"
+   },
+   {
+    "en": "a baby elephant",
+    "zh": "一隻小象",
+    "ipa": "ə ˈbeɪ.bi ˈel.ɪ.fənt"
+   },
+   {
+    "en": "take it to the vet",
+    "zh": "帶牠去看獸醫",
+    "ipa": "ˌteɪk ɪt tə ðə ˈvet"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My pet cat sleeps on the sofa every afternoon.",
+    "zh": "我的寵物貓每天下午都在沙發上睡覺。"
+   },
+   {
+    "en": "That clever dolphin is a strange sea creature.",
+    "zh": "那隻聰明的海豚是一種奇怪的海洋生物。"
+   },
+   {
+    "en": "Ants and flies are tiny insects in the garden.",
+    "zh": "螞蟻和蒼蠅是花園裡的小昆蟲。"
+   },
+   {
+    "en": "My puppy barked at a snake in the long grass.",
+    "zh": "我的小狗對草叢裡的一條蛇叫了起來。"
+   },
+   {
+    "en": "We saw two elephants and three giraffes at the zoo today.",
+    "zh": "我們今天在動物園看到兩隻大象和三隻長頸鹿。"
+   },
+   {
+    "en": "Rabbits and mice are afraid of the big cat.",
+    "zh": "兔子跟老鼠都害怕那隻大貓。"
+   },
+   {
+    "en": "The tortoise moves slowly, but the rabbit moves fast.",
+    "zh": "烏龜移動得很慢，但兔子跑得很快。"
+   },
+   {
+    "en": "Whales and dolphins live in the cold sea.",
+    "zh": "鯨魚和海豚住在寒冷的海裡。"
+   },
+   {
+    "en": "The parrot can speak and the monkey is funny.",
+    "zh": "那隻鸚鵡會說話，而猴子很滑稽。"
+   },
+   {
+    "en": "Bees and butterflies are busy in the warm summer garden.",
+    "zh": "蜜蜂和蝴蝶在溫暖的夏日花園裡忙碌。"
+   },
+   {
+    "en": "My uncle keeps three dogs, a cat and a hamster.",
+    "zh": "我叔叔養了三隻狗、一隻貓和一隻倉鼠。"
+   },
+   {
+    "en": "An eagle has sharp eyes and very strong wings.",
+    "zh": "老鷹有銳利的眼睛和非常強壯的翅膀。"
+   },
+   {
+    "en": "Crocodiles and snakes are dangerous animals near the river.",
+    "zh": "鱷魚和蛇是河邊很危險的動物。"
+   },
+   {
+    "en": "The little cub stays close to the big gorilla.",
+    "zh": "那隻小幼獸一直待在高大猩猩的身邊。"
+   }
+  ],
+  "tips": [
+   "動物名詞的複數很多不規則：老鼠的複數是 mice，綿羊的 sheep 複數不分單複數，魚的 fish 也是一樣，要特別記。",
+   "練習時把「動物加集合名詞」整組背起來，例如 a herd of cows、a flock of birds、a pride of lions，才不會講錯。",
+   "拼字時特別注意字節多的詞，butterfly、dinosaur、elephant 都是很容易打錯的一類。"
+  ]
+ },
+ {
+  "id": "noun-food-extra",
+  "icon": "🍽️",
+  "name": "名詞：食物飲品（補充）",
+  "nameEn": "Nouns: Food & Drink",
+  "summary": "把食材、菜色與飲料補齊：banana / pasta / steak / lemonade…",
+  "note": "食物名詞通常可數，加 s 就變複數（potatoes）。",
+  "group": "食物與飲料",
+  "words": [
+   {
+    "en": "banana",
+    "zh": "香蕉",
+    "ipa": "bəˈnɑː.nə"
+   },
+   {
+    "en": "bean",
+    "zh": "豆子；豆莢",
+    "ipa": "biːn"
+   },
+   {
+    "en": "biscuit",
+    "zh": "餅乾",
+    "ipa": "ˈbɪs.kɪt"
+   },
+   {
+    "en": "burger",
+    "zh": "漢堡",
+    "ipa": "ˈbɜː.ɡə"
+   },
+   {
+    "en": "butter",
+    "zh": "奶油",
+    "ipa": "ˈbʌt.ə"
+   },
+   {
+    "en": "candy",
+    "zh": "糖果",
+    "ipa": "ˈkæn.di"
+   },
+   {
+    "en": "carrot",
+    "zh": "胡蘿蔔",
+    "ipa": "ˈkær.ət"
+   },
+   {
+    "en": "cereal",
+    "zh": "麥片；穀類早餐",
+    "ipa": "ˈsɪə.ri.əl"
+   },
+   {
+    "en": "chilli",
+    "zh": "辣椒",
+    "ipa": "ˈtʃɪl.i"
+   },
+   {
+    "en": "chips",
+    "zh": "薯條",
+    "ipa": "tʃɪps"
+   },
+   {
+    "en": "cola",
+    "zh": "可樂",
+    "ipa": "ˈkəʊ.lə"
+   },
+   {
+    "en": "cookie",
+    "zh": "餅乾",
+    "ipa": "ˈkʊk.i"
+   },
+   {
+    "en": "curry",
+    "zh": "咖哩",
+    "ipa": "ˈkʌr.i"
+   },
+   {
+    "en": "dessert",
+    "zh": "甜點",
+    "ipa": "dɪˈzɜːt"
+   },
+   {
+    "en": "garlic",
+    "zh": "大蒜",
+    "ipa": "ˈɡɑː.lɪk"
+   },
+   {
+    "en": "grape",
+    "zh": "葡萄",
+    "ipa": "ɡreɪp"
+   },
+   {
+    "en": "honey",
+    "zh": "蜂蜜",
+    "ipa": "ˈhʌn.i"
+   },
+   {
+    "en": "ingredient",
+    "zh": "食材；配料",
+    "ipa": "ɪnˈɡriː.di.ənt"
+   },
+   {
+    "en": "jam",
+    "zh": "果醬",
+    "ipa": "dʒæm"
+   },
+   {
+    "en": "lemon",
+    "zh": "檸檬",
+    "ipa": "ˈlem.ən"
+   },
+   {
+    "en": "lemonade",
+    "zh": "檸檬汽水",
+    "ipa": "ˌlem.ənˈdeɪd"
+   },
+   {
+    "en": "mango",
+    "zh": "芒果",
+    "ipa": "ˈmæŋ.ɡəʊ"
+   },
+   {
+    "en": "meal",
+    "zh": "一餐；餐點",
+    "ipa": "miːl"
+   },
+   {
+    "en": "melon",
+    "zh": "甜瓜",
+    "ipa": "ˈmel.ən"
+   },
+   {
+    "en": "mineral water",
+    "zh": "礦泉水",
+    "ipa": "ˈmɪn.ər.əl ˈwɔː.tə"
+   },
+   {
+    "en": "mushroom",
+    "zh": "蘑菇",
+    "ipa": "ˈmʌʃ.ruːm"
+   },
+   {
+    "en": "oil",
+    "zh": "油；食油或機油",
+    "ipa": "ɔɪl"
+   },
+   {
+    "en": "omelette",
+    "zh": "歐姆蛋",
+    "ipa": "ˈɒm.lɪt"
+   },
+   {
+    "en": "onion",
+    "zh": "洋蔥",
+    "ipa": "ˈʌn.jən"
+   },
+   {
+    "en": "pasta",
+    "zh": "義大利麵",
+    "ipa": "ˈpæs.tə"
+   },
+   {
+    "en": "pear",
+    "zh": "梨子",
+    "ipa": "peə"
+   },
+   {
+    "en": "pepper",
+    "zh": "椒類；胡椒粉",
+    "ipa": "ˈpep.ə"
+   },
+   {
+    "en": "potato",
+    "zh": "馬鈴薯",
+    "ipa": "pəˈteɪ.təʊ"
+   },
+   {
+    "en": "recipe",
+    "zh": "食譜",
+    "ipa": "ˈres.ə.pi"
+   },
+   {
+    "en": "salad",
+    "zh": "沙拉",
+    "ipa": "ˈsæl.əd"
+   },
+   {
+    "en": "salt",
+    "zh": "鹽",
+    "ipa": "sɒlt"
+   },
+   {
+    "en": "sauce",
+    "zh": "醬汁",
+    "ipa": "sɔːs"
+   },
+   {
+    "en": "sausage",
+    "zh": "香腸",
+    "ipa": "ˈsɒ.sɪdʒ"
+   },
+   {
+    "en": "slice",
+    "zh": "薄片；一片",
+    "ipa": "slaɪs"
+   },
+   {
+    "en": "snack",
+    "zh": "點心；零食",
+    "ipa": "snæk"
+   },
+   {
+    "en": "steak",
+    "zh": "牛排",
+    "ipa": "steɪk"
+   },
+   {
+    "en": "strawberry",
+    "zh": "草莓",
+    "ipa": "ˈstrɔː.bər.i"
+   },
+   {
+    "en": "sugar",
+    "zh": "糖",
+    "ipa": "ˈʃʊɡ.ə"
+   },
+   {
+    "en": "supper",
+    "zh": "晚餐",
+    "ipa": "ˈsʌp.ə"
+   },
+   {
+    "en": "tomato",
+    "zh": "番茄",
+    "ipa": "təˈmɑː.təʊ"
+   },
+   {
+    "en": "apple",
+    "zh": "蘋果",
+    "ipa": "ˈæp.əl"
+   },
+   {
+    "en": "orange",
+    "zh": "柳丁；橘子",
+    "ipa": "ˈɒr.ɪndʒ"
+   },
+   {
+    "en": "bread",
+    "zh": "麵包",
+    "ipa": "bred"
+   },
+   {
+    "en": "egg",
+    "zh": "蛋",
+    "ipa": "eɡ"
+   },
+   {
+    "en": "cheese",
+    "zh": "起司",
+    "ipa": "tʃiːz"
+   },
+   {
+    "en": "milk",
+    "zh": "牛奶",
+    "ipa": "mɪlk"
+   },
+   {
+    "en": "juice",
+    "zh": "果汁",
+    "ipa": "dʒuːs"
+   },
+   {
+    "en": "coffee",
+    "zh": "咖啡",
+    "ipa": "ˈkɒf.i"
+   },
+   {
+    "en": "tea",
+    "zh": "茶",
+    "ipa": "tiː"
+   },
+   {
+    "en": "water",
+    "zh": "水",
+    "ipa": "ˈwɔː.tə"
+   },
+   {
+    "en": "fish",
+    "zh": "魚",
+    "ipa": "fɪʃ"
+   },
+   {
+    "en": "meat",
+    "zh": "肉",
+    "ipa": "miːt"
+   },
+   {
+    "en": "rice",
+    "zh": "米飯",
+    "ipa": "raɪs"
+   },
+   {
+    "en": "soup",
+    "zh": "湯",
+    "ipa": "suːp"
+   },
+   {
+    "en": "sandwich",
+    "zh": "三明治",
+    "ipa": "ˈsæn.wɪdʒ"
+   },
+   {
+    "en": "pizza",
+    "zh": "披薩",
+    "ipa": "ˈpiː.tə"
+   },
+   {
+    "en": "chocolate",
+    "zh": "巧克力",
+    "ipa": "ˈtʃɒk.lə.tɪd"
+   },
+   {
+    "en": "popcorn",
+    "zh": "爆米花",
+    "ipa": "ˈpɒp.kɔːn"
+   },
+   {
+    "en": "pudding",
+    "zh": "布丁",
+    "ipa": "ˈpʊd.ɪŋ"
+   },
+   {
+    "en": "lettuce",
+    "zh": "萵苣",
+    "ipa": "ˈlet.ɪs"
+   },
+   {
+    "en": "cabbage",
+    "zh": "高麗菜",
+    "ipa": "ˈkæb.ɪdʒ"
+   },
+   {
+    "en": "corn",
+    "zh": "玉米",
+    "ipa": "kɔːn"
+   },
+   {
+    "en": "cucumber",
+    "zh": "黃瓜",
+    "ipa": "ˌkjuːˈkʌm.bə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a glass of milk",
+    "zh": "一杯牛奶",
+    "ipa": "ə ɡlɑːs əv mɪlk"
+   },
+   {
+    "en": "a bowl of soup",
+    "zh": "一碗湯",
+    "ipa": "ə bəʊl əv suːp"
+   },
+   {
+    "en": "a slice of pizza",
+    "zh": "一片披薩",
+    "ipa": "ə slaɪs əv ˈpiː.tə"
+   },
+   {
+    "en": "a bottle of water",
+    "zh": "一瓶水",
+    "ipa": "ə ˈbɒt.əl əv ˈwɔː.tə"
+   },
+   {
+    "en": "egg and chips",
+    "zh": "蛋和薯條",
+    "ipa": "ˌeɡ ən ˈtʃɪps"
+   },
+   {
+    "en": "add some sugar",
+    "zh": "加一些糖",
+    "ipa": "ˌæd sʌm ˈʃʊɡ.ə"
+   },
+   {
+    "en": "fresh fruit",
+    "zh": "新鮮水果",
+    "ipa": "ˌfreʃ ˈfruːt"
+   },
+   {
+    "en": "make a sandwich",
+    "zh": "做三明治",
+    "ipa": "ˌmeɪk ə ˈsæn.wɪdʒ"
+   },
+   {
+    "en": "cook dinner",
+    "zh": "做晚餐",
+    "ipa": "ˌkʊk ˈdɪn.ə"
+   },
+   {
+    "en": "eat out",
+    "zh": "外食",
+    "ipa": "ˌiːt ˈaʊt"
+   },
+   {
+    "en": "a balanced diet",
+    "zh": "均衡的飲食",
+    "ipa": "ə ˈbæl.ənst ˈdaɪ.ət"
+   },
+   {
+    "en": "a family recipe",
+    "zh": "家傳食譜",
+    "ipa": "ə ˈfæm.əl.i ˈres.ə.pi"
+   },
+   {
+    "en": "eat too much",
+    "zh": "吃太多",
+    "ipa": "ˌiːt tuː ˈmʌtʃ"
+   },
+   {
+    "en": "taste great",
+    "zh": "很好吃",
+    "ipa": "ˌteɪst ˈɡreɪt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I eat cereal with milk every morning before school.",
+    "zh": "我每天早上上學前都吃麥片配牛奶。"
+   },
+   {
+    "en": "My favourite dessert is banana bread with hot tea.",
+    "zh": "我最喜歡的甜點是香蕉麵包配熱茶。"
+   },
+   {
+    "en": "This curry is hot because we added too much chilli.",
+    "zh": "這道咖哩很辣，因為我們放了太多辣椒。"
+   },
+   {
+    "en": "He likes steak, but I usually choose pasta.",
+    "zh": "他喜歡牛排，但通常我會選義大利麵。"
+   },
+   {
+    "en": "We need butter, salt and sugar for this recipe.",
+    "zh": "這個食譜需要奶油、鹽和糖。"
+   },
+   {
+    "en": "The tomato salad is fresh and full of vitamins.",
+    "zh": "這份番茄沙拉很新鮮，充滿維生素。"
+   },
+   {
+    "en": "My mum boils potatoes and then cuts them into chips.",
+    "zh": "我媽媽先煮馬鈴薯，然後再切成薯條。"
+   },
+   {
+    "en": "Two burgers and a cola are a cheap meal.",
+    "zh": "兩個漢堡加一杯可樂是一頓便宜的餐。"
+   },
+   {
+    "en": "The soup needs one more onion and two mushrooms.",
+    "zh": "這道湯還需要一個洋蔥和兩朵蘑菇。"
+   },
+   {
+    "en": "She put honey and lemon in her tea this morning.",
+    "zh": "她今天早上在茶裡加了蜂蜜和檸檬。"
+   },
+   {
+    "en": "I want a salad with tomato and cucumber for lunch.",
+    "zh": "我午餐想吃一份有番茄和黃瓜的沙拉。"
+   },
+   {
+    "en": "Children should not eat too much sugar and candy.",
+    "zh": "孩子們不應該吃太多糖和糖果。"
+   },
+   {
+    "en": "This restaurant serves pasta, curry and fresh bread.",
+    "zh": "這家餐廳供應義大利麵、咖哩和新鮮麵包。"
+   },
+   {
+    "en": "Grapes, mango and melon are my favourite fruits.",
+    "zh": "葡萄、芒果和甜瓜是我最喜歡的水果。"
+   }
+  ],
+  "tips": [
+   "食物名詞大多可數，複數多半加 s 或 es；洋蔥是 onion、香腸是 sausage，看到字尾別漏掉。",
+   "蔬菜和水果的名字讀音很像，carrot、cereal、curry 要一組一組練，打錯時才分得出來。",
+   "點餐時常出現的量詞要整組記，例如 a glass of、a bowl of、a slice of，不要只背名詞。"
+  ]
+ }
+]

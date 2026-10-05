@@ -1,0 +1,27 @@
+{
+  "scenes": ["food-drink", "health", "hobbies", "house-home", "measurements"],
+  "issues": [
+    { "scene": "health", "kind": "meaning", "en": "He had an accident and broke his arm.", "zh": "他出了意外，手臂受傷了。",
+      "problem": "broke 是「骨折」，指骨頭斷裂的特定傷勢；譯成「手臂受傷」只表達一般弄傷，意思被弱化，與英文不符。",
+      "suggestion": "他出了意外，手臂骨折了。" },
+    { "scene": "measurements", "kind": "meaning", "en": "month", "zh": "個月",
+      "problem": "「個月」只是量詞，必須搭配數字才成立（如 三個月、兩個月），不能單獨代表名詞 month；同一專案的 time 場景也把 month 譯為「月份」，本場景用法不一致。",
+      "suggestion": "一個月；月份" },
+    { "scene": "measurements", "kind": "meaning", "en": "The lesson starts in a few minutes.", "zh": "課堂幾分鐘後開始。",
+      "problem": "「課堂」在中文裡是 classroom（教室），the lesson 指的是「這堂課」，譯成「課堂」等於說教室開始，與英文意思不符。",
+      "suggestion": "這堂課幾分鐘後開始。" },
+    { "scene": "measurements", "kind": "duplicate", "en": "gram / gramme", "zh": "公克",
+      "problem": "gram 與 gramme 是同一個字（英式拼字與國際通用拼字），在 words 中重複列出，中文與音標完全相同，會產生兩個一模一樣的題目；同一專案的 centre/center、poor thing/you 都是合併成一條並加註拼字。",
+      "suggestion": "gram／gramme（公克）（英式拼字 gramme，通用拼字 gram）" },
+    { "scene": "hobbies", "kind": "tips", "en": "take a picture with a camera", "zh": "拍照用 take photos，相機是 camera，不要說成 take a picture with a camera。",
+      "problem": "這條提示的建議錯誤：take a picture with a camera、take a photo with a camera 都是完全正確的英文，照此提示會讓學習者誤以為正確句型不可用。",
+      "suggestion": "拍照可以說 take photos 或 take a photo；若要強調使用相機，take a photo with a camera 也完全正確，兩種說法都能用。" },
+    { "scene": "house-home", "kind": "tips", "en": "in the kitchen / in the bathroom", "zh": "房間名稱前面通常不加冠詞：in the kitchen、in the bathroom。",
+      "problem": "提示自相矛盾且與英文規則相反：房間名稱前要加定冠詞 the，而它自己列出的例句也都帶 the，照字面理解會教出 I go to kitchen 這類錯誤句子。",
+      "suggestion": "房間名稱前面要加定冠詞 the：in the kitchen、in the bathroom、in the living room。" },
+    { "scene": "house-home", "kind": "meaning", "en": "The bathroom is next to my bedroom on this floor.", "zh": "浴室在這一樓我臥室的旁邊。",
+      "problem": "台灣的「一樓」指 ground floor，而 on this floor 是「在這一（層）樓」，未指定是哪一層；譯成「這一樓」會變成在一樓，與英文不符，也和本場景其他提到 upstairs、downstairs 的句子衝突。",
+      "suggestion": "浴室在這層樓我臥室的旁邊。" }
+  ],
+  "checked": { "words": 128, "phrases": 70, "sentences": 70, "tips": 15 }
+}

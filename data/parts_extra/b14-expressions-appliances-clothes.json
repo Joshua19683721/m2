@@ -1,0 +1,1500 @@
+[
+ {
+  "id": "daily-expressions",
+  "icon": "💬",
+  "name": "日常會話用語",
+  "nameEn": "Everyday Expressions",
+  "summary": "OK / Wow / Of course / Well done… 真正會用到的固定說法。",
+  "note": "這些多半是固定成句，直接整句背最快。",
+  "group": "生活主題",
+  "words": [
+   {
+    "en": "bye",
+    "zh": "掰掰",
+    "ipa": "baɪ"
+   },
+   {
+    "en": "congratulations!",
+    "zh": "恭喜！",
+    "ipa": "kənˌɡræ.tʃəˈleɪ.ʃənz"
+   },
+   {
+    "en": "goodbye",
+    "zh": "再見",
+    "ipa": "ˌɡʊdˈbaɪ"
+   },
+   {
+    "en": "hello",
+    "zh": "你好",
+    "ipa": "həˈləʊ"
+   },
+   {
+    "en": "hey",
+    "zh": "嘿",
+    "ipa": "heɪ"
+   },
+   {
+    "en": "hi",
+    "zh": "嗨",
+    "ipa": "haɪ"
+   },
+   {
+    "en": "oh",
+    "zh": "喔",
+    "ipa": "əʊ"
+   },
+   {
+    "en": "oh dear!",
+    "zh": "哎呀！",
+    "ipa": "əʊ ˈdɪə"
+   },
+   {
+    "en": "OK/okay",
+    "zh": "好、可以、沒問題",
+    "ipa": "ˌəʊˈkeɪ"
+   },
+   {
+    "en": "pardon",
+    "zh": "請再說一次",
+    "ipa": "ˈpɑː.dən"
+   },
+   {
+    "en": "thanks",
+    "zh": "謝謝",
+    "ipa": "θæŋks"
+   },
+   {
+    "en": "wow",
+    "zh": "哇",
+    "ipa": "waʊ"
+   },
+   {
+    "en": "Yeah!",
+    "zh": "對！",
+    "ipa": "jɛə"
+   },
+   {
+    "en": "please",
+    "zh": "請",
+    "ipa": "pliːz"
+   },
+   {
+    "en": "sorry",
+    "zh": "對不起",
+    "ipa": "ˈsɒ.ri"
+   },
+   {
+    "en": "excuse me",
+    "zh": "不好意思、打擾一下",
+    "ipa": "ɪkˈskjuːz miː"
+   },
+   {
+    "en": "thank you",
+    "zh": "謝謝你",
+    "ipa": "ˈθæŋk juː"
+   },
+   {
+    "en": "you're welcome",
+    "zh": "不客氣",
+    "ipa": "jɔː ˈwel.kəm"
+   },
+   {
+    "en": "welcome",
+    "zh": "歡迎",
+    "ipa": "ˈwel.kəm"
+   },
+   {
+    "en": "of course",
+    "zh": "當然",
+    "ipa": "əv ˈkɔːs"
+   },
+   {
+    "en": "all right",
+    "zh": "沒關係",
+    "ipa": "ˌɔːl ˈraɪt"
+   },
+   {
+    "en": "well done",
+    "zh": "做得好",
+    "ipa": "ˌwel ˈdʌn"
+   },
+   {
+    "en": "good luck",
+    "zh": "祝你好運",
+    "ipa": "ˌɡʊd ˈlʌk"
+   },
+   {
+    "en": "good morning",
+    "zh": "早安",
+    "ipa": "ˌɡʊd ˈmɔː.nɪŋ"
+   },
+   {
+    "en": "good afternoon",
+    "zh": "午安",
+    "ipa": "ˌɡʊd ˌɑːf.təˈnuːn"
+   },
+   {
+    "en": "good night",
+    "zh": "晚安",
+    "ipa": "ˌɡʊd ˈnaɪt"
+   },
+   {
+    "en": "happy birthday",
+    "zh": "生日快樂",
+    "ipa": "ˌhæp.i ˈbɜːθ.deɪ"
+   },
+   {
+    "en": "see you",
+    "zh": "再見",
+    "ipa": "ˈsiː juː"
+   },
+   {
+    "en": "see you later",
+    "zh": "待會見",
+    "ipa": "ˈsiː juː ˈleɪ.tə"
+   },
+   {
+    "en": "how are you",
+    "zh": "你好嗎",
+    "ipa": "haʊ ɑː juː"
+   },
+   {
+    "en": "nice to meet you",
+    "zh": "很高興認識你",
+    "ipa": "naɪs tə miːt juː"
+   },
+   {
+    "en": "long time no see",
+    "zh": "好久不見",
+    "ipa": "ˌlɒŋ taɪm nəʊ ˈsiː"
+   },
+   {
+    "en": "never mind",
+    "zh": "沒關係、不要緊",
+    "ipa": "ˈnev.ə maɪnd"
+   },
+   {
+    "en": "no problem",
+    "zh": "沒問題",
+    "ipa": "ˌnəʊ ˈprɒb.ləm"
+   },
+   {
+    "en": "don't worry",
+    "zh": "別擔心",
+    "ipa": "dəʊnt ˈwʌr.i"
+   },
+   {
+    "en": "that's right",
+    "zh": "沒錯、對",
+    "ipa": "ðæts ˈraɪt"
+   },
+   {
+    "en": "you're right",
+    "zh": "你說得對",
+    "ipa": "jɔː ˈraɪt"
+   },
+   {
+    "en": "I see",
+    "zh": "我明白了",
+    "ipa": "aɪ ˈsiː"
+   },
+   {
+    "en": "exactly",
+    "zh": "完全正確",
+    "ipa": "ɪɡˈzækt.li"
+   },
+   {
+    "en": "fair enough",
+    "zh": "還好吧",
+    "ipa": "ˌfeə ɪˈnʌf"
+   },
+   {
+    "en": "come on",
+    "zh": "快點",
+    "ipa": "ˈkʌm ˌɒn"
+   },
+   {
+    "en": "hurry up",
+    "zh": "快點",
+    "ipa": "ˈhʌr.i ʌp"
+   },
+   {
+    "en": "look out",
+    "zh": "小心",
+    "ipa": "ˌlʊk ˈaʊt"
+   },
+   {
+    "en": "watch out",
+    "zh": "小心",
+    "ipa": "ˌwɒtʃ ˈaʊt"
+   },
+   {
+    "en": "cheer up",
+    "zh": "打起精神",
+    "ipa": "ˌtʃɪə ˈʌp"
+   },
+   {
+    "en": "no worries",
+    "zh": "沒事啦",
+    "ipa": "ˌnəʊ ˈwʌr.iz"
+   },
+   {
+    "en": "take care",
+    "zh": "保重",
+    "ipa": "ˌteɪk ˈkeə"
+   },
+   {
+    "en": "take it easy",
+    "zh": "放鬆一點",
+    "ipa": "ˌteɪk ɪt ˈiː.zi"
+   },
+   {
+    "en": "have a nice day",
+    "zh": "祝你過得愉快",
+    "ipa": "həv ə naɪs ˈdeɪ"
+   },
+   {
+    "en": "sounds good",
+    "zh": "聽起來不錯",
+    "ipa": "saʊndz ˈɡʊd"
+   },
+   {
+    "en": "no way",
+    "zh": "不可能",
+    "ipa": "ˌnəʊ ˈweɪ"
+   },
+   {
+    "en": "oh no",
+    "zh": "喔不",
+    "ipa": "əʊ ˈnəʊ"
+   },
+   {
+    "en": "my goodness",
+    "zh": "天啊",
+    "ipa": "maɪ ˈɡʊd.nəs"
+   },
+   {
+    "en": "welcome back",
+    "zh": "歡迎回來",
+    "ipa": "ˈwel.kəm ˌbæk"
+   },
+   {
+    "en": "after you",
+    "zh": "你先請",
+    "ipa": "ˈɑːf.tə juː"
+   },
+   {
+    "en": "here you are",
+    "zh": "給你",
+    "ipa": "ˌhɪə juː ˈɑː"
+   },
+   {
+    "en": "this way",
+    "zh": "這邊請",
+    "ipa": "ˈðɪs ˌweɪ"
+   },
+   {
+    "en": "sit down",
+    "zh": "請坐",
+    "ipa": "ˌsɪt ˈdaʊn"
+   },
+   {
+    "en": "come in",
+    "zh": "請進",
+    "ipa": "ˌkʌm ˈɪn"
+   },
+   {
+    "en": "speak up",
+    "zh": "說大聲一點",
+    "ipa": "ˌspiːk ˈʌp"
+   },
+   {
+    "en": "over here",
+    "zh": "在這裡",
+    "ipa": "ˌəʊ.və ˈhɪə"
+   },
+   {
+    "en": "follow me",
+    "zh": "跟我來",
+    "ipa": "ˈfɒl.əʊ miː"
+   },
+   {
+    "en": "same to you",
+    "zh": "你也是",
+    "ipa": "ˌseɪm tə ˈjuː"
+   },
+   {
+    "en": "all the best",
+    "zh": "祝你一切順利",
+    "ipa": "ˌɔːl ðə ˈbest"
+   },
+   {
+    "en": "better late than never",
+    "zh": "遲到總比沒到好",
+    "ipa": "ˌbet.ə ˈleɪt ðən ˈnev.ə"
+   },
+   {
+    "en": "good luck to you",
+    "zh": "祝你好運",
+    "ipa": "ˌɡʊd ˈlʌk tə juː"
+   },
+   {
+    "en": "help",
+    "zh": "救命、幫忙",
+    "ipa": "help"
+   },
+   {
+    "en": "enjoy your meal",
+    "zh": "慢用",
+    "ipa": "ɪnˈdʒɔɪ jɔː miːl"
+   },
+   {
+    "en": "have a good trip",
+    "zh": "旅途愉快",
+    "ipa": "həv ə ˌɡʊd ˈtrɪp"
+   },
+   {
+    "en": "speak to you later",
+    "zh": "回頭再聊",
+    "ipa": "ˌspiːk tə juː ˈleɪ.tə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "what a pity",
+    "zh": "真可惜",
+    "ipa": "wɒt ə ˈpɪt.i"
+   },
+   {
+    "en": "no hard feelings",
+    "zh": "別放在心上",
+    "ipa": "ˌnəʊ ˌhɑːd ˈfiː.lɪŋz"
+   },
+   {
+    "en": "it doesn't matter",
+    "zh": "沒關係、不要緊",
+    "ipa": "ɪt ˈdʌz.ənt ˈmæt.ə"
+   },
+   {
+    "en": "I must be going",
+    "zh": "我得走了",
+    "ipa": "aɪ mʌst bɪ ˈɡəʊ.ɪŋ"
+   },
+   {
+    "en": "see you tomorrow",
+    "zh": "明天見",
+    "ipa": "ˌsiː juː təˈmɒr.əʊ"
+   },
+   {
+    "en": "you too",
+    "zh": "你也是",
+    "ipa": "juː ˈtuː"
+   },
+   {
+    "en": "how do you do",
+    "zh": "幸會、初次見面",
+    "ipa": "haʊ djuː ˈduː"
+   },
+   {
+    "en": "I'd better go",
+    "zh": "我最好走了",
+    "ipa": "aɪd ˈbet.ə ˈɡəʊ"
+   },
+   {
+    "en": "don't worry about it",
+    "zh": "別擔心",
+    "ipa": "dəʊnt ˈwʌr.i əˈbaʊt ɪt"
+   },
+   {
+    "en": "it's very kind of you",
+    "zh": "你真好",
+    "ipa": "ɪts ˈve.ri ˈkaɪnd əv juː"
+   },
+   {
+    "en": "have a look",
+    "zh": "看一看",
+    "ipa": "həv ə ˈlʊk"
+   },
+   {
+    "en": "come back later",
+    "zh": "晚點再回來",
+    "ipa": "kʌm ˌbæk ˈleɪ.tə"
+   },
+   {
+    "en": "could you say that again",
+    "zh": "你可以再說一次嗎",
+    "ipa": "ˌkʊd juː ˈseɪ ðæt əˈɡen"
+   },
+   {
+    "en": "how lovely",
+    "zh": "多美好啊",
+    "ipa": "haʊ ˈlʌv.li"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Hello, my name is Anna. Nice to meet you.",
+    "zh": "你好，我叫安娜，很高興認識你。"
+   },
+   {
+    "en": "Hi Tom! Wow, that is a lovely present. Thank you!",
+    "zh": "嗨，湯姆！哇，那份禮物真漂亮，謝謝你！"
+   },
+   {
+    "en": "Sorry, pardon? I did not hear what you said.",
+    "zh": "不好意思，請再說一次，我沒聽清楚你說什麼。"
+   },
+   {
+    "en": "Oh dear! I lost my phone again. Oh no!",
+    "zh": "哎呀，我又把手機弄丟了，喔不！"
+   },
+   {
+    "en": "Hey, of course you can come to my house tonight.",
+    "zh": "嘿，當然你可以今晚來我家。"
+   },
+   {
+    "en": "That's right, well done! You're a great singer.",
+    "zh": "沒錯，做得好！你是很棒的歌手。"
+   },
+   {
+    "en": "You're quite right. Sorry, I was completely wrong.",
+    "zh": "你說得很對，抱歉，我完全錯了。"
+   },
+   {
+    "en": "Sorry, I'm late. Oh dear! The film has started.",
+    "zh": "抱歉，我遲到了。哎呀，電影已經開始了。"
+   },
+   {
+    "en": "Good luck with your exam! See you tomorrow, bye.",
+    "zh": "祝你考試順利！明天見，掰掰。"
+   },
+   {
+    "en": "Happy birthday! Have a nice day at the party.",
+    "zh": "生日快樂！祝你在派對上玩得愉快。"
+   },
+   {
+    "en": "See you later. Take care and say congratulations to your sister.",
+    "zh": "待會見，保重，也幫我跟你妹妹說聲恭喜。"
+   },
+   {
+    "en": "This way, please. Follow me and sit down.",
+    "zh": "請走這邊，跟我來坐下。"
+   },
+   {
+    "en": "Long time no see! How are you these days?",
+    "zh": "好久不見！最近過得怎麼樣？"
+   },
+   {
+    "en": "No worries. Everything is all right now, honestly.",
+    "zh": "別擔心，老實說一切都沒問題了。"
+   }
+  ],
+  "tips": [
+   "這些多半是兩個字以上的固定說法，回答時整句一起輸入最快，不要只打其中一個字。",
+   "驚嘆號和問號一定要記得一起打：哇的驚嘆號、請再說一次的問號，少了標點就變成另一個句子。",
+   "pardon 和 sorry 的時機不同：沒聽清楚時用前者，做錯事或不好意思時才用後者。"
+  ]
+ },
+ {
+  "id": "appliances",
+  "icon": "🔌",
+  "name": "家電用品",
+  "nameEn": "Appliances",
+  "summary": "家裡的電器用品：看電視、用洗衣機、煮東西。",
+  "note": "這一組很多是兩個字合起來的複合詞，打字時中間那一個字一個都不能漏。",
+  "group": "生活主題",
+  "words": [
+   {
+    "en": "camera",
+    "zh": "攝影機、照相機",
+    "ipa": "ˈkæm.ə.rə"
+   },
+   {
+    "en": "DVD player",
+    "zh": "光碟播放器",
+    "ipa": "ˌdiː viː ˈdiː ˌpleɪ.ə"
+   },
+   {
+    "en": "laptop",
+    "zh": "筆記型電腦",
+    "ipa": "ˈlæp.tɒp"
+   },
+   {
+    "en": "radio",
+    "zh": "收音機",
+    "ipa": "ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "CD player",
+    "zh": "光碟播放器",
+    "ipa": "ˌsiː ˈdiː ˌpleɪ.ə"
+   },
+   {
+    "en": "electric lights",
+    "zh": "電燈",
+    "ipa": "ɪˈlek.trɪk laɪts"
+   },
+   {
+    "en": "telephone",
+    "zh": "電話",
+    "ipa": "ˈtel.ɪ.fəʊn"
+   },
+   {
+    "en": "cell phone",
+    "zh": "行動電話",
+    "ipa": "ˈsel fəʊn"
+   },
+   {
+    "en": "electricity",
+    "zh": "電",
+    "ipa": "ɪˌlekˈtrɪs.ə.ti"
+   },
+   {
+    "en": "mobile phone",
+    "zh": "行動電話",
+    "ipa": "ˈməʊ.baɪl fəʊn"
+   },
+   {
+    "en": "television / TV",
+    "zh": "電視",
+    "ipa": "ˈtel.ɪ.vɪʒ.ən ˌtiː ˈviː"
+   },
+   {
+    "en": "clock",
+    "zh": "時鐘",
+    "ipa": "klɒk"
+   },
+   {
+    "en": "fridge",
+    "zh": "冰箱",
+    "ipa": "frɪdʒ"
+   },
+   {
+    "en": "oven",
+    "zh": "烤箱",
+    "ipa": "ˈʌv.ən"
+   },
+   {
+    "en": "video",
+    "zh": "影片",
+    "ipa": "ˈvɪd.i.əʊ"
+   },
+   {
+    "en": "computer",
+    "zh": "電腦",
+    "ipa": "kəmˈpjuː.tə"
+   },
+   {
+    "en": "gas",
+    "zh": "瓦斯、瓦斯爐",
+    "ipa": "ɡæs"
+   },
+   {
+    "en": "PC",
+    "zh": "個人電腦",
+    "ipa": "ˌpiː ˈsiː"
+   },
+   {
+    "en": "washing machine",
+    "zh": "洗衣機",
+    "ipa": "ˈwɒʃ.ɪŋ məˈʃiːn"
+   },
+   {
+    "en": "cooker",
+    "zh": "爐具",
+    "ipa": "ˈkʊk.ə"
+   },
+   {
+    "en": "heating",
+    "zh": "暖氣、供暖",
+    "ipa": "ˈhiː.tɪŋ"
+   },
+   {
+    "en": "phone",
+    "zh": "電話",
+    "ipa": "fəʊn"
+   },
+   {
+    "en": "digital camera",
+    "zh": "數位相機",
+    "ipa": "ˈdɪdʒ.ɪ.təl ˈkæm.ə.rə"
+   },
+   {
+    "en": "lamp",
+    "zh": "燈",
+    "ipa": "læmp"
+   },
+   {
+    "en": "toaster",
+    "zh": "烤麵包機",
+    "ipa": "ˈtəʊ.stə"
+   },
+   {
+    "en": "microwave",
+    "zh": "微波爐",
+    "ipa": "ˈmaɪ.krə.weɪv"
+   },
+   {
+    "en": "blender",
+    "zh": "果汁機",
+    "ipa": "ˈblen.də"
+   },
+   {
+    "en": "kettle",
+    "zh": "電熱水壺",
+    "ipa": "ˈket.əl"
+   },
+   {
+    "en": "vacuum cleaner",
+    "zh": "吸塵器",
+    "ipa": "ˈvæk.juəm ˈkliː.nə"
+   },
+   {
+    "en": "fan",
+    "zh": "風扇",
+    "ipa": "fæn"
+   },
+   {
+    "en": "air conditioner",
+    "zh": "冷氣機",
+    "ipa": "ˌeə kənˈdɪʃ.ə.nə"
+   },
+   {
+    "en": "hair dryer",
+    "zh": "吹風機",
+    "ipa": "ˌheə ˈdraɪ.ə"
+   },
+   {
+    "en": "dishwasher",
+    "zh": "洗碗機",
+    "ipa": "ˈdɪʃ.wɒʃ.ə"
+   },
+   {
+    "en": "freezer",
+    "zh": "冷凍庫",
+    "ipa": "ˈfriː.zə"
+   },
+   {
+    "en": "iron",
+    "zh": "熨斗",
+    "ipa": "ˈaɪ.ən"
+   },
+   {
+    "en": "electric",
+    "zh": "電的",
+    "ipa": "ɪˈlek.trɪk"
+   },
+   {
+    "en": "plug",
+    "zh": "插頭",
+    "ipa": "plʌɡ"
+   },
+   {
+    "en": "socket",
+    "zh": "插座",
+    "ipa": "ˈsɒk.ɪt"
+   },
+   {
+    "en": "switch",
+    "zh": "開關",
+    "ipa": "swɪtʃ"
+   },
+   {
+    "en": "button",
+    "zh": "按鈕",
+    "ipa": "ˈbʌt.ən"
+   },
+   {
+    "en": "screen",
+    "zh": "螢幕",
+    "ipa": "skriːn"
+   },
+   {
+    "en": "printer",
+    "zh": "印表機",
+    "ipa": "ˈprɪn.tə"
+   },
+   {
+    "en": "keyboard",
+    "zh": "鍵盤",
+    "ipa": "ˈkiː.bɔːd"
+   },
+   {
+    "en": "remote control",
+    "zh": "遙控器",
+    "ipa": "rɪˌməʊt kənˈtrəʊl"
+   },
+   {
+    "en": "headphone",
+    "zh": "耳機",
+    "ipa": "ˈhed.fəʊn"
+   },
+   {
+    "en": "charger",
+    "zh": "充電器",
+    "ipa": "ˈtʃɑː.dʒə"
+   },
+   {
+    "en": "battery",
+    "zh": "電池",
+    "ipa": "ˈbæt.ər.i"
+   },
+   {
+    "en": "wire",
+    "zh": "電線",
+    "ipa": "ˈwaɪə"
+   },
+   {
+    "en": "bulb",
+    "zh": "燈泡",
+    "ipa": "bʌlb"
+   },
+   {
+    "en": "torch",
+    "zh": "手電筒",
+    "ipa": "tɔːtʃ"
+   },
+   {
+    "en": "light",
+    "zh": "電燈",
+    "ipa": "laɪt"
+   },
+   {
+    "en": "sound",
+    "zh": "聲音",
+    "ipa": "saʊnd"
+   },
+   {
+    "en": "volume",
+    "zh": "音量",
+    "ipa": "ˈvɒl.juːm"
+   },
+   {
+    "en": "channel",
+    "zh": "頻道",
+    "ipa": "ˈtʃæn.əl"
+   },
+   {
+    "en": "programme",
+    "zh": "節目",
+    "ipa": "ˈprəʊ.ɡræm"
+   },
+   {
+    "en": "photo",
+    "zh": "照片",
+    "ipa": "ˈfəʊ.təʊ"
+   },
+   {
+    "en": "message",
+    "zh": "訊息",
+    "ipa": "ˈmes.ɪdʒ"
+   },
+   {
+    "en": "call",
+    "zh": "打電話",
+    "ipa": "kɔːl"
+   },
+   {
+    "en": "answer",
+    "zh": "接電話",
+    "ipa": "ˈɑːn.sə"
+   },
+   {
+    "en": "ring",
+    "zh": "響鈴",
+    "ipa": "rɪŋ"
+   },
+   {
+    "en": "machine",
+    "zh": "機器",
+    "ipa": "məˈʃiːn"
+   },
+   {
+    "en": "power",
+    "zh": "電源",
+    "ipa": "ˈpaʊ.ə"
+   },
+   {
+    "en": "power cut",
+    "zh": "停電",
+    "ipa": "ˌpaʊ.ə ˈkʌt"
+   },
+   {
+    "en": "energy",
+    "zh": "能源",
+    "ipa": "ˈen.ə.dʒi"
+   },
+   {
+    "en": "turn on",
+    "zh": "開啟",
+    "ipa": "ˌtɜːn ˈɒn"
+   },
+   {
+    "en": "turn off",
+    "zh": "關閉",
+    "ipa": "ˌtɜːn ˈɒf"
+   },
+   {
+    "en": "plug in",
+    "zh": "插上插頭",
+    "ipa": "ˌplʌɡ ˈɪn"
+   },
+   {
+    "en": "unplug",
+    "zh": "拔掉插頭",
+    "ipa": "ˌʌnˈplʌɡ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "turn on the TV",
+    "zh": "打開電視",
+    "ipa": "ˌtɜːn ˈɒn ðə ˌtiː ˈviː"
+   },
+   {
+    "en": "switch off the light",
+    "zh": "關掉電燈",
+    "ipa": "ˌswɪtʃ ˈɒf ðə laɪt"
+   },
+   {
+    "en": "plug in the laptop",
+    "zh": "插上筆記型電腦",
+    "ipa": "ˌplʌɡ ˈɪn ðə ˈlæp.tɒp"
+   },
+   {
+    "en": "charge my phone",
+    "zh": "幫手機充電",
+    "ipa": "ˌtʃɑːdʒ maɪ fəʊn"
+   },
+   {
+    "en": "watch a DVD",
+    "zh": "看光碟",
+    "ipa": "wɒtʃ ə ˌdiː viː ˈdiː"
+   },
+   {
+    "en": "listen to the radio",
+    "zh": "聽收音機",
+    "ipa": "ˈlɪs.ən tə ðə ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "answer the phone",
+    "zh": "接電話",
+    "ipa": "ˈɑːn.sə ðə fəʊn"
+   },
+   {
+    "en": "make a phone call",
+    "zh": "打一通電話",
+    "ipa": "ˌmeɪk ə ˈfəʊn kɔːl"
+   },
+   {
+    "en": "do the washing",
+    "zh": "洗衣服",
+    "ipa": "ˌduː ðə ˈwɒʃ.ɪŋ"
+   },
+   {
+    "en": "use the washing machine",
+    "zh": "使用洗衣機",
+    "ipa": "ˌjuːz ðə ˈwɒʃ.ɪŋ məˌʃiːn"
+   },
+   {
+    "en": "cook in the oven",
+    "zh": "用烤箱烹煮",
+    "ipa": "kʊk ɪn ði ˈʌv.ən"
+   },
+   {
+    "en": "heat up the food",
+    "zh": "把食物熱一下",
+    "ipa": "ˌhiːt ˌʌp ðə fuːd"
+   },
+   {
+    "en": "take a photo",
+    "zh": "拍一張照片",
+    "ipa": "ˌteɪk ə ˈfəʊ.təʊ"
+   },
+   {
+    "en": "change the channel",
+    "zh": "換頻道",
+    "ipa": "ˌtʃeɪndʒ ðə ˈtʃæn.əl"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My father watches the news on TV with the remote control.",
+    "zh": "我爸爸用遙控器看電視上的新聞。"
+   },
+   {
+    "en": "The washing machine is working while mum cooks in the oven.",
+    "zh": "洗衣機正在運作，媽媽同時用烤箱做菜。"
+   },
+   {
+    "en": "My phone battery is low, so I am charging it now.",
+    "zh": "我的手機電量快沒了，所以正在充電。"
+   },
+   {
+    "en": "Please plug in the laptop and turn on the screen.",
+    "zh": "請把筆記型電腦插上電源，然後打開螢幕。"
+   },
+   {
+    "en": "The oven is broken, so we are using the microwave.",
+    "zh": "烤箱壞了，所以我們改用微波爐。"
+   },
+   {
+    "en": "I turned on the heating and the lamp in my room.",
+    "zh": "我把暖氣和我房間的燈打開。"
+   },
+   {
+    "en": "My laptop is new, but this computer is very old.",
+    "zh": "我的筆記型電腦是新的，但這台電腦很舊了。"
+   },
+   {
+    "en": "The radio is broken, so I use the CD player instead.",
+    "zh": "收音機壞了，所以我改用光碟播放器。"
+   },
+   {
+    "en": "Take a photo of the family with this digital camera.",
+    "zh": "用這台數位相機幫家人拍一張照片。"
+   },
+   {
+    "en": "The video on my mobile phone is really very clear.",
+    "zh": "我行動電話上的影片非常清楚。"
+   },
+   {
+    "en": "Can you answer the phone? It is my mobile phone.",
+    "zh": "你可以接電話嗎？是我的行動電話。"
+   },
+   {
+    "en": "There is a power cut in our street, so the fridge is off.",
+    "zh": "我們那條街停電了，所以冰箱也沒電。"
+   },
+   {
+    "en": "The vacuum cleaner is very noisy in our small flat.",
+    "zh": "吸塵器在我們的小公寓裡很吵。"
+   },
+   {
+    "en": "Please change the channel. This programme is boring.",
+    "zh": "請換頻道，這個節目很無聊。"
+   }
+  ],
+  "tips": [
+   "洗衣機、微波爐、數位相機這類複合詞，打字時兩個字都要完整打進去，中間不能漏。",
+   "電器前面通常要有冠詞或所有詞，比如開電視、我的冰箱，少了冠詞句子就不對了。",
+   "容易混的是電器本身和它的用法：電視用來看，燈用來開，練習時把搭配一起記最快。"
+  ]
+ },
+ {
+  "id": "clothes",
+  "icon": "👕",
+  "name": "衣物與配件",
+  "nameEn": "Clothes and Accessories",
+  "summary": "穿什麼、脫什麼、買什麼衣服和配件。",
+  "note": "穿戴的動詞比衣服本身更容易出錯，先練穿上、穿著、試穿這三組差別。",
+  "group": "生活主題",
+  "words": [
+   {
+    "en": "backpack",
+    "zh": "背包（美式說法；英式為 rucksack）",
+    "ipa": "ˈbæk.pæk"
+   },
+   {
+    "en": "fashion",
+    "zh": "時尚",
+    "ipa": "ˈfæʃ.ən"
+   },
+   {
+    "en": "purse",
+    "zh": "錢包",
+    "ipa": "pɜːs"
+   },
+   {
+    "en": "swimsuit",
+    "zh": "泳衣",
+    "ipa": "ˈswɪm.suːt"
+   },
+   {
+    "en": "bag",
+    "zh": "袋子",
+    "ipa": "bæɡ"
+   },
+   {
+    "en": "raincoat",
+    "zh": "雨衣",
+    "ipa": "ˈreɪn.kəʊt"
+   },
+   {
+    "en": "tie",
+    "zh": "領帶",
+    "ipa": "taɪ"
+   },
+   {
+    "en": "bathing suit",
+    "zh": "泳衣",
+    "ipa": "ˈbæ.ðɪŋ suːt"
+   },
+   {
+    "en": "glasses",
+    "zh": "眼鏡",
+    "ipa": "ˈɡlɑː.sɪz"
+   },
+   {
+    "en": "ring",
+    "zh": "戒指",
+    "ipa": "rɪŋ"
+   },
+   {
+    "en": "tights",
+    "zh": "緊身褲",
+    "ipa": "taɪts"
+   },
+   {
+    "en": "belt",
+    "zh": "皮帶",
+    "ipa": "belt"
+   },
+   {
+    "en": "glove",
+    "zh": "手套",
+    "ipa": "ɡlʌv"
+   },
+   {
+    "en": "rucksack",
+    "zh": "背包",
+    "ipa": "ˈrʌk.sæk"
+   },
+   {
+    "en": "trainers",
+    "zh": "運動鞋",
+    "ipa": "ˈtreɪ.nəz"
+   },
+   {
+    "en": "blouse",
+    "zh": "女襯衫",
+    "ipa": "blaʊz"
+   },
+   {
+    "en": "handbag",
+    "zh": "手提包",
+    "ipa": "ˈhænd.bæɡ"
+   },
+   {
+    "en": "scarf",
+    "zh": "圍巾",
+    "ipa": "skɑːf"
+   },
+   {
+    "en": "trousers",
+    "zh": "長褲",
+    "ipa": "ˈtraʊ.zəz"
+   },
+   {
+    "en": "boot",
+    "zh": "靴子",
+    "ipa": "buːt"
+   },
+   {
+    "en": "hat",
+    "zh": "帽子",
+    "ipa": "hæt"
+   },
+   {
+    "en": "shirt",
+    "zh": "襯衫",
+    "ipa": "ʃɜːt"
+   },
+   {
+    "en": "try on (v)",
+    "zh": "試穿",
+    "ipa": "ˌtraɪ ˈɒn"
+   },
+   {
+    "en": "bracelet",
+    "zh": "手鍊",
+    "ipa": "ˈbreɪs.lət"
+   },
+   {
+    "en": "hoodie",
+    "zh": "連帽上衣",
+    "ipa": "ˈhʊd.i"
+   },
+   {
+    "en": "shoes",
+    "zh": "鞋子",
+    "ipa": "ʃuːz"
+   },
+   {
+    "en": "T-shirt",
+    "zh": "短袖上衣",
+    "ipa": "ˈtiː.ʃɜːt"
+   },
+   {
+    "en": "cap",
+    "zh": "鴨舌帽",
+    "ipa": "kæp"
+   },
+   {
+    "en": "jacket",
+    "zh": "夾克",
+    "ipa": "ˈdʒæk.ɪt"
+   },
+   {
+    "en": "shorts",
+    "zh": "短褲",
+    "ipa": "ʃɔːts"
+   },
+   {
+    "en": "umbrella",
+    "zh": "雨傘",
+    "ipa": "ʌmˈbrel.ə"
+   },
+   {
+    "en": "chain",
+    "zh": "鍊子",
+    "ipa": "tʃeɪn"
+   },
+   {
+    "en": "jeans",
+    "zh": "牛仔褲",
+    "ipa": "dʒiːnz"
+   },
+   {
+    "en": "skirt",
+    "zh": "裙子",
+    "ipa": "skɜːt"
+   },
+   {
+    "en": "uniform",
+    "zh": "制服",
+    "ipa": "ˈjuː.nɪ.fɔːm"
+   },
+   {
+    "en": "clothes",
+    "zh": "衣服",
+    "ipa": "kləʊðz"
+   },
+   {
+    "en": "jewellery / jewelry",
+    "zh": "珠寶首飾／珠寶首飾（美式）",
+    "ipa": "ˈdʒuː.əl.ri"
+   },
+   {
+    "en": "sock",
+    "zh": "襪子",
+    "ipa": "sɒk"
+   },
+   {
+    "en": "wallet",
+    "zh": "皮夾",
+    "ipa": "ˈwɒl.ɪt"
+   },
+   {
+    "en": "coat",
+    "zh": "外套",
+    "ipa": "kəʊt"
+   },
+   {
+    "en": "jumper",
+    "zh": "毛衣",
+    "ipa": "ˈdʒʌm.pə"
+   },
+   {
+    "en": "suit",
+    "zh": "西裝",
+    "ipa": "suːt"
+   },
+   {
+    "en": "watch",
+    "zh": "手錶",
+    "ipa": "wɒtʃ"
+   },
+   {
+    "en": "costume (swimming) kit",
+    "zh": "泳裝",
+    "ipa": "ˈkɒs.tjuːm ˈswɪm.ɪŋ kɪt"
+   },
+   {
+    "en": "sunglasses",
+    "zh": "太陽眼鏡",
+    "ipa": "ˈsʌn.ɡlɑː.sɪz"
+   },
+   {
+    "en": "wear (v)",
+    "zh": "穿、戴",
+    "ipa": "weə"
+   },
+   {
+    "en": "dress",
+    "zh": "洋裝、連衣裙",
+    "ipa": "dres"
+   },
+   {
+    "en": "necklace",
+    "zh": "項鍊",
+    "ipa": "ˈnes.ləs"
+   },
+   {
+    "en": "sweater",
+    "zh": "毛衣",
+    "ipa": "ˈswet.ə"
+   },
+   {
+    "en": "earring",
+    "zh": "耳環",
+    "ipa": "ˈɪə.rɪŋ"
+   },
+   {
+    "en": "pocket",
+    "zh": "口袋",
+    "ipa": "ˈpɒk.ɪt"
+   },
+   {
+    "en": "swimming costume",
+    "zh": "泳衣",
+    "ipa": "ˈswɪm.ɪŋ ˈkɒs.tjuːm"
+   },
+   {
+    "en": "pyjamas",
+    "zh": "睡衣",
+    "ipa": "ˈpɪ.dʒə.məz"
+   },
+   {
+    "en": "slippers",
+    "zh": "拖鞋",
+    "ipa": "ˈslɪp.əz"
+   },
+   {
+    "en": "shoelace",
+    "zh": "鞋帶",
+    "ipa": "ˈʃuː.leɪs"
+   },
+   {
+    "en": "wardrobe",
+    "zh": "衣櫃",
+    "ipa": "ˈwɔː.drɔːb"
+   },
+   {
+    "en": "button",
+    "zh": "鈕扣",
+    "ipa": "ˈbʌt.ən"
+   },
+   {
+    "en": "zip",
+    "zh": "拉鍊",
+    "ipa": "zɪp"
+   },
+   {
+    "en": "size",
+    "zh": "尺寸",
+    "ipa": "saɪz"
+   },
+   {
+    "en": "pair",
+    "zh": "一雙、一對",
+    "ipa": "peə"
+   },
+   {
+    "en": "wool",
+    "zh": "羊毛",
+    "ipa": "wʊl"
+   },
+   {
+    "en": "cotton",
+    "zh": "棉花",
+    "ipa": "ˈkɒt.ən"
+   },
+   {
+    "en": "leather",
+    "zh": "皮革",
+    "ipa": "ˈleð.ə"
+   },
+   {
+    "en": "silk",
+    "zh": "絲綢",
+    "ipa": "sɪlk"
+   },
+   {
+    "en": "warm",
+    "zh": "保暖的",
+    "ipa": "wɔːm"
+   },
+   {
+    "en": "loose",
+    "zh": "寬鬆的",
+    "ipa": "luːs"
+   },
+   {
+    "en": "tight",
+    "zh": "緊的",
+    "ipa": "taɪt"
+   },
+   {
+    "en": "comfortable",
+    "zh": "舒適的",
+    "ipa": "ˈkʌm.ftə.bəl"
+   },
+   {
+    "en": "smart",
+    "zh": "帥氣的",
+    "ipa": "smɑːt"
+   },
+   {
+    "en": "take off",
+    "zh": "脫下",
+    "ipa": "ˌteɪk ˈɒf"
+   },
+   {
+    "en": "put on",
+    "zh": "穿上",
+    "ipa": "ˌpʊt ˈɒn"
+   },
+   {
+    "en": "change",
+    "zh": "換上",
+    "ipa": "tʃeɪndʒ"
+   },
+   {
+    "en": "fit",
+    "zh": "合身",
+    "ipa": "fɪt"
+   },
+   {
+    "en": "outfit",
+    "zh": "一整套衣服",
+    "ipa": "ˈaʊt.fɪt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "put on a jacket",
+    "zh": "穿上夾克",
+    "ipa": "ˌpʊt ˈɒn ə ˈdʒæk.ɪt"
+   },
+   {
+    "en": "take off your shoes",
+    "zh": "脫下鞋子",
+    "ipa": "ˌteɪk ˈɒf jɔː ʃuːz"
+   },
+   {
+    "en": "try on a dress",
+    "zh": "試穿洋裝",
+    "ipa": "ˌtraɪ ˈɒn ə dres"
+   },
+   {
+    "en": "get dressed",
+    "zh": "穿好衣服",
+    "ipa": "ˌɡet ˈdrest"
+   },
+   {
+    "en": "a pair of shoes",
+    "zh": "一雙鞋",
+    "ipa": "ə peə əv ʃuːz"
+   },
+   {
+    "en": "wear a hat",
+    "zh": "戴帽子",
+    "ipa": "ˌweə ə hæt"
+   },
+   {
+    "en": "wear a uniform",
+    "zh": "穿制服",
+    "ipa": "ˌweə ə ˈjuː.nɪ.fɔːm"
+   },
+   {
+    "en": "wash your jeans",
+    "zh": "洗牛仔褲",
+    "ipa": "wɒʃ jɔː dʒiːnz"
+   },
+   {
+    "en": "hang up your coat",
+    "zh": "把外套掛起來",
+    "ipa": "ˌhæŋ ʌp jɔː kəʊt"
+   },
+   {
+    "en": "fit me well",
+    "zh": "很合我的身",
+    "ipa": "fɪt miː wel"
+   },
+   {
+    "en": "too tight",
+    "zh": "太緊了",
+    "ipa": "ˌtuː ˈtaɪt"
+   },
+   {
+    "en": "in jeans and trainers",
+    "zh": "穿牛仔褲和運動鞋",
+    "ipa": "ɪn dʒiːnz ən ˈtreɪ.nəz"
+   },
+   {
+    "en": "put on some warm clothes",
+    "zh": "穿件保暖的衣服",
+    "ipa": "ˌpʊt ˈɒn sʌm ˌwɔːm kləʊðz"
+   },
+   {
+    "en": "take an umbrella",
+    "zh": "帶把傘",
+    "ipa": "ˌteɪk ən ʌmˈbrel.ə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "She wears a warm coat and a scarf in winter.",
+    "zh": "她冬天會穿暖的外套和圍巾。"
+   },
+   {
+    "en": "I put on my new trainers before I go to school.",
+    "zh": "我去上學前會穿上新運動鞋。"
+   },
+   {
+    "en": "These jeans are too tight, so I want a bigger size.",
+    "zh": "這條牛仔褲太緊了，所以我想大一點的尺寸。"
+   },
+   {
+    "en": "He always wears a uniform to work every day.",
+    "zh": "他每天上班都會穿制服。"
+   },
+   {
+    "en": "Please take off your shoes before you come inside.",
+    "zh": "進來之前請脫下鞋子。"
+   },
+   {
+    "en": "My mother wears a gold watch and a thin necklace.",
+    "zh": "我媽媽戴著金手錶和一條細項鍊。"
+   },
+   {
+    "en": "The shop assistant asked me to try on this blue dress.",
+    "zh": "店員請我試穿這件藍洋裝。"
+   },
+   {
+    "en": "It is raining hard, so take your raincoat and umbrella.",
+    "zh": "雨下得很大，帶上你的雨衣和雨傘。"
+   },
+   {
+    "en": "I keep my wallet and phone in my coat pocket.",
+    "zh": "我把皮夾和手機放在外套的口袋裡。"
+   },
+   {
+    "en": "The sweater is made of soft wool and it is warm.",
+    "zh": "這件毛衣是柔軟的羊毛做的，很保暖。"
+   },
+   {
+    "en": "Children often lose a glove or a sock at school.",
+    "zh": "小朋友常常在學校弄丟手套或襪子。"
+   },
+   {
+    "en": "You can try these sunglasses on. They look really smart.",
+    "zh": "你可以試戴這副太陽眼鏡，看起來真帥。"
+   },
+   {
+    "en": "He needs a warm sweater because his coat is too thin.",
+    "zh": "他需要一件暖毛衣，因為他的外套太薄了。"
+   },
+   {
+    "en": "This cap and that hoodie are both very comfortable.",
+    "zh": "這頂鴨舌帽和那件連帽上衣都很舒適。"
+   }
+  ],
+  "tips": [
+   "穿戴的動詞最容易出錯：穿著是長期狀態，穿上是動作，脫下來才是反過來的那個動詞。",
+   "衣服前面一定要有冠詞或所有詞，像是我的皮帶、那件洋裝；但衣服這個複數名詞前面不加冠詞。",
+   "這組大量是兩個字合起來的複合詞，前一個字通常不重讀，後一個字才是重點音節，唸的時候別搶。"
+  ]
+ }
+]

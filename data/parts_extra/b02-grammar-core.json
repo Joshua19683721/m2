@@ -1,0 +1,713 @@
+[
+ {
+  "id": "grammar-core",
+  "icon": "🧩",
+  "name": "基礎文法核心詞",
+  "nameEn": "Core Grammar Words",
+  "summary": "人稱、指示詞、所有格、情態與助動詞、連接詞——每一句都會用到的高頻詞。",
+  "note": "句子骨架，打錯整句語意就錯了，請優先練熟。",
+  "group": "文法基礎",
+  "words": [
+   {
+    "en": "a/an",
+    "zh": "一個；母音開頭時用另一個形式",
+    "ipa": "ə ən"
+   },
+   {
+    "en": "a few",
+    "zh": "幾個；一點點",
+    "ipa": "ə fjuː"
+   },
+   {
+    "en": "all",
+    "zh": "全部；所有的",
+    "ipa": "ɔːl"
+   },
+   {
+    "en": "all kinds of",
+    "zh": "各種各樣的",
+    "ipa": "ˌɔːl ˈkaɪndz əv"
+   },
+   {
+    "en": "all sorts of",
+    "zh": "各式各樣的",
+    "ipa": "ˌɔːl ˈsɔːts əv"
+   },
+   {
+    "en": "all the time",
+    "zh": "一直；不斷地",
+    "ipa": "ˌɔːl ðə ˈtaɪm"
+   },
+   {
+    "en": "an",
+    "zh": "一個（元音開頭時用）",
+    "ipa": "ən"
+   },
+   {
+    "en": "and",
+    "zh": "和；與；然後",
+    "ipa": "ənd"
+   },
+   {
+    "en": "another",
+    "zh": "另一個；再一個",
+    "ipa": "əˈnʌð.ə"
+   },
+   {
+    "en": "any",
+    "zh": "任何一個；一些",
+    "ipa": "ˈen.i"
+   },
+   {
+    "en": "anybody",
+    "zh": "任何人",
+    "ipa": "ˈen.i.bəd.i"
+   },
+   {
+    "en": "anyone",
+    "zh": "任何人",
+    "ipa": "ˈen.i.wʌn"
+   },
+   {
+    "en": "anything",
+    "zh": "任何東西",
+    "ipa": "ˈen.i.θɪŋ"
+   },
+   {
+    "en": "as",
+    "zh": "作為；如同；當……時",
+    "ipa": "əz"
+   },
+   {
+    "en": "be",
+    "zh": "是；存在；成為（助動詞）",
+    "ipa": "biː"
+   },
+   {
+    "en": "because",
+    "zh": "因為",
+    "ipa": "bɪˈkɒz"
+   },
+   {
+    "en": "both",
+    "zh": "兩個都",
+    "ipa": "bəʊθ"
+   },
+   {
+    "en": "but",
+    "zh": "但是；然而（除了）",
+    "ipa": "bʌt"
+   },
+   {
+    "en": "can",
+    "zh": "能；可以；會",
+    "ipa": "kæn"
+   },
+   {
+    "en": "cannot",
+    "zh": "不能；無法",
+    "ipa": "ˈkæn.ɒt"
+   },
+   {
+    "en": "could",
+    "zh": "能夠（禮貌用法）；過去式",
+    "ipa": "kʊd"
+   },
+   {
+    "en": "each",
+    "zh": "每一個",
+    "ipa": "iːtʃ"
+   },
+   {
+    "en": "each other",
+    "zh": "彼此；互相",
+    "ipa": "ˌiːtʃ ˈʌð.ə"
+   },
+   {
+    "en": "every",
+    "zh": "每一個；每個",
+    "ipa": "ˈev.ri"
+   },
+   {
+    "en": "everybody",
+    "zh": "每個人；大家",
+    "ipa": "ˈev.ri.bəd.i"
+   },
+   {
+    "en": "everyone",
+    "zh": "每個人；大家",
+    "ipa": "ˈev.ri.wʌn"
+   },
+   {
+    "en": "everything",
+    "zh": "每件事；所有東西",
+    "ipa": "ˈev.ri.θɪŋ"
+   },
+   {
+    "en": "except",
+    "zh": "除了",
+    "ipa": "ɪkˈsept"
+   },
+   {
+    "en": "few",
+    "zh": "很少；不多",
+    "ipa": "fjuː"
+   },
+   {
+    "en": "have",
+    "zh": "有；吃（助動詞）",
+    "ipa": "hæv"
+   },
+   {
+    "en": "have got to",
+    "zh": "必須；不得不",
+    "ipa": "ˈhæv ˌɡɒt tə"
+   },
+   {
+    "en": "he",
+    "zh": "他",
+    "ipa": "hiː"
+   },
+   {
+    "en": "her",
+    "zh": "她的；她（女性）",
+    "ipa": "hɜː"
+   },
+   {
+    "en": "hers",
+    "zh": "她的（東西）",
+    "ipa": "hɜːz"
+   },
+   {
+    "en": "herself",
+    "zh": "她自己",
+    "ipa": "hɜːˈself"
+   },
+   {
+    "en": "him",
+    "zh": "他（受詞）",
+    "ipa": "hɪm"
+   },
+   {
+    "en": "himself",
+    "zh": "他自己",
+    "ipa": "hɪmˈself"
+   },
+   {
+    "en": "his",
+    "zh": "他的",
+    "ipa": "hɪz"
+   },
+   {
+    "en": "I",
+    "zh": "我",
+    "ipa": "aɪ"
+   },
+   {
+    "en": "if",
+    "zh": "如果；是否",
+    "ipa": "ɪf"
+   },
+   {
+    "en": "it",
+    "zh": "它；這（中性）",
+    "ipa": "ɪt"
+   },
+   {
+    "en": "its",
+    "zh": "它的",
+    "ipa": "ɪts"
+   },
+   {
+    "en": "itself",
+    "zh": "它自己",
+    "ipa": "ɪtˈself"
+   },
+   {
+    "en": "many",
+    "zh": "許多（可數）",
+    "ipa": "ˈmen.i"
+   },
+   {
+    "en": "me",
+    "zh": "我（受詞）",
+    "ipa": "miː"
+   },
+   {
+    "en": "might",
+    "zh": "可能；也許",
+    "ipa": "maɪt"
+   },
+   {
+    "en": "mine",
+    "zh": "我的（東西）",
+    "ipa": "maɪn"
+   },
+   {
+    "en": "much",
+    "zh": "許多（不可數）；非常",
+    "ipa": "mʌtʃ"
+   },
+   {
+    "en": "must",
+    "zh": "必須；一定",
+    "ipa": "mʌst"
+   },
+   {
+    "en": "my",
+    "zh": "我的",
+    "ipa": "maɪ"
+   },
+   {
+    "en": "myself",
+    "zh": "我自己",
+    "ipa": "maɪˈself"
+   },
+   {
+    "en": "no",
+    "zh": "不；沒有",
+    "ipa": "nəʊ"
+   },
+   {
+    "en": "nobody",
+    "zh": "沒有人",
+    "ipa": "ˈnəʊ.bəd.i"
+   },
+   {
+    "en": "no one",
+    "zh": "沒有人",
+    "ipa": "ˌnəʊ ˈwʌn"
+   },
+   {
+    "en": "nothing",
+    "zh": "沒有東西；什麼也不",
+    "ipa": "ˈnʌθ.ɪŋ"
+   },
+   {
+    "en": "or",
+    "zh": "或者；還是",
+    "ipa": "ɔː"
+   },
+   {
+    "en": "other",
+    "zh": "其他的；別的",
+    "ipa": "ˈʌð.ə"
+   },
+   {
+    "en": "our",
+    "zh": "我們的",
+    "ipa": "ˈaʊ.ə"
+   },
+   {
+    "en": "ours",
+    "zh": "我們的（東西）",
+    "ipa": "ˈaʊəz"
+   },
+   {
+    "en": "ourselves",
+    "zh": "我們自己",
+    "ipa": "ˌaʊ.əˈselvz"
+   },
+   {
+    "en": "several",
+    "zh": "幾個；數個",
+    "ipa": "ˈsev.rəl"
+   },
+   {
+    "en": "shall",
+    "zh": "將要（用於建議）",
+    "ipa": "ʃæl"
+   },
+   {
+    "en": "she",
+    "zh": "她",
+    "ipa": "ʃiː"
+   },
+   {
+    "en": "should",
+    "zh": "應該",
+    "ipa": "ʃʊd"
+   },
+   {
+    "en": "so",
+    "zh": "所以；那樣；如此",
+    "ipa": "səʊ"
+   },
+   {
+    "en": "some",
+    "zh": "一些；某個",
+    "ipa": "sʌm"
+   },
+   {
+    "en": "somebody",
+    "zh": "某人；有人",
+    "ipa": "ˈsʌm.bəd.i"
+   },
+   {
+    "en": "someone",
+    "zh": "某人；有人",
+    "ipa": "ˈsʌm.wʌn"
+   },
+   {
+    "en": "something",
+    "zh": "某事；某物",
+    "ipa": "ˈsʌm.θɪŋ"
+   },
+   {
+    "en": "such",
+    "zh": "如此的；這樣的",
+    "ipa": "sʌtʃ"
+   },
+   {
+    "en": "than",
+    "zh": "比",
+    "ipa": "ðən"
+   },
+   {
+    "en": "that",
+    "zh": "那個；（引導子句）",
+    "ipa": "ðæt"
+   },
+   {
+    "en": "the",
+    "zh": "這個；那個",
+    "ipa": "ðə"
+   },
+   {
+    "en": "their",
+    "zh": "他們的",
+    "ipa": "ðeə"
+   },
+   {
+    "en": "theirs",
+    "zh": "他們的（東西）",
+    "ipa": "ðeəz"
+   },
+   {
+    "en": "them",
+    "zh": "他們；她們；它們（受詞）",
+    "ipa": "ðem"
+   },
+   {
+    "en": "themselves",
+    "zh": "他們自己",
+    "ipa": "ðəmˈselvz"
+   },
+   {
+    "en": "these",
+    "zh": "這些",
+    "ipa": "ðiːz"
+   },
+   {
+    "en": "they",
+    "zh": "他們；她們；它們",
+    "ipa": "ðeɪ"
+   },
+   {
+    "en": "this",
+    "zh": "這個",
+    "ipa": "ðɪs"
+   },
+   {
+    "en": "those",
+    "zh": "那些",
+    "ipa": "ðəʊz"
+   },
+   {
+    "en": "us",
+    "zh": "我們（受詞）",
+    "ipa": "ʌs"
+   },
+   {
+    "en": "we",
+    "zh": "我們",
+    "ipa": "wiː"
+   },
+   {
+    "en": "what",
+    "zh": "什麼",
+    "ipa": "wɒt"
+   },
+   {
+    "en": "which",
+    "zh": "哪一個",
+    "ipa": "wɪtʃ"
+   },
+   {
+    "en": "while",
+    "zh": "當……時；然而",
+    "ipa": "waɪl"
+   },
+   {
+    "en": "who",
+    "zh": "誰",
+    "ipa": "huː"
+   },
+   {
+    "en": "whose",
+    "zh": "誰的",
+    "ipa": "huːz"
+   },
+   {
+    "en": "will",
+    "zh": "將會；會（助動詞）",
+    "ipa": "wɪl"
+   },
+   {
+    "en": "would",
+    "zh": "會；想要（禮貌用語）",
+    "ipa": "wʊd"
+   },
+   {
+    "en": "you",
+    "zh": "你；你們",
+    "ipa": "juː"
+   },
+   {
+    "en": "your",
+    "zh": "你的；你們的",
+    "ipa": "jɔː"
+   },
+   {
+    "en": "yours",
+    "zh": "你的（東西）",
+    "ipa": "jɔːz"
+   },
+   {
+    "en": "yourself",
+    "zh": "你自己",
+    "ipa": "jɔːˈself"
+   },
+   {
+    "en": "although",
+    "zh": "雖然（但是）",
+    "ipa": "ɔːlˈðəʊ"
+   },
+   {
+    "en": "though",
+    "zh": "雖然",
+    "ipa": "ðəʊ"
+   },
+   {
+    "en": "unless",
+    "zh": "除非；如果不",
+    "ipa": "ənˈles"
+   },
+   {
+    "en": "whether",
+    "zh": "是否",
+    "ipa": "ˈweð.ə"
+   },
+   {
+    "en": "neither",
+    "zh": "（兩者）都不",
+    "ipa": "ˈnaɪ.ðə"
+   },
+   {
+    "en": "either",
+    "zh": "（兩者）之一；也（否定句用）",
+    "ipa": "ˈaɪ.ðə"
+   },
+   {
+    "en": "none",
+    "zh": "沒有一個；一個也不",
+    "ipa": "nʌn"
+   },
+   {
+    "en": "whoever",
+    "zh": "任何人；無論誰",
+    "ipa": "ˌhuːˈwe.və"
+   },
+   {
+    "en": "whatever",
+    "zh": "任何東西；無論什麼",
+    "ipa": "wɒtˈev.ə"
+   },
+   {
+    "en": "whichever",
+    "zh": "無論哪一個",
+    "ipa": "wɪtʃˈev.ə"
+   },
+   {
+    "en": "plenty of",
+    "zh": "許多的；大量的",
+    "ipa": "ˈplen.ti əv"
+   },
+   {
+    "en": "each of",
+    "zh": "……的每一個",
+    "ipa": "iːtʃ əv"
+   },
+   {
+    "en": "a lot of",
+    "zh": "許多的；非常",
+    "ipa": "ə lɒt əv"
+   },
+   {
+    "en": "a little",
+    "zh": "一點點；一點",
+    "ipa": "ə ˈlɪt.əl"
+   },
+   {
+    "en": "how many",
+    "zh": "多少（可數）",
+    "ipa": "haʊ ˈmen.i"
+   },
+   {
+    "en": "how much",
+    "zh": "多少（不可數）；多麼",
+    "ipa": "haʊ ˈmʌtʃ"
+   },
+   {
+    "en": "would like",
+    "zh": "想要",
+    "ipa": "wʊd ˈlaɪk"
+   },
+   {
+    "en": "had better",
+    "zh": "最好（還是……的好）",
+    "ipa": "həd ˈbet.ə"
+   },
+   {
+    "en": "be going to",
+    "zh": "將要；打算",
+    "ipa": "biː ˌɡəʊ.ɪŋ tə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "be able to",
+    "zh": "能夠；可以",
+    "ipa": "bi ˈeɪ.bəl tə"
+   },
+   {
+    "en": "have to",
+    "zh": "必須；不得不",
+    "ipa": "ˈhæv tə"
+   },
+   {
+    "en": "as if",
+    "zh": "好像；彷彿",
+    "ipa": "əz ˈɪf"
+   },
+   {
+    "en": "as long as",
+    "zh": "只要；長達",
+    "ipa": "əz lɒŋ əz"
+   },
+   {
+    "en": "even though",
+    "zh": "雖然；即使",
+    "ipa": "ˈiː.vən ðəʊ"
+   },
+   {
+    "en": "in order to",
+    "zh": "為了；以便",
+    "ipa": "ɪn ˈɔː.də tə"
+   },
+   {
+    "en": "so that",
+    "zh": "為了；以便",
+    "ipa": "səʊ ðæt"
+   },
+   {
+    "en": "such as",
+    "zh": "例如",
+    "ipa": "sʌtʃ əz"
+   },
+   {
+    "en": "rather than",
+    "zh": "而不是",
+    "ipa": "ˈrɑː.ðə ðən"
+   },
+   {
+    "en": "would rather",
+    "zh": "寧可；比較想",
+    "ipa": "wʊd ˈrɑː.ðə"
+   },
+   {
+    "en": "no longer",
+    "zh": "不再",
+    "ipa": "nəʊ ˈlɒŋ.ɡə"
+   },
+   {
+    "en": "used to",
+    "zh": "以前常常；過去曾經",
+    "ipa": "ˈjuːst tə"
+   },
+   {
+    "en": "too many",
+    "zh": "太多（可數）",
+    "ipa": "tuː ˈmen.i"
+   },
+   {
+    "en": "too much",
+    "zh": "太多（不可數）；太過分",
+    "ipa": "tuː ˈmʌtʃ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I can swim, but I cannot ride a bike.",
+    "zh": "我會游泳，但是我不會騎腳踏車。"
+   },
+   {
+    "en": "My brother must finish his homework before dinner.",
+    "zh": "我弟弟必須在晚餐前完成作業。"
+   },
+   {
+    "en": "She has a few friends here, but she has no family.",
+    "zh": "她在這裡有幾個朋友，可是她沒有家人。"
+   },
+   {
+    "en": "Everyone should bring their own umbrella to school.",
+    "zh": "每個人都應該帶自己的雨傘到學校。"
+   },
+   {
+    "en": "You must not tell anybody about the test.",
+    "zh": "你不能把考試的事告訴任何人。"
+   },
+   {
+    "en": "Would you like some tea or a glass of milk?",
+    "zh": "你想喝點茶還是一杯牛奶？"
+   },
+   {
+    "en": "We have got to leave early because the train is late.",
+    "zh": "我們得早點出發，因為火車晚點了。"
+   },
+   {
+    "en": "There is nothing in the fridge, so we must buy food.",
+    "zh": "冰箱裡什麼都沒有，所以我們必須買食物。"
+   },
+   {
+    "en": "Both my sisters can speak a bit of English.",
+    "zh": "我的兩個姊姊都會說一點英文。"
+   },
+   {
+    "en": "You can borrow my pen if you want.",
+    "zh": "如果你需要的話，可以借用我的筆。"
+   },
+   {
+    "en": "My father might buy me a new phone this year.",
+    "zh": "我爸爸今年可能會買一支新手機給我。"
+   },
+   {
+    "en": "The film was so long that I fell asleep.",
+    "zh": "那部電影太長了，所以我就睡著了。"
+   },
+   {
+    "en": "She gave the book to him because it was hers.",
+    "zh": "她把書給了他，因為那是她的。"
+   },
+   {
+    "en": "These shoes are mine, and those bags are yours.",
+    "zh": "這雙鞋是我的，那些包包是你的。"
+   }
+  ],
+  "tips": [
+   "冠詞與代名詞是句子的骨架，最容易漏打：可數名詞單數前一定要有冠詞或限定詞，打字前先確認這裡需不需要一個、這些或我的。",
+   "情態動詞後面一律接原形動詞：can、must、should 後面不能加 s 也不要加 to，這是最高頻的打錯點。",
+   "所有格分兩種用法：my 這類限定詞後面要接名詞，mine 這類名詞性所有格可以單獨用；另外 its 沒有撇號，帶撇號的那個是「它是」的意思。"
+  ]
+ }
+]

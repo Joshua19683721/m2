@@ -1,0 +1,10827 @@
+{
+ "meta": {
+  "source": "Cambridge English A2 Key / A2 Key for Schools Vocabulary List (UCLES, August 2025)",
+  "note": "字母序主詞表 + Appendix 1 詞組 + Appendix 2 主題分類；用於覆蓋率檢查。"
+ },
+ "count": 1713,
+ "entries": [
+  {
+   "en": "a/an",
+   "pos": "det",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "a few",
+   "pos": "det, adj & pron",
+   "letter": "A",
+   "examples": [
+    "I invited a few of my friends. I’ll be ready in a few minutes."
+   ]
+  },
+  {
+   "en": "able",
+   "pos": "adj",
+   "letter": "A",
+   "examples": [
+    "be able to"
+   ]
+  },
+  {
+   "en": "about",
+   "pos": "adv & prep",
+   "letter": "A",
+   "examples": [
+    "What about a cold drink? I have about £3. (adv) a book about animals (prep)"
+   ]
+  },
+  {
+   "en": "above",
+   "pos": "adv & prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "accident",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "accommodation",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "across",
+   "pos": "adv & prep",
+   "letter": "A",
+   "examples": [
+    "The bank’s across the road. He walked across the bridge."
+   ]
+  },
+  {
+   "en": "act",
+   "pos": "v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "action",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "activity",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "actor",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "actually",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "ad",
+   "pos": "n",
+   "letter": "A",
+   "examples": [
+    "an ad on TV"
+   ]
+  },
+  {
+   "en": "add",
+   "pos": "v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "address",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "adult",
+   "pos": "adj & n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "advanced",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "adventure",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "advert",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "advertisement",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "advice",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "aeroplane",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "afraid",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "after",
+   "pos": "adv & prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "afternoon",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "afterwards",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "again",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "against",
+   "pos": "prep",
+   "letter": "A",
+   "examples": [
+    "We watched England play against France."
+   ]
+  },
+  {
+   "en": "age",
+   "pos": "n",
+   "letter": "A",
+   "examples": [
+    "I don’t know his age."
+   ]
+  },
+  {
+   "en": "aged",
+   "pos": "adj",
+   "letter": "A",
+   "examples": [
+    "aged 10 – 16"
+   ]
+  },
+  {
+   "en": "ago",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "agree",
+   "pos": "v",
+   "letter": "A",
+   "examples": [
+    "Yes, I agree with you. Don’t you agree, Sam?"
+   ]
+  },
+  {
+   "en": "air",
+   "pos": "n",
+   "letter": "A",
+   "examples": [
+    "to travel by air"
+   ]
+  },
+  {
+   "en": "airport",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "alarm clock",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "album",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "all",
+   "pos": "adv, det & pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "all kinds of",
+   "pos": "det & pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "allow",
+   "pos": "v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "all right/alright",
+   "pos": "adj, adv & exclam",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "all sorts of",
+   "pos": "det & pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "all the time",
+   "pos": "det",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "almost",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "alone",
+   "pos": "adj & adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "along",
+   "pos": "prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "already",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "alright",
+   "pos": "adj, adv & exclam",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "also",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "always",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "a.m.",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "amazed",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "amazing",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "ambulance",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "among",
+   "pos": "prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "an",
+   "pos": "det",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "and",
+   "pos": "conj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "angry",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "animal",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "another",
+   "pos": "det & pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "answer",
+   "pos": "n & v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "any",
+   "pos": "det & pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anybody",
+   "pos": "pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anymore",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anyone",
+   "pos": "pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anything",
+   "pos": "pron",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anyway",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "anywhere",
+   "pos": "adv",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "apartment",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "apartment building",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "app",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "apple",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "appointment",
+   "pos": "n",
+   "letter": "A",
+   "examples": [
+    "an appointment with the doctor"
+   ]
+  },
+  {
+   "en": "April",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "area",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "arm",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "armchair",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "around",
+   "pos": "adv & prep",
+   "letter": "A",
+   "examples": [
+    "to travel around (adv) to sit around the table (prep)"
+   ]
+  },
+  {
+   "en": "arrive",
+   "pos": "v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "art",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "article",
+   "pos": "n",
+   "letter": "A",
+   "examples": [
+    "an article about skiing"
+   ]
+  },
+  {
+   "en": "artist",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "as",
+   "pos": "conj & adv & prep",
+   "letter": "A",
+   "examples": [
+    "as good as as soon as possible the same as as well as well as"
+   ]
+  },
+  {
+   "en": "ask",
+   "pos": "v",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "assistant",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "as well",
+   "pos": "adv, prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "at",
+   "pos": "prep",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "at / @",
+   "pos": "prep",
+   "letter": "A",
+   "examples": [
+    "My email address is david@gmail.com"
+   ]
+  },
+  {
+   "en": "at all",
+   "pos": "prep phr",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "attractive",
+   "pos": "adj",
+   "letter": "A",
+   "examples": [
+    "The walls are an attractive colour."
+   ]
+  },
+  {
+   "en": "August",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "aunt",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "autumn",
+   "pos": "n",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "available",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "away",
+   "pos": "adv",
+   "letter": "A",
+   "examples": [
+    "He’s gone away. It’s two kilometres away."
+   ]
+  },
+  {
+   "en": "awesome",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "awful",
+   "pos": "adj",
+   "letter": "A",
+   "examples": []
+  },
+  {
+   "en": "baby",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "back",
+   "pos": "n, adv & adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "backpack",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bad",
+   "pos": "adj",
+   "letter": "B",
+   "examples": [
+    "(be) bad for somebody"
+   ]
+  },
+  {
+   "en": "badly",
+   "pos": "adv",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "badminton",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bag",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bake",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "ball",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "balloon",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "banana",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "band",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "The band are on tour this month."
+   ]
+  },
+  {
+   "en": "bank",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "I changed my money in the bank."
+   ]
+  },
+  {
+   "en": "barbecue/barbeque",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "baseball",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "basketball",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bat",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "a baseball bat"
+   ]
+  },
+  {
+   "en": "bath",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bathing suit",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bathroom",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bathtub",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "battery",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "be",
+   "pos": "av & v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beach",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bean",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bear",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beard",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beautiful",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "because",
+   "pos": "conj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "because of",
+   "pos": "prep phr",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "become",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bed",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bedroom",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bee",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beetle",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "before",
+   "pos": "adv, conj & prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "begin",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beginner",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beginning",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "behind",
+   "pos": "adv & prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "believe",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "belong",
+   "pos": "v",
+   "letter": "B",
+   "examples": [
+    "The bag belongs to me."
+   ]
+  },
+  {
+   "en": "below",
+   "pos": "adv & prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "belt",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "beside",
+   "pos": "prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "best",
+   "pos": "adj & adv",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "better",
+   "pos": "adj & adv",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "between",
+   "pos": "prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bicycle",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "big",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bike",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bill",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "Can I have my bill, please?"
+   ]
+  },
+  {
+   "en": "bin",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "Can you throw the rubbish in the bin?"
+   ]
+  },
+  {
+   "en": "biology",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bird",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "birth",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "birthday",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "biscuit",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bit",
+   "pos": "n & adv",
+   "letter": "B",
+   "examples": [
+    "Just a little bit of cake, please. I’m feeling a bit tired."
+   ]
+  },
+  {
+   "en": "black",
+   "pos": "adj & n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blackboard",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blanket",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "block",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "Shall we walk round the block?"
+   ]
+  },
+  {
+   "en": "blog",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blond",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blood",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blouse",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "blue",
+   "pos": "adj & n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "board",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "The teacher’s writing on the (black/white) board."
+   ]
+  },
+  {
+   "en": "board game",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boat",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "body",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boil",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boiled",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "book",
+   "pos": "n & v",
+   "letter": "B",
+   "examples": [
+    "a good book book a place on the course"
+   ]
+  },
+  {
+   "en": "bookcase",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bookshelf",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bookshop",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bookstore",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boot",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "a pair of boots"
+   ]
+  },
+  {
+   "en": "bored",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boring",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "born",
+   "pos": "v",
+   "letter": "B",
+   "examples": [
+    "I was born in Manchester."
+   ]
+  },
+  {
+   "en": "borrow",
+   "pos": "v",
+   "letter": "B",
+   "examples": [
+    "She borrowed a book from the library."
+   ]
+  },
+  {
+   "en": "boss",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "both",
+   "pos": "pron & det",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bother",
+   "pos": "v",
+   "letter": "B",
+   "examples": [
+    "Sorry to bother you."
+   ]
+  },
+  {
+   "en": "bottle",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bottom",
+   "pos": "n",
+   "letter": "B",
+   "examples": [
+    "at the bottom of the stairs"
+   ]
+  },
+  {
+   "en": "bowl",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "box",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boy",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "boyfriend",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bracelet",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "brain",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "brave",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bread",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "break",
+   "pos": "n & v",
+   "letter": "B",
+   "examples": [
+    "a break for lunch (n) Someone’s broken the window. (v)"
+   ]
+  },
+  {
+   "en": "break down",
+   "pos": "phr v",
+   "letter": "B",
+   "examples": [
+    "The car has broken down."
+   ]
+  },
+  {
+   "en": "breakfast",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bridge",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bright",
+   "pos": "adj – for colours",
+   "letter": "B",
+   "examples": [
+    "bright pink"
+   ]
+  },
+  {
+   "en": "brilliant",
+   "pos": "adj",
+   "letter": "B",
+   "examples": [
+    "I thought the film was brilliant!"
+   ]
+  },
+  {
+   "en": "bring",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bring back",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "broken",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "brother",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "brown",
+   "pos": "adj & n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "brush",
+   "pos": "n & v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "build",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "building",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "burger",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bus",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "business",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "businessman",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "businesswoman",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "business person",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bus station",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bus stop",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "busy",
+   "pos": "adj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "but",
+   "pos": "conj",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "butter",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "butterfly",
+   "pos": "n",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "buy",
+   "pos": "v",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "by",
+   "pos": "prep",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "by accident",
+   "pos": "prep phr",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "by the way",
+   "pos": "prep phr",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "by post",
+   "pos": "prep phr",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "bye",
+   "pos": "exclam",
+   "letter": "B",
+   "examples": []
+  },
+  {
+   "en": "cabinet",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cafe/café",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cafeteria",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cake",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "calendar",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "call",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": [
+    "I’ll call (phone) again later this afternoon. He’s called John. I’m waiting for a call from Anna."
+   ]
+  },
+  {
+   "en": "camel",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "camera",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "camp",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "camping",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "campsite",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cap",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "capital",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "can",
+   "pos": "n & mv",
+   "letter": "C",
+   "examples": [
+    "I can ride a bike. (ability) Can I have one? (request) Can I help you? (offer) It can be cold here in winter. (possibility) You can watch TV now. (permission)"
+   ]
+  },
+  {
+   "en": "candy",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cannot",
+   "pos": "mv",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "car",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "card",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "birthday card credit card card game (e.g. We played a card game in class.)"
+   ]
+  },
+  {
+   "en": "career",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "careful",
+   "pos": "adj",
+   "letter": "C",
+   "examples": [
+    "Be careful!"
+   ]
+  },
+  {
+   "en": "carefully",
+   "pos": "adv",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "car park",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "carpet",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "carrot",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "carry",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cartoon",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "case",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cash",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "castle",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cat",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "catch",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "CD",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "CD player",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "ceiling",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cell phone",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "celebrate",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "celebrity",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cent",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "centre/center",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "centimetre/centimeter",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "century",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cereal",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "certainly",
+   "pos": "adv",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chain",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "She wore a gold chain. I need a new bicycle chain."
+   ]
+  },
+  {
+   "en": "chair",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "change",
+   "pos": "v & n",
+   "letter": "C",
+   "examples": [
+    "There is a change of room for this course."
+   ]
+  },
+  {
+   "en": "channel",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "character",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "He was my favourite character in the film."
+   ]
+  },
+  {
+   "en": "chat",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chatroom",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cheap",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "check",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cheese",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chef",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chemist",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chemistry",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cheque",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chess",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chicken",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "child",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chilli",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "chips",
+   "pos": "n pl",
+   "letter": "C",
+   "examples": [
+    "egg and chips"
+   ]
+  },
+  {
+   "en": "chocolate",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "choose",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cinema",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "circle",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "circus",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "city",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "city centre",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "class",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "a language class a first-class ticket"
+   ]
+  },
+  {
+   "en": "classical",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "classmate",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "classroom",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clean",
+   "pos": "adj & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cleaner",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clear",
+   "pos": "adj",
+   "letter": "C",
+   "examples": [
+    "It’s not clear to me."
+   ]
+  },
+  {
+   "en": "clearly",
+   "pos": "adv",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clever",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "click",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": [
+    "Click here to go to our website."
+   ]
+  },
+  {
+   "en": "climb",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "climbing",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clock",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "close",
+   "pos": "adj & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "close to",
+   "pos": "prep phr",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "closed",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "closet",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clothes",
+   "pos": "n pl",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cloud",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cloudy",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "clown",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "club",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "to join a club"
+   ]
+  },
+  {
+   "en": "coach",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "a coach trip a tennis coach"
+   ]
+  },
+  {
+   "en": "coat",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "coast",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "coffee",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cola",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cold",
+   "pos": "adj & n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "colleague",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "collect",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "college",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "colour",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "comb",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "come",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "come back",
+   "pos": "v",
+   "letter": "C",
+   "examples": [
+    "We came back from our holiday yesterday."
+   ]
+  },
+  {
+   "en": "comedy",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "comfortable",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "comic",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "company",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "What’s the name of your company?"
+   ]
+  },
+  {
+   "en": "competition",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "complete",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "computer",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "concert",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "congratulations!",
+   "pos": "exclam",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "contact",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "continue",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "conversation",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cook",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cooker",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cookie",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cooking",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cool",
+   "pos": "adj & exclam",
+   "letter": "C",
+   "examples": [
+    "That’s a cool bike! (adj)"
+   ]
+  },
+  {
+   "en": "copy",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "corner",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "the corner of the street"
+   ]
+  },
+  {
+   "en": "correct",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cost",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "costume",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "I forgot my swimming costume."
+   ]
+  },
+  {
+   "en": "could",
+   "pos": "mv",
+   "letter": "C",
+   "examples": [
+    "I couldn’t find the information Could you lend me some money? We could go to the cinema tonight."
+   ]
+  },
+  {
+   "en": "country",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "countryside",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "course",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "a university course a main course of course (not)"
+   ]
+  },
+  {
+   "en": "court",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "a tennis court"
+   ]
+  },
+  {
+   "en": "cousin",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cover",
+   "pos": "v &n",
+   "letter": "C",
+   "examples": [
+    "I had to cover my eyes. There was a flower on the book’s cover."
+   ]
+  },
+  {
+   "en": "cow",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cream",
+   "pos": "adj & n",
+   "letter": "C",
+   "examples": [
+    "I like strawberries and cream. Mum’s cream T-shirt got dirty."
+   ]
+  },
+  {
+   "en": "creature",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "credit card",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cricket",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "crocodile",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cross",
+   "pos": "n & v",
+   "letter": "C",
+   "examples": [
+    "Don’t cross the road here! (v)"
+   ]
+  },
+  {
+   "en": "crossing",
+   "pos": "n",
+   "letter": "C",
+   "examples": [
+    "Use the crossing to cross the street."
+   ]
+  },
+  {
+   "en": "crowd",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "crowded",
+   "pos": "adj",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cry",
+   "pos": "v",
+   "letter": "C",
+   "examples": [
+    "The baby’s crying."
+   ]
+  },
+  {
+   "en": "cup",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cupboard",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "curry",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "curtain",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "customer",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cut",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cycle",
+   "pos": "v",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "cycling",
+   "pos": "n",
+   "letter": "C",
+   "examples": []
+  },
+  {
+   "en": "dad",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "daily",
+   "pos": "adj & adv",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dance",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dancer",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dancing",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "danger",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dangerous",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dark",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "date",
+   "pos": "n",
+   "letter": "D",
+   "examples": [
+    "What’s the date today?"
+   ]
+  },
+  {
+   "en": "daughter",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "day",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dead",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dear",
+   "pos": "adj",
+   "letter": "D",
+   "examples": [
+    "Dear Anne,"
+   ]
+  },
+  {
+   "en": "December",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "decide",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "deep",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "degree",
+   "pos": "n",
+   "letter": "D",
+   "examples": [
+    "The temperature’s 30 degrees today."
+   ]
+  },
+  {
+   "en": "delay",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": [
+    "There will be a delay of two hours. (n)"
+   ]
+  },
+  {
+   "en": "delayed",
+   "pos": "adj",
+   "letter": "D",
+   "examples": [
+    "The flight is delayed."
+   ]
+  },
+  {
+   "en": "delicious",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "deliver",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dentist",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "department",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "department store",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "describe",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "desert",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "design",
+   "pos": "v, n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "desk",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dessert",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "details",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "diary",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dictionary",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "die",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "difference",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "different",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "difficult",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "digital",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "digital camera",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dining room",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dinner",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dinosaur",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "diploma",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "directions",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dirty",
+   "pos": "adj",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "disco",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "discount",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "discover",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "discuss",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dish",
+   "pos": "n",
+   "letter": "D",
+   "examples": [
+    "Chicken and chips is my favourite dish. I broke a dish when I was doing the washing up."
+   ]
+  },
+  {
+   "en": "dive",
+   "pos": "v",
+   "letter": "D",
+   "examples": [
+    "I learnt to dive at the swimming pool."
+   ]
+  },
+  {
+   "en": "diving",
+   "pos": "adj",
+   "letter": "D",
+   "examples": [
+    "I’ve j oined a diving club."
+   ]
+  },
+  {
+   "en": "do",
+   "pos": "av & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "doctor",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "document",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dog",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "doll",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dollar",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dolphin",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "donkey",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "door",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dot",
+   "pos": "n",
+   "letter": "D",
+   "examples": [
+    "dot com"
+   ]
+  },
+  {
+   "en": "double",
+   "pos": "adj",
+   "letter": "D",
+   "examples": [
+    "a double room"
+   ]
+  },
+  {
+   "en": "down",
+   "pos": "adv & prep",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "download",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": [
+    "I downloaded the songs from the internet."
+   ]
+  },
+  {
+   "en": "downstairs",
+   "pos": "adv",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "Dr",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "draw",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drawer",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drawing",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dream",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dress",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dressed",
+   "pos": "adj",
+   "letter": "D",
+   "examples": [
+    "Hurry, you need to get dressed!"
+   ]
+  },
+  {
+   "en": "drink",
+   "pos": "n & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drive",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "driver",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "driver's licence",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drop",
+   "pos": "v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drugstore",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "drum",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "dry",
+   "pos": "adj & v",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "duck",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "during",
+   "pos": "prep",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "DVD",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "DVD player",
+   "pos": "n",
+   "letter": "D",
+   "examples": []
+  },
+  {
+   "en": "each",
+   "pos": "det & pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "each other",
+   "pos": "pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "eagle",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "ear",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "early",
+   "pos": "adj & adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "earn",
+   "pos": "v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "earring",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "easily",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "east",
+   "pos": "n, adj & adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "easy",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "eat",
+   "pos": "v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "egg",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "electric",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "electricity",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "elephant",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "elevator",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "else",
+   "pos": "adv",
+   "letter": "E",
+   "examples": [
+    "Anything else?"
+   ]
+  },
+  {
+   "en": "email",
+   "pos": "n & v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "empty",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "end",
+   "pos": "v & n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "engine",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "engineer",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "enjoy",
+   "pos": "v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "enough",
+   "pos": "adv, det & pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "enter",
+   "pos": "v",
+   "letter": "E",
+   "examples": [
+    "Are you going to enter the poster competition?",
+    "Please enter through the side door."
+   ]
+  },
+  {
+   "en": "entrance",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "envelope",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "environment",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "equipment",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "You need special equipment to go diving."
+   ]
+  },
+  {
+   "en": "eraser",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "especially",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "euro",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "even",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "evening",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "event",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "The Olympic games is a great event."
+   ]
+  },
+  {
+   "en": "ever",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "every",
+   "pos": "det",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "everybody",
+   "pos": "pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "everyone",
+   "pos": "pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "everything",
+   "pos": "pron",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "everywhere",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "exactly",
+   "pos": "adv",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "examination/exam",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "example",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "Look at the example first. for example"
+   ]
+  },
+  {
+   "en": "excellent",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "except",
+   "pos": "conj & prep",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "excited",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "exciting",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "excuse",
+   "pos": "v",
+   "letter": "E",
+   "examples": [
+    "Excuse me!"
+   ]
+  },
+  {
+   "en": "exercise",
+   "pos": "n & v",
+   "letter": "E",
+   "examples": [
+    "He should do more exercise to get fit. I’ve got a maths exercise to finish."
+   ]
+  },
+  {
+   "en": "exhibition",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "art exhibition"
+   ]
+  },
+  {
+   "en": "exit",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "expensive",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "experience",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "experiment",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "The science experiment was fun."
+   ]
+  },
+  {
+   "en": "explain",
+   "pos": "v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "explore",
+   "pos": "v",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "explorer",
+   "pos": "n",
+   "letter": "E",
+   "examples": [
+    "This book’s about famous explorers."
+   ]
+  },
+  {
+   "en": "extinct",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "extra",
+   "pos": "adj",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "eye",
+   "pos": "n",
+   "letter": "E",
+   "examples": []
+  },
+  {
+   "en": "face",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fact",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "factory",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fail",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fair",
+   "pos": "adj",
+   "letter": "F",
+   "examples": [
+    "She has fair hair."
+   ]
+  },
+  {
+   "en": "fall",
+   "pos": "n & v",
+   "letter": "F",
+   "examples": [
+    "in the fall (n) He fell and hurt his leg. (v)"
+   ]
+  },
+  {
+   "en": "fall over",
+   "pos": "phr v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "family",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "famous",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fan",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "She’s a football fan."
+   ]
+  },
+  {
+   "en": "fantastic",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "far",
+   "pos": "adv",
+   "letter": "F",
+   "examples": [
+    "How far is the next garage?"
+   ]
+  },
+  {
+   "en": "farm",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "farmer",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fashion",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fast",
+   "pos": "adj & adv",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fast food",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fat",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "father",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "favourite",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "February",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "feel",
+   "pos": "v",
+   "letter": "F",
+   "examples": [
+    "to feel well"
+   ]
+  },
+  {
+   "en": "feelings",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "festival",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "few",
+   "pos": "det & adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "field",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "file",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fill",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fill in",
+   "pos": "phr v",
+   "letter": "F",
+   "examples": [
+    "to fill in a form"
+   ]
+  },
+  {
+   "en": "film",
+   "pos": "n & v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "final",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "finally",
+   "pos": "adv",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "find",
+   "pos": "v",
+   "letter": "F",
+   "examples": [
+    "I found my keys under the sofa."
+   ]
+  },
+  {
+   "en": "find out",
+   "pos": "phr v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fine",
+   "pos": "adj",
+   "letter": "F",
+   "examples": [
+    "That’s fine! I’m fine, thank you. The weather is fine."
+   ]
+  },
+  {
+   "en": "finger",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "finish",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fire",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "first",
+   "pos": "adv & adj",
+   "letter": "F",
+   "examples": [
+    "First… then… (adv) John came first. (adv) first prize (adj)"
+   ]
+  },
+  {
+   "en": "first name",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "first of all",
+   "pos": "adv",
+   "letter": "F",
+   "examples": [
+    "First of all, you must wash your hands."
+   ]
+  },
+  {
+   "en": "fish",
+   "pos": "n & v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fishing",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fit",
+   "pos": "adj",
+   "letter": "F",
+   "examples": [
+    "I joined a gym to get fit. I run to keep fit."
+   ]
+  },
+  {
+   "en": "fix",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "flat",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "flight",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "floor",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "The bedrooms are on the first floor. Don’t leave your clothes on the floor."
+   ]
+  },
+  {
+   "en": "flower",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fly",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fog",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "foggy",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "folder",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "follow",
+   "pos": "v",
+   "letter": "F",
+   "examples": [
+    "follow somebody on social media"
+   ]
+  },
+  {
+   "en": "food",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "foot",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "my right foot"
+   ]
+  },
+  {
+   "en": "football",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "football player",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "footballer",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "for",
+   "pos": "prep",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "for sale",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "foreign",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "forest",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "forget",
+   "pos": "v",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fork",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "knife and fork"
+   ]
+  },
+  {
+   "en": "form",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "Fill in this form."
+   ]
+  },
+  {
+   "en": "free",
+   "pos": "adj & adv",
+   "letter": "F",
+   "examples": [
+    "I got a free ticket to the match. Are you free on Saturday?"
+   ]
+  },
+  {
+   "en": "French fries",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fresh",
+   "pos": "adj",
+   "letter": "F",
+   "examples": [
+    "fresh fruit"
+   ]
+  },
+  {
+   "en": "fridge",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "Friday",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fried",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "friend",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "It’s easy for her make friends."
+   ]
+  },
+  {
+   "en": "friendly",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "frightened",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "frog",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "from",
+   "pos": "prep",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "front",
+   "pos": "n",
+   "letter": "F",
+   "examples": [
+    "at the front of the train Stand in front of me."
+   ]
+  },
+  {
+   "en": "fruit",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "full",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fun",
+   "pos": "adj & n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "funny",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "fur",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "furniture",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "further",
+   "pos": "adj",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "future",
+   "pos": "n",
+   "letter": "F",
+   "examples": []
+  },
+  {
+   "en": "gallery",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "game",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "garage",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "garden",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "garlic",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "gas",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "gas station",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "gate",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "geography",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "get",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "get back",
+   "pos": "v",
+   "letter": "G",
+   "examples": [
+    "I need to take the bus to get back home."
+   ]
+  },
+  {
+   "en": "get dressed",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "get fit",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "get married",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "get off",
+   "pos": "phr v",
+   "letter": "G",
+   "examples": [
+    "to get off the bus"
+   ]
+  },
+  {
+   "en": "get on",
+   "pos": "phr v",
+   "letter": "G",
+   "examples": [
+    "to get on the bus"
+   ]
+  },
+  {
+   "en": "get up",
+   "pos": "phr v",
+   "letter": "G",
+   "examples": [
+    "to get up in the morning"
+   ]
+  },
+  {
+   "en": "gift",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "giraffe",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "girl",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "girlfriend",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "give",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "give back",
+   "pos": "v",
+   "letter": "G",
+   "examples": [
+    "I’ll give them back to you tomorrow. I’ll give back your books tomorrow."
+   ]
+  },
+  {
+   "en": "give somebody a call/ring",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "glad",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "glass",
+   "pos": "n & adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "glasses",
+   "pos": "n pl",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "glove",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "go",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "goal",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "goat",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "gold",
+   "pos": "n & adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "golden",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "golf",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good afternoon",
+   "pos": "exclam",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "goodbye",
+   "pos": "exclam",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good evening",
+   "pos": "exclam",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good-looking",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good morning",
+   "pos": "exclam",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "good night",
+   "pos": "exclam",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "go out",
+   "pos": "phr v",
+   "letter": "G",
+   "examples": [
+    "Are you going out this evening? go shopping"
+   ]
+  },
+  {
+   "en": "grade",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "gram",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandchild",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grand",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "granddaughter",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandfather",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandma",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandmother",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandpa",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandparent",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grandson",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "granny",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grape",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grass",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "great",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "green",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grey",
+   "pos": "adj & n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grilled",
+   "pos": "adj",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grocery store",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "ground",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "group",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grow",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "grow up",
+   "pos": "phr v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guess",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guess what",
+   "pos": "v",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guest",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guest-house",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guide",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guidebook",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guitar",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "guy",
+   "pos": "n",
+   "letter": "G",
+   "examples": [
+    "He’s a really nice guy."
+   ]
+  },
+  {
+   "en": "gym",
+   "pos": "n",
+   "letter": "G",
+   "examples": []
+  },
+  {
+   "en": "hair",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "half",
+   "pos": "det, n & pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "half-price",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hall",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hand",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "handbag",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "happen",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "happy",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "harbour",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hard",
+   "pos": "adj & adv",
+   "letter": "H",
+   "examples": [
+    "hard wood (adj) the homework was hard (adj) to work hard (adv)"
+   ]
+  },
+  {
+   "en": "hat",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hate",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "have",
+   "pos": "av & v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "have got to",
+   "pos": "mv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "have to",
+   "pos": "mv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "he",
+   "pos": "pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "head",
+   "pos": "n",
+   "letter": "H",
+   "examples": [
+    "My head hurts."
+   ]
+  },
+  {
+   "en": "headache",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "headphones",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "headteacher",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "health",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "healthy",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hear",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "heart",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "heating",
+   "pos": "n",
+   "letter": "H",
+   "examples": [
+    "Can you turn the heating on?"
+   ]
+  },
+  {
+   "en": "heavy",
+   "pos": "adj",
+   "letter": "H",
+   "examples": [
+    "a heavy blanket"
+   ]
+  },
+  {
+   "en": "helicopter",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hello",
+   "pos": "exclam",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "help",
+   "pos": "v & n",
+   "letter": "H",
+   "examples": [
+    "Call me if you need any help."
+   ]
+  },
+  {
+   "en": "helpful",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "her",
+   "pos": "det & pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "here",
+   "pos": "adv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hers",
+   "pos": "pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "herself",
+   "pos": "pron",
+   "letter": "H",
+   "examples": [
+    "by herself"
+   ]
+  },
+  {
+   "en": "hey",
+   "pos": "exclam",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hi",
+   "pos": "exclam",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "high",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hill",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "him",
+   "pos": "pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "himself",
+   "pos": "pron",
+   "letter": "H",
+   "examples": [
+    "by himself"
+   ]
+  },
+  {
+   "en": "hip hop",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hippo",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "his",
+   "pos": "det & pron",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "history",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hit",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hobby",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hockey",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hold",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "holiday",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "home",
+   "pos": "n & adv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "homework",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "honey",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hoodie",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hope",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "horrible",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "horror",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "horse",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hospital",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hot",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hotel",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hour",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "house",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "housewife",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "how",
+   "pos": "adv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "however",
+   "pos": "adv",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "huge",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hungry",
+   "pos": "adj",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hurry",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "hurt",
+   "pos": "v",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "husband",
+   "pos": "n",
+   "letter": "H",
+   "examples": []
+  },
+  {
+   "en": "I",
+   "pos": "pron",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ice",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ice cream",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ice skating",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ID",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ID card",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "idea",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "identification",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "if",
+   "pos": "conj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ill",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "immediately",
+   "pos": "adv",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "important",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "impossible",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "improve",
+   "pos": "v",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "in",
+   "pos": "adv & prep",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "include",
+   "pos": "v",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "including",
+   "pos": "prep",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "indoor",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "indoors",
+   "pos": "adv",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "information",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "in front of",
+   "pos": "prep phr",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "ingredient",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "insect",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "inside",
+   "pos": "adv & prep",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "instead",
+   "pos": "adv",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "instead of",
+   "pos": "prep",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "instructions",
+   "pos": "n pl",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "instrument",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "interested",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "interesting",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "international",
+   "pos": "adj",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "internet",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "into",
+   "pos": "prep",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "invent",
+   "pos": "v",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "invention",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "invitation",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "invite",
+   "pos": "v",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "island",
+   "pos": "n",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "it",
+   "pos": "pron",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "its",
+   "pos": "det",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "itself",
+   "pos": "pron",
+   "letter": "I",
+   "examples": []
+  },
+  {
+   "en": "jacket",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jam",
+   "pos": "n",
+   "letter": "J",
+   "examples": [
+    "fruit jam"
+   ]
+  },
+  {
+   "en": "January",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jazz",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jeans",
+   "pos": "n pl",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jellyfish",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jewellery",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "job",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "join",
+   "pos": "v",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "journalist",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "journey",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "juice",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "July",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jump",
+   "pos": "v",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "jumper",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "June",
+   "pos": "n",
+   "letter": "J",
+   "examples": []
+  },
+  {
+   "en": "just",
+   "pos": "adv",
+   "letter": "J",
+   "examples": [
+    "I’ve just seen Tom. Just a moment."
+   ]
+  },
+  {
+   "en": "kangaroo",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "keep",
+   "pos": "v",
+   "letter": "K",
+   "examples": [
+    "May I keep this? Keep right!"
+   ]
+  },
+  {
+   "en": "key",
+   "pos": "n",
+   "letter": "K",
+   "examples": [
+    "This is the key to my house. The answer key is at the back of the book."
+   ]
+  },
+  {
+   "en": "keyboard",
+   "pos": "n",
+   "letter": "K",
+   "examples": [
+    "I play the keyboard in a band. The keyboard for my computer is broken."
+   ]
+  },
+  {
+   "en": "kick",
+   "pos": "n & v",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kid",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kilogram",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kilometre",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kind",
+   "pos": "adj & n",
+   "letter": "K",
+   "examples": [
+    "That’s very kind of you. What kind of book do you want?"
+   ]
+  },
+  {
+   "en": "king",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kiss",
+   "pos": "n & v",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kit",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kitchen",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kite",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "kitten",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "knife",
+   "pos": "n",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "know",
+   "pos": "v",
+   "letter": "K",
+   "examples": []
+  },
+  {
+   "en": "lake",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lamp",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "language",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "laptop",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "large",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "last",
+   "pos": "adj & det",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "late",
+   "pos": "adv & adj",
+   "letter": "L",
+   "examples": [
+    "The train is going to be late. (adj)"
+   ]
+  },
+  {
+   "en": "later",
+   "pos": "adv",
+   "letter": "L",
+   "examples": [
+    "I’ll see you later."
+   ]
+  },
+  {
+   "en": "latest",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "laugh",
+   "pos": "v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lazy",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "learn",
+   "pos": "v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "least",
+   "pos": "adv",
+   "letter": "L",
+   "examples": [
+    "at least"
+   ]
+  },
+  {
+   "en": "leather",
+   "pos": "n & adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "leave",
+   "pos": "v",
+   "letter": "L",
+   "examples": [
+    "The train leaves at 10 o’clock. I left my bag in the cinema. There isn’t any milk left."
+   ]
+  },
+  {
+   "en": "left",
+   "pos": "adj, adv & n",
+   "letter": "L",
+   "examples": [
+    "Go to the left. (n) left hand (adj) Turn left. (adv)"
+   ]
+  },
+  {
+   "en": "left-hand",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "leg",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lemon",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lemonade",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lend",
+   "pos": "v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "length",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "The length of the lesson/journey was 50 minutes.",
+    "The length of the race was 100 metres. Can you swim a length of the pool?"
+   ]
+  },
+  {
+   "en": "less",
+   "pos": "adj, det & pron",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lesson",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "let",
+   "pos": "v",
+   "letter": "L",
+   "examples": [
+    "Let’s go to the beach. Let me know when you arrive. My parents let me go to the beach."
+   ]
+  },
+  {
+   "en": "letter",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "Saturday begins with a capital letter. I posted the letter to you on Friday."
+   ]
+  },
+  {
+   "en": "level",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "language level"
+   ]
+  },
+  {
+   "en": "library",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "licence",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "driving licence"
+   ]
+  },
+  {
+   "en": "lie down",
+   "pos": "phr v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "life",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lift",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "Take the lift to the third floor. Can I give you a lift to the station?"
+   ]
+  },
+  {
+   "en": "light",
+   "pos": "n & adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "like",
+   "pos": "adv, prep & v",
+   "letter": "L",
+   "examples": [
+    "What’s the weather like? (adv) It’s like an orange but bigger. (prep) I’d like a drink. (v)"
+   ]
+  },
+  {
+   "en": "line",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "draw a line the next line"
+   ]
+  },
+  {
+   "en": "link",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "Click on the link."
+   ]
+  },
+  {
+   "en": "lion",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "list",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "listen",
+   "pos": "v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "litre",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "little",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "live",
+   "pos": "v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "living room",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lizard",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "local",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "long",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "look",
+   "pos": "v",
+   "letter": "L",
+   "examples": [
+    "You look happy. Don’t look now!"
+   ]
+  },
+  {
+   "en": "look after",
+   "pos": "phr v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "look at",
+   "pos": "phr v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "look for",
+   "pos": "phr v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "look out",
+   "pos": "phr v",
+   "letter": "L",
+   "examples": [
+    "Look out – it’s going to fall!"
+   ]
+  },
+  {
+   "en": "lorry",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lose",
+   "pos": "v",
+   "letter": "L",
+   "examples": [
+    "We lost the game. I’ve lost my passport."
+   ]
+  },
+  {
+   "en": "lost",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lots / a lot",
+   "pos": "n",
+   "letter": "L",
+   "examples": [
+    "a lot of homework."
+   ]
+  },
+  {
+   "en": "loud",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "love",
+   "pos": "n & v",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lovely",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "low",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "luck",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "luckily",
+   "pos": "adv",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lucky",
+   "pos": "adj",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "luggage",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lunch",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "lunchtime",
+   "pos": "n",
+   "letter": "L",
+   "examples": []
+  },
+  {
+   "en": "machine",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mad",
+   "pos": "adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "magazine",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mail",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "main course",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "make",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "make sure",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "make-up",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "man",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "manager",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mango",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "many",
+   "pos": "det & pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "map",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "March",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mark",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "market",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "married",
+   "pos": "adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "match",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "football match"
+   ]
+  },
+  {
+   "en": "maths/mathematics",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "matter",
+   "pos": "n & v",
+   "letter": "M",
+   "examples": [
+    "It doesn’t matter. (v) What’s the matter? (n)"
+   ]
+  },
+  {
+   "en": "May",
+   "pos": "n, mv",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "maybe",
+   "pos": "adv",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "me",
+   "pos": "pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "meal",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mean",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "meat",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mechanic",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "medicine",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "meet",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "meeting",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "melon",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "member",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "a member of a club"
+   ]
+  },
+  {
+   "en": "memory",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "My computer has 100GB of memory."
+   ]
+  },
+  {
+   "en": "menu",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "message",
+   "pos": "n, v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "metal",
+   "pos": "n & adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "metre",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "microphone",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "midday",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "middle",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "Bob’s the one in the middle of the photo."
+   ]
+  },
+  {
+   "en": "midnight",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "might",
+   "pos": "mv",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mile",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "milk",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "million",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mind",
+   "pos": "v",
+   "letter": "M",
+   "examples": [
+    "Do you mind if I close the window? I don’t mind if… Never mind. Mind your head!"
+   ]
+  },
+  {
+   "en": "mine",
+   "pos": "pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mineral water",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "minus",
+   "pos": "prep",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "minute",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mirror",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "Miss",
+   "pos": "n, v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "missing",
+   "pos": "adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mistake",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mix",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mobile",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "model",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "modern",
+   "pos": "adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mom",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "moment",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "I’m in England at the moment."
+   ]
+  },
+  {
+   "en": "Monday",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "money",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "monkey",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "month",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "monthly",
+   "pos": "adj & adv",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "moon",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "more",
+   "pos": "adj, adv, det & pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "morning",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "most",
+   "pos": "adj, adv, det & pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mother",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "motorbike",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "motorway",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mountain",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mouse",
+   "pos": "n",
+   "letter": "M",
+   "examples": [
+    "I got a new mouse for my laptop. I’ve got a pet mouse."
+   ]
+  },
+  {
+   "en": "mouth",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "move",
+   "pos": "v",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "movie",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "movie star",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "movie theater",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "Mr",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "Mrs",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "Ms",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "much",
+   "pos": "adj, adv, det & pron",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mug",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mum",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "museum",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "mushroom",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "music",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "musical",
+   "pos": "adj",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "musician",
+   "pos": "n",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "must",
+   "pos": "mv",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "my",
+   "pos": "det",
+   "letter": "M",
+   "examples": []
+  },
+  {
+   "en": "myself",
+   "pos": "pron",
+   "letter": "M",
+   "examples": [
+    "by myself"
+   ]
+  },
+  {
+   "en": "name",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "national",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nationality",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nature",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "natural",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "near",
+   "pos": "adv & prep",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nearly",
+   "pos": "adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "neck",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "necklace",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "need",
+   "pos": "v",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "neighbour",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nervous",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nest",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "net",
+   "pos": "n",
+   "letter": "N",
+   "examples": [
+    "I found a great website on the net."
+   ]
+  },
+  {
+   "en": "never",
+   "pos": "adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "new",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "news",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "newspaper",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "next",
+   "pos": "adj & adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "next to",
+   "pos": "prep",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nice",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "night",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "no",
+   "pos": "adv, det & pron",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nobody",
+   "pos": "pron",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "noise",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "noisy",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "noon",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "no one",
+   "pos": "pron",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "normal",
+   "pos": "adj",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "north",
+   "pos": "n, adj & adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nose",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "not",
+   "pos": "adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "note",
+   "pos": "n & v",
+   "letter": "N",
+   "examples": [
+    "The students took notes during the class. She noted the name of the company."
+   ]
+  },
+  {
+   "en": "notebook",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nothing",
+   "pos": "pron",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "notice",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "November",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "now",
+   "pos": "adv",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "number",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "nurse",
+   "pos": "n",
+   "letter": "N",
+   "examples": []
+  },
+  {
+   "en": "ocean",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "occupation",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "October",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "octopus",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "o'clock",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "of",
+   "pos": "prep",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "of course",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "off",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "offer",
+   "pos": "n & v",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "office",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "often",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "oh",
+   "pos": "exclam",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "oh dear!",
+   "pos": "exclam",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "oil",
+   "pos": "n",
+   "letter": "O",
+   "examples": [
+    "My car needs more oil. cooking oil"
+   ]
+  },
+  {
+   "en": "OK/okay",
+   "pos": "exclam",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "old",
+   "pos": "adj",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "Olympic",
+   "pos": "adj",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "omelette",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "on",
+   "pos": "prep & adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "once",
+   "pos": "adv",
+   "letter": "O",
+   "examples": [
+    "only once"
+   ]
+  },
+  {
+   "en": "one",
+   "pos": "det & pron",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "onion",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "online",
+   "pos": "adj & adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "only",
+   "pos": "adv & adj",
+   "letter": "O",
+   "examples": [
+    "I only wanted to help. the only one"
+   ]
+  },
+  {
+   "en": "open",
+   "pos": "adj & v",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "opera",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "opinion",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "opposite",
+   "pos": "prep",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "or",
+   "pos": "conj",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "orange",
+   "pos": "adj & n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "order",
+   "pos": "n & v",
+   "letter": "O",
+   "examples": [
+    "We have received your order. You order your meal from the waiter."
+   ]
+  },
+  {
+   "en": "other",
+   "pos": "det & pron",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "our",
+   "pos": "det",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "ours",
+   "pos": "pron",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "ourselves",
+   "pos": "pron",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "out",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "outdoor",
+   "pos": "adj",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "outdoors",
+   "pos": "adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "out of",
+   "pos": "prep",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "outside",
+   "pos": "prep & adv",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "oven",
+   "pos": "n",
+   "letter": "O",
+   "examples": []
+  },
+  {
+   "en": "over",
+   "pos": "prep & adv",
+   "letter": "O",
+   "examples": [
+    "over 60 people (adv) to travel all over the world (prep)"
+   ]
+  },
+  {
+   "en": "own",
+   "pos": "adj",
+   "letter": "O",
+   "examples": [
+    "They cook their own meals."
+   ]
+  },
+  {
+   "en": "pack",
+   "pos": "v",
+   "letter": "P",
+   "examples": [
+    "pack a suitcase"
+   ]
+  },
+  {
+   "en": "page",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pain",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "paint",
+   "pos": "v & n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "painter",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "painting",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pale",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pair",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a pair of shoes"
+   ]
+  },
+  {
+   "en": "panda",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "paper",
+   "pos": "n & adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "paragraph",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pardon",
+   "pos": "exclam",
+   "letter": "P",
+   "examples": [
+    "Pardon?"
+   ]
+  },
+  {
+   "en": "parent",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "park",
+   "pos": "n & v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "parking lot",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "parrot",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "part",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "the best part of the day"
+   ]
+  },
+  {
+   "en": "partner",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "party",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pass",
+   "pos": "v",
+   "letter": "P",
+   "examples": [
+    "You pass the station on the left. to pass a driving test"
+   ]
+  },
+  {
+   "en": "passenger",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "passport",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "password",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "past",
+   "pos": "prep & n",
+   "letter": "P",
+   "examples": [
+    "In the past, people didn’t have laptops. It’s quarter past twelve."
+   ]
+  },
+  {
+   "en": "pasta",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "path",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pay",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "PC",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pear",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pen",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pence",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pencil",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pencil case",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "penfriend",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "penguin",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "penny",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "people",
+   "pos": "n pl",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pepper",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "per",
+   "pos": "prep",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "perfect",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "perform",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "performance",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "perfume",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "perhaps",
+   "pos": "adv",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "person",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pet",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "petrol",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "petrol station",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pharmacy",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "phone",
+   "pos": "v & n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "photo",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "photographer",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "photography",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "physics",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "piano",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pick up",
+   "pos": "phr v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "picnic",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "picture",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "piece",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a piece of cake"
+   ]
+  },
+  {
+   "en": "pillow",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pilot",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pink",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pity",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "What a pity!"
+   ]
+  },
+  {
+   "en": "pizza",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "place",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a nice place for a picnic Let’s meet at my place. book a place on a course to take place"
+   ]
+  },
+  {
+   "en": "plan",
+   "pos": "n & v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "plane",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "The plane was late."
+   ]
+  },
+  {
+   "en": "plant",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "plastic",
+   "pos": "n & adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "plate",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "platform",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "Your train leaves from Platform 8."
+   ]
+  },
+  {
+   "en": "play",
+   "pos": "v & n",
+   "letter": "P",
+   "examples": [
+    "to play football (v) to play the guitar (v) a play at the theatre (n)"
+   ]
+  },
+  {
+   "en": "player",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "playground",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pleasant",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "please",
+   "pos": "v & exclam",
+   "letter": "P",
+   "examples": [
+    "I’m very pleased for you. (v) Please be quiet!"
+   ]
+  },
+  {
+   "en": "pleased",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "plus",
+   "pos": "prep",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "p.m.",
+   "pos": "adv",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pocket",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "point",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "polar bear",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "police",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "police car",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "police officer",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "police station",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "polite",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pool",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "swimming pool"
+   ]
+  },
+  {
+   "en": "poor",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "poor thing/you",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pop",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "pop music"
+   ]
+  },
+  {
+   "en": "popular",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "port",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "possible",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "possibly",
+   "pos": "adv",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "post",
+   "pos": "v & n",
+   "letter": "P",
+   "examples": [
+    "to post a letter What’s in the post today? to post something online"
+   ]
+  },
+  {
+   "en": "postcard",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "poster",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "post office",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "potato",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pound",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "practice",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "football practice"
+   ]
+  },
+  {
+   "en": "practise",
+   "pos": "v",
+   "letter": "P",
+   "examples": [
+    "You must practise if you want to play well."
+   ]
+  },
+  {
+   "en": "prefer / would prefer",
+   "pos": "v",
+   "letter": "P",
+   "examples": [
+    "I prefer football to basketball. I’d prefer to come with you."
+   ]
+  },
+  {
+   "en": "prepare",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "present",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a birthday present"
+   ]
+  },
+  {
+   "en": "pretty",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "price",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "print",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "printer",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "prize",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "probably",
+   "pos": "adv",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "problem",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "program",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a computer program"
+   ]
+  },
+  {
+   "en": "programme",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a TV programme"
+   ]
+  },
+  {
+   "en": "project",
+   "pos": "n",
+   "letter": "P",
+   "examples": [
+    "a school project"
+   ]
+  },
+  {
+   "en": "pull",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "pupil",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "puppy",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "purple",
+   "pos": "adj",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "purse",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "push",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "put",
+   "pos": "v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "put on",
+   "pos": "phr v",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "puzzle",
+   "pos": "n",
+   "letter": "P",
+   "examples": []
+  },
+  {
+   "en": "quarter",
+   "pos": "n",
+   "letter": "Q",
+   "examples": [
+    "a quarter of an hour quarter to/past seven"
+   ]
+  },
+  {
+   "en": "queen",
+   "pos": "n",
+   "letter": "Q",
+   "examples": []
+  },
+  {
+   "en": "question",
+   "pos": "n",
+   "letter": "Q",
+   "examples": []
+  },
+  {
+   "en": "quick",
+   "pos": "adj",
+   "letter": "Q",
+   "examples": []
+  },
+  {
+   "en": "quickly",
+   "pos": "adv",
+   "letter": "Q",
+   "examples": []
+  },
+  {
+   "en": "quiet",
+   "pos": "adj",
+   "letter": "Q",
+   "examples": [
+    "Please be quiet! The restaurant was quiet last night."
+   ]
+  },
+  {
+   "en": "quite",
+   "pos": "adv",
+   "letter": "Q",
+   "examples": [
+    "Are you quite sure? quite old"
+   ]
+  },
+  {
+   "en": "quiz",
+   "pos": "n",
+   "letter": "Q",
+   "examples": []
+  },
+  {
+   "en": "rabbit",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "race",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": [
+    "a running race (n) She raced her brother to the bus stop. (v)"
+   ]
+  },
+  {
+   "en": "racket",
+   "pos": "n",
+   "letter": "R",
+   "examples": [
+    "Can I borrow your tennis racket?"
+   ]
+  },
+  {
+   "en": "radio",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "railway",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rain",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "raincoat",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rainforest",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rap",
+   "pos": "n",
+   "letter": "R",
+   "examples": [
+    "rap music"
+   ]
+  },
+  {
+   "en": "read",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "reading",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "ready",
+   "pos": "adj",
+   "letter": "R",
+   "examples": [
+    "When will it be ready?"
+   ]
+  },
+  {
+   "en": "real",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "really",
+   "pos": "adv",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "reason",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "receipt",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "receive",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "recently",
+   "pos": "adv",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "receptionist",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "recipe",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "record",
+   "pos": "v",
+   "letter": "R",
+   "examples": [
+    "T hey’re recording a new album."
+   ]
+  },
+  {
+   "en": "red",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "refrigerator",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "relax",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "relaxing",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "remember",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rent",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "repair",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "repeat",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rest",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": [
+    "to have a rest (n) ‘Try to rest,’ the doctor said. (v) the rest of the day (n)"
+   ]
+  },
+  {
+   "en": "restaurant",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "return",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": [
+    "my return from holiday (n) He returned home late. (v) She returned her library books. (v)"
+   ]
+  },
+  {
+   "en": "review",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rice",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rich",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "ride",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "riding",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "right",
+   "pos": "n, adj & adv",
+   "letter": "R",
+   "examples": [
+    "He swam to the right. (n) your right hand (adj) That’s the right answer. (adj) Turn right here. (adv)"
+   ]
+  },
+  {
+   "en": "right hand",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "ring",
+   "pos": "n & v",
+   "letter": "R",
+   "examples": [
+    "He bought her a gold ring. Give me a ring if you’re free. I rang home last night."
+   ]
+  },
+  {
+   "en": "river",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "road",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "roast",
+   "pos": "v & adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rock",
+   "pos": "n",
+   "letter": "R",
+   "examples": [
+    "rock concert"
+   ]
+  },
+  {
+   "en": "roof",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "room",
+   "pos": "n",
+   "letter": "R",
+   "examples": [
+    "a double room"
+   ]
+  },
+  {
+   "en": "round",
+   "pos": "adj",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "roundabout",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rubber",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "rubbish",
+   "pos": "unc n",
+   "letter": "R",
+   "examples": [
+    "Can you throw the rubbish in the bin?"
+   ]
+  },
+  {
+   "en": "rugby",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "ruler",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "run",
+   "pos": "v",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "runner",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "running",
+   "pos": "n",
+   "letter": "R",
+   "examples": []
+  },
+  {
+   "en": "sad",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "safe",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sail",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sailing",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "salad",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sale",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "for sale I bought it in the sale."
+   ]
+  },
+  {
+   "en": "salt",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "same",
+   "pos": "adj & pron",
+   "letter": "S",
+   "examples": [
+    "at the same time (adj) Your watch is the same as mine. (pron)"
+   ]
+  },
+  {
+   "en": "sandwich",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "Saturday",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sauce",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sausage",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "save",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "to save money to save time"
+   ]
+  },
+  {
+   "en": "say",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scared",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scarf",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scary",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "school",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "schoolchild",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "science",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scientist",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scissors",
+   "pos": "n pl",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "scooter",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "score",
+   "pos": "n, v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "screen",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sea",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "season",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "seat",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "second",
+   "pos": "adj, det & n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "secretary",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "see",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "seem",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "She seems happy. It seemed like a good idea."
+   ]
+  },
+  {
+   "en": "selfie",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sell",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "send",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sentence",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "September",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "serious",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "She is a very serious person."
+   ]
+  },
+  {
+   "en": "serve",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "set",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "several",
+   "pos": "det & pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shall",
+   "pos": "mv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shame",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "What a shame!"
+   ]
+  },
+  {
+   "en": "shampoo",
+   "pos": "n & v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "share",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "Bob and Sam share an office. Will you share your sandwich with me?",
+    "She shared her pictures online."
+   ]
+  },
+  {
+   "en": "shark",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "she",
+   "pos": "pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sheep",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sheet",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "a bed sheet a sheet of paper"
+   ]
+  },
+  {
+   "en": "shelf",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "ship",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shirt",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shoe",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shop",
+   "pos": "n & v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shop assistant",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shopper",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shopping",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "Let’s go shopping tomorrow."
+   ]
+  },
+  {
+   "en": "shopping centre",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "short",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "a short time"
+   ]
+  },
+  {
+   "en": "shorts",
+   "pos": "n pl",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "should",
+   "pos": "mv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shout",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "show",
+   "pos": "v & n",
+   "letter": "S",
+   "examples": [
+    "Show me your photos. (v) a film show (n) show somebody round (v)"
+   ]
+  },
+  {
+   "en": "shower",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shut",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "shy",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sick",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "side",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "this side of the room"
+   ]
+  },
+  {
+   "en": "sightseeing",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sign",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "silver",
+   "pos": "n & adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "similar",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "simple",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "since",
+   "pos": "prep",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sing",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "singer",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "singing",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "single",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sink",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sister",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sit",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sit down",
+   "pos": "phr v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "site",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "internet site"
+   ]
+  },
+  {
+   "en": "sitting room",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "size",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skate",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skateboard",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skateboarding",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skating",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "ski",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skiing",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "skirt",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sky",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sleep",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "slice",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "slim",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "slow",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "slowly",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "small",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "smart",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "smoke",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "smoking",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snack",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snail",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snake",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snow",
+   "pos": "n & v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snowboard",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "snowboarding",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "so",
+   "pos": "conj & adv",
+   "letter": "S",
+   "examples": [
+    "So, I think it’s right. (conj) He ate too much, so he felt ill. (conj) He wanted to go but he didn’t say so. (adv)"
+   ]
+  },
+  {
+   "en": "soap",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "soccer",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "social media",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sock",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sofa",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "soft",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "software",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "some",
+   "pos": "det & pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "somebody",
+   "pos": "pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "someone",
+   "pos": "pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "something",
+   "pos": "pron",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sometimes",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "somewhere",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "son",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "song",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "soon",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sorry",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "I’m sorry I’m late. Sorry, I don’t understand that. Sorry to hear you’re not we ll."
+   ]
+  },
+  {
+   "en": "sort",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sound",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "That sounds nice. To sound good/interesting/strange, etc."
+   ]
+  },
+  {
+   "en": "soup",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "south",
+   "pos": "n, adj & adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "space",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spare",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "I read a lot in my spare time."
+   ]
+  },
+  {
+   "en": "speak",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "speaker",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "special",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spell",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spelling",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spend",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "Let’s spend the weekend at the beach. He spends a lot of money on clothes."
+   ]
+  },
+  {
+   "en": "spider",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spoon",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sport",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sports centre",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "spring",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "I hate winter but I love spring."
+   ]
+  },
+  {
+   "en": "square",
+   "pos": "n & adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stadium",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "staff",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stage",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stairs",
+   "pos": "n pl",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stamp",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "Put a stamp on the envelope."
+   ]
+  },
+  {
+   "en": "stand",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "She was standing at the bus stop."
+   ]
+  },
+  {
+   "en": "star",
+   "pos": "n & v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "start",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "station",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stay",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "I can’t stay long. I stayed in New York for 10 days. The shop stays open late."
+   ]
+  },
+  {
+   "en": "steak",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "steal",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "Someone’s stolen my bag!"
+   ]
+  },
+  {
+   "en": "still",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stomach",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stomach ache",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stop",
+   "pos": "n & v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "store",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "storm",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "story",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "straight",
+   "pos": "adj & adv",
+   "letter": "S",
+   "examples": [
+    "a straight line (adj) Go straight on. (adv)"
+   ]
+  },
+  {
+   "en": "strange",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "That’s a strange story!"
+   ]
+  },
+  {
+   "en": "strawberry",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "street",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "striped",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stripes",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "strong",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "student",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "studies",
+   "pos": "n pl",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "study",
+   "pos": "v",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "stuff",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "That’s where I keep all my stuff."
+   ]
+  },
+  {
+   "en": "subject",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "What’s your favourite subject at school? the subject of a talk"
+   ]
+  },
+  {
+   "en": "success",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "successful",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "such",
+   "pos": "det",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "suddenly",
+   "pos": "adv",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sugar",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "I suggest having the meeting in the office."
+   ]
+  },
+  {
+   "en": "suit",
+   "pos": "n",
+   "letter": "S",
+   "examples": [
+    "He was wearing a grey suit."
+   ]
+  },
+  {
+   "en": "suitcase",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "summer",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sun",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "Sunday",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sunglasses",
+   "pos": "n pl",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sunny",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "supermarket",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "supper",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "suppose",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "I suppose so. I suppose you’re right."
+   ]
+  },
+  {
+   "en": "sure",
+   "pos": "adj",
+   "letter": "S",
+   "examples": [
+    "I’m (not) sure."
+   ]
+  },
+  {
+   "en": "surf",
+   "pos": "v",
+   "letter": "S",
+   "examples": [
+    "I like surfing (on) the internet."
+   ]
+  },
+  {
+   "en": "surfboard",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surfboarding",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surfing",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surname",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surprise",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surprised",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "surprising",
+   "pos": "adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "swan",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sweater",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "sweet",
+   "pos": "n & adj",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "swim",
+   "pos": "v & n",
+   "letter": "S",
+   "examples": [
+    "I swim in the college team. I’d like to have a swim in the lake."
+   ]
+  },
+  {
+   "en": "swimming",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "swimming costume",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "swimming pool",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "swimsuit",
+   "pos": "n",
+   "letter": "S",
+   "examples": []
+  },
+  {
+   "en": "table",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "table tennis",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tablet",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "You can take notes using your tablet."
+   ]
+  },
+  {
+   "en": "tail",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "take",
+   "pos": "v",
+   "letter": "T",
+   "examples": [
+    "I’ll take it to your room. It takes three hours."
+   ]
+  },
+  {
+   "en": "take off",
+   "pos": "phr v",
+   "letter": "T",
+   "examples": [
+    "She took off her shoes."
+   ]
+  },
+  {
+   "en": "take part",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "talk",
+   "pos": "n & v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tall",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tasty",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "taxi",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tea",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "teach",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "teacher",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "team",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "technology",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "teenager",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "telephone",
+   "pos": "n & v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "television",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tell",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "temperature",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "The temperature was below zero."
+   ]
+  },
+  {
+   "en": "tennis",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tennis player",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tent",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "term",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "terrible",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "test",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "text",
+   "pos": "n & v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "textbook",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "text message",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "than",
+   "pos": "prep & conj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thank",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thanks",
+   "pos": "exclam",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thank you",
+   "pos": "exclam",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "that",
+   "pos": "conj & pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "the",
+   "pos": "det",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "theatre",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "their",
+   "pos": "det",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "theirs",
+   "pos": "pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "them",
+   "pos": "pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "themselves",
+   "pos": "pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "then",
+   "pos": "adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "there",
+   "pos": "adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "these",
+   "pos": "det & pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "they",
+   "pos": "pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thin",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thing",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "think",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thirsty",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "this",
+   "pos": "det & pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "those",
+   "pos": "det & pron",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "through",
+   "pos": "prep",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "throw",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "thunderstorm",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "Thursday",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "ticket",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tidy",
+   "pos": "adj & v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tidy up",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tie",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tiger",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tights",
+   "pos": "n pl",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "till",
+   "pos": "prep",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "time",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "timetable",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tired",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "title",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "to",
+   "pos": "prep",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toast",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "today",
+   "pos": "n & adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toe",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "together",
+   "pos": "adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toilet",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tomato",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tomorrow",
+   "pos": "n & adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tonight",
+   "pos": "n & adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tortoise",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "too",
+   "pos": "adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tooth",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toothache",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toothbrush",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "top",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "the top of the page"
+   ]
+  },
+  {
+   "en": "topic",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "total",
+   "pos": "adj & n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tour",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "The band are on tour this month."
+   ]
+  },
+  {
+   "en": "tour guide",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tourist",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tourist information centre",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "towel",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "town",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "toy",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "traffic",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "traffic light",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "train",
+   "pos": "n, v",
+   "letter": "T",
+   "examples": [
+    "sport"
+   ]
+  },
+  {
+   "en": "training",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "sport"
+   ]
+  },
+  {
+   "en": "trainer",
+   "pos": "n",
+   "letter": "T",
+   "examples": [
+    "a pair of trainers"
+   ]
+  },
+  {
+   "en": "tram",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "transport",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "travel",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tree",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "trip",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "trouble",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "trousers",
+   "pos": "n pl",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "true",
+   "pos": "adj",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "try",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "try on",
+   "pos": "phr v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "T-shirt",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "Tuesday",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tune",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "turn",
+   "pos": "v",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "turn off",
+   "pos": "phr v",
+   "letter": "T",
+   "examples": [
+    "Turn the TV off."
+   ]
+  },
+  {
+   "en": "turn on",
+   "pos": "phr v",
+   "letter": "T",
+   "examples": [
+    "Turn the heating on."
+   ]
+  },
+  {
+   "en": "twice",
+   "pos": "adv",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "type",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "tyre",
+   "pos": "n",
+   "letter": "T",
+   "examples": []
+  },
+  {
+   "en": "umbrella",
+   "pos": "n",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "uncle",
+   "pos": "n",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "under",
+   "pos": "prep",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "underground",
+   "pos": "n & adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "understand",
+   "pos": "v",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "unfortunately",
+   "pos": "adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "unhappy",
+   "pos": "n",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "uniform",
+   "pos": "n",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "university",
+   "pos": "n",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "until",
+   "pos": "prep",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "unusual",
+   "pos": "adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "up",
+   "pos": "prep & adv",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "upload",
+   "pos": "v",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "upset",
+   "pos": "adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "upstairs",
+   "pos": "adv",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "us",
+   "pos": "pron",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "use",
+   "pos": "v",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "useful",
+   "pos": "adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "usual",
+   "pos": "adj",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "usually",
+   "pos": "adv",
+   "letter": "U",
+   "examples": []
+  },
+  {
+   "en": "v/versus",
+   "pos": "prep",
+   "letter": "V",
+   "examples": [
+    "Manchester United v Liverpool"
+   ]
+  },
+  {
+   "en": "variety",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "various",
+   "pos": "adj",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "vegetable",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "very",
+   "pos": "adv",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "video",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "video game",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "view",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "village",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "violin",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "visit",
+   "pos": "v, n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "visitor",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "vocabulary",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "volleyball",
+   "pos": "n",
+   "letter": "V",
+   "examples": []
+  },
+  {
+   "en": "wait",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "waiter",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "waitress",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wake",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wake up",
+   "pos": "phr v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "walk",
+   "pos": "v & n",
+   "letter": "W",
+   "examples": [
+    "I often go for a walk in the evening."
+   ]
+  },
+  {
+   "en": "walking",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wall",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wallet",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "want",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wardrobe",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "warm",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wash",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "washing machine",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "washing-up",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wash up",
+   "pos": "phr v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "watch",
+   "pos": "n & v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "water",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "way",
+   "pos": "n",
+   "letter": "W",
+   "examples": [
+    "Do it this way. one-way street Is this the quickest way home? by the way (prep phr)"
+   ]
+  },
+  {
+   "en": "we",
+   "pos": "pron",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wear",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "weather",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "web",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "web page",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "website",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "Wednesday",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "week",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "weekday",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "weekend",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "weekly",
+   "pos": "adj & adv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "welcome",
+   "pos": "adj & exclam",
+   "letter": "W",
+   "examples": [
+    "You’re welcome (adj) Welcome to London! (exclam)"
+   ]
+  },
+  {
+   "en": "well",
+   "pos": "adv & adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "well known",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "west",
+   "pos": "n, adj & adv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wet",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "whale",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "what",
+   "pos": "det & pron",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wheel",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "when",
+   "pos": "adv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "where",
+   "pos": "adv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "which",
+   "pos": "det & pron",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "while",
+   "pos": "conj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "white",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "who",
+   "pos": "pron",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "whole",
+   "pos": "adj & n",
+   "letter": "W",
+   "examples": [
+    "the whole world (adj) the whole of July (n)"
+   ]
+  },
+  {
+   "en": "whose",
+   "pos": "det & pron",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "why",
+   "pos": "adv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wide",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wife",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wifi",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wild",
+   "pos": "adj",
+   "letter": "W",
+   "examples": [
+    "wild animals"
+   ]
+  },
+  {
+   "en": "wildlife",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "will",
+   "pos": "mv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "win",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wind",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "window",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "windsurfing",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "windy",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wing",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "winner",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "winter",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wish",
+   "pos": "n",
+   "letter": "W",
+   "examples": [
+    "Best wishes"
+   ]
+  },
+  {
+   "en": "with",
+   "pos": "prep",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "without",
+   "pos": "prep",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "woman",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wonderful",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wood",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wooden",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wool",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "word",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "work",
+   "pos": "n & v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "work out",
+   "pos": "phr v",
+   "letter": "W",
+   "examples": [
+    "exercise"
+   ]
+  },
+  {
+   "en": "worker",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "working hours",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "world",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "worried",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "worry",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "worse",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "worst",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "would",
+   "pos": "mv",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wow",
+   "pos": "exclam",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "write",
+   "pos": "v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "write down",
+   "pos": "phr v",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "writer",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "writing",
+   "pos": "n",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "wrong",
+   "pos": "adj",
+   "letter": "W",
+   "examples": []
+  },
+  {
+   "en": "Yeah!",
+   "pos": "exclam",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "year",
+   "pos": "n",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yellow",
+   "pos": "adj",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yes",
+   "pos": "adv",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yesterday",
+   "pos": "adv",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yet",
+   "pos": "adv",
+   "letter": "Y",
+   "examples": [
+    "Has he arrived yet?"
+   ]
+  },
+  {
+   "en": "yog",
+   "pos": "n",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "you",
+   "pos": "pron",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "young",
+   "pos": "adj",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "your",
+   "pos": "det",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yours",
+   "pos": "pron",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "yourself",
+   "pos": "pron",
+   "letter": "Y",
+   "examples": []
+  },
+  {
+   "en": "zebra",
+   "pos": "n",
+   "letter": "Z",
+   "examples": []
+  },
+  {
+   "en": "zero",
+   "pos": "n",
+   "letter": "Z",
+   "examples": []
+  },
+  {
+   "en": "zoo",
+   "pos": "n",
+   "letter": "Z",
+   "examples": []
+  }
+ ],
+ "wordSets": {
+  "Cardinal numbers": "one, two, three, etc. to one thousand",
+  "Ordinal numbers": "first, second, third, fourth, etc. to thirty-first",
+  "Days of the week": "Monday, Tuesday, etc.",
+  "Months of the year": "January, February, etc.",
+  "Seasons of the year": "spring, summer, autumn, winter",
+  "Countries, languages and nationalities": "English-speaking countries and others, for example Brazil/Brazilian, Canada/Canadian, China/Chinese, France/French, Ireland/Irish, India/Indian, Italy/Italian, Spain/Spanish, etc.",
+  "Continents": "Africa, Antarctica, Asia, Australia, Europe, North America, South America"
+ },
+ "topicBlocks": {
+  "Appliances": "camera DVD (player) laptop radio CD (player) electric lights telephone cell phone electricity mobile (phone) television / TV clock fridge oven video computer gas PC washing machine cooker heating phone digital camera lamp",
+  "Clothes and Accessories": "backpack fashion purse swimsuit bag get dressed raincoat tie bathing suit glasses ring tights belt glove rucksack trainers blouse handbag scarf trousers boot hat shirt try on (v) bracelet hoodie  shoes T-shirt cap jacket shorts umbrella chain jeans skirt uniform clothes jewellery / jewelry sock wallet coat jumper suit watch costume (swimming) kit sunglasses wear (v) dress necklace sweater earring pocket swimming costume",
+  "Colours": "black golden orange red blue green pale silver brown grey / gray pink white dark light purple yellow",
+  "Communication and Technology": "address digital laptop (computer) screen at / @ digital camera mobile (phone) software by post dot mouse tablet call (v) download (n & v) net talk camera DVD (player) online telephone CD (player) email (n & v) password text (n & v) cell phone envelope PC video chat file photograph web click (v) information photography web page computer internet phone website conversation keyboard printer",
+  "Documents and Texts": "ad / advertisement diary magazine passport article diploma menu postcard bill email message project book form newspaper text (n & v) card letter note textbook comic licence notebook ticket",
+  "Education": "advanced course lesson ruler beginner desk level school biology dictionary library science blackboard diploma mark student board eraser maths/mathematics studies book exam(ination) note study (v) bookshelf geography physics subject chemistry history practice (n) teach class homework practise (v) teacher classmate information project term classroom instructions pupil test (n) clever know read university coach language remember college learn rubber",
+  "Entertainment and Media": "act (v) draw magazine practise (v) actor drawing            museum programme adventure disco music project advertisement drum musician radio art DVD (player) news read (v) article exhibition newspaper rock (concert) board game festival opera screen (n) book film (n & v) paint (v) show (n) card fun painter sing cartoon go out photograph singer CD (player) group photographer song chess guitar photography television / TV cinema hip hop piano theatre classical (music) instrument picture ticket competition keyboard play (n) video (game) concert laugh pop (music) watch (v) dance (n & v) listen to practice (n) dancer look at",
+  "Family and Friends": "aunt girl group mum(my) boy grandchild guest neighbour brother grand(d)ad guy parent child granddaughter husband penfriend cousin grandfather love (n & v) sister dad(dy) grandma married son daughter grandmother Miss surname family grandpa mother teenager father grandparent Mr uncle friend grandson Mrs wife friendly granny Ms",
+  "Food and Drink": "apple chocolate hungry pizza bake coffee ice plate banana cola ice cream potato barbecue cook (n & v) jam rice biscuit cooker juice roast (v & adj) boil cream kitchen salad boiled cup knife salt bottle curry lemon sandwich bowl cut (n) lemonade sauce box delicious lunch sausage bread dessert main course slice (n) break (n) dinner meal snack (n) breakfast dish (n) meat soup burger drink melon steak butter eat menu strawberry cafe/café egg milk sugar cafeteria fish mineral water sweet (n & adj) cake food mushroom tea can (n) fork oil thirsty candy fridge omelette toast carrot fried onion tomato cereal fruit orange vegetable cheese garlic pasta waiter chef glass pear waitress chicken grape pepper wash up chilli grilled picnic yog(h)urt chips honey piece of cake",
+  "Health, Medicine and Exercise": "accident danger hair problem ambulance dangerous hand rest (n) appointment dead head run arm dentist health sick baby die hear (v) soap back doctor heart stomach blood Dr hospital stomach ache body ear hurt (v) swim brain exercise ill temperature break (v) eye leg tired check (v) face lie down tooth chemist fall (v) medicine toothache clean (adj & v) feel (v) neck toothbrush cold (n) finger nose walk comb (n) fit nurse well (adj) cut (v) foot pain",
+  "Hobbies and Leisure": "barbecue CD (player) go shopping music beach club guitar musician bicycle collect (v) hobby paint (n & v) bike computer holidays park book cycling join party camera dance (n & v) magazine photograph (n & v) camp draw member picnic camping DVD (player) museum quiz campsite festival  tent go out  video game",
+  "House and Home": "address clock furniture oven apartment computer garage pillow armchair cooker garden refrigerator bath(tub) cupboard gas roof bathroom curtain gate room bed desk hall rubbish bedroom dining room heating safe (adj) bin door home shelf blanket downstairs house shower bookcase drawer key sink bookshelf DVD (player) kitchen sitting room bowl entrance lamp sofa box flat (n) light stay (v) carpet floor live (v) toilet chair fridge living room towel",
+  "Measurements": "centimetre / half metre / meter temperature centimeter / cm hour minute week day kilo(gram[me])/kg moment year degree kilometre/kilometre/km quarter gram(me) litre / liter second Personal Feelings, Opinions and Experiences (adjectives) able excellent lovely      special afraid excited  lucky strange alone famous married strong amazing fast modern sure angry favourite nice sweet bad fine noisy tall beautiful free old terrible better friendly pleasant tired big funny poor          unhappy bored good pretty useful boring great quick well brave happy quiet worried brilliant hard ready wrong busy heavy real     young careful high rich clear hungry right clever important slow cool interested small different interesting soft difficult kind sorry",
+  "Places: Buildings": "apartment (building) department store hotel shop bank disco house sports centre block elevator library stadium bookshop entrance lift supermarket bookstore exit museum swimming pool building factory office theatre cafe/café flat pharmacy university cafeteria garage police station castle grocery store post office cinema guest-house railway station college hospital school",
+  "Places: Countryside": "area forest ocean sea beach hill path sky campsite island railway village farm lake rainforest                wood field mountain river",
+  "Places: Town and City": "airport city centre petrol station station bridge corner playground street bus station market road town bus stop motorway roundabout underground car park park square zoo",
+  "Services": "bank doctor petrol station theatre cafe / café garage post office tourist information cafeteria hotel restaurant cinema library sports centre dentist museum swimming pool",
+  "Shopping": "ad / advertisement cheque expensive rent assistant close (v) for sale shop bill closed go shopping shop assistant bookshop cost (n & v) open (v & adj) shopper buy (v) credit card pay (for) shopping cash (n & v) customer penny spend cent department store pound store change (n & v) dollar price supermarket cheap euro receipt try on",
+  "Sport": "ball football riding swimming badminton football player rugby swimming costume baseball game run (v) swimming pool basketball goal sailing swimsuit bat golf sea table tennis bathing suit hockey skate (v) team beach kit skateboard (n) tennis bicycle luck ski (v) tennis player bike member skiing throw (v) boat play (v) snowboard (n) ticket catch (v) player snowboarding tired climb (v) pool (n) soccer trainers club practice (n) sport(s) v / versus coach (n) practise (v) sports centre volleyball competition prize stadium walk (v) cricket race (n & v) surf watch (v) cycling racket surfboard win (v) enter (a competition) rest (n & v) surfboarding windsurfing fishing ride (n & v) swim winner",
+  "The Natural World": "air fire moon star autumn flower mountain       summer beach forest north tree bee grass plant   water country grow                    river west countryside hill                    sea winter desert hot sky wood east ice     south wool explorer island  space world field lake spring",
+  "Time": "afternoon evening morning tonight a.m./p.m. half (past) night week appointment holidays noon weekday autumn hour o’clock weekend birthday January - December past weekly calendar meeting quarter (past/to) winter century midnight second working hours clock minute spring year daily moment summer yesterday date Monday - Sunday time day month today diary monthly tomorrow",
+  "Travel and Transport": "(aero)/(air)plane explorer park (v) street airport far passenger suitcase ambulance flight passport taxi backpack fly petrol ticket boat garage petrol station tour (n) bridge helicopter pilot tour guide bus journey platform tourist bus station leave railway tourist information centre bus stop left repair (v) traffic car light return (n & v) traffic light case luggage ride train coach machine right tram country map road travel delay (n & v) mechanic roundabout trip delayed mirror sailing tyre drive miss (v) seat underground (n) driver motorbike ship visit driving/driver’s licence motorway station visitor engine move stop way (n) engineer oil straight on wheel window",
+  "Weather": "cloud hot sun wet cloudy ice sunny wind cold rain thunderstorm windy fog snow warm foggy storm weather",
+  "Work and Jobs": "actor diploma journalist secretary artist doctor king shop assistant boss Dr letter shopper break (n) driver manager singer business earn mechanic staff businessman email (n & v) meeting student businesswoman engineer message teacher chemist explorer musician tennis player cleaner factory nurse tour guide coach (n) farm occupation uniform company farmer office waiter/ waitress computer footballer painter work cook (n & v) football player photographer worker customer guest pilot writer dentist guide police officer desk instructions queen diary job receptionist"
+ }
+}

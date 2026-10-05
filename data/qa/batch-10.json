@@ -1,0 +1,70 @@
+{
+  "scenes": ["noun-money-shopping", "noun-animals", "noun-food-extra", "noun-sports-games", "noun-travel-things"],
+  "issues": [
+    {
+      "scene": "noun-animals",
+      "kind": "zh-naturalness",
+      "en": "That clever dolphin is a strange sea creature.",
+      "zh": "那隻聰明的海豚是種奇怪的海洋生物。",
+      "problem": "中文缺了量詞「一」，「是種」不成句，讀起來像漏字。",
+      "suggestion": "那隻聰明的海豚是一種奇怪的海洋生物。"
+    },
+    {
+      "scene": "noun-animals",
+      "kind": "ipa",
+      "en": "jellyfish",
+      "zh": "水母",
+      "problem": "jellyfish 讀作 /ˈdʒelɪfɪʃ/，中間音節是短音 ɪ，此處誤標成長音 i（專案其他字如 camel、salad 都用 ə/ɪ 標未加重音音節）。",
+      "suggestion": "ˈdʒel.ɪ.fɪʃ（或 ˈdʒel.ə.fɪʃ）"
+    },
+    {
+      "scene": "noun-animals",
+      "kind": "zh-naturalness",
+      "en": "",
+      "zh": "拼字時特別注意字節多的詞，butterfly、dinosaur、elephant 都是很容易打錯的一類。",
+      "problem": "「字節」是電腦術語（byte），與拼字無關；此處要表達的是英文字母。",
+      "suggestion": "拼字時特別注意字母多的單字，butterfly、dinosaur、elephant 都是很容易打錯的一類。"
+    },
+    {
+      "scene": "noun-food-extra",
+      "kind": "tips",
+      "en": "",
+      "zh": "蔬菜和水果的名字讀音很像，carrot、cereal、curry 要一組一組練，打錯時才分得出來。",
+      "problem": "tip 說「讀音很像」但 carrot /ˈkærət/、cereal /ˈsɪəriəl/、curry /ˈkʌri/ 讀音差異很大；這組字相似的其實是拼寫，後面「打錯時才分得出來」也印證應指拼寫。",
+      "suggestion": "蔬菜和水果的名字拼寫很像，carrot、cereal、curry 要一組一組練，打錯時才分得出來。"
+    },
+    {
+      "scene": "noun-sports-games",
+      "kind": "grammar",
+      "en": "cheer your team",
+      "zh": "為你的隊伍加油",
+      "problem": "此固定說法少了小品詞／副詞；cheer 作「加油、鼓勵」時需用 cheer on your team，cheer your team 母語者不會這樣說。",
+      "suggestion": "cheer on your team"
+    },
+    {
+      "scene": "noun-sports-games",
+      "kind": "grammar",
+      "en": "The score was two goals when the match ended.",
+      "zh": "比賽結束時，比分是兩球。",
+      "problem": "比分要寫出兩隊比分，只寫「two goals」是不完整的比分（缺對方球數）。",
+      "suggestion": "The score was two goals to nil when the match ended."
+    },
+    {
+      "scene": "noun-travel-things",
+      "kind": "duplicate",
+      "en": "parking lot",
+      "zh": "停車場",
+      "problem": "本單元已收「car park／停車場」，parking lot 是美式說法，與 car park 在同一個字表形成重複，且與全單元的英式拼字（petrol、licence、queue、aeroplane、lorry）不一致。",
+      "suggestion": "刪除 parking lot，或改為英式 parking space／car park 之外的項目（例如 multi-storey car park）。"
+    },
+    {
+      "scene": "noun-travel-things",
+      "kind": "tips",
+      "en": "",
+      "zh": "留意容易打錯的字：機場、乘客、車站這幾個詞都有雙字母，漏一個就錯了。",
+      "problem": "「都有雙字母」不成立：airport、station 都沒有連續重複的字母，只有 passenger 有 ss；且 tip 用中文「機場、乘客、車站」舉例，讀者無從對應要拼的英文。",
+      "suggestion": "留意容易打錯的英文：passenger 中間有連續的 ss，airport、station 容易漏掉 a 字母，寫錯就扣分。"
+    }
+  ],
+  "checked": { "words": 329, "phrases": 70, "sentences": 70, "tips": 15 }
+}

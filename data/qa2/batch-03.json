@@ -1,0 +1,22 @@
+{
+  "scenes": ["feelings", "time", "places-buildings", "places-countryside", "places-town"],
+  "issues": [
+    {
+      "scene": "places-buildings",
+      "kind": "inconsistent",
+      "en": "on the second floor",
+      "zh": "在二樓",
+      "problem": "與同一場景的說明互相矛盾：本場景 tip 已講明英式樓層「ground floor 是一樓，往上依序是 first floor、second floor」，依此規則 second floor 應是三樓，卻譯成「在二樓」。同一場景的 take the lift to the fifth floor 譯「搭電梯到五樓」也有同樣問題，會讓學習者搞混兩套樓層。",
+      "suggestion": "在三樓"
+    },
+    {
+      "scene": "time",
+      "kind": "inconsistent",
+      "en": "She works three hours in the evening.",
+      "zh": "她晚上工作三個小時。",
+      "problem": "同一場景譯法不一致：單字表把 evening 譯為「傍晚」，片語表把 in the evening 譯為「在傍晚」，這一句卻譯為「晚上」；「傍晚」與「晚上」在中文指的是不同的時段。",
+      "suggestion": "她傍晚工作三個小時。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

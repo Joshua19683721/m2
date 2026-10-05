@@ -1,0 +1,550 @@
+[
+ {
+  "id": "colours",
+  "icon": "🎨",
+  "name": "顏色",
+  "nameEn": "Colours",
+  "summary": "描述東西的顏色，畫圖、描述房間都會用到。",
+  "words": [
+   {
+    "en": "black",
+    "zh": "黑色",
+    "ipa": "blæk"
+   },
+   {
+    "en": "blue",
+    "zh": "藍色",
+    "ipa": "bluː"
+   },
+   {
+    "en": "brown",
+    "zh": "棕色",
+    "ipa": "braʊn"
+   },
+   {
+    "en": "dark",
+    "zh": "深色的",
+    "ipa": "dɑːk"
+   },
+   {
+    "en": "gold",
+    "zh": "金色",
+    "ipa": "ɡəʊld"
+   },
+   {
+    "en": "golden",
+    "zh": "金燦燦的",
+    "ipa": "ˈɡəʊl.dən"
+   },
+   {
+    "en": "green",
+    "zh": "綠色",
+    "ipa": "ɡriːn"
+   },
+   {
+    "en": "grey",
+    "zh": "灰色",
+    "ipa": "ɡreɪ"
+   },
+   {
+    "en": "light",
+    "zh": "淺色的",
+    "ipa": "laɪt"
+   },
+   {
+    "en": "orange",
+    "zh": "橘色",
+    "ipa": "ˈɒ.rɪndʒ"
+   },
+   {
+    "en": "pale",
+    "zh": "淡色的；淺淡的（例：pale green 淡綠色）",
+    "ipa": "peɪl"
+   },
+   {
+    "en": "pink",
+    "zh": "粉紅色",
+    "ipa": "pɪŋk"
+   },
+   {
+    "en": "purple",
+    "zh": "紫色",
+    "ipa": "ˈpɜː.pəl"
+   },
+   {
+    "en": "red",
+    "zh": "紅色",
+    "ipa": "red"
+   },
+   {
+    "en": "silver",
+    "zh": "銀色",
+    "ipa": "ˈsɪl.və"
+   },
+   {
+    "en": "white",
+    "zh": "白色",
+    "ipa": "waɪt"
+   },
+   {
+    "en": "yellow",
+    "zh": "黃色",
+    "ipa": "ˈjel.əʊ"
+   },
+   {
+    "en": "colour",
+    "zh": "顏色",
+    "ipa": "ˈkʌ.lə"
+   },
+   {
+    "en": "bright",
+    "zh": "鮮亮的",
+    "ipa": "braɪt"
+   },
+   {
+    "en": "colourful",
+    "zh": "多彩的",
+    "ipa": "ˈkʌ.lə.fəl"
+   },
+   {
+    "en": "cream",
+    "zh": "奶油色",
+    "ipa": "kriːm"
+   },
+   {
+    "en": "navy",
+    "zh": "深藍色",
+    "ipa": "ˈneɪ.vi"
+   },
+   {
+    "en": "violet",
+    "zh": "紫羅蘭色",
+    "ipa": "ˈvaɪ.ə.lət"
+   },
+   {
+    "en": "beige",
+    "zh": "米色",
+    "ipa": "beɪʒ"
+   },
+   {
+    "en": "rainbow",
+    "zh": "彩虹",
+    "ipa": "ˈreɪn.bəʊ"
+   },
+   {
+    "en": "olive",
+    "zh": "橄欖色",
+    "ipa": "ˈɒ.lɪv"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "bright red",
+    "zh": "鮮紅色",
+    "ipa": "ˌbraɪt ˈred"
+   },
+   {
+    "en": "bright yellow",
+    "zh": "鮮黃色",
+    "ipa": "ˌbraɪt ˈjel.əʊ"
+   },
+   {
+    "en": "dark blue",
+    "zh": "深藍色",
+    "ipa": "ˌdɑːk ˈbluː"
+   },
+   {
+    "en": "light green",
+    "zh": "淺綠色",
+    "ipa": "ˌlaɪt ˈɡriːn"
+   },
+   {
+    "en": "pale blue",
+    "zh": "淡藍色",
+    "ipa": "ˌpeɪl ˈbluː"
+   },
+   {
+    "en": "black and white",
+    "zh": "黑白",
+    "ipa": "ˌblæk ən ˈwaɪt"
+   },
+   {
+    "en": "warm colours",
+    "zh": "暖色系",
+    "ipa": "ˌwɔːm ˈkʌ.ləz"
+   },
+   {
+    "en": "cool colours",
+    "zh": "冷色系",
+    "ipa": "ˌkuːl ˈkʌ.ləz"
+   },
+   {
+    "en": "change the colour",
+    "zh": "換個顏色",
+    "ipa": "ˌtʃeɪndʒ ðə ˈkʌ.lə"
+   },
+   {
+    "en": "match the colour",
+    "zh": "顏色相配",
+    "ipa": "ˌmætʃ ðə ˈkʌ.lə"
+   },
+   {
+    "en": "turn red",
+    "zh": "臉紅起來",
+    "ipa": "ˌtɜːn ˈred"
+   },
+   {
+    "en": "colour scheme",
+    "zh": "整體配色",
+    "ipa": "ˈkʌ.lə skiːm"
+   },
+   {
+    "en": "a favourite colour",
+    "zh": "最喜歡的顏色",
+    "ipa": "ə ˈfeɪ.və.rɪt ˈkʌ.lə"
+   },
+   {
+    "en": "dark brown",
+    "zh": "深咖啡色",
+    "ipa": "ˌdɑːk ˈbraʊn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My bedroom walls are pale blue and white.",
+    "zh": "我的臥室牆壁是淡藍色和白色。"
+   },
+   {
+    "en": "She always wears black on special days.",
+    "zh": "特別的日子她總是穿黑色。"
+   },
+   {
+    "en": "The traffic lights change from red to green.",
+    "zh": "號誌燈會從紅色變成綠色。"
+   },
+   {
+    "en": "This coat is dark green, not brown.",
+    "zh": "這件外套是深綠色，不是棕色。"
+   },
+   {
+    "en": "I like bright colours in the kitchen.",
+    "zh": "我喜歡廚房裡用鮮亮的顏色。"
+   },
+   {
+    "en": "The cat has golden eyes in the sun.",
+    "zh": "那隻貓在陽光下有金色的眼睛。"
+   },
+   {
+    "en": "His trousers are grey and his shoes silver.",
+    "zh": "他的褲子是灰色，鞋子是銀色。"
+   },
+   {
+    "en": "Can you paint this table pink for me?",
+    "zh": "你可以把這張桌子漆成粉色嗎？"
+   },
+   {
+    "en": "Purple flowers look beautiful next to yellow ones.",
+    "zh": "紫色的花配黃色的很好看。"
+   },
+   {
+    "en": "We chose a warm colour scheme for the hall.",
+    "zh": "我們為門廳選了暖色的配色。"
+   },
+   {
+    "en": "The sky was pale grey all afternoon.",
+    "zh": "整個下午天空都是淡淡的灰色。"
+   },
+   {
+    "en": "Orange is my favourite colour in autumn.",
+    "zh": "秋天我最喜歡的顏色是橘色。"
+   },
+   {
+    "en": "The old photo is black and white.",
+    "zh": "那張舊照片是黑白的。"
+   },
+   {
+    "en": "She turned red when she heard the news.",
+    "zh": "她聽到消息時臉紅了。"
+   }
+  ],
+  "tips": [
+   "先看字的位置再照拼音慢慢打，別急著加速。",
+   "同一個句型換不同顏色反覆練習，印象會更深。",
+   "打完唸一次，確認自己真的記得那個顏色的英文。"
+  ]
+ },
+ {
+  "id": "comms-tech",
+  "icon": "📱",
+  "name": "溝通與科技",
+  "nameEn": "Communication and Technology",
+  "summary": "打電話、寫email、上網、看螢幕。",
+  "words": [
+   {
+    "en": "internet",
+    "zh": "網際網路",
+    "ipa": "ˈɪn.tə.net"
+   },
+   {
+    "en": "email",
+    "zh": "電子郵件",
+    "ipa": "ˈiː.meɪl"
+   },
+   {
+    "en": "mobile phone",
+    "zh": "手機",
+    "ipa": "ˈməʊ.bail fəʊn"
+   },
+   {
+    "en": "web page",
+    "zh": "網頁",
+    "ipa": "ˈweb peɪdʒ"
+   },
+   {
+    "en": "website",
+    "zh": "網站",
+    "ipa": "ˈweb.saɪt"
+   },
+   {
+    "en": "computer",
+    "zh": "電腦",
+    "ipa": "kəmˈpjuː.tə"
+   },
+   {
+    "en": "laptop",
+    "zh": "筆記型電腦",
+    "ipa": "ˈlæp.tɒp"
+   },
+   {
+    "en": "tablet",
+    "zh": "平板電腦",
+    "ipa": "ˈtæb.lət"
+   },
+   {
+    "en": "screen",
+    "zh": "螢幕",
+    "ipa": "skriːn"
+   },
+   {
+    "en": "keyboard",
+    "zh": "鍵盤",
+    "ipa": "ˈkiː.bɔːd"
+   },
+   {
+    "en": "mouse",
+    "zh": "滑鼠",
+    "ipa": "maʊs"
+   },
+   {
+    "en": "printer",
+    "zh": "印表機",
+    "ipa": "ˈprɪn.tə"
+   },
+   {
+    "en": "password",
+    "zh": "密碼",
+    "ipa": "ˈpɑːs.wɜːd"
+   },
+   {
+    "en": "software",
+    "zh": "軟體",
+    "ipa": "ˈsɒft.weə"
+   },
+   {
+    "en": "file",
+    "zh": "檔案",
+    "ipa": "faɪl"
+   },
+   {
+    "en": "download",
+    "zh": "下載",
+    "ipa": "ˈdaʊn.ləʊd"
+   },
+   {
+    "en": "camera",
+    "zh": "相機",
+    "ipa": "ˈkæm.rə"
+   },
+   {
+    "en": "photograph",
+    "zh": "照片",
+    "ipa": "ˈfəʊ.tə.ɡrɑːf"
+   },
+   {
+    "en": "video",
+    "zh": "影片",
+    "ipa": "ˈvɪd.i.əʊ"
+   },
+   {
+    "en": "chat",
+    "zh": "聊天",
+    "ipa": "tʃæt"
+   },
+   {
+    "en": "online",
+    "zh": "線上的",
+    "ipa": "ˌɒnˈlaɪn"
+   },
+   {
+    "en": "click",
+    "zh": "點選",
+    "ipa": "klɪk"
+   },
+   {
+    "en": "text",
+    "zh": "簡訊",
+    "ipa": "tekst"
+   },
+   {
+    "en": "envelope",
+    "zh": "信封",
+    "ipa": "ɪnˈveləʊp"
+   },
+   {
+    "en": "address",
+    "zh": "地址",
+    "ipa": "əˈdres"
+   },
+   {
+    "en": "digital",
+    "zh": "數位的",
+    "ipa": "ˈdɪ.dʒɪ.təl"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "send an email",
+    "zh": "寄電子郵件",
+    "ipa": "ˌsend ən ˈiː.meɪl"
+   },
+   {
+    "en": "write a text message",
+    "zh": "傳簡訊",
+    "ipa": "ˌraɪt ə ˈtekst ˈmes.ɪdʒ"
+   },
+   {
+    "en": "make a phone call",
+    "zh": "打一通電話",
+    "ipa": "ˌmeɪk ə ˈfəʊn kɔːl"
+   },
+   {
+    "en": "answer the phone",
+    "zh": "接電話",
+    "ipa": "ˌɑːn.sə ðə ˈfəʊn"
+   },
+   {
+    "en": "use the internet",
+    "zh": "使用網路",
+    "ipa": "ˌjuːz ði ˈɪn.tə.net"
+   },
+   {
+    "en": "go online",
+    "zh": "連上網路",
+    "ipa": "ˌɡəʊ ˌɒnˈlaɪn"
+   },
+   {
+    "en": "download a file",
+    "zh": "下載檔案",
+    "ipa": "ˌdaʊnˈləʊd ə ˈfaɪl"
+   },
+   {
+    "en": "forget my password",
+    "zh": "忘記密碼",
+    "ipa": "fəˈɡet maɪ ˈpɑːs.wɜːd"
+   },
+   {
+    "en": "search the web",
+    "zh": "搜尋網路",
+    "ipa": "ˌsɜːtʃ ðə ˈweb"
+   },
+   {
+    "en": "open a web page",
+    "zh": "開啟網頁",
+    "ipa": "ˌəʊ.pən ə ˈweb peɪdʒ"
+   },
+   {
+    "en": "click on the link",
+    "zh": "點選連結",
+    "ipa": "ˌklɪk ɒn ðə ˈlɪŋk"
+   },
+   {
+    "en": "print a document",
+    "zh": "列印文件",
+    "ipa": "ˌprɪnt ə ˈdɒk.jə.mənt"
+   },
+   {
+    "en": "take a photo",
+    "zh": "拍一張照片",
+    "ipa": "ˌteɪk ə ˈfəʊ.təʊ"
+   },
+   {
+    "en": "chat with friends",
+    "zh": "和朋友聊天",
+    "ipa": "ˌtʃæt wɪð ˈfrendz"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I use the internet every evening.",
+    "zh": "我每天晚上都上網。"
+   },
+   {
+    "en": "My father sends emails to his friends.",
+    "zh": "我爸爸會寄電子郵件給朋友。"
+   },
+   {
+    "en": "The website is very slow on my phone.",
+    "zh": "這個網站在我手機上很慢。"
+   },
+   {
+    "en": "Please send me the file by email today.",
+    "zh": "請今天用電子郵件把檔案寄給我。"
+   },
+   {
+    "en": "She forgot her password and locked the screen.",
+    "zh": "她忘了密碼，螢幕也鎖住了。"
+   },
+   {
+    "en": "We take photos with a digital camera.",
+    "zh": "我們用數位相機拍照。"
+   },
+   {
+    "en": "He downloads music and films onto his laptop.",
+    "zh": "他把音樂和影片下載到筆記型電腦。"
+   },
+   {
+    "en": "Can you print two copies for the meeting?",
+    "zh": "你能為會議列印兩份嗎？"
+   },
+   {
+    "en": "The mouse stopped working on my computer.",
+    "zh": "滑鼠在我的電腦上突然不能用了。"
+   },
+   {
+    "en": "We had a long conversation on the phone.",
+    "zh": "我們在電話裡聊了很久。"
+   },
+   {
+    "en": "This chat app is free and very easy.",
+    "zh": "這個聊天程式免費而且很好用。"
+   },
+   {
+    "en": "I always open the news website at night.",
+    "zh": "我晚上總會開新聞網站。"
+   },
+   {
+    "en": "My tablet has a small screen and keyboard.",
+    "zh": "我的平板有小的螢幕和鍵盤。"
+   },
+   {
+    "en": "Put the address on the envelope, please.",
+    "zh": "請把地址寫在信封上。"
+   }
+  ],
+  "tips": [
+   "先背熟常用單字，打字時才不會一直卡住。",
+   "練習時留意符號和大小寫，這些最容易出錯。",
+   "每天打幾句簡訊或郵件，兩週就會很順。"
+  ]
+ }
+]

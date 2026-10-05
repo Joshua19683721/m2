@@ -1,0 +1,102 @@
+{
+  "scenes": ["adj-things", "adj-emotion", "noun-sports-games", "travel-transport", "education"],
+  "issues": [
+    {
+      "scene": "adj-things",
+      "kind": "ipa",
+      "en": "poor thing/you",
+      "zh": "可憐的東西／可憐的人",
+      "problem": "en 同時列了「poor thing」與「poor you」兩個變體，但 ipa 只有「ˌpɔː ˈθɪŋ」，完全漏掉「poor you」的唸法。學習者讀到這個條目時只學得到前半段，後半段等於沒有音標。",
+      "suggestion": "ˌpɔː ˈθɪŋ ˌpɔː ˈjuː"
+    },
+    {
+      "scene": "adj-things",
+      "kind": "meaning",
+      "en": "poor thing/you",
+      "zh": "可憐的東西／可憐的人",
+      "problem": "本場是形容詞場次，但「poor thing」「poor you」是表示同情的感嘆語，不是能放在名詞前的形容詞；zh 又照名詞詞組翻成「可憐的東西／可憐的人」，學習者只會學到一個錯的用法（例如說成 poor person 之類）。實際用法是「Poor you!」＝「你好可憐喔！」。",
+      "suggestion": "真可憐喔！／你好可憐喔！"
+    },
+    {
+      "scene": "adj-things",
+      "kind": "tips",
+      "en": "放在名詞前面時，中間不能插別的字。例如可以說一個很大的車子，不能說一個很大車的這種順序。",
+      "zh": "",
+      "problem": "這則提示的規則和例句互相矛盾：規則說「放在名詞前面時，中間不能插別的字」，但它自己給的正確例句「一個很大的車子」裡就夾了「很」；反例「一個很大車的」中文語序根本不通，不是一個真實會犯的錯誤句型，讀者無從對照。",
+      "suggestion": "形容詞放在名詞前面時，中間不能插別的字：可以說「一個很大的車子」，但不能說「一個大的很高車子」。"
+    },
+    {
+      "scene": "adj-emotion",
+      "kind": "tips",
+      "en": "這組最大的陷阱是兩種尾綴：說自己被這樣困住就用前者，形容會讓別人產生這種感覺的事才用後者。",
+      "zh": "",
+      "problem": "整則提示只說「用前者」「用後者」，但從頭到尾沒有點出「前者」「後者」分別指哪兩個詞尾，提示文字裡也沒有任何可以對照的詞，讀者看到時無從對應。",
+      "suggestion": "這組最大的陷阱是 -ed 與 -ing 兩種詞尾：說自己被這種感覺困住就用 -ed（如 bored、worried），形容會讓別人產生這種感覺的事才用 -ing（如 boring、worrying）。"
+    },
+    {
+      "scene": "noun-sports-games",
+      "kind": "grammar",
+      "en": "cheer your team",
+      "zh": "為你的隊伍加油",
+      "problem": "此固定說法少了小品詞：cheer 作「加油、鼓勵」時要用 cheer on your team，直接說 cheer your team 母語者不會這樣講。",
+      "suggestion": "cheer on your team"
+    },
+    {
+      "scene": "noun-sports-games",
+      "kind": "grammar",
+      "en": "The score was two goals when the match ended.",
+      "zh": "比賽結束時，比分是兩球。",
+      "problem": "比分只寫出進球數，沒有寫對方的球數，等於把兩隊比分缺了一半，語意不完整；中文「比分是兩球」同樣缺了另一隊的分數，無法判斷是二比零還是二比二。",
+      "suggestion": "The score was two goals to nil when the match ended."
+    },
+    {
+      "scene": "noun-sports-games",
+      "kind": "zh-naturalness",
+      "en": "She won first prize at the school sports competition.",
+      "zh": "她在學校運動競賽中贏得了第一名的獎品。",
+      "problem": "「第一名的獎品」是直譯語序，中文不會這樣講；且「獎品」與「第一名」語意重疊，讀起來多一層贅詞。英文的 won first prize 就是得到第一名。",
+      "suggestion": "她在學校運動競賽中贏得了第一名。"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "ipa",
+      "en": "airport",
+      "zh": "機場",
+      "problem": "音標欄位損毀：實際寫入的是「ˈe��.pɔːt」，「e」後面接的是兩個 U+FFFD 替換字元，不是任何合法音標符號，也無法顯示或發音。同一場景片語 check in at the airport 的音標 ˌtʃek ɪn ət ði ˈeə.pɔːt 可作對照。",
+      "suggestion": "ˈeə.pɔːt"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "zh-simplified",
+      "en": "a long delay",
+      "zh": "长时间的延誤",
+      "problem": "中文夾帶簡體字：「长」是「長」的簡體、「时」是「時」的簡體，與本教材全繁體的體例不符（同一則的「誤」已是繁體）。",
+      "suggestion": "長時間的延誤"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "meaning",
+      "en": "We missed the bus, so we walked to the station.",
+      "zh": "我們錯過公車，所以走回車站。",
+      "problem": "英文只說 walked to the station，沒有「回」的意思；中文的「走回」多譯出一層「返回原處」，與英文訊息不一致，學習者會以為句中還有一個方向資訊。",
+      "suggestion": "我們錯過公車，所以走到車站。"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "meaning",
+      "en": "Take a map and look at the motorway signs.",
+      "zh": "帶張地圖看看高速公路的標示。",
+      "problem": "signs 指路上的交通標誌牌，應譯為「標誌」；「標示」指的是標記、標明（如圖面上的記號），不是那種立在路上給駕駛看的牌子，中文對不上。",
+      "suggestion": "帶張地圖看看高速公路的交通標誌。"
+    },
+    {
+      "scene": "travel-transport",
+      "kind": "inconsistent",
+      "en": "The driver told us the journey would be long.",
+      "zh": "司機告訴我們路程會很長。",
+      "problem": "同一場景中 journey 在 words 譯為「旅程」、在片語 a long journey 譯為「漫長的旅程」，這裡卻譯成「路程」；「路程」在中文指的是距離長短，與「旅程」不是同一個概念，同一個詞前後譯法不一致。",
+      "suggestion": "司機告訴我們這趟旅程會很長。"
+    }
+  ],
+  "checked": { "words": 256, "phrases": 70, "sentences": 70, "tips": 15 }
+}

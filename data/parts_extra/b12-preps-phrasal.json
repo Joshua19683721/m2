@@ -1,0 +1,949 @@
+[
+ {
+  "id": "grammar-prepositions",
+  "icon": "🧭",
+  "name": "介系詞與方位",
+  "nameEn": "Prepositions",
+  "summary": "in / on / at / for / of… 地點、時間、方向與固定搭配都在這裡。",
+  "note": "中文沒有介系詞，是台灣學生最容易漏掉的一類詞。",
+  "group": "文法基礎",
+  "words": [
+   {
+    "en": "about",
+    "zh": "關於；大約",
+    "ipa": "əˈbaʊt"
+   },
+   {
+    "en": "above",
+    "zh": "在……上方；超過",
+    "ipa": "əˈbʌv"
+   },
+   {
+    "en": "across",
+    "zh": "穿過；在對面",
+    "ipa": "əˈkrɒs"
+   },
+   {
+    "en": "against",
+    "zh": "靠著；反對；與……對抗",
+    "ipa": "əˈɡenst"
+   },
+   {
+    "en": "along",
+    "zh": "沿著；順著",
+    "ipa": "əˈlɒŋ"
+   },
+   {
+    "en": "among",
+    "zh": "在……之中（三者以上）",
+    "ipa": "əˈmʌŋ"
+   },
+   {
+    "en": "around",
+    "zh": "在……周圍；到處",
+    "ipa": "əˈraʊnd"
+   },
+   {
+    "en": "as well",
+    "zh": "也；還有",
+    "ipa": "əz ˈwel"
+   },
+   {
+    "en": "at",
+    "zh": "在（地點、時間、價格）",
+    "ipa": "ət"
+   },
+   {
+    "en": "at / @",
+    "zh": "在；於（電子郵件地址裡的符號）",
+    "ipa": "ət æt"
+   },
+   {
+    "en": "at all",
+    "zh": "完全；根本",
+    "ipa": "ət ˈɔːl"
+   },
+   {
+    "en": "because of",
+    "zh": "因為",
+    "ipa": "bɪˈkɒːz əv"
+   },
+   {
+    "en": "behind",
+    "zh": "在……後面",
+    "ipa": "bɪˈhaɪnd"
+   },
+   {
+    "en": "below",
+    "zh": "在……下方",
+    "ipa": "bɪˈləʊ"
+   },
+   {
+    "en": "beside",
+    "zh": "在……旁邊",
+    "ipa": "bɪˈsaɪd"
+   },
+   {
+    "en": "between",
+    "zh": "在……之間（兩者）",
+    "ipa": "bɪˈtwiːn"
+   },
+   {
+    "en": "by",
+    "zh": "靠著；經由；在……旁邊",
+    "ipa": "baɪ"
+   },
+   {
+    "en": "by accident",
+    "zh": "偶然地；意外地",
+    "ipa": "baɪ ˈæk.sɪ.dənt"
+   },
+   {
+    "en": "by the way",
+    "zh": "順帶一提",
+    "ipa": "baɪ ðə ˈweɪ"
+   },
+   {
+    "en": "by post",
+    "zh": "用郵寄",
+    "ipa": "baɪ ˈpəʊst"
+   },
+   {
+    "en": "down",
+    "zh": "往下；沿著……下去",
+    "ipa": "daʊn"
+   },
+   {
+    "en": "during",
+    "zh": "在……期間",
+    "ipa": "ˈdjʊə.rɪŋ"
+   },
+   {
+    "en": "for",
+    "zh": "為了；給；因為",
+    "ipa": "fə"
+   },
+   {
+    "en": "from",
+    "zh": "從；來自",
+    "ipa": "frɒm"
+   },
+   {
+    "en": "in",
+    "zh": "在……裡面；在（時間）",
+    "ipa": "ɪn"
+   },
+   {
+    "en": "including",
+    "zh": "包括；包含",
+    "ipa": "ɪnˈkluː.dɪŋ"
+   },
+   {
+    "en": "in front of",
+    "zh": "在……前面",
+    "ipa": "ɪn ˈfrʌnt əv"
+   },
+   {
+    "en": "into",
+    "zh": "進入……裡面",
+    "ipa": "ˈɪn.tuː"
+   },
+   {
+    "en": "like",
+    "zh": "像；如同",
+    "ipa": "laɪk"
+   },
+   {
+    "en": "minus",
+    "zh": "減號；減去",
+    "ipa": "ˈmaɪ.nəs"
+   },
+   {
+    "en": "of",
+    "zh": "……的（表示屬於）",
+    "ipa": "əv"
+   },
+   {
+    "en": "on",
+    "zh": "在……上面；關於",
+    "ipa": "ɒn"
+   },
+   {
+    "en": "opposite",
+    "zh": "在……對面；相反的",
+    "ipa": "ˈɒp.ə.zɪt"
+   },
+   {
+    "en": "out of",
+    "zh": "從……裡面出來；離開",
+    "ipa": "aʊt əv"
+   },
+   {
+    "en": "over",
+    "zh": "在……上方；超過；結束",
+    "ipa": "ˈəʊ.və"
+   },
+   {
+    "en": "past",
+    "zh": "經過（時間或地點）；過去的",
+    "ipa": "pɑːst"
+   },
+   {
+    "en": "per",
+    "zh": "每；每一",
+    "ipa": "pɜː"
+   },
+   {
+    "en": "plus",
+    "zh": "加號；加上",
+    "ipa": "plʌs"
+   },
+   {
+    "en": "since",
+    "zh": "自從；既然",
+    "ipa": "sɪns"
+   },
+   {
+    "en": "through",
+    "zh": "穿過；透過",
+    "ipa": "θruː"
+   },
+   {
+    "en": "till",
+    "zh": "直到（某一時間）",
+    "ipa": "tɪl"
+   },
+   {
+    "en": "to",
+    "zh": "到；向；給",
+    "ipa": "tə"
+   },
+   {
+    "en": "under",
+    "zh": "在……下面",
+    "ipa": "ˈʌn.də"
+   },
+   {
+    "en": "until",
+    "zh": "直到",
+    "ipa": "ənˈtɪl"
+   },
+   {
+    "en": "up",
+    "zh": "往上；沿著……上去",
+    "ipa": "ʌp"
+   },
+   {
+    "en": "v/versus",
+    "zh": "對；對陣（兩隊比賽）",
+    "ipa": "ˈvɜː ˈvɜː.səs"
+   },
+   {
+    "en": "with",
+    "zh": "和……一起；用（有）",
+    "ipa": "wɪð"
+   },
+   {
+    "en": "without",
+    "zh": "沒有；不用",
+    "ipa": "wɪˈðaʊt"
+   },
+   {
+    "en": "beneath",
+    "zh": "在……下方（比「下面」更低一層）",
+    "ipa": "bɪˈniːð"
+   },
+   {
+    "en": "underneath",
+    "zh": "在……底下",
+    "ipa": "ˌʌn.dəˈniːθ"
+   },
+   {
+    "en": "besides",
+    "zh": "除……之外（還有）",
+    "ipa": "bɪˈsaɪdz"
+   },
+   {
+    "en": "beyond",
+    "zh": "超過；在……那邊",
+    "ipa": "bɪˈjɒnd"
+   },
+   {
+    "en": "despite",
+    "zh": "儘管；不管",
+    "ipa": "dɪˈspaɪt"
+   },
+   {
+    "en": "onto",
+    "zh": "到……上面",
+    "ipa": "ˈɒn.tuː"
+   },
+   {
+    "en": "towards",
+    "zh": "朝著；向",
+    "ipa": "təˈwɔːdz"
+   },
+   {
+    "en": "unlike",
+    "zh": "和……不同；不像",
+    "ipa": "ʌnˈlaɪk"
+   },
+   {
+    "en": "excluding",
+    "zh": "不包括；除……之外",
+    "ipa": "ɪkˈskluː.dɪŋ"
+   },
+   {
+    "en": "worth",
+    "zh": "值……；值得",
+    "ipa": "wɜːθ"
+   },
+   {
+    "en": "upon",
+    "zh": "在……之上；一……就",
+    "ipa": "əˈpɒn"
+   },
+   {
+    "en": "apart",
+    "zh": "分開地；相距",
+    "ipa": "əˈpɑːt"
+   },
+   {
+    "en": "underground",
+    "zh": "在地下；地下鐵",
+    "ipa": "ˌʌn.dəˈɡraʊnd"
+   },
+   {
+    "en": "amongst",
+    "zh": "在……之中（三者以上；另一種拼法）",
+    "ipa": "əˈmʌŋst"
+   },
+   {
+    "en": "within",
+    "zh": "在……之內；不超過",
+    "ipa": "wɪˈðɪn"
+   },
+   {
+    "en": "throughout",
+    "zh": "遍及；貫穿整個",
+    "ipa": "θruːˈaʊt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "at home",
+    "zh": "在家",
+    "ipa": "ət həʊm"
+   },
+   {
+    "en": "at school",
+    "zh": "在學校",
+    "ipa": "ət skuːl"
+   },
+   {
+    "en": "at work",
+    "zh": "在上班",
+    "ipa": "ət wɜːk"
+   },
+   {
+    "en": "at night",
+    "zh": "在晚上",
+    "ipa": "ət naɪt"
+   },
+   {
+    "en": "at the moment",
+    "zh": "此刻；現在",
+    "ipa": "ət ðə ˈməʊ.mənt"
+   },
+   {
+    "en": "in the middle of",
+    "zh": "在……中間",
+    "ipa": "ɪn ðə ˈmɪd.l əv"
+   },
+   {
+    "en": "on the left",
+    "zh": "在左邊",
+    "ipa": "ɒn ðə ˈleft"
+   },
+   {
+    "en": "on the right",
+    "zh": "在右邊",
+    "ipa": "ɒn ðə ˈraɪt"
+   },
+   {
+    "en": "on time",
+    "zh": "準時",
+    "ipa": "ɒn ˈtaɪm"
+   },
+   {
+    "en": "in time",
+    "zh": "及時；還來得及",
+    "ipa": "ɪn ˈtaɪm"
+   },
+   {
+    "en": "by mistake",
+    "zh": "錯誤地；搞錯了",
+    "ipa": "baɪ mɪˈsteɪk"
+   },
+   {
+    "en": "on foot",
+    "zh": "步行",
+    "ipa": "ɒn ˈfʊt"
+   },
+   {
+    "en": "in a hurry",
+    "zh": "匆忙地",
+    "ipa": "ɪn ə ˈhʌr.i"
+   },
+   {
+    "en": "all over",
+    "zh": "到處；遍及",
+    "ipa": "ɔːl ˈəʊ.və"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My keys are on the table, beside the remote control.",
+    "zh": "我的鑰匙在桌上，遙控器旁邊。"
+   },
+   {
+    "en": "The swimming pool is across the road from the station.",
+    "zh": "游泳池在馬路的對面，和車站隔著一條路。"
+   },
+   {
+    "en": "We waited for the bus in the rain for half an hour.",
+    "zh": "我們在雨裡等公車等了半小時。"
+   },
+   {
+    "en": "Please write your name at the top of the form.",
+    "zh": "請把你的名字寫在表格的最上方。"
+   },
+   {
+    "en": "I put the photo in a frame and hung it above the sofa.",
+    "zh": "我把照片放進相框，掛在沙發上方。"
+   },
+   {
+    "en": "The shop is between the bank and the post office.",
+    "zh": "那家商店在銀行和郵局之間。"
+   },
+   {
+    "en": "She walked towards the door without saying a word.",
+    "zh": "她一句話也沒說，就走向門口。"
+   },
+   {
+    "en": "We must finish this project before the end of March.",
+    "zh": "我們必須在三月底之前完成這個專案。"
+   },
+   {
+    "en": "There is a small shop just around the corner from here.",
+    "zh": "這附近轉角處就有一家小商店。"
+   },
+   {
+    "en": "He put his dirty shoes outside the door, under the stairs.",
+    "zh": "他把髒鞋子放在門外的樓梯下面。"
+   },
+   {
+    "en": "Our new teacher has lived in this town since April.",
+    "zh": "我們的新老師從四月開始就住在這個小鎮。"
+   },
+   {
+    "en": "I agree with you, but I do not agree with his plan.",
+    "zh": "我同意你的看法，但我不贊成他的計畫。"
+   },
+   {
+    "en": "The film is suitable for children over twelve years old.",
+    "zh": "這部電影適合十二歲以上的兒童觀看。"
+   },
+   {
+    "en": "Nobody in my class knew the answer to that question.",
+    "zh": "我們班沒有人知道那道問題的答案。"
+   }
+  ],
+  "tips": [
+   "時間用 at、地點大到國家用 in、小地方才用 on：at seven o'clock、in Taipei、on my birthday，三個位置不能互換。",
+   "台灣中文常常省略介系詞，但英文名詞前面幾乎都要有：不要寫 I am student，要寫 I am a student。",
+   "上、下、前、後的位置詞記固定搭配：above、below、behind、in front of，順序不能隨便調換。"
+  ]
+ },
+ {
+  "id": "phrasal-verbs",
+  "icon": "🔗",
+  "name": "片語動詞",
+  "nameEn": "Phrasal Verbs",
+  "summary": "get up / look after / turn off… 兩個字合起來才有意義的動詞。",
+  "note": "片語動詞要整個背，不要拆成兩個獨立的字去背。",
+  "group": "文法基礎",
+  "words": [
+   {
+    "en": "break down",
+    "zh": "發生故障；壞掉；拋錨",
+    "ipa": "ˌbreɪk ˈdaʊn"
+   },
+   {
+    "en": "fall over",
+    "zh": "摔倒；（腳踏車等）翻倒",
+    "ipa": "ˌfɔːl ˈəʊ.və"
+   },
+   {
+    "en": "fill in",
+    "zh": "填寫（表格）",
+    "ipa": "ˌfɪl ˈɪn"
+   },
+   {
+    "en": "find out",
+    "zh": "查明；打聽出來",
+    "ipa": "ˌfaɪnd ˈaʊt"
+   },
+   {
+    "en": "get off",
+    "zh": "下（車、腳踏車）",
+    "ipa": "ˌɡet ˈɒf"
+   },
+   {
+    "en": "get on",
+    "zh": "上（車、腳踏車）",
+    "ipa": "ˌɡet ˈɒn"
+   },
+   {
+    "en": "get up",
+    "zh": "起床；站起來",
+    "ipa": "ˌɡet ˈʌp"
+   },
+   {
+    "en": "grow up",
+    "zh": "長大成人",
+    "ipa": "ˌɡrəʊ ˈʌp"
+   },
+   {
+    "en": "look after",
+    "zh": "照顧；照料",
+    "ipa": "ˌlʊk ˈɑːf.tə"
+   },
+   {
+    "en": "look at",
+    "zh": "看；瞧",
+    "ipa": "ˌlʊk ˈæt"
+   },
+   {
+    "en": "look for",
+    "zh": "尋找",
+    "ipa": "ˌlʊk ˈfɔː"
+   },
+   {
+    "en": "look out",
+    "zh": "小心；當心",
+    "ipa": "ˌlʊk ˈaʊt"
+   },
+   {
+    "en": "pick up",
+    "zh": "撿起；接人；學會",
+    "ipa": "ˌpɪk ˈʌp"
+   },
+   {
+    "en": "put on",
+    "zh": "穿上；戴上；開（電器）",
+    "ipa": "ˌpʊt ˈɒn"
+   },
+   {
+    "en": "sit down",
+    "zh": "坐下",
+    "ipa": "ˌsɪt ˈdaʊn"
+   },
+   {
+    "en": "take off",
+    "zh": "脫下；起飛",
+    "ipa": "ˌteɪk ˈɒf"
+   },
+   {
+    "en": "turn off",
+    "zh": "關掉（電器、水龍頭）",
+    "ipa": "ˌtɜːn ˈɒf"
+   },
+   {
+    "en": "turn on",
+    "zh": "打開（電器、水龍頭）",
+    "ipa": "ˌtɜːn ˈɒn"
+   },
+   {
+    "en": "wake up",
+    "zh": "醒來；叫醒",
+    "ipa": "ˌweɪk ˈʌp"
+   },
+   {
+    "en": "work out",
+    "zh": "算出；解決；鍛鍊",
+    "ipa": "ˌwɜːk ˈaʊt"
+   },
+   {
+    "en": "write down",
+    "zh": "寫下來",
+    "ipa": "ˌraɪt ˈdaʊn"
+   },
+   {
+    "en": "bring up",
+    "zh": "提到（話題）；養大",
+    "ipa": "ˌbrɪŋ ˈʌp"
+   },
+   {
+    "en": "call off",
+    "zh": "取消（活動、比賽）",
+    "ipa": "ˌkɔːl ˈɒf"
+   },
+   {
+    "en": "check in",
+    "zh": "登記入住；報到",
+    "ipa": "ˌtʃek ˈɪn"
+   },
+   {
+    "en": "clean up",
+    "zh": "把……整理乾淨",
+    "ipa": "ˌkliːn ˈʌp"
+   },
+   {
+    "en": "come in",
+    "zh": "進來；進屋",
+    "ipa": "ˌkʌm ˈɪn"
+   },
+   {
+    "en": "cut off",
+    "zh": "切斷；剪掉",
+    "ipa": "ˌkʌt ˈɒf"
+   },
+   {
+    "en": "drop off",
+    "zh": "讓人下車；把……放下",
+    "ipa": "ˌdrɒp ˈɒf"
+   },
+   {
+    "en": "end up",
+    "zh": "最後變成",
+    "ipa": "ˌend ˈʌp"
+   },
+   {
+    "en": "get along",
+    "zh": "與……相處融洽",
+    "ipa": "ˌɡet əˈlɒŋ"
+   },
+   {
+    "en": "get in",
+    "zh": "進入車內；登上",
+    "ipa": "ˌɡet ˈɪn"
+   },
+   {
+    "en": "get out",
+    "zh": "出去；離開車輛",
+    "ipa": "ˌɡet ˈaʊt"
+   },
+   {
+    "en": "get over",
+    "zh": "克服；從……中恢復",
+    "ipa": "ˌɡet ˈəʊ.və"
+   },
+   {
+    "en": "get together",
+    "zh": "相聚；聚會",
+    "ipa": "ˌɡet ɡəˈðe.ð.ə"
+   },
+   {
+    "en": "give up",
+    "zh": "放棄",
+    "ipa": "ˌɡɪv ˈʌp"
+   },
+   {
+    "en": "go on",
+    "zh": "繼續",
+    "ipa": "ˌɡəʊ ˈɒn"
+   },
+   {
+    "en": "hand in",
+    "zh": "交（作業、報告）",
+    "ipa": "ˌhænd ˈɪn"
+   },
+   {
+    "en": "hang up",
+    "zh": "掛上；掛斷電話",
+    "ipa": "ˌhæŋ ˈʌp"
+   },
+   {
+    "en": "hold on",
+    "zh": "稍等；抓緊",
+    "ipa": "ˌhəʊld ˈɒn"
+   },
+   {
+    "en": "hurry up",
+    "zh": "快點；趕快",
+    "ipa": "ˌhʌr.i ˈʌp"
+   },
+   {
+    "en": "join in",
+    "zh": "參加（活動）",
+    "ipa": "ˌdʒɔɪn ˈɪn"
+   },
+   {
+    "en": "leave out",
+    "zh": "漏掉；不包括",
+    "ipa": "ˌliːv ˈaʊt"
+   },
+   {
+    "en": "look forward to",
+    "zh": "期待",
+    "ipa": "ˌlʊk ˈfɔː.wəd tuː"
+   },
+   {
+    "en": "look like",
+    "zh": "看起來像",
+    "ipa": "ˌlʊk ˈlaɪk"
+   },
+   {
+    "en": "look up",
+    "zh": "查（字典）；抬頭看",
+    "ipa": "ˌlʊk ˈʌp"
+   },
+   {
+    "en": "make up",
+    "zh": "編造；組成",
+    "ipa": "ˌmeɪk ˈʌp"
+   },
+   {
+    "en": "point out",
+    "zh": "指出",
+    "ipa": "ˌpɔɪnt ˈaʊt"
+   },
+   {
+    "en": "put away",
+    "zh": "收好；收起",
+    "ipa": "ˌpʊt əˈweɪ"
+   },
+   {
+    "en": "put off",
+    "zh": "延後；拖延",
+    "ipa": "ˌpʊt ˈɒf"
+   },
+   {
+    "en": "put out",
+    "zh": "熄滅；出版",
+    "ipa": "ˌpʊt ˈaʊt"
+   },
+   {
+    "en": "set off",
+    "zh": "出發；動身",
+    "ipa": "ˌset ˈɒf"
+   },
+   {
+    "en": "show off",
+    "zh": "炫耀",
+    "ipa": "ˌʃəʊ ˈɒf"
+   },
+   {
+    "en": "slow down",
+    "zh": "減速；慢下來",
+    "ipa": "ˌsləʊ ˈdaʊn"
+   },
+   {
+    "en": "sort out",
+    "zh": "處理好；解決",
+    "ipa": "ˌsɔːt ˈaʊt"
+   },
+   {
+    "en": "stand up",
+    "zh": "站起來",
+    "ipa": "ˌstænd ˈʌp"
+   },
+   {
+    "en": "switch off",
+    "zh": "關掉（電器）",
+    "ipa": "ˌswɪtʃ ˈɒf"
+   },
+   {
+    "en": "switch on",
+    "zh": "打開（電器）",
+    "ipa": "ˌswɪtʃ ˈɒn"
+   },
+   {
+    "en": "take after",
+    "zh": "長得像（家長）",
+    "ipa": "ˌteɪk ˈeɪ.fə"
+   },
+   {
+    "en": "take over",
+    "zh": "接管；接手",
+    "ipa": "ˌteɪk ˈəʊ.və"
+   },
+   {
+    "en": "take up",
+    "zh": "開始從事；佔（空間）",
+    "ipa": "ˌteɪk ˈʌp"
+   },
+   {
+    "en": "throw away",
+    "zh": "丟掉",
+    "ipa": "ˌθrəʊ əˈweɪ"
+   },
+   {
+    "en": "turn down",
+    "zh": "調小（音量）；拒絕",
+    "ipa": "ˌtɜːn ˈdaʊn"
+   },
+   {
+    "en": "turn into",
+    "zh": "變成",
+    "ipa": "ˌtɜːn ˈɪn.tuː"
+   },
+   {
+    "en": "turn out",
+    "zh": "結果是；原來是",
+    "ipa": "ˌtɜːn ˈaʊt"
+   },
+   {
+    "en": "turn up",
+    "zh": "調大（音量）；出現",
+    "ipa": "ˌtɜːn ˈʌp"
+   },
+   {
+    "en": "watch out",
+    "zh": "小心；當心",
+    "ipa": "ˌwɒtʃ ˈaʊt"
+   },
+   {
+    "en": "wear out",
+    "zh": "穿破；用壞",
+    "ipa": "ˌweə ˈaʊt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "take care of",
+    "zh": "照顧；保重",
+    "ipa": "ˈteɪk keər əv"
+   },
+   {
+    "en": "get on with",
+    "zh": "與……相處融洽",
+    "ipa": "ˌɡet ˈɒn wɪð"
+   },
+   {
+    "en": "put up with",
+    "zh": "忍受；容忍",
+    "ipa": "ˌpʊt ˈʌp wɪð"
+   },
+   {
+    "en": "run out of",
+    "zh": "用完；耗盡",
+    "ipa": "ˌrʌn ˈaʊt əv"
+   },
+   {
+    "en": "look out for",
+    "zh": "提防；留意",
+    "ipa": "ˌlʊk ˈaʊt fɔː"
+   },
+   {
+    "en": "find out about",
+    "zh": "探聽有關……的消息",
+    "ipa": "ˌfaɪnd ˈaʊt əˈbaʊt"
+   },
+   {
+    "en": "get used to",
+    "zh": "習慣於",
+    "ipa": "ˌɡet ˈjuːst tuː"
+   },
+   {
+    "en": "carry on",
+    "zh": "繼續（做）",
+    "ipa": "ˌkær.i ˈɒn"
+   },
+   {
+    "en": "move on",
+    "zh": "繼續往下；換話題",
+    "ipa": "ˌmuːv ˈɒn"
+   },
+   {
+    "en": "keep on",
+    "zh": "一直繼續",
+    "ipa": "ˌkiːp ˈɒn"
+   },
+   {
+    "en": "check out",
+    "zh": "結帳；查看",
+    "ipa": "ˌtʃek ˈaʊt"
+   },
+   {
+    "en": "set up",
+    "zh": "設立；架設",
+    "ipa": "ˌset ˈʌp"
+   },
+   {
+    "en": "pick out",
+    "zh": "挑出；選出",
+    "ipa": "ˌpɪk ˈaʊt"
+   },
+   {
+    "en": "put down",
+    "zh": "放下；記下",
+    "ipa": "ˌpʊt ˈdaʊn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Please get up and turn off the lights before you leave.",
+    "zh": "請你起床後、出門前把燈關掉。"
+   },
+   {
+    "en": "Our car broke down on the motorway last night.",
+    "zh": "我們的車昨晚在高速公路上故障了。"
+   },
+   {
+    "en": "I always look after my little brother on Friday evenings.",
+    "zh": "我每個星期五晚上都照顧弟弟。"
+   },
+   {
+    "en": "She put on her coat and walked out into the rain.",
+    "zh": "她穿上外套，走進雨裡。"
+   },
+   {
+    "en": "Please fill in your name and address on this form.",
+    "zh": "請在這張表格上填寫你的姓名和地址。"
+   },
+   {
+    "en": "I need to find out the price before I book the trip.",
+    "zh": "我要先查清楚價錢才能訂這趟旅程。"
+   },
+   {
+    "en": "Please sit down and look at this page quietly.",
+    "zh": "請安靜地坐下來看這一頁。"
+   },
+   {
+    "en": "The plane took off at six and landed at eight.",
+    "zh": "飛機六點起飛，八點降落。"
+   },
+   {
+    "en": "Can you pick up the milk and the bread on your way home?",
+    "zh": "你回家的路上可以買牛奶和麵包嗎？"
+   },
+   {
+    "en": "My little brother fell over while he was riding his bike.",
+    "zh": "我弟弟騎腳踏車的時候摔倒了。"
+   },
+   {
+    "en": "We work out together at the gym three times a week.",
+    "zh": "我們每週三次一起在健身房運動。"
+   },
+   {
+    "en": "Write down the new words and read them again tonight.",
+    "zh": "把新單字寫下來，今晚再讀一遍。"
+   },
+   {
+    "en": "Look out! That glass is going to fall off the table.",
+    "zh": "小心！那個玻璃杯快要從桌上掉下來了。"
+   },
+   {
+    "en": "You should get off at the next stop and walk from there.",
+    "zh": "你應該在下一站下車，再從那裡走過去。"
+   }
+  ],
+  "tips": [
+   "片語動詞要整組記：動詞後面的小字（on、off、up、out、in）可以分開讀也可以連起來讀，但意思差很多。",
+   "最容易錯的是 turn on 與 turn off、get on 與 get off，都是同一個動詞配不同的小字，建議一次背一整組。",
+   "書寫時兩個字中間要空一個空格，像 walk slowly 一樣，不要打成 walkslowly。"
+  ]
+ }
+]

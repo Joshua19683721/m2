@@ -1,0 +1,550 @@
+[
+ {
+  "id": "travel-transport",
+  "icon": "✈️",
+  "name": "旅行與交通",
+  "nameEn": "Travel and Transport",
+  "summary": "出門旅遊：交通工具、機場車站、道路。",
+  "words": [
+   {
+    "en": "airplane",
+    "zh": "飛機",
+    "ipa": "ˈeə.plaɪn"
+   },
+   {
+    "en": "airport",
+    "zh": "機場",
+    "ipa": "ˈeə.pɔːt"
+   },
+   {
+    "en": "passenger",
+    "zh": "乘客",
+    "ipa": "ˈpæ.sɪn.dʒə"
+   },
+   {
+    "en": "suitcase",
+    "zh": "行李箱",
+    "ipa": "ˈsuːt.keɪs"
+   },
+   {
+    "en": "flight",
+    "zh": "航班",
+    "ipa": "flaɪt"
+   },
+   {
+    "en": "passport",
+    "zh": "護照",
+    "ipa": "ˈpɑːs.pɔːt"
+   },
+   {
+    "en": "taxi",
+    "zh": "計程車",
+    "ipa": "ˈtæk.si"
+   },
+   {
+    "en": "ticket",
+    "zh": "票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "bus",
+    "zh": "公車",
+    "ipa": "bʌs"
+   },
+   {
+    "en": "train",
+    "zh": "火車",
+    "ipa": "treɪn"
+   },
+   {
+    "en": "coach",
+    "zh": "長途客車",
+    "ipa": "kəʊtʃ"
+   },
+   {
+    "en": "car",
+    "zh": "汽車",
+    "ipa": "kɑː"
+   },
+   {
+    "en": "boat",
+    "zh": "小船",
+    "ipa": "bəʊt"
+   },
+   {
+    "en": "journey",
+    "zh": "旅程",
+    "ipa": "ˈdʒɜː.ni"
+   },
+   {
+    "en": "trip",
+    "zh": "旅行",
+    "ipa": "trɪp"
+   },
+   {
+    "en": "luggage",
+    "zh": "行李",
+    "ipa": "ˈlʌɡ.ɪdʒ"
+   },
+   {
+    "en": "station",
+    "zh": "車站",
+    "ipa": "ˈsteɪ.ʃən"
+   },
+   {
+    "en": "platform",
+    "zh": "月台",
+    "ipa": "ˈplæt.fɔːm"
+   },
+   {
+    "en": "traffic",
+    "zh": "交通",
+    "ipa": "ˈtræf.ɪk"
+   },
+   {
+    "en": "traffic light",
+    "zh": "紅綠燈",
+    "ipa": "ˈtræf.ɪk laɪt"
+   },
+   {
+    "en": "road",
+    "zh": "道路",
+    "ipa": "rəʊd"
+   },
+   {
+    "en": "motorway",
+    "zh": "高速公路",
+    "ipa": "ˈməʊ.tə.weɪ"
+   },
+   {
+    "en": "map",
+    "zh": "地圖",
+    "ipa": "mæp"
+   },
+   {
+    "en": "driver",
+    "zh": "司機",
+    "ipa": "ˈdraɪ.və"
+   },
+   {
+    "en": "seat",
+    "zh": "座位",
+    "ipa": "siːt"
+   },
+   {
+    "en": "delay",
+    "zh": "延誤",
+    "ipa": "dɪˈleɪ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "get on the bus",
+    "zh": "搭公車上車",
+    "ipa": "ˌɡet ɒn ðə bʌs"
+   },
+   {
+    "en": "wait for the train",
+    "zh": "等火車",
+    "ipa": "ˌweɪt fə ðə treɪn"
+   },
+   {
+    "en": "a flight to London",
+    "zh": "飛往倫敦的航班",
+    "ipa": "ə flaɪt tə ˈlʌn.dən"
+   },
+   {
+    "en": "miss the bus",
+    "zh": "錯過公車",
+    "ipa": "ˌmɪs ðə bʌs"
+   },
+   {
+    "en": "arrive on time",
+    "zh": "準時抵達",
+    "ipa": "əˌraɪv ɒn taɪm"
+   },
+   {
+    "en": "go by train",
+    "zh": "搭火車前往",
+    "ipa": "ˌɡəʊ baɪ treɪn"
+   },
+   {
+    "en": "buy a ticket",
+    "zh": "買一張票",
+    "ipa": "ˌbaɪ ə ˈtɪk.ɪt"
+   },
+   {
+    "en": "check in at the airport",
+    "zh": "在機場辦理登機",
+    "ipa": "ˌtʃek ɪn ət ði ˈeə.pɔːt"
+   },
+   {
+    "en": "take a taxi",
+    "zh": "搭計程車",
+    "ipa": "ˌteɪk ə ˈtæk.si"
+   },
+   {
+    "en": "travel by plane",
+    "zh": "搭飛機旅行",
+    "ipa": "ˈtræv.əl baɪ pleɪn"
+   },
+   {
+    "en": "a long journey",
+    "zh": "漫長的旅程",
+    "ipa": "ə lɒŋ ˈdʒɜː.ni"
+   },
+   {
+    "en": "on platform three",
+    "zh": "在三號月台",
+    "ipa": "ɒn ˈplæt.fɔːm θriː"
+   },
+   {
+    "en": "drive on the motorway",
+    "zh": "在高速公路上開車",
+    "ipa": "ˌdraɪv ɒn ðə ˈməʊ.tə.weɪ"
+   },
+   {
+    "en": "a long delay",
+    "zh": "長時間的延誤",
+    "ipa": "ə lɒŋ dɪˈleɪ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I go to the airport by taxi every Friday.",
+    "zh": "我每星期五搭計程車去機場。"
+   },
+   {
+    "en": "The train to Paris leaves at half past nine.",
+    "zh": "去巴黎的火車九點半發車。"
+   },
+   {
+    "en": "We missed the bus, so we walked to the station.",
+    "zh": "我們錯過公車，所以走到車站。"
+   },
+   {
+    "en": "My passport and ticket are in the suitcase.",
+    "zh": "我的護照和票都在行李箱裡。"
+   },
+   {
+    "en": "The flight was delayed by two hours today.",
+    "zh": "今天的航班延誤了兩個小時。"
+   },
+   {
+    "en": "She waits for the train on platform three.",
+    "zh": "她在三號月台等火車。"
+   },
+   {
+    "en": "Please check in at the airport two hours early.",
+    "zh": "請提早兩小時到機場辦理登機。"
+   },
+   {
+    "en": "We travelled by coach because the road was closed.",
+    "zh": "因為道路封閉，我們搭長途客車前往。"
+   },
+   {
+    "en": "The traffic is very heavy near the roundabout.",
+    "zh": "圓環附近的交通很壅塞。"
+   },
+   {
+    "en": "I always want a seat next to the window.",
+    "zh": "我總是想要靠窗的座位。"
+   },
+   {
+    "en": "Take a map and look at the motorway signs.",
+    "zh": "帶張地圖看看高速公路的交通標誌。"
+   },
+   {
+    "en": "The driver told us the journey would be long.",
+    "zh": "司機告訴我們路程會很長。"
+   },
+   {
+    "en": "We need a boat to cross the lake.",
+    "zh": "我們需要一條小船過湖。"
+   },
+   {
+    "en": "We waited at the bus stop for ten minutes.",
+    "zh": "我們在公車站等了十分鐘。"
+   }
+  ],
+  "tips": [
+   "先分清交通工具的名稱，再練習上車、下車、轉乘這幾個動作詞。",
+   "句子裡加入時間與地點詞，把買票、問路、趕車的句型串起來練習。",
+   "打字時注意連續輔音與鼻音的節奏，多唸幾次再輸入會更順。"
+  ]
+ },
+ {
+  "id": "weather",
+  "icon": "🌦️",
+  "name": "天氣",
+  "nameEn": "Weather",
+  "summary": "今天天氣如何：晴、雨、雪、風。",
+  "words": [
+   {
+    "en": "weather",
+    "zh": "天氣",
+    "ipa": "ˈweð.ə"
+   },
+   {
+    "en": "sun",
+    "zh": "太陽",
+    "ipa": "sʌn"
+   },
+   {
+    "en": "sunny",
+    "zh": "晴朗的",
+    "ipa": "ˈsʌn.i"
+   },
+   {
+    "en": "cloud",
+    "zh": "雲",
+    "ipa": "klaʊd"
+   },
+   {
+    "en": "cloudy",
+    "zh": "多雲的",
+    "ipa": "ˈklaʊ.di"
+   },
+   {
+    "en": "rain",
+    "zh": "雨",
+    "ipa": "reɪn"
+   },
+   {
+    "en": "rainy",
+    "zh": "下雨的",
+    "ipa": "ˈreɪn.i"
+   },
+   {
+    "en": "wind",
+    "zh": "風",
+    "ipa": "wɪnd"
+   },
+   {
+    "en": "windy",
+    "zh": "有風的",
+    "ipa": "ˈwɪn.di"
+   },
+   {
+    "en": "cold",
+    "zh": "冷的",
+    "ipa": "kəʊld"
+   },
+   {
+    "en": "hot",
+    "zh": "熱的",
+    "ipa": "hɒt"
+   },
+   {
+    "en": "warm",
+    "zh": "溫暖的",
+    "ipa": "wɔːm"
+   },
+   {
+    "en": "cool",
+    "zh": "涼爽的",
+    "ipa": "kuːl"
+   },
+   {
+    "en": "mild",
+    "zh": "溫和的",
+    "ipa": "maɪld"
+   },
+   {
+    "en": "wet",
+    "zh": "濕的",
+    "ipa": "wet"
+   },
+   {
+    "en": "ice",
+    "zh": "冰",
+    "ipa": "aɪs"
+   },
+   {
+    "en": "snow",
+    "zh": "雪",
+    "ipa": "snəʊ"
+   },
+   {
+    "en": "snowy",
+    "zh": "下雪的",
+    "ipa": "ˈsnəʊ.i"
+   },
+   {
+    "en": "fog",
+    "zh": "霧",
+    "ipa": "fɒɡ"
+   },
+   {
+    "en": "foggy",
+    "zh": "有霧的",
+    "ipa": "ˈfɒɡ.i"
+   },
+   {
+    "en": "storm",
+    "zh": "暴風雨",
+    "ipa": "stɔːm"
+   },
+   {
+    "en": "stormy",
+    "zh": "有暴風雨的",
+    "ipa": "ˈstɔː.mi"
+   },
+   {
+    "en": "thunderstorm",
+    "zh": "雷雨",
+    "ipa": "ˈθʌn.də.stɔːm"
+   },
+   {
+    "en": "thunder",
+    "zh": "雷",
+    "ipa": "ˈθʌn.də"
+   },
+   {
+    "en": "umbrella",
+    "zh": "雨傘",
+    "ipa": "ʌmˈbrel.ə"
+   },
+   {
+    "en": "temperature",
+    "zh": "溫度",
+    "ipa": "ˈtem.prə.tʃə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "the weather is bad",
+    "zh": "天氣很差",
+    "ipa": "ðə ˈweð.ə ɪz bæd"
+   },
+   {
+    "en": "it's sunny",
+    "zh": "天氣晴朗",
+    "ipa": "ɪts ˈsʌn.i"
+   },
+   {
+    "en": "heavy rain",
+    "zh": "大雨",
+    "ipa": "ˌhe.vi ˈreɪn"
+   },
+   {
+    "en": "a cold wind",
+    "zh": "冷風",
+    "ipa": "ə kəʊld wɪnd"
+   },
+   {
+    "en": "take an umbrella",
+    "zh": "帶一把傘",
+    "ipa": "ˌteɪk ən ʌmˈbrel.ə"
+   },
+   {
+    "en": "what's the weather like",
+    "zh": "天氣怎麼樣",
+    "ipa": "ˌwɒts ðə ˈweð.ə laɪk"
+   },
+   {
+    "en": "the sun is shining",
+    "zh": "太陽在照耀",
+    "ipa": "ðə sʌn ɪz ˈʃaɪ.nɪŋ"
+   },
+   {
+    "en": "a lot of rain",
+    "zh": "雨下得很多",
+    "ipa": "ə lɒt əv ˈreɪn"
+   },
+   {
+    "en": "it's raining hard",
+    "zh": "雨下得很大",
+    "ipa": "ɪts ˈreɪ.nɪŋ hɑːd"
+   },
+   {
+    "en": "very cloudy",
+    "zh": "天空很多雲",
+    "ipa": "ˌver.i ˈklaʊ.di"
+   },
+   {
+    "en": "snow heavily",
+    "zh": "下大雪",
+    "ipa": "ˈsnəʊ ˈhev.i.li"
+   },
+   {
+    "en": "a storm is coming",
+    "zh": "暴風雨快來了",
+    "ipa": "ə ˈstɔːm ɪz ˈkʌm.ɪŋ"
+   },
+   {
+    "en": "twenty degrees",
+    "zh": "二十度",
+    "ipa": "ˌtwen.ti dɪˈɡriːz"
+   },
+   {
+    "en": "a warm sunny day",
+    "zh": "溫暖晴朗的一天",
+    "ipa": "ə ˌwɔːm ˈsʌn.i deɪ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "It's very cold today, so wear a coat.",
+    "zh": "今天很冷，所以穿件外套。"
+   },
+   {
+    "en": "The weather is terrible, so we stay at home.",
+    "zh": "天氣很糟糕，所以我們待在家裡。"
+   },
+   {
+    "en": "I think it will rain this afternoon.",
+    "zh": "我想今天下午會下雨。"
+   },
+   {
+    "en": "Take an umbrella because it is raining.",
+    "zh": "帶把傘，因為正在下雨。"
+   },
+   {
+    "en": "The sun was shining and the wind was warm.",
+    "zh": "陽光普照，風也很暖和。"
+   },
+   {
+    "en": "It snowed a lot in the mountains last winter.",
+    "zh": "去年冬天山上下了很多雪。"
+   },
+   {
+    "en": "We can't see the road because of the fog.",
+    "zh": "因為有霧，我們看不見道路。"
+   },
+   {
+    "en": "There is a storm and thunder outside now.",
+    "zh": "外面現在正刮著暴風雨，打雷。"
+   },
+   {
+    "en": "The temperature is twenty degrees this morning.",
+    "zh": "今天早上溫度是二十度。"
+   },
+   {
+    "en": "It was sunny and hot on the beach.",
+    "zh": "海灘上又晴又熱。"
+   },
+   {
+    "en": "My hands are wet because of the rain.",
+    "zh": "因為下雨，我的手濕了。"
+   },
+   {
+    "en": "The wind is cold, so put on a coat.",
+    "zh": "風很冷，所以穿件外套。"
+   },
+   {
+    "en": "Heavy rain stopped and the sun came out.",
+    "zh": "大雨停了，太陽出來了。"
+   },
+   {
+    "en": "In winter the weather is cold and snowy.",
+    "zh": "冬天又冷又多雪。"
+   }
+  ],
+  "tips": [
+   "天氣詞多半成對出現，先把晴朗、多雲、寒冷、溫暖分組記熟再練句子。",
+   "多練習天氣搭配名詞的片語，像是下大雨、刮大風，比只背單字更實用。",
+   "練習用「天氣怎麼樣」開頭問答，再接今天天氣如何的說法就能自然對話。"
+  ]
+ }
+]

@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "title": "場景式英文輸入練習",
+    "source": "Cambridge English A2 Key / A2 Key for Schools Vocabulary List (UCLES 2025 update)",
+    "sourceNote": "詞彙範圍取自 Appendix 2 Topic Lists 與 Appendix 1 Word sets；中文釋義與例句為本專案自撰。"
+  },
+  "schema": {
+    "words": "[{ \"en\": \"word\", \"zh\": \"繁體中文\", \"ipa\": \"ˈwɜːd\" }] — 26 筆",
+    "phrases": "[{ \"en\": \"a piece of cake\", \"zh\": \"一塊蛋糕\", \"ipa\": \"ə piːs əv keɪk\" }] — 14 筆",
+    "sentences": "[{ \"en\": \"I'd like a piece of cake, please.\", \"zh\": \"我想要一塊蛋糕，謝謝。\" }] — 14 筆（句子不需 ipa，App 會即時組合）"
+  },
+  "scenes": [
+    {
+      "id": "appliances",
+      "icon": "🔌",
+      "name": "家電用品",
+      "nameEn": "Appliances",
+      "summary": "家裡的電器用品：看電視、用洗衣機、煮東西。",
+      "pool": "camera, DVD player, laptop, radio, CD player, electric lights, telephone, cell phone, electricity, mobile phone, television / TV, clock, fridge, oven, video, computer, gas, PC, washing machine, cooker, heating, phone, digital camera, lamp"
+    },
+    {
+      "id": "clothes",
+      "icon": "👕",
+      "name": "衣物與配件",
+      "nameEn": "Clothes and Accessories",
+      "summary": "穿什麼、脫什麼、買什麼衣服和配件。",
+      "pool": "backpack, fashion, purse, swimsuit, bag, get dressed, raincoat, tie, bathing suit, glasses, ring, tights, belt, glove, rucksack, trainers, blouse, handbag, scarf, trousers, boot, hat, shirt, try on (v), bracelet, hoodie, shoes, T-shirt, cap, jacket, shorts, umbrella, chain, jeans, skirt, uniform, clothes, jewellery / jewelry, sock, wallet, coat, jumper, suit, watch, costume (swimming) kit, sunglasses, wear (v), dress, necklace, sweater, earring, pocket, swimming costume"
+    },
+    {
+      "id": "colours",
+      "icon": "🎨",
+      "name": "顏色",
+      "nameEn": "Colours",
+      "summary": "描述東西的顏色，畫圖、描述房間都會用到。",
+      "pool": "black, golden, orange, red, blue, green, pale, silver, brown, grey / gray, pink, white, dark, light, purple, yellow"
+    },
+    {
+      "id": "comms-tech",
+      "icon": "📱",
+      "name": "溝通與科技",
+      "nameEn": "Communication and Technology",
+      "summary": "打電話、寫email、上網、看螢幕。",
+      "pool": "address, digital, laptop (computer), screen, at / @, digital camera, mobile (phone), software, by post, dot, mouse, tablet, call (v), download (n & v), net, talk, camera, DVD (player), online, telephone, CD (player), email (n & v), password, text (n & v), cell phone, envelope, PC, video, chat, file, photograph, web, click (v), information, photography, web page, computer, internet, phone, website, conversation, keyboard, printer"
+    },
+    {
+      "id": "documents",
+      "icon": "📄",
+      "name": "文件與書報",
+      "nameEn": "Documents and Texts",
+      "summary": "信、單據、護照、雜誌這一類會拿到或寫的文字。",
+      "pool": "ad / advertisement, diary, magazine, passport, article, diploma, menu, postcard, bill, email, message, project, book, form, newspaper, text (n & v), card, letter, note, textbook, comic, licence, notebook, ticket"
+    },
+    {
+      "id": "education",
+      "icon": "🎓",
+      "name": "學校教育",
+      "nameEn": "Education",
+      "summary": "學校生活：科目、課本、考試、教室裡的用品。",
+      "pool": "advanced, course, lesson, ruler, beginner, desk, level, school, biology, dictionary, library, science, blackboard, diploma, mark, student, board, eraser, maths / mathematics, studies, book, exam(ination), note, study (v), bookshelf, geography, physics, subject, chemistry, history, practice (n), teach, class, homework, practise (v), teacher, classmate, information, project, term, classroom, instructions, pupil, test (n), clever, know, read, university, coach, language, remember, college, learn, rubber"
+    },
+    {
+      "id": "entertainment",
+      "icon": "🎭",
+      "name": "娛樂與媒體",
+      "nameEn": "Entertainment and Media",
+      "summary": "看電影、聽音樂、參展、看節目。",
+      "pool": "act (v), draw, magazine, practise (v), actor, drawing, museum, programme, adventure, disco, music, project, advertisement, drum, musician, radio, art, DVD (player), news, read (v), article, exhibition, newspaper, rock (concert), board game, festival, opera, screen (n), book, film (n & v), paint (v), show (n), card, fun, painter, sing, cartoon, go out, photograph, singer, CD (player), group, photographer, song, chess, guitar, photography, television / TV, cinema, hip hop, piano, theatre, classical (music), instrument, picture, ticket, competition, keyboard, play (n), video (game), concert, laugh, pop (music), watch (v), dance (n & v), listen to, practice (n), dancer, look at"
+    },
+    {
+      "id": "family-friends",
+      "icon": "👨‍👩‍👧",
+      "name": "家人與朋友",
+      "nameEn": "Family and Friends",
+      "summary": "介紹家人、朋友，講親戚關係和稱呼。",
+      "pool": "aunt, girl, group, mum (mum), boy, grandchild, guest, neighbour, brother, grand(d)ad, guy, parent, child, granddaughter, husband, penfriend, cousin, grandfather, love (n & v), sister, dad(dy), grandma, married, son, daughter, grandmother, Miss, surname, family, grandpa, mother, teenager, father, grandparent, Mr, uncle, friend, grandson, Mrs, wife, friendly, granny, Ms"
+    },
+    {
+      "id": "food-drink",
+      "icon": "🍎",
+      "name": "食物與飲料",
+      "nameEn": "Food and Drink",
+      "summary": "買食物、煮東西、在餐廳點餐。",
+      "pool": "apple, chocolate, hungry, pizza, bake, coffee, ice, plate, banana, cola, ice cream, potato, barbecue, cook (n & v), jam, rice, biscuit, cooker, juice, roast (v & adj), boil, cream, kitchen, salad, boiled, cup, knife, salt, bottle, curry, lemon, sandwich, bowl, cut (n), lemonade, sauce, box, delicious, lunch, sausage, bread, dessert, main course, slice (n), break (n), dinner, meal, snack (n), breakfast, dish (n), meat, soup, burger, drink, melon, steak, butter, eat, menu, strawberry, cafe/café, egg, milk, sugar, cafeteria, fish, mineral water, sweet (n & adj), cake, food, mushroom, tea, can (n), fork, oil, thirsty, candy, fridge, omelette, toast, carrot, fried, onion, tomato, cereal, fruit, orange, vegetable, cheese, garlic, pasta, waiter, chef, glass, pear, waitress, chicken, grape, pepper, wash up, chilli, grilled, picnic, yog(h)urt, chips, honey, piece of cake"
+    },
+    {
+      "id": "health",
+      "icon": "🏥",
+      "name": "健康醫療與運動",
+      "nameEn": "Health, Medicine and Exercise",
+      "summary": "身體不舒服、看醫生、保持健康。",
+      "pool": "accident, danger, hair, problem, ambulance, dangerous, hand, rest (n), appointment, dead, head, run, arm, dentist, health, sick, baby, die, hear (v), soap, back, doctor, heart, stomach, blood, Dr, hospital, stomach ache, body, ear, hurt (v), swim, brain, exercise, ill, temperature, break (v), eye, leg, tired, check (v), face, lie down, tooth, chemist, fall (v), medicine, toothache, clean (adj & v), feel (v), neck, toothbrush, cold (n), finger, nose, walk, comb (n), fit, nurse, well (adj), cut (v), foot, pain"
+    },
+    {
+      "id": "hobbies",
+      "icon": "🎨",
+      "name": "興趣與休閒",
+      "nameEn": "Hobbies and Leisure",
+      "summary": "週末做什麼：露營、騎車、收集東西、參加活動。",
+      "pool": "barbecue, CD (player), go shopping, music, beach, club, guitar, musician, bicycle, collect (v), hobby, paint (n & v), bike, computer, holidays, park, book, cycling, join, party, camera, dance (n & v), magazine, photograph (n & v), camp, draw, member, picnic, camping, DVD (player), museum, quiz, campsite, festival, tent, go out, video game"
+    },
+    {
+      "id": "house-home",
+      "icon": "🏠",
+      "name": "房屋與居家",
+      "nameEn": "House and Home",
+      "summary": "家裡的房間、家具和日常在做的事。",
+      "pool": "address, clock, furniture, oven, apartment, computer, garage, pillow, armchair, cooker, garden, refrigerator, bath(tub), cupboard, gas, roof, bathroom, curtain, gate, room, bed, desk, hall, rubbish, bedroom, dining room, heating, safe (adj), bin, door, home, shelf, blanket, downstairs, house, shower, bookcase, drawer, key, sink, bookshelf, DVD (player), kitchen, sitting room, bowl, entrance, lamp, sofa, box, flat (n), light, stay (v), carpet, floor, live (v), toilet, chair, fridge, living room, towel"
+    },
+    {
+      "id": "measurements",
+      "icon": "📏",
+      "name": "數量與度量",
+      "nameEn": "Measurements",
+      "summary": "長短、重量、時間的單位，回答「多少、多重、多久」。",
+      "pool": "centimetre / centimeter / cm, day, degree, gram(me), half metre / meter, hour, minute, week, kilo(gram[me]) / kg, moment, year, kilometre / km, quarter, litre / liter, second, temperature"
+    },
+    {
+      "id": "feelings",
+      "icon": "😊",
+      "name": "感受與形容詞",
+      "nameEn": "Personal Feelings, Opinions and Experiences",
+      "summary": "形容人、心情和東西的形容词。",
+      "pool": "able, afraid, alone, amazing, angry, bad, beautiful, better, big, bored, boring, brave, brilliant, busy, careful, clear, clever, cool, different, difficult, excellent, excited, famous, fast, favourite, fine, free, friendly, funny, good, great, happy, hard, heavy, high, hungry, important, interesting, kind, lovely, lucky, modern, nice, noisy, old, poor, pleasant, pretty, quick, quiet, ready, real, rich, right, slow, small, soft, sorry, special, strange, strong, sure, sweet, tall, terrible, tired, useful, well, wrong, young"
+    },
+    {
+      "id": "places-buildings",
+      "icon": "🏛️",
+      "name": "場所：建築",
+      "nameEn": "Places: Buildings",
+      "summary": "建築物：銀行、學校、醫院、商店。",
+      "pool": "apartment (building), department store, hotel, shop, bank, disco, house, sports centre, block, elevator, library, stadium, bookshop, entrance, lift, supermarket, bookstore, exit, museum, swimming pool, building, factory, office, theatre, cafe/café, flat, pharmacy, university, cafeteria, garage, police station, castle, grocery store, post office, cinema, guest-house, railway station, college, hospital, school"
+    },
+    {
+      "id": "places-countryside",
+      "icon": "🏞️",
+      "name": "場所：郊野",
+      "nameEn": "Places: Countryside",
+      "summary": "野外的地方：山、河、森林、海邊。",
+      "pool": "area, forest, ocean, sea, beach, hill, path, sky, campsite, island, railway, village, farm, lake, rainforest, wood, field, mountain, river"
+    },
+    {
+      "id": "places-town",
+      "icon": "🏙️",
+      "name": "場所：城鎮",
+      "nameEn": "Places: Town and City",
+      "summary": "市區的街道與公共場所。",
+      "pool": "airport, city centre, petrol station, station, bridge, corner, playground, street, bus station, market, road, town, bus stop, motorway, roundabout, underground, car park, park, square, zoo"
+    },
+    {
+      "id": "services",
+      "icon": "🛎️",
+      "name": "服務業場所",
+      "nameEn": "Services",
+      "summary": "各種服務的地方：餐廳、旅館、加油站、旅遊資訊。",
+      "pool": "bank, doctor, petrol station, theatre, cafe / café, garage, post office, tourist information, cafeteria, hotel, restaurant, cinema, library, sports centre, dentist, museum, swimming pool"
+    },
+    {
+      "id": "shopping",
+      "icon": "💳",
+      "name": "購物與金錢",
+      "nameEn": "Shopping",
+      "summary": "買東西、比價、付款與金錢。",
+      "pool": "ad / advertisement, cheque, expensive, rent, assistant, close (v), for sale, shop, bill, closed, go shopping, shop assistant, bookshop, cost (n & v), open (v & adj), shopper, buy (v), credit card, pay (for), shopping, cash (n & v), customer, penny, spend, cent, department store, pound, store, change (n & v), dollar, price, supermarket, cheap, euro, receipt, try on"
+    },
+    {
+      "id": "sport",
+      "icon": "⚽",
+      "name": "運動比賽",
+      "nameEn": "Sport",
+      "summary": "各種運動、比賽和運動員。",
+      "pool": "ball, football, riding, swimming, badminton, football player, rugby, swimming costume, baseball, game, run (v), swimming pool, basketball, goal, sailing, swimsuit, bat, golf, sea, table tennis, bathing suit, hockey, skate (v), team, beach, kit, skateboard (n), tennis, bicycle, luck, ski (v), tennis player, bike, member, skiing, throw (v), boat, play (v), snowboard (n), ticket, catch (v), player, snowboarding, tired, climb (v), pool (n), soccer, trainers, club, practice (n), sport(s), v / versus, coach (n), practise (v), sports centre, volleyball, competition, prize, stadium, walk (v), cricket, race (n & v), surf, watch (v), cycling, racket, surfboard, win (v), enter (a competition), rest (n & v), surfboarding, windsurfing, fishing, ride (n & v), swim, winner"
+    },
+    {
+      "id": "natural-world",
+      "icon": "🌍",
+      "name": "自然世界",
+      "nameEn": "The Natural World",
+      "summary": "動植物、天氣現象和地球上的自然景觀。",
+      "pool": "air, fire, moon, star, autumn, flower, mountain, summer, beach, forest, north, tree, bee, grass, plant, water, country, grow, river, west, countryside, hill, sea, winter, desert, hot, sky, wood, east, ice, south, wool, explorer, island, space, world, field, lake, spring"
+    },
+    {
+      "id": "time",
+      "icon": "🕒",
+      "name": "時間與日期",
+      "nameEn": "Time",
+      "summary": "時間、星期、月份、日期怎麼說。",
+      "pool": "afternoon, evening, morning, tonight, a.m. / p.m., half (past), night, week, appointment, holidays, noon, weekday, autumn, hour, o'clock, weekend, birthday, January - December, past, weekly, calendar, meeting, quarter (past / to), winter, century, midnight, second, working hours, clock, minute, spring, year, daily, moment, summer, yesterday, date, Monday - Sunday, time, day, month, today, diary, monthly, tomorrow"
+    },
+    {
+      "id": "travel-transport",
+      "icon": "✈️",
+      "name": "旅行與交通",
+      "nameEn": "Travel and Transport",
+      "summary": "出門旅遊：交通工具、機場車站、道路。",
+      "pool": "(aero)/(air)plane, explorer, park (v), street, airport, far, passenger, suitcase, ambulance, flight, passport, taxi, backpack, fly, petrol, ticket, boat, garage, petrol station, tour (n), bridge, helicopter, pilot, tour guide, bus, journey, platform, tourist, bus station, leave, railway, tourist information centre, bus stop, left, repair (v), traffic, car, light, return (n & v), traffic light, case, luggage, ride, train, coach, machine, right, tram, country, map, road, travel, delay (n & v), mechanic, roundabout, trip, delayed, mirror, sailing, tyre, drive, miss (v), seat, underground (n), driver, motorbike, ship, visit, driving / driver's licence, motorway, station, visitor, engine, move, stop, way (n), engineer, oil, straight on, wheel, window"
+    },
+    {
+      "id": "weather",
+      "icon": "🌦️",
+      "name": "天氣",
+      "nameEn": "Weather",
+      "summary": "今天天氣如何：晴、雨、雪、風。",
+      "pool": "cloud, hot, sun, wet, cloudy, ice, sunny, wind, cold, rain, thunderstorm, windy, fog, snow, warm, foggy, storm, weather"
+    },
+    {
+      "id": "work-jobs",
+      "icon": "💼",
+      "name": "工作與職業",
+      "nameEn": "Work and Jobs",
+      "summary": "職業名稱、工作地點和上班相關的字。",
+      "pool": "actor, diploma, journalist, secretary, artist, doctor, king, shop assistant, boss, Dr, letter, shopper, break (n), driver, manager, singer, business, earn, mechanic, staff, businessman, email (n & v), meeting, student, businesswoman, engineer, message, teacher, chemist, explorer, musician, tennis player, cleaner, factory, nurse, tour guide, coach (n), farm, occupation, uniform, company, farmer, office, waiter/waitress, computer, footballer, painter, work, cook (n & v), football player, photographer, worker, customer, guest, pilot, writer, dentist, guide, police officer, desk, instructions, queen, diary, job, receptionist"
+    },
+    {
+      "id": "word-sets",
+      "icon": "🔢",
+      "name": "基礎詞集",
+      "nameEn": "Word sets",
+      "summary": "Cambridge A2 Key 附錄一的必背詞組：數字、星期、月份、國家與洲。",
+      "pool": "cardinal numbers one to one thousand, ordinal numbers first to thirty-first, days of the week Monday to Sunday, months of the year January to December, seasons spring summer autumn winter, countries/languages/nationalities Brazil/Brazilian, Canada/Canadian, China/Chinese, France/French, Ireland/Irish, India/Indian, Italy/Italian, Spain/Spanish, Australia/Australian, Germany/German, Japan/Japanese, America/American, England/English, continents Africa, Antarctica, Asia, Australia, Europe, North America, South America"
+    }
+  ]
+}

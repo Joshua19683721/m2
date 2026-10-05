@@ -1,0 +1,54 @@
+{
+  "scenes": ["places-countryside", "places-town", "services", "shopping", "sport"],
+  "issues": [
+    {
+      "scene": "places-countryside",
+      "kind": "polysemy",
+      "en": "The sky is very clear above the hills tonight.",
+      "zh": "今晚山丘上方的天空很清澈。",
+      "problem": "「清澈」是用於水、眼睛等透明物質的形容詞；「clear sky」指的是沒有雲、晴朗，用「清澈」譯成「天空很清澈」中文讀起來不成立，屬於詞義誤用。",
+      "suggestion": "今晚山丘上方的天空很晴朗。"
+    },
+    {
+      "scene": "places-town",
+      "kind": "grammar",
+      "en": "Children play on the playground in the park.",
+      "zh": "孩子們在公園裡的遊樂場玩。",
+      "problem": "playground 是有圍界、可在其中活動的場地，搭配 play 應用介系詞 in（play in the playground）；on the playground 不合英文慣用法。",
+      "suggestion": "Children play in the playground in the park."
+    },
+    {
+      "scene": "places-town",
+      "kind": "ipa",
+      "en": "pedestrian crossing",
+      "zh": "行人穿越道",
+      "problem": "pedestrian 為四音節字，英式讀音重音在第二音節（pəˈdes.tri.ən），此處卻標成次重音 ˌ，且整個字組只標了 crossing 的主重音，讀者會把 des 讀成弱讀。",
+      "suggestion": "pəˈdes.tri.ən ˈkrɒs.ɪŋ"
+    },
+    {
+      "scene": "places-town",
+      "kind": "ipa",
+      "en": "underground",
+      "zh": "地下鐵",
+      "problem": "此詞義為名詞「地下鐵／the Underground」，英式讀音重音在第一音節（ˈʌndəɡraʊnd）；現有 IPA 用的是形容詞「地下的」的讀音 ˌʌndəˈɡraʊnd，與中文釋義不符。",
+      "suggestion": "ˈʌn.də.ɡraʊnd"
+    },
+    {
+      "scene": "places-town",
+      "kind": "zh-naturalness",
+      "en": "Take the second turning after the petrol station.",
+      "zh": "在加油站之後的路口走第二個。",
+      "problem": "「在……的路口走第二個」是英文逐字對譯，中文不會這樣說，語意也讀不出是「第二個路口」，且 take a turning 的動作（轉彎）沒有譯出。",
+      "suggestion": "在加油站之後的第二個路口轉彎。"
+    },
+    {
+      "scene": "services",
+      "kind": "meaning",
+      "en": "The dentist is on the first floor of this building.",
+      "zh": "牙醫在這棟建築的一樓。",
+      "problem": "本專案採英式英文（theatre、cheque、centre），英式的 the first floor 指的是地面樓之上的一層；台灣中文慣例「一樓」＝ ground floor，因此中文譯成「一樓」與英式原文的樓層不一致。",
+      "suggestion": "牙醫在這棟建築的二樓。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

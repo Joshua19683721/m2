@@ -1,0 +1,288 @@
+# QA 人工待辦
+
+自動套用 21 筆；以下 71 筆需要人工判斷。
+
+- **[colours]** `pale` — polysemy
+  - 問題：「蒼白」通常只用於臉色、膚色蒼白的語境；本場景中 pale 指的是顏色濃度低、偏淡淡的另一個義項，母語者不會用「蒼白」來形容一般顏色。
+  - 建議：淡色的；淺淡的（例：pale green 淡綠色）
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[comms-tech]** `envelope` — ipa
+  - 問題：envelope 唸 /ɪnˈveləʊp/，結尾有清楚的 /p/ 音；此處 IPA 漏掉了捲舌尾的 /p/。
+  - 建議：ɪnˈveləʊp
+  - 原因：IPA 建議無法安全自動解析
+- **[documents]** `envelope` — ipa
+  - 問題：重音位置錯誤：envelope 的主重音在第二音節 -vel-，不是第一音節。
+  - 建議：ɪnˈveləʊp
+  - 原因：IPA 建議無法安全自動解析
+- **[documents]** `project` — ipa
+  - 問題：IPA 使用了本專案未收錄的符號「ɜ」（缺長音符號 ː），且音節切分錯誤；英式讀音應為 /ˈprɒdʒekt/。
+  - 建議：ˈprɒ.dʒekt
+  - 原因：IPA 建議無法安全自動解析
+- **[documents]** `` — tips
+  - 問題：提示內容錯誤：bill 結尾是 /l/、postcard 結尾是 /d/，兩者都不以 /t/ 結尾，照此提示記憶會把音讀錯。
+  - 建議：這組字有些以 /t/ 結尾，例如 ticket、text，末尾的音別漏掉。
+  - 原因：無法定位場景或缺少 en
+- **[hobbies]** `go shopping` — duplicate
+  - 問題：同一場景中「go shopping」同時出現在 words 與 phrases 兩個清單，內容完全重複（英文與音標都相同），造成重複出題。
+  - 建議：片語改為 do some shopping（ɡəʊ ˈdʌm ˈʃɒp.ɪŋ），或從 words 中移除 go shopping。
+  - 原因：類型 duplicate 需人工處理
+- **[hobbies]** `take a picture with a camera` — tips
+  - 問題：此提示的建議錯誤：take a picture with a camera / take a photo with a camera 是完全正確的英文，會誤導學習者避用正確句型。
+  - 建議：拍照用 take photos 或 take a photo；若要強調使用相機，take a photo with a camera 也是正確說法。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[house-home]** `dining room` — duplicate
+  - 問題：同一場景中「dining room」同時列在 words 與 phrases，英文、中文與音標皆完全相同，屬重複條目。
+  - 建議：片語改為 have dinner in the dining room，或從 words 中移除 dining room（保留 phrases 版本）。
+  - 原因：類型 duplicate 需人工處理
+- **[house-home]** `in the kitchen / in the bathroom` — tips
+  - 問題：提示內容自相矛盾且與英文規則相反：房間名稱前必須加定詞 the，而它自己列出的例句也都帶 the，會直接教錯。
+  - 建議：房間名稱前面要加定詞 the：in the kitchen、in the bathroom、in the living room。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[feelings]** `介紹一個人時先說名字，再用兩兩三個性格或心情的形容詞。` — tips
+  - 問題：提示出現錯字：「兩兩三個」的「兩」重複，應為「兩三個」。
+  - 建議：介紹一個人時先說名字，再用兩三個性格或心情的形容詞。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[places-buildings]** `opposite` — ipa
+  - 問題：音標 ˈɒ.pə.zɪt 把重音放在第一個音節，這是美式讀法，但母音又寫成英式的 ɒ，變成英美混寫。英式 opposite 應為弱讀起首、重音在第二音節：əˈpɒzɪt。
+  - 建議：əˈpɒzɪt
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[places-buildings]** `建築場所的名詞前要加定冠詞 the，複數場所則加 -s，例如 the shop、two shops。` — tips
+  - 問題：這條規則本身是錯的，只在特指某一個場所時才用 the。照字面理解會讓學習者說出 I go to the school、I work in the factory 這類錯誤句子；首次提及或泛指應該用 a，例如 a shop、This shop is nice。
+  - 建議：特指某一個場所時前面用 the，例如 I like the shop on my street；泛指或第一次提到用 a，例如 There is a shop near here。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[places-buildings]** `英式樓層怎麼說：ground floor 是一樓，往上依序是 first floor、second floor。` — tips
+  - 問題：本場景的片語把 on the second floor 譯為「在二樓」，與這條提示自訂的英式編號（ground floor＝一樓、first floor＝二樓、second floor＝三樓）互相矛盾，學習者無從判斷 second floor 到底在哪一層。
+  - 建議：統一採用英式編號，片語改為「在三樓」：on the second floor 在三樓；或修改提示，說明台灣口語的一樓即 ground floor。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[places-town]** `Children play on the playground in the park.` — grammar
+  - 問題：playground 是有圍界、可在其中活動的場地，搭配 play 應用介系詞 in（play in the playground）；on the playground 不合英文慣用法。
+  - 建議：Children play in the playground in the park.
+  - 原因：英文修正需人工確認
+- **[places-town]** `pedestrian crossing` — ipa
+  - 問題：pedestrian 為四音節字，英式讀音重音在第二音節（pəˈdes.tri.ən），此處卻標成次重音 ˌ，且整個字組只標了 crossing 的主重音，讀者會把 des 讀成弱讀。
+  - 建議：pəˈdes.tri.ən ˈkrɒs.ɪŋ
+  - 原因：IPA 建議無法安全自動解析
+- **[places-town]** `underground` — ipa
+  - 問題：此詞義為名詞「地下鐵／the Underground」，英式讀音重音在第一音節（ˈʌndəɡraʊnd）；現有 IPA 用的是形容詞「地下的」的讀音 ˌʌndəˈɡraʊnd，與中文釋義不符。
+  - 建議：ˈʌn.də.ɡraʊnd
+  - 原因：IPA 建議無法安全自動解析
+- **[travel-transport]** `airport` — ipa
+  - 問題：音標出現亂碼字元「ˈe��.pɔːt」，元音位置不是有效的 IPA 符號，無法正常顯示或發音。
+  - 建議：ˈeə.pɔːt
+  - 原因：IPA 建議無法安全自動解析
+- **[work-jobs]** `Please ask your boss about the new job.` — zh-naturalness
+  - 問題：中文的「問」需搭配「向…詢問」才自然，「問你的老闆關於新工作的事」屬直譯語序，台灣母語者不會這樣說。
+  - 建議：請向你的老闆詢問新工作的事。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[grammar-adverbs]** `alright` — duplicate
+  - 問題：同一場景的單字清單中已有「all right/alright」，「alright」為同一詞的完全重複條目。
+  - 建議：刪除重複的「alright」或合併為單一條目 all right/alright
+  - 原因：類型 duplicate 需人工處理
+- **[grammar-core]** `have got to` — ipa
+  - 問題：音標「ˌhæv ˈɡɒt tə」漏了 have 的主重音符號。片語的兩個實詞 have 與 got 各有自己的重音，have 在輕讀片語中要保留 ˈhæv。
+  - 建議：ipa 改為 ˌhæv ˈɡɒt tə → ˈhæv ˌɡɒt tə。
+  - 原因：IPA 建議無法安全自動解析
+- **[grammar-core]** `because` — ipa
+  - 問題：音標「bɪˈkɒːz」把長音 ː 加在捲舌音前的元音上。because 的尾音是 /ɪkɒz/，捲舌化發生在 /z/，元音本身就是短音，不該標成長音。
+  - 建議：ipa 改為 bɪˈkɒz。
+  - 原因：IPA 建議無法安全自動解析
+- **[grammar-core]** `be going to` — ipa
+  - 問題：音標「bi ˌɡəʊ.ɪŋ tə」中 be 的長音 ː 漏寫了，變成短音 /bi/。
+  - 建議：ipa 改為 bi ˌɡəʊ.ɪŋ tə → biː ˌɡəʊ.ɪŋ tə。
+  - 原因：IPA 建議無法安全自動解析
+- **[noun-everyday-misc]** `centre/center` — zh-naturalness
+  - 問題：兩種拼法都只寫成「中心」，後面重複標成「（美式）」等於沒翻；而且本專案整體採用英式拼法（programme、lift 一類），把美式當成獨立條目沒有必要。
+  - 建議：保留英式拼法即可：en「centre」，zh「中心」，ipa「ˈsen.tə」；若要兩版並列，zh 應寫成「中心（美式=center）」而非兩個都是「中心」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[noun-everyday-misc]** `ID` — meaning
+  - 問題：「身分」在中文裡就是「identity／personal status」，不是 identification；而且本場另有「ID card 身分證」與「identification 身分證明文件」，用「身分」會把三個詞混在一起。
+  - 建議：zh 改為「身分證明（文件）」或直接刪掉此單字條目，只保留「ID card 身分證」與「identification 身分證明文件」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[noun-everyday-misc]** `trainer` — ipa
+  - 問題：此條的 trainer 指的是英式用語「運動鞋」，複數 trainers 的音節數不同，單數應重音在第一音節 /ˈtreɪ.nə/，現寫成 ˈtreɪ.nə 之後接一個不代表長音的孤立 a，唸出來會變成三個音節。
+  - 建議：ipa 改為 ˈtreɪ.nə。
+  - 原因：IPA 建議無法安全自動解析
+- **[noun-everyday-misc]** `working hours` — duplicate
+  - 問題：同一個場次裡 words 已有「working hours 工作時間」，phrases 又出現一次「working hours 上班時間」，形成同場重複條目。
+  - 建議：刪掉 phrases 中重複的 working hours，只保留 words 的一筆。
+  - 原因：類型 duplicate 需人工處理
+- **[noun-everyday-misc]** `tourist information centre` — duplicate
+  - 問題：同一個場次裡 words 與 phrases 都有「tourist information centre 旅遊服務中心」，內容完全相同，等於重複教學。
+  - 建議：二選一保留，建議刪掉 phrases 的重複條目。
+  - 原因：類型 duplicate 需人工處理
+- **[noun-everyday-misc]** `movie theater` — duplicate
+  - 問題：同一個場次裡 words 與 phrases 都收錄「movie theater 電影院」，重複。
+  - 建議：刪掉 phrases 中重複的 movie theater。
+  - 原因：類型 duplicate 需人工處理
+- **[noun-everyday-misc]** `character` — polysemy
+  - 問題：character 是多義詞，但「角色、性格」這組中文在台灣只對應 to be in character／out of character 或 show character 這種「性格／特性」的用法；影劇裡的「角色」是 cast member／role，character 本身不指「角色」這個身分概念。一般學習者查到時會拿錯義項。
+  - 建議：zh 改為「人物；（小說、影視的）人物角色；性格、特質」，把「角色」改成「影劇小說中的人物」，避免與 role 混淆。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[adj-extra]** `horror` — meaning
+  - 問題：「恐怖」在中文是形容詞（可怕的），對不上英文名詞 horror（恐怖事物／驚悚片）；中文只給了形容詞與「嚇一跳」的動詞感，讀者無法把詞性對上。
+  - 建議：zh 改為「恐怖；恐怖片（複數 horrors）」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[adj-extra]** `be good at` — zh-naturalness
+  - 問題：「擅長於」後面在中文裡必須接動詞或名詞化成分（擅長於游泳），且「於」是書面語；學習者常直接照著寫成「我擅長於數學」尚可，但接動詞時會誤以為後面要接名詞，是容易出錯的譯法。
+  - 建議：zh 改為「擅長（做某事）」，例句可寫「be good at maths 擅長數學」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[adj-extra]** `比較級與最高級別靠語感：-y 結尾要加 -er、-est，應改成 -ier、-iest（happy → happier → happiest）。` — tips
+  - 問題：這則提示的前後文互相矛盾，而且用詞錯置：正確規則是「以『輔音＋y』結尾的形容詞，比較級變 y 為 i 再加 -er，最高級加 -est」，所以 happy 要「改成 -ier、-iest」這句方向寫反了，-ier、-iest 正是要換過去的形式，不是被換掉的形式。另外「別靠語感」也不對，規則是有規律的。
+  - 建議：改寫為：「比較級與最高級看字尾：-y 結尾要改成 -ier、-iest（happy → happier → happiest）；-e 結尾只加 -r、-st（nice → nicer → nicest）。」
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[verbs-feeling]** `heal` — ipa
+  - 問題：音標寫成「hiːl」，長音冒號寫成了羅馬數字 1，讀者會誤唸成 /hɪl/ 或看不懂。
+  - 建議：ipa 改為 hiːl（若工具不接受 1，請直接改用正確的長音符號）。
+  - 原因：IPA 建議無法安全自動解析
+- **[verbs-feeling]** `prefer / would prefer` — ipa
+  - 問題：後半段「would prefer」的 would 漏了主重音符號。這個條目同時教兩個片語，兩邊都該各自標出重音，否則學習者只學到一個重音位置。
+  - 建議：ipa 改為 prɪˈfɜː ˈwʊd prɪˈfɜː。
+  - 原因：IPA 建議無法安全自動解析
+- **[verbs-food]** `roast` — zh-naturalness
+  - 問題：兩個問題。一是把 roast 限定成「用烤箱烤」，但 roast 指的是用烤箱或明火把食物烤熟變褐，重點是烤的結果而不是器具，束縛在烤箱會誤導。二是形容詞寫成「烤過的」，中文讀起來像「已經烤過（所以不必再烤）」，方向與 roast 的意思相反。
+  - 建議：zh 改為「烤、烘烤；烤肉、烤菜（已烤好的）」；與 bake 的差別寫成「roast 烤整塊肉或蔬菜，bake 用烤箱烘麵包點心」，放在提示中說明。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[verbs-food]** `He boils the water and drinks three cups of tea.` — meaning
+  - 問題：英文句沒有「每天」這個意思，中文卻多加了「每天」，中英訊息不一致；學習者對照時會以為漏背了一個時間副詞。另外英文明顯是一般性／習慣性敘述，中文用「每天」也把頻率講死了。
+  - 建議：二擇一修正：zh 改為「他煮開水，喝三杯茶。」；或在 en 補上頻率，en 改為「He boils the water and drinks three cups of tea every day.」
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[verbs-extra]** `聽寫時常把 -ng 與 -nk 聽混（long 與 lorry 不同），建議放慢速度逐字輸入，再回頭核對字母。` — tips
+  - 問題：例詞選錯了，這句提示等於沒有教到東西。lorry 的結尾是 -rry，完全不含 -nk，拿它跟 long（-ng）對比說明不了「-ng 與 -nk 聽混」；而且 long 的拼法並不常與 -nk 詞混淆。學習者照這句話練習會找不到對應的詞。
+  - 建議：改成真正成對的 -ng／-nk 對比例：聽寫時常把 -ng 與 -nk 聽混（sing 與 sink 不同），建議放慢速度逐字輸入，再回頭核對字母。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[verbs-people]** `Everyone in the audience cheered and clapped loudly.` — zh-simplified
+  - 問題：中文含簡體字「声」（簡體作「声」，繁體應作「聲」），違反本專案繁體中文（台灣用字）的規範。
+  - 建議：中文改為「觀眾席上的每個人都大力喝采。」或「觀眾席上的每個人都大聲喝采。」
+  - 原因：中文建議格式無法自動解析
+- **[verbs-school]** `qualification` — ipa
+  - 問題：音標「kˌkwɒl.ɪˈfɪˈkeɪ.ʃən」有兩處明顯錯誤：最前面多了一個多餘的「k」；而且同一個字出現兩個主重音符號（ˈfɪ 與 ˈkeɪ），qualification 的主重音只在最後一音節 /ˈkeɪʃn/，前一音節 -fɪ- 應為次重音。
+  - 建議：音標改為 ˌkwɒl.ɪ.fɪˈkeɪ.ʃən。
+  - 原因：IPA 建議無法安全自動解析
+- **[adj-quality]** `good morning` — duplicate
+  - 問題：同一個場景中重複：「good morning」同時出現在 words 清單（早安）和 phrases 清單（早安），造成同一條目收錄兩次。
+  - 建議：保留 words 清單中的一筆，從 phrases 清單移除重複的「good morning」。
+  - 原因：類型 duplicate 需人工處理
+- **[adj-quality]** `good night` — duplicate
+  - 問題：同一個場景中重複：「good night」同時出現在 words 清單（晚安（道別用語））和 phrases 清單（晚安），造成同一條目收錄兩次。
+  - 建議：保留 words 清單中的一筆，從 phrases 清單移除重複的「good night」。
+  - 原因：類型 duplicate 需人工處理
+- **[adj-quality]** `My worst holiday was really awful and terrible.` — meaning
+  - 問題：譯文多出英文沒有的意思。英文 awful 與 terrible 在此都是同義的「糟糕、可怕」，譯文卻把其中一個改成「痛苦」（painful），語意完全不同；中文變成「既痛苦又糟糕」兩個近義形容詞並列，也讀起來不自然。
+  - 建議：中文改為「我最糟的假期真的糟透了。」；或若要保留兩詞並列，可寫「我最糟的假期真的很糟、也很可怕。」
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[adj-quality]** `帶「很」的意思的加強語氣不要亂加：口語的幾個好、還不錯比較自然，正式場合才用很棒。` — tips
+  - 問題：提示文字本身有錯字，語意不通：「口語的幾個好」不成詞，也沒有任何意思，讀者無法從這句學到規則。
+  - 建議：改為「加強語氣不要亂加：口語說『蠻好的』『還不錯』比較自然，正式場合才用『很棒』。」
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[adj-people]** `容易弄混的是描述感受的兩種尾綴：前者說自己被這樣困住，後者說會讓別人產生這種感覺，一次要記兩個。` — tips
+  - 問題：提示提到的兩種尾綴（-ed 與 -ing，例如 bored／boring）在 adj-people 這個場景裡根本不存在；本場景的形容詞是 -ful、-ive、-ous、-able、-ate、-ic、-less 這類結尾。學習者在這組詞裡找不到可對照的一對，提示對這一組沒有幫助。
+  - 建議：改成針對本場景真實存在的對比，例如「容易弄混的是『待人』和『待事』：careful 是自己做事小心，careless 是做事不細心；這組反義詞要一起記。」
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[adj-things]** `poor thing/you` — ipa
+  - 問題：en 同時列了「poor thing」與「poor you」兩個變體，但 ipa 只有「ˌpɔː ˈθɪŋ」，完全漏掉「poor you」的 /ˈpɔː juː/。學習者讀到這個條目時只學得到前半段的唸法，後半段等於沒有音標。
+  - 建議：ipa 改為 ˌpɔː ˈθɪŋ ˌpɔː ˈjuː；若不想收兩個變體，就把 en 改成只留「poor thing」。
+  - 原因：IPA 建議無法安全自動解析
+- **[adj-things]** `poor thing/you` — meaning
+  - 問題：本場是形容詞場次，但「poor thing」「poor you」是表示同情的感嘆語，不是能放在名詞前的形容詞；zh 又照名詞詞組去翻成「可憐的東西／可憐的人」，學習者只會學到一個錯的用法（說成 poor person 之類）。實際用法是「Poor you!」＝「你好可憐喔！」。
+  - 建議：en 改為「poor thing! / poor you!」，zh 改為「真可憐喔！／你好可憐喔！」，並標註為感嘆語，或移出形容詞場次。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[adj-things]** `放在名詞前面時，中間不能插別的字。例如可以說一個很大的車子，不能說一個很大車的這種順序。` — tips
+  - 問題：這則提示的規則和例句互相矛盾：規則說「放在名詞前面時，中間不能插別的字」，但它自己給的正確例句「一個很大的車子」裡就夾了「很」；反例「一個很大車的」中文語序根本不通，不是一個真實會犯的錯誤句型，讀者無從對照。
+  - 建議：改寫為：「形容詞放在名詞前面時，中間不能插別的字：可以說『一個大的車子』或『一個很大的車子』，但不能說『一個大的很高車子』。」
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[adj-emotion]** `這組最大的陷阱是兩種尾綴：說自己被這樣困住就用前者，形容會讓別人產生這種感覺的事才用後者。` — tips
+  - 問題：整則提示只說「用前者」「用後者」，但從頭到尾沒有點出「前者」「後者」分別指哪兩個詞尾，提示文字裡也沒有任何可以對應的詞。讀者看到時無從對應，這則提示等於沒有作用。
+  - 建議：改寫為：「這組最大的陷阱是 -ed 與 -ing 兩種詞尾：說自己被這種感覺困住就用 -ed（如 bored、worried），形容會讓別人產生這種感覺的事才用 -ing（如 boring、worrying）。」
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[noun-clothes-extra]** `a leather belt` — zh-naturalness
+  - 問題：「皮皮帶」連續出現兩個「皮」，中文讀起來像口誤打結，沒有任何自然說法；對照同場其他材質片語的寫法（a wool jumper「羊毛毛衣」），這裡應是「皮」字重複的筆誤。
+  - 建議：zh 改為「皮帶」；若要呼應 leather，可寫成「皮質皮帶」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[noun-nature-weather]** `in the middle of the forest` — ipa
+  - 問題：片語中的 forest 標成「ˈfɔː.ɪst」，這是美式讀音 /ˈfɔːrɪst/。本專案整體採英式體例（jewellery、pyjamas、favourite 等英式拼字，音標也用英式的 ɒ、əʊ），forest 在英式應為 /ˈfɒr.ɪst/，寫成 ˈfɔː.ɪst 會讓學習者唸出美式音。
+  - 建議：ipa 改為 ɪn ðə ˈmɪd.əl əv ðə ˈfɒr.ɪst。
+  - 原因：IPA 建議無法安全自動解析
+- **[noun-clothes-extra]** `I put my wet gloves and scarf near the heater.` — meaning
+  - 問題：英文的 wet（溼的）沒有翻出來。中文只寫「我把手套和圍巾放在暖氣旁邊」，讀起來像隨手一放；為什麼要拿到暖氣旁邊，正是因為手套和圍巾是溼的、要烘乾。同一場景的 Take off your wet shoes 有保留「濕」，兩句處理不一致。
+  - 建議：zh 改為「我把溼手套和圍巾放在暖氣旁邊晾乾。」
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[noun-people-roles]** `` — tips
+  - 問題：「不能單獨出現」說法不正確：adult、colleague、scientist 都是可數名詞，可以單獨使用（Adults need exercise.），只是前面必須有冠詞或限定詞。照原說法會讓學生誤以為這幾個詞不能當主語或單獨成詞。
+  - 建議：adult、colleague、scientist 都是可數名詞，前面要有冠詞或其他限定詞，如 an adult、a colleague、a famous scientist；若要單獨使用就得用複數，如 Scientists work hard。
+  - 原因：無法定位場景或缺少 en
+- **[noun-people-roles]** `` — tips
+  - 問題：「婆婆」在台灣指的是丈夫的母親（部分地區也指奶奶），並不是「媽媽」的說法，列在這裡會讓學生記錯親屬稱呼。
+  - 建議：媽媽有很多種叫法：媽媽、母親、媽咪、阿母，不同場合用不同的詞，練習時記得分清楚。
+  - 原因：無法定位場景或缺少 en
+- **[noun-people-roles]** `guide` — polysemy
+  - 問題：這個場景是名詞詞彙，guide 指「人」時應譯成名詞；「導覽」是動詞（導覽行程），詞性不符，會讓學生把 guide 記成一個動作。
+  - 建議：嚮導；導遊
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[noun-tech-media]** `` — tips
+  - 問題：說法錯誤：photo 是兩音節 /ˈfəʊ.təʊ/，photography 是四音節 /fəˈtɒɡ.rə.fi/，重音位置也不同，兩者並非只差一個尾音。照這個提示去記音會記錯。
+  - 建議：photo 和 photography 開頭都是 pho-to，但 photo 只有兩音節，photography 有四音節且重音在第二音節，輸入時容易互相打錯，建議一起背。
+  - 原因：無法定位場景或缺少 en
+- **[noun-animals]** `jellyfish` — ipa
+  - 問題：jellyfish 讀作 /ˈdʒelɪfɪʃ/，中間音節是短音 ɪ，此處誤標成長音 i（專案其他字如 camel、salad 都用 ə/ɪ 標未加重音音節）。
+  - 建議：ˈdʒel.ɪ.fɪʃ（或 ˈdʒel.ə.fɪʃ）
+  - 原因：IPA 建議無法安全自動解析
+- **[noun-animals]** `` — zh-naturalness
+  - 問題：「字節」是電腦術語（byte），與拼字無關；此處要表達的是英文字母。
+  - 建議：拼字時特別注意字母多的單字，butterfly、dinosaur、elephant 都是很容易打錯的一類。
+  - 原因：無法定位場景或缺少 en
+- **[noun-food-extra]** `` — tips
+  - 問題：tip 說「讀音很像」但 carrot /ˈkærət/、cereal /ˈsɪəriəl/、curry /ˈkʌri/ 讀音差異很大；這組字相似的其實是拼寫，後面「打錯時才分得出來」也印證應指拼寫。
+  - 建議：蔬菜和水果的名字拼寫很像，carrot、cereal、curry 要一組一組練，打錯時才分得出來。
+  - 原因：無法定位場景或缺少 en
+- **[noun-sports-games]** `cheer your team` — grammar
+  - 問題：此固定說法少了小品詞／副詞；cheer 作「加油、鼓勵」時需用 cheer on your team，cheer your team 母語者不會這樣說。
+  - 建議：cheer on your team
+  - 原因：英文修正需人工確認
+- **[noun-sports-games]** `The score was two goals when the match ended.` — grammar
+  - 問題：比分要寫出兩隊比分，只寫「two goals」是不完整的比分（缺對方球數）。
+  - 建議：The score was two goals to nil when the match ended.
+  - 原因：英文修正需人工確認
+- **[noun-travel-things]** `parking lot` — duplicate
+  - 問題：本單元已收「car park／停車場」，parking lot 是美式說法，與 car park 在同一個字表形成重複，且與全單元的英式拼字（petrol、licence、queue、aeroplane、lorry）不一致。
+  - 建議：刪除 parking lot，或改為英式 parking space／car park 之外的項目（例如 multi-storey car park）。
+  - 原因：類型 duplicate 需人工處理
+- **[noun-travel-things]** `` — tips
+  - 問題：「都有雙字母」不成立：airport、station 都沒有連續重複的字母，只有 passenger 有 ss；且 tip 用中文「機場、乘客、車站」舉例，讀者無從對應要拼的英文。
+  - 建議：留意容易打錯的英文：passenger 中間有連續的 ss，airport、station 容易漏掉 a 字母，寫錯就扣分。
+  - 原因：無法定位場景或缺少 en
+- **[noun-time-dates]** `Wednesday` — tips
+  - 問題：內容錯誤：Wednesday 只有一個不發音的字母，即 We 與 n 之間的 d（讀作 /ˈwenzdeɪ/），並沒有「兩個」不發音的字母。
+  - 建議：星期三中間有一個不發音的字母（Wed 的 d），二月與星期四也容易拼錯，建議逐字慢慢打。
+  - 原因：類型 tips 需人工處理
+- **[noun-places-extra]** `Her bedroom is on the second floor above the kitchen.` — meaning
+  - 問題：樓層數法與本場景自己的英式慣例不一致：本場景片語已把 the ground floor 譯為「一樓」（英式 ground floor 即台灣的一樓），依此 the first floor 應是二樓、the second floor 應是三樓，此處卻譯為「二樓」，等於改用美式計法。
+  - 建議：她的臥室在三樓，就在廚房上面。（若要保留「二樓」，應把片語 on the ground floor 一併改為 on the first floor／二樓，以維持同一套樓層算法。）
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[phrasal-verbs]** `fall over` — zh-simplified
+  - 問題：「自行車」是中國大陸說法，非台灣用語；台灣標準說法為「腳踏車」。同一場景的 get off／get on 也寫作「腳踏車」，前後不一致。
+  - 建議：摔倒；（腳踏車等）翻倒
+  - 原因：中文建議格式無法自動解析
+- **[phrasal-verbs]** `pick up / put down` — tips
+  - 問題：提示自我矛盾：所舉的 pick up 與 put down 基礎動詞不同（pick／put），不符合前面說的「同一個動詞配不同的小字」，教學規則會造成誤解。
+  - 建議：最容易錯的是 turn on 與 turn off、get on 與 get off、pick up 與 pick down，都是同一個動詞配不同的小字，建議一次背一整組。
+  - 原因：來源檔找不到這個 en（可能已被改過）
+- **[daily-expressions]** `congratulations!` — ipa
+  - 問題：音標「kənˌɡræ.tʃəˈleɪ.ʃənz」結尾用成齒齦後塞擦音（U+0283，齒音的 ʃ），但英式 congratulations 的 -tions 一律是後齒齦擦音（U+0299，拼音 sh 的 ʃ）。同一個單字前半的 -tulate 用的是正確的 ʃ，後半卻換成 ʃ，唸出來會變成兩個不同的輔音。
+  - 建議：ipa 改為 kənˌɡræ.tʃəˈleɪ.ʃənz（結尾那個音請改用 U+0299 的 ʃ）。
+  - 原因：IPA 建議無法安全自動解析
+- **[appliances]** `washing machine` — ipa
+  - 問題：音標「ˈwɒʃ.ɪŋ məˈʃiːn」同時在前後兩個成分各標了一次主重音符號，一個詞不可能有兩個主重音。英式複合名詞的主重音固定落在前一個構詞成分上（washing machine、swimming costume 都是前字重音），machine 應該弱讀；照現有標法唸，學習者會把重音落在 SHINE 上。
+  - 建議：ipa 改為 ˈwɒʃ.ɪŋ mə.ʃiːn（刪掉 machine 的主重音符號）。
+  - 原因：IPA 建議無法安全自動解析
+- **[clothes]** `backpack` — meaning
+  - 問題：「書包」在台灣指的是 school bag（學生上學背的書袋），不是 backpack（一般用途的背包）。同一場次裡 rucksack 已經譯成「背包」，把 backpack 譯成「書包」等於把這兩個同義詞的中文對調，學習者查到時會拿錯義項。
+  - 建議：zh 改為「背包」；若要標出美英差異，可寫成「背包（美式說法；英式為 rucksack）」。
+  - 原因：含指示語氣，需人工確認要改 en 還是 zh
+- **[clothes]** `get dressed` — duplicate
+  - 問題：同一個場次的 words 與 phrases 都收錄「get dressed」，音標也完全相同（ˌɡet ˈdrest），等於同一條目重複教學兩次。
+  - 建議：刪掉 phrases 中的 get dressed，只保留 words 裡的一筆。
+  - 原因：類型 duplicate 需人工處理
+- **[clothes]** `這組大量是兩個字合起來的複合詞，前一個字通常不重讀，後一個字才是重點音節，唸的時候別搶。` — tips
+  - 問題：這則提示把英式複合名詞的重音規則講反了。英文複合名詞的主重音落在前一個成分上，本場的 swimming costume、bathing suit、T-shirt、shoelace、raincoat 都是前字重音（與該場各單字所標的音標一致）。提示卻說「前一個字通常不重讀，後一個字才是重點音節」，方向相反，學習者照著唸會把整組詞的重音唸反。
+  - 建議：改寫為：「這組大量是兩個字合起來的複合詞，重音通常落在前一個字上（swimming costume、bathing suit、shoelace 都是前字重音），後一個字要輕輕帶過。」
+  - 原因：來源檔找不到這個 en（可能已被改過）

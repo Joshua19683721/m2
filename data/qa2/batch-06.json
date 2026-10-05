@@ -1,0 +1,30 @@
+{
+  "scenes": ["noun-clothes-extra", "noun-people-roles", "noun-tech-media", "noun-home-things", "noun-places-extra"],
+  "issues": [
+    {
+      "scene": "noun-places-extra",
+      "kind": "zh-naturalness",
+      "en": "walk through the park",
+      "zh": "穿過公園走",
+      "problem": "中文語序是英文的直譯：「穿過公園」已經是「穿過＋地點」的完整動賓結構，把動詞「走」再放到地點之後並不自然，讀起來像「穿過公園走（到某處）」的半截話，母語者不會這樣說。同一場景其他片語都是緊湊的動賓或介系結構（如「在角落」「搭電梯」「整理房間」），此處多出一個置後動詞，與全批片語的譯法體例也不一致。",
+      "suggestion": "走過公園"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "tips",
+      "en": "mom, mum",
+      "zh": "媽媽有很多說法：媽媽、母親、媽咪、婆婆，各種場合用不同的詞，練習時記得分清楚。",
+      "problem": "提示詞把「婆婆」列為「媽媽」的一種說法，這在台灣用語裡不成立：「婆婆」指的是丈夫的母親／岳母，或是「老太太」的意思，與「媽媽」是不同的人；母親的母親在台灣要稱「阿嬤」或「外婆」。依這條提示練習，會把「婆婆」記成 mom 的同義詞，等於教給學習者一個錯的對應。前三個詞（媽媽、母親、媽咪）都成立，只有第四個詞出錯。",
+      "suggestion": "媽媽有很多說法：媽媽、母親、媽咪，另有媽媽咪等口語說法，各種場合用不同的詞，練習時記得分清楚。"
+    },
+    {
+      "scene": "noun-places-extra",
+      "kind": "inconsistent",
+      "en": "floor",
+      "zh": "地板、樓層",
+      "problem": "同一個詞在兩處被寫成兩種樣子：noun-home-things 的 floor 寫作「地板；樓層」，這裡卻寫成「地板、樓層」。整批資料的多義詞一律用分號「；」隔開義項（例如「帽子以外的鈕扣；按鈕」「廁所；馬桶」「播放器；節目」「資料夾」等皆用「；」），只有本場景的 court「球場、法庭」、gallery「美術館、畫廊」、field「田地、場地」、floor「地板、樓層」改用頓號「、」，既是場內不一致，也與 noun-home-things 的 floor 自相矛盾。",
+      "suggestion": "地板；樓層"
+    }
+  ],
+  "checked": { "words": 340, "phrases": 70, "sentences": 70, "tips": 15 }
+}

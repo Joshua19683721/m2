@@ -1,0 +1,540 @@
+[
+ {
+  "id": "hobbies",
+  "icon": "🎨",
+  "name": "興趣與休閒",
+  "nameEn": "Hobbies and Leisure",
+  "summary": "週末做什麼：露營、騎車、收集東西、參加活動。",
+  "words": [
+   {
+    "en": "barbecue",
+    "zh": "烤肉",
+    "ipa": "ˈbɑː.bɪ.kjuː"
+   },
+   {
+    "en": "CD player",
+    "zh": "光碟播放器",
+    "ipa": "ˌsiː ˈdiː ˌpleɪ.ə"
+   },
+   {
+    "en": "music",
+    "zh": "音樂",
+    "ipa": "ˈmjuː.zɪk"
+   },
+   {
+    "en": "beach",
+    "zh": "海灘",
+    "ipa": "biːtʃ"
+   },
+   {
+    "en": "club",
+    "zh": "社團",
+    "ipa": "klʌb"
+   },
+   {
+    "en": "guitar",
+    "zh": "吉他",
+    "ipa": "ɡɪˈtɑː"
+   },
+   {
+    "en": "musician",
+    "zh": "音樂家",
+    "ipa": "mjuːˈzɪʃ.ən"
+   },
+   {
+    "en": "bicycle",
+    "zh": "腳踏車",
+    "ipa": "ˈbaɪ.sɪ.kəl"
+   },
+   {
+    "en": "collect",
+    "zh": "收集",
+    "ipa": "kəˈlekt"
+   },
+   {
+    "en": "hobby",
+    "zh": "興趣",
+    "ipa": "ˈhɒb.i"
+   },
+   {
+    "en": "paint",
+    "zh": "畫畫",
+    "ipa": "peɪnt"
+   },
+   {
+    "en": "computer",
+    "zh": "電腦",
+    "ipa": "kəmˈpjuː.tə"
+   },
+   {
+    "en": "holiday",
+    "zh": "假期",
+    "ipa": "ˈhɒl.ə.deɪ"
+   },
+   {
+    "en": "park",
+    "zh": "公園",
+    "ipa": "pɑːk"
+   },
+   {
+    "en": "book",
+    "zh": "書",
+    "ipa": "bʊk"
+   },
+   {
+    "en": "cycling",
+    "zh": "騎腳踏車",
+    "ipa": "ˈsaɪ.klɪŋ"
+   },
+   {
+    "en": "join",
+    "zh": "參加",
+    "ipa": "dʒɔɪn"
+   },
+   {
+    "en": "party",
+    "zh": "派對",
+    "ipa": "ˈpɑː.ti"
+   },
+   {
+    "en": "camera",
+    "zh": "照相機",
+    "ipa": "ˈkæm.rə"
+   },
+   {
+    "en": "dance",
+    "zh": "跳舞",
+    "ipa": "dɑːns"
+   },
+   {
+    "en": "magazine",
+    "zh": "雜誌",
+    "ipa": "ˌmæɡ.əˈziːn"
+   },
+   {
+    "en": "photograph",
+    "zh": "照片",
+    "ipa": "ˈfəʊ.tə.ɡrɑːf"
+   },
+   {
+    "en": "camp",
+    "zh": "露營",
+    "ipa": "kæmp"
+   },
+   {
+    "en": "picnic",
+    "zh": "野餐",
+    "ipa": "ˈpɪk.nɪk"
+   },
+   {
+    "en": "tent",
+    "zh": "帳篷",
+    "ipa": "tent"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go shopping",
+    "zh": "去購物",
+    "ipa": "ɡəʊ ˈʃɒp.ɪŋ"
+   },
+   {
+    "en": "go out",
+    "zh": "外出",
+    "ipa": "ɡəʊ ˈaʊt"
+   },
+   {
+    "en": "play the guitar",
+    "zh": "彈吉他",
+    "ipa": "ˌpleɪ ðə ɡɪˈtɑː"
+   },
+   {
+    "en": "play a video game",
+    "zh": "玩電腦遊戲",
+    "ipa": "ˌpleɪ ə ˈviː.di.əʊ ɡeɪm"
+   },
+   {
+    "en": "take photos",
+    "zh": "拍照",
+    "ipa": "ˌteɪk ˈfəʊ.təʊz"
+   },
+   {
+    "en": "go camping",
+    "zh": "去露營",
+    "ipa": "ˌɡəʊ ˈkæm.pɪŋ"
+   },
+   {
+    "en": "have a barbecue",
+    "zh": "烤肉",
+    "ipa": "ˌhæv ə ˈbɑː.bɪ.kjuː"
+   },
+   {
+    "en": "have a picnic",
+    "zh": "野餐",
+    "ipa": "ˌhæv ə ˈpɪk.nɪk"
+   },
+   {
+    "en": "listen to music",
+    "zh": "聽音樂",
+    "ipa": "ˌlɪs.ən tuː ˈmjuː.zɪk"
+   },
+   {
+    "en": "draw a picture",
+    "zh": "畫圖",
+    "ipa": "ˌdrɔː ə ˈpɪk.tʃə"
+   },
+   {
+    "en": "collect things",
+    "zh": "收集東西",
+    "ipa": "kəˈlekt θɪŋz"
+   },
+   {
+    "en": "join a club",
+    "zh": "加入社團",
+    "ipa": "ˌdʒɔɪn ə klʌb"
+   },
+   {
+    "en": "ride a bike",
+    "zh": "騎腳踏車",
+    "ipa": "ˌraɪd ə baɪk"
+   },
+   {
+    "en": "spend the holidays",
+    "zh": "度假",
+    "ipa": "ˌspend ðə ˈhɒl.ə.deɪz"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My hobby is painting animals and flowers.",
+    "zh": "我的興趣是畫動物和花。"
+   },
+   {
+    "en": "I play the guitar every weekend with my friends.",
+    "zh": "我每個週末和朋友一起彈吉他。"
+   },
+   {
+    "en": "We are going camping at the campsite in July.",
+    "zh": "我們七月要去露營地露營。"
+   },
+   {
+    "en": "She takes photos of her cat every day.",
+    "zh": "她每天都替她的貓拍照。"
+   },
+   {
+    "en": "They go shopping together on Saturday morning.",
+    "zh": "他們星期六早上一起去購物。"
+   },
+   {
+    "en": "The club has a quiz about music and films.",
+    "zh": "這個社團有一場音樂與電影的問答競賽。"
+   },
+   {
+    "en": "We had a lovely picnic in the park last Sunday.",
+    "zh": "我們上星期日在公園野餐。"
+   },
+   {
+    "en": "My brother plays music in the school club.",
+    "zh": "我哥哥在學校社團裡演奏音樂。"
+   },
+   {
+    "en": "I like collecting old cameras and small books.",
+    "zh": "我喜歡收集舊相機和小書。"
+   },
+   {
+    "en": "We are going to a music festival this summer.",
+    "zh": "我們今年夏天要去音樂節。"
+   },
+   {
+    "en": "He rides his bike to the park every day.",
+    "zh": "他每天騎腳踏車去公園。"
+   },
+   {
+    "en": "My sister dances well and plays the guitar too.",
+    "zh": "我姐姐跳舞也很好，也會彈吉他。"
+   },
+   {
+    "en": "We put our tent near the beach and the sea.",
+    "zh": "我們把帳篷搭在海邊。"
+   },
+   {
+    "en": "On holidays I read magazines and draw pictures.",
+    "zh": "假期裡我看雜誌，也畫圖。"
+   }
+  ],
+  "tips": [
+   "拍照可以說 take photos 或 take a photo；take a photo with a camera 也完全正確，兩種說法都能用。",
+   "「去購物」「去露營」用 go 加上 V-ing：go shopping、go camping。",
+   "拍照用 take photos，相機是 camera，不要說成 take a picture with a camera。"
+  ]
+ },
+ {
+  "id": "house-home",
+  "icon": "🏠",
+  "name": "房屋與居家",
+  "nameEn": "House and Home",
+  "summary": "家裡的房間、家具和日常在做的事。",
+  "words": [
+   {
+    "en": "address",
+    "zh": "地址",
+    "ipa": "əˈdres"
+   },
+   {
+    "en": "clock",
+    "zh": "時鐘",
+    "ipa": "klɒk"
+   },
+   {
+    "en": "furniture",
+    "zh": "家具",
+    "ipa": "ˈfɜː.nɪ.tʃə"
+   },
+   {
+    "en": "oven",
+    "zh": "烤箱",
+    "ipa": "ˈʌv.ən"
+   },
+   {
+    "en": "apartment",
+    "zh": "公寓",
+    "ipa": "əˈpɑːt.mənt"
+   },
+   {
+    "en": "computer",
+    "zh": "電腦",
+    "ipa": "kəmˈpjuː.tə"
+   },
+   {
+    "en": "garage",
+    "zh": "車庫",
+    "ipa": "ˈɡær.ɑːʒ"
+   },
+   {
+    "en": "pillow",
+    "zh": "枕頭",
+    "ipa": "ˈpɪl.əʊ"
+   },
+   {
+    "en": "armchair",
+    "zh": "扶手椅",
+    "ipa": "ˈɑːm.tʃeə"
+   },
+   {
+    "en": "cooker",
+    "zh": "爐子",
+    "ipa": "ˈkʊk.ə"
+   },
+   {
+    "en": "garden",
+    "zh": "花園",
+    "ipa": "ˈɡɑː.dən"
+   },
+   {
+    "en": "refrigerator",
+    "zh": "冰箱",
+    "ipa": "rɪˈfrɪdʒ.ə.reɪ.tə"
+   },
+   {
+    "en": "bath",
+    "zh": "沐浴",
+    "ipa": "bɑːθ"
+   },
+   {
+    "en": "cupboard",
+    "zh": "碗櫃",
+    "ipa": "ˈkʌb.bəd"
+   },
+   {
+    "en": "gas",
+    "zh": "瓦斯",
+    "ipa": "ɡæs"
+   },
+   {
+    "en": "roof",
+    "zh": "屋頂",
+    "ipa": "ruːf"
+   },
+   {
+    "en": "bathroom",
+    "zh": "浴室",
+    "ipa": "ˈbɑːθ.ruːm"
+   },
+   {
+    "en": "curtain",
+    "zh": "窗簾",
+    "ipa": "ˈkɜː.tən"
+   },
+   {
+    "en": "gate",
+    "zh": "大門",
+    "ipa": "ɡeɪt"
+   },
+   {
+    "en": "room",
+    "zh": "房間",
+    "ipa": "ruːm"
+   },
+   {
+    "en": "bed",
+    "zh": "床",
+    "ipa": "bed"
+   },
+   {
+    "en": "desk",
+    "zh": "書桌",
+    "ipa": "desk"
+   },
+   {
+    "en": "hall",
+    "zh": "門廳",
+    "ipa": "hɔːl"
+   },
+   {
+    "en": "rubbish",
+    "zh": "垃圾",
+    "ipa": "ˈrʌb.ɪʃ"
+   },
+   {
+    "en": "bedroom",
+    "zh": "臥室",
+    "ipa": "ˈbed.ruːm"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "living room",
+    "zh": "客廳",
+    "ipa": "ˈlɪv.ɪŋ ruːm"
+   },
+   {
+    "en": "dining room",
+    "zh": "餐廳",
+    "ipa": "ˈdaɪ.nɪŋ ruːm"
+   },
+   {
+    "en": "clean the house",
+    "zh": "打掃房子",
+    "ipa": "ˌkliːn ðə haʊs"
+   },
+   {
+    "en": "do the dishes",
+    "zh": "洗碗",
+    "ipa": "ˌduː ðə ˈdɪʃ.ɪz"
+   },
+   {
+    "en": "tidy your room",
+    "zh": "整理房間",
+    "ipa": "ˌtaɪ.di jɔː ˈruːm"
+   },
+   {
+    "en": "sit on the sofa",
+    "zh": "坐在沙發上",
+    "ipa": "ˌsɪt ɒn ðə ˈsəʊ.fə"
+   },
+   {
+    "en": "watch TV",
+    "zh": "看電視",
+    "ipa": "wɒtʃ ˌtiː ˈviː"
+   },
+   {
+    "en": "make the bed",
+    "zh": "整理床鋪",
+    "ipa": "ˌmeɪk ðə bed"
+   },
+   {
+    "en": "take a bath",
+    "zh": "洗個澡",
+    "ipa": "ˌteɪk ə bɑːθ"
+   },
+   {
+    "en": "turn on the light",
+    "zh": "開燈",
+    "ipa": "ˌtɜːn ɒn ðə laɪt"
+   },
+   {
+    "en": "go upstairs",
+    "zh": "上樓",
+    "ipa": "ˌɡəʊ ˌʌpˈsteɪz"
+   },
+   {
+    "en": "open the fridge",
+    "zh": "打開冰箱",
+    "ipa": "ˌəʊ.pən ðə frɪdʒ"
+   },
+   {
+    "en": "put the keys on the shelf",
+    "zh": "把鑰匙放在架子上",
+    "ipa": "ˌpʊt ðə kiːz ɒn ðə ʃelf"
+   },
+   {
+    "en": "do housework",
+    "zh": "做家務",
+    "ipa": "ˌduː ˈhaʊs.wɜːk"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My house has a small living room and a kitchen.",
+    "zh": "我家有個小客廳和廚房。"
+   },
+   {
+    "en": "We keep the cups in the cupboard above the cooker.",
+    "zh": "我們把杯子放在爐子上方的碗櫃裡。"
+   },
+   {
+    "en": "Please take the rubbish out to the bin now.",
+    "zh": "請現在把垃圾拿到外面的垃圾桶。"
+   },
+   {
+    "en": "I sit on the sofa and watch TV every evening.",
+    "zh": "我每天晚上坐在沙發上看電視。"
+   },
+   {
+    "en": "The kitchen is next to the dining room upstairs.",
+    "zh": "廚房在樓上餐廳的旁邊。"
+   },
+   {
+    "en": "She is tidying her bedroom and making the bed.",
+    "zh": "她正在整理臥室並整理床鋪。"
+   },
+   {
+    "en": "We have a small garden behind the house.",
+    "zh": "我們家在房子後面有一個小花園。"
+   },
+   {
+    "en": "The bathroom is next to my bedroom on this floor.",
+    "zh": "浴室在這層樓我臥室的旁邊。"
+   },
+   {
+    "en": "Put your keys on the table near the entrance.",
+    "zh": "把你的鑰匙放在入口旁的桌上。"
+   },
+   {
+    "en": "My father washes the car in the garage.",
+    "zh": "我爸爸在車庫洗車。"
+   },
+   {
+    "en": "There is a computer on my desk in my room.",
+    "zh": "我的房間書桌上有一台電腦。"
+   },
+   {
+    "en": "The curtains are green and the carpet is blue.",
+    "zh": "窗簾是綠色的，地毯是藍色的。"
+   },
+   {
+    "en": "Close the door and turn off the light downstairs.",
+    "zh": "關上門，並關掉樓下的燈。"
+   },
+   {
+    "en": "We live in a small flat near the park.",
+    "zh": "我們住在公園附近的一間小公寓。"
+   }
+  ],
+  "tips": [
+   "房間名稱前面要加定冠詞 the：in the kitchen、in the bathroom、in the living room。",
+   "room 是房間，house 是房子；a two-bedroom flat 就是兩房的公寓。",
+   "樓上用 upstairs，樓下用 downstairs，兩者都當副詞用，不加 the。"
+  ]
+ }
+]

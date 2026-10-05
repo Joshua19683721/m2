@@ -1,0 +1,1365 @@
+[
+ {
+  "id": "adj-extra",
+  "icon": "🎨",
+  "name": "形容詞：其他形容詞",
+  "nameEn": "Adjectives: More Adjectives",
+  "summary": "把主題表沒列的形容詞補齊，分大小、狀態與感覺三類。",
+  "note": "形容詞拼錯最多的是 -ful / -less / -y 這幾種結尾。",
+  "group": "形容詞",
+  "words": [
+   {
+    "en": "able",
+    "zh": "能夠的",
+    "ipa": "ˈeɪ.bəl"
+   },
+   {
+    "en": "action",
+    "zh": "行動；動作",
+    "ipa": "ˈæk.ʃən"
+   },
+   {
+    "en": "advanced",
+    "zh": "進階的；程度很高的",
+    "ipa": "ədˈvɑːnst"
+   },
+   {
+    "en": "aged",
+    "zh": "年齡為……歲的",
+    "ipa": "eɪdʒd"
+   },
+   {
+    "en": "amazed",
+    "zh": "驚訝的",
+    "ipa": "əˈmeɪzd"
+   },
+   {
+    "en": "attractive",
+    "zh": "有吸引力的；好看的",
+    "ipa": "əˈtræk.tɪv"
+   },
+   {
+    "en": "available",
+    "zh": "可以取得的；有空的",
+    "ipa": "əˈveɪ.lə.bəl"
+   },
+   {
+    "en": "blond",
+    "zh": "金髮的",
+    "ipa": "blɒnd"
+   },
+   {
+    "en": "boiled",
+    "zh": "煮過的；煮沸的",
+    "ipa": "bɔɪld"
+   },
+   {
+    "en": "born",
+    "zh": "出生的",
+    "ipa": "bɔːn"
+   },
+   {
+    "en": "broken",
+    "zh": "壞掉的；破碎的",
+    "ipa": "ˈbrəʊ.kən"
+   },
+   {
+    "en": "careful",
+    "zh": "小心的；仔細的",
+    "ipa": "ˈkeə.fəl"
+   },
+   {
+    "en": "classical",
+    "zh": "古典的",
+    "ipa": "ˈklæs.ɪ.kəl"
+   },
+   {
+    "en": "closed",
+    "zh": "關閉的；打烊的",
+    "ipa": "kləʊzd"
+   },
+   {
+    "en": "comfortable",
+    "zh": "舒服的；舒適的",
+    "ipa": "ˈkʌmf.tə.bəl"
+   },
+   {
+    "en": "complete",
+    "zh": "完整的；完成",
+    "ipa": "kəmˈpliːt"
+   },
+   {
+    "en": "crowded",
+    "zh": "擁擠的；擠滿人的",
+    "ipa": "ˈkraʊ.dɪd"
+   },
+   {
+    "en": "dead",
+    "zh": "死的；已死的",
+    "ipa": "ded"
+   },
+   {
+    "en": "dear",
+    "zh": "親愛的",
+    "ipa": "dɪə"
+   },
+   {
+    "en": "delayed",
+    "zh": "延誤的；遲了的",
+    "ipa": "dɪˈleɪd"
+   },
+   {
+    "en": "dressed",
+    "zh": "穿好衣服的",
+    "ipa": "drest"
+   },
+   {
+    "en": "extinct",
+    "zh": "絕種的；已消失的",
+    "ipa": "ɪkˈstɪŋkt"
+   },
+   {
+    "en": "extra",
+    "zh": "額外的；多餘的",
+    "ipa": "ˈek.strə"
+   },
+   {
+    "en": "fair",
+    "zh": "淺色的；公平的",
+    "ipa": "feə"
+   },
+   {
+    "en": "fat",
+    "zh": "胖的；脂肪",
+    "ipa": "fæt"
+   },
+   {
+    "en": "final",
+    "zh": "最後的；最終的",
+    "ipa": "ˈfaɪ.nəl"
+   },
+   {
+    "en": "fit",
+    "zh": "健康的；合身的",
+    "ipa": "fɪt"
+   },
+   {
+    "en": "flat",
+    "zh": "平的；公寓",
+    "ipa": "flæt"
+   },
+   {
+    "en": "fried",
+    "zh": "油炸的",
+    "ipa": "fraɪd"
+   },
+   {
+    "en": "fun",
+    "zh": "樂趣；好玩的",
+    "ipa": "fʌn"
+   },
+   {
+    "en": "further",
+    "zh": "更遠的；進一步的",
+    "ipa": "ˈfɜː.ðə"
+   },
+   {
+    "en": "good-looking",
+    "zh": "好看又帥氣的",
+    "ipa": "ˌɡʊd ˈlʊk.ɪŋ"
+   },
+   {
+    "en": "grilled",
+    "zh": "燒烤的",
+    "ipa": "ɡrɪld"
+   },
+   {
+    "en": "half-price",
+    "zh": "半價的",
+    "ipa": "ˌhɑːf ˈpraɪs"
+   },
+   {
+    "en": "healthy",
+    "zh": "健康的",
+    "ipa": "ˈhel.θi"
+   },
+   {
+    "en": "helpful",
+    "zh": "有幫助的；熱心的",
+    "ipa": "ˈhelp.fəl"
+   },
+   {
+    "en": "horrible",
+    "zh": "可怕的；糟糕的",
+    "ipa": "ˈhɒr.ə.bəl"
+   },
+   {
+    "en": "horror",
+    "zh": "恐怖；恐怖片（複數 horrors 指恐怖片）",
+    "ipa": "ˈhɒr.ə"
+   },
+   {
+    "en": "huge",
+    "zh": "巨大的",
+    "ipa": "hjuːd"
+   },
+   {
+    "en": "ill",
+    "zh": "生病的；不舒服的",
+    "ipa": "ɪl"
+   },
+   {
+    "en": "indoor",
+    "zh": "室內的",
+    "ipa": "ˈɪn.dɔː"
+   },
+   {
+    "en": "latest",
+    "zh": "最新的",
+    "ipa": "ˈleɪ.tɪst"
+   },
+   {
+    "en": "left-hand",
+    "zh": "左手的；左邊的",
+    "ipa": "ˌleft ˈhænd"
+   },
+   {
+    "en": "lost",
+    "zh": "遺失的；迷路的",
+    "ipa": "lɒst"
+   },
+   {
+    "en": "loud",
+    "zh": "大聲的；吵的",
+    "ipa": "laʊd"
+   },
+   {
+    "en": "lucky",
+    "zh": "幸運的",
+    "ipa": "ˈlʌk.i"
+   },
+   {
+    "en": "mad",
+    "zh": "瘋狂的；生氣的",
+    "ipa": "mæd"
+   },
+   {
+    "en": "metal",
+    "zh": "金屬；金屬製的",
+    "ipa": "ˈmet.əl"
+   },
+   {
+    "en": "missing",
+    "zh": "不見的；缺少的",
+    "ipa": "ˈmɪs.ɪŋ"
+   },
+   {
+    "en": "musical",
+    "zh": "音樂的；有音樂天分的",
+    "ipa": "ˈmjuː.zɪ.kəl"
+   },
+   {
+    "en": "natural",
+    "zh": "自然的；天然的",
+    "ipa": "ˈnætʃ.ər.əl"
+   },
+   {
+    "en": "nervous",
+    "zh": "緊張的；不安的",
+    "ipa": "ˈnɜː.vəs"
+   },
+   {
+    "en": "normal",
+    "zh": "正常的；普通的",
+    "ipa": "ˈnɔː.məl"
+   },
+   {
+    "en": "outdoor",
+    "zh": "戶外的",
+    "ipa": "ˈaʊt.dɔː"
+   },
+   {
+    "en": "paper",
+    "zh": "紙；紙做的",
+    "ipa": "ˈpeɪ.pə"
+   },
+   {
+    "en": "plastic",
+    "zh": "塑膠；塑膠製的",
+    "ipa": "ˈplæs.tɪk"
+   },
+   {
+    "en": "pleasant",
+    "zh": "令人愉快的；舒服的",
+    "ipa": "ˈplez.ənt"
+   },
+   {
+    "en": "quick",
+    "zh": "快的；迅速的",
+    "ipa": "kwɪk"
+   },
+   {
+    "en": "relaxing",
+    "zh": "令人放鬆的",
+    "ipa": "rɪˈlæk.sɪŋ"
+   },
+   {
+    "en": "round",
+    "zh": "圓的；圓形物",
+    "ipa": "raʊnd"
+   },
+   {
+    "en": "scared",
+    "zh": "害怕的；嚇到的",
+    "ipa": "skeəd"
+   },
+   {
+    "en": "single",
+    "zh": "單一的；單身的",
+    "ipa": "ˈsɪŋ.ɡəl"
+   },
+   {
+    "en": "slim",
+    "zh": "苗條的；纖細的",
+    "ipa": "slɪm"
+   },
+   {
+    "en": "slow",
+    "zh": "慢的；緩慢的",
+    "ipa": "sləʊ"
+   },
+   {
+    "en": "strange",
+    "zh": "奇怪的；陌生的",
+    "ipa": "streɪndʒ"
+   },
+   {
+    "en": "successful",
+    "zh": "成功的",
+    "ipa": "səkˈses.fəl"
+   },
+   {
+    "en": "surprising",
+    "zh": "令人驚訝的",
+    "ipa": "səˈpraɪ.zɪŋ"
+   },
+   {
+    "en": "sweet",
+    "zh": "甜的；貼心的",
+    "ipa": "swiːt"
+   },
+   {
+    "en": "tasty",
+    "zh": "好吃的；美味的",
+    "ipa": "ˈteɪ.sti"
+   },
+   {
+    "en": "thirsty",
+    "zh": "口渴的",
+    "ipa": "ˈθɜː.sti"
+   },
+   {
+    "en": "total",
+    "zh": "總共的；總數",
+    "ipa": "ˈtəʊ.təl"
+   },
+   {
+    "en": "unfortunately",
+    "zh": "不幸地；可惜",
+    "ipa": "ʌnˈfɔː.ʃən.ət.li"
+   },
+   {
+    "en": "various",
+    "zh": "各種各樣的",
+    "ipa": "ˈveə.ri.əs"
+   },
+   {
+    "en": "wild",
+    "zh": "野生的；狂野的",
+    "ipa": "waɪld"
+   },
+   {
+    "en": "young",
+    "zh": "年輕的",
+    "ipa": "jʌŋ"
+   },
+   {
+    "en": "zero",
+    "zh": "零；零度",
+    "ipa": "ˈzɪə.rəʊ"
+   },
+   {
+    "en": "careless",
+    "zh": "粗心的；不謹慎的",
+    "ipa": "ˈkeə.ləs"
+   },
+   {
+    "en": "useless",
+    "zh": "沒用的；無用的",
+    "ipa": "ˈjuːs.ləs"
+   },
+   {
+    "en": "clever",
+    "zh": "聰明的；機靈的",
+    "ipa": "ˈklev.ə"
+   },
+   {
+    "en": "lonely",
+    "zh": "孤獨的；寂寞的",
+    "ipa": "ˈləʊn.li"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "be careful about",
+    "zh": "對……要小心",
+    "ipa": "ˌbi ˈkeə.fəl əˈbaʊt"
+   },
+   {
+    "en": "be very careful",
+    "zh": "非常小心",
+    "ipa": "ˌbi ˌver.i ˈkeə.fəl"
+   },
+   {
+    "en": "feel good",
+    "zh": "感覺很好",
+    "ipa": "ˌfiːl ˈɡʊd"
+   },
+   {
+    "en": "look healthy",
+    "zh": "看起來很健康",
+    "ipa": "ˌlʊk ˈhel.θi"
+   },
+   {
+    "en": "get well soon",
+    "zh": "早日康復",
+    "ipa": "ˌɡet ˈwel ˈsuːn"
+   },
+   {
+    "en": "keep fit",
+    "zh": "保持健康",
+    "ipa": "ˌkiːp ˈfɪt"
+   },
+   {
+    "en": "wear something warm",
+    "zh": "穿暖一點的衣服",
+    "ipa": "ˌweə ˈsʌm.θɪŋ ˈwɔːm"
+   },
+   {
+    "en": "a bit loud",
+    "zh": "有一點吵",
+    "ipa": "ə ˌbɪt ˈlaʊd"
+   },
+   {
+    "en": "too expensive",
+    "zh": "太貴了",
+    "ipa": "ˌtuː ɪkˈspen.sɪv"
+   },
+   {
+    "en": "quite crowded",
+    "zh": "相當擁擠",
+    "ipa": "ˌkwaɪt ˈkraʊ.dɪd"
+   },
+   {
+    "en": "very different",
+    "zh": "非常不同",
+    "ipa": "ˌver.i ˈdɪf.rənt"
+   },
+   {
+    "en": "look natural",
+    "zh": "看起來很自然",
+    "ipa": "ˌlʊk ˈnætʃ.əl"
+   },
+   {
+    "en": "a big surprise",
+    "zh": "一個大驚喜",
+    "ipa": "ə ˌbɪɡ səˈpraɪz"
+   },
+   {
+    "en": "be good at",
+    "zh": "擅長（做某事）",
+    "ipa": "ˌbi ˈɡʊd ət"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The concert was successful but the seats were uncomfortable.",
+    "zh": "音樂會很成功，但座位很不舒服。"
+   },
+   {
+    "en": "My little sister is clever and very musical.",
+    "zh": "我的小妹妹很聰明，而且很有音樂天分。"
+   },
+   {
+    "en": "The train is delayed and the road is closed.",
+    "zh": "火車誤點了，而且道路也封閉了。"
+   },
+   {
+    "en": "Be careful with the broken glass on the floor.",
+    "zh": "小心地上那些破玻璃。"
+   },
+   {
+    "en": "My phone is missing and my bag is lost.",
+    "zh": "我的手機不見了，包也丟了。"
+   },
+   {
+    "en": "The chocolate cake was tasty but too sweet for me.",
+    "zh": "巧克力蛋糕很好吃，但對我來說太甜了。"
+   },
+   {
+    "en": "The film was surprising but the ending was strange.",
+    "zh": "這部電影很出人意料，但結局很奇怪。"
+   },
+   {
+    "en": "The music is relaxing and the room feels pleasant.",
+    "zh": "音樂很放鬆，房間也讓人感覺舒服。"
+   },
+   {
+    "en": "The shop was closed and the street was crowded.",
+    "zh": "商店關門了，街上很擁擠。"
+   },
+   {
+    "en": "That was a strange and very careless answer.",
+    "zh": "那是個奇怪又很草率的回答。"
+   },
+   {
+    "en": "I lost my keys and feel very lonely now.",
+    "zh": "我鑰匙丟了，現在覺得很孤單。"
+   },
+   {
+    "en": "The plane was delayed and the passengers got nervous.",
+    "zh": "飛機延誤了，乘客們開始緊張起來。"
+   },
+   {
+    "en": "The waiter was helpful and the food was tasty.",
+    "zh": "服務生很客氣，食物也很好吃。"
+   },
+   {
+    "en": "That old computer is slow and now quite useless.",
+    "zh": "那台舊電腦很慢，現在相當沒用了。"
+   }
+  ],
+  "tips": [
+   "比較級與最高級看字尾：-y 結尾改成 -ier、-iest（happy → happier → happiest）；-e 結尾只加 -r、-st（nice → nicer → nicest）。",
+   "比較級與最高級別靠語感：-y 結尾要加 -er、-est，應改成 -ier、-iest（happy → happier → happiest）。",
+   "形容詞前面多半要補上定冠詞或不定冠詞，少一個 a 或 the，整句就扣分（a strange answer、the tallest boy）。"
+  ]
+ },
+ {
+  "id": "verbs-feeling",
+  "icon": "💗",
+  "name": "動詞：感覺與狀態",
+  "nameEn": "Verbs: Feeling & State",
+  "summary": "become / feel / seem / enjoy / worry… 狀態與感受的動詞。",
+  "note": "become 後面接形容詞，get 後面也可接形容詞，兩者常一起出題。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "become",
+    "zh": "變成；變得",
+    "ipa": "bɪˈkʌm"
+   },
+   {
+    "en": "enjoy",
+    "zh": "喜歡；享受",
+    "ipa": "ɪnˈdʒɔɪ"
+   },
+   {
+    "en": "feel",
+    "zh": "感覺；覺得",
+    "ipa": "fiːl"
+   },
+   {
+    "en": "hate",
+    "zh": "討厭；恨",
+    "ipa": "heɪt"
+   },
+   {
+    "en": "look",
+    "zh": "看起來；看",
+    "ipa": "lʊk"
+   },
+   {
+    "en": "love",
+    "zh": "愛；非常喜歡",
+    "ipa": "lʌv"
+   },
+   {
+    "en": "mind",
+    "zh": "介意；在乎",
+    "ipa": "maɪnd"
+   },
+   {
+    "en": "please",
+    "zh": "使高興；（禮貌用語）請",
+    "ipa": "pliːz"
+   },
+   {
+    "en": "prefer / would prefer",
+    "zh": "比較喜歡／寧願",
+    "ipa": "prɪˈfɜː ˈwʊd prɪˈfɜː"
+   },
+   {
+    "en": "relax",
+    "zh": "放鬆；休息",
+    "ipa": "rɪˈlæks"
+   },
+   {
+    "en": "seem",
+    "zh": "似乎；看起來",
+    "ipa": "siːm"
+   },
+   {
+    "en": "surprise",
+    "zh": "使驚訝；驚喜",
+    "ipa": "səˈpraɪz"
+   },
+   {
+    "en": "worry",
+    "zh": "擔心；憂慮",
+    "ipa": "ˈwʌr.i"
+   },
+   {
+    "en": "dislike",
+    "zh": "不喜歡",
+    "ipa": "dɪsˈlaɪk"
+   },
+   {
+    "en": "miss",
+    "zh": "想念；錯過",
+    "ipa": "mɪs"
+   },
+   {
+    "en": "cheer",
+    "zh": "使歡喜；加油",
+    "ipa": "tʃɪə"
+   },
+   {
+    "en": "calm",
+    "zh": "使冷靜；平靜的",
+    "ipa": "kɑːm"
+   },
+   {
+    "en": "panic",
+    "zh": "恐慌；驚慌",
+    "ipa": "ˈpæn.ɪk"
+   },
+   {
+    "en": "appear",
+    "zh": "顯得；出現",
+    "ipa": "əˈpɪə"
+   },
+   {
+    "en": "grow",
+    "zh": "成長；漸漸變得",
+    "ipa": "ɡrəʊ"
+   },
+   {
+    "en": "feel up to",
+    "zh": "想做……；有力氣做",
+    "ipa": "ˌfiːl ˈʌp tuː"
+   },
+   {
+    "en": "get worse",
+    "zh": "變差；惡化",
+    "ipa": "ˌɡet ˈwɜːs"
+   },
+   {
+    "en": "get well",
+    "zh": "康復",
+    "ipa": "ˌɡet ˈwel"
+   },
+   {
+    "en": "settle down",
+    "zh": "安頓下來；平靜下來",
+    "ipa": "ˌset.əl ˈdaʊn"
+   },
+   {
+    "en": "slow down",
+    "zh": "放慢速度",
+    "ipa": "ˌsləʊ ˈdaʊn"
+   },
+   {
+    "en": "smile",
+    "zh": "微笑",
+    "ipa": "smaɪl"
+   },
+   {
+    "en": "hurt",
+    "zh": "弄痛；受傷",
+    "ipa": "hɜːt"
+   },
+   {
+    "en": "heal",
+    "zh": "癒合；痊癒",
+    "ipa": "hiːl"
+   },
+   {
+    "en": "settle",
+    "zh": "解決；安定下來",
+    "ipa": "ˈset.əl"
+   },
+   {
+    "en": "realise",
+    "zh": "意識到；體會到",
+    "ipa": "ˈriː.ə.laɪz"
+   },
+   {
+    "en": "imagine",
+    "zh": "想像",
+    "ipa": "ɪˈmædʒ.ɪn"
+   },
+   {
+    "en": "doubt",
+    "zh": "懷疑",
+    "ipa": "daʊt"
+   },
+   {
+    "en": "trust",
+    "zh": "信任",
+    "ipa": "trʌst"
+   },
+   {
+    "en": "complain",
+    "zh": "抱怨；說不滿的話",
+    "ipa": "kəmˈpleɪn"
+   },
+   {
+    "en": "apologise",
+    "zh": "道歉",
+    "ipa": "əˈpɒl.ə.dʒaɪz"
+   },
+   {
+    "en": "behave",
+    "zh": "表現；守規矩",
+    "ipa": "bɪˈheɪv"
+   },
+   {
+    "en": "care",
+    "zh": "在乎；關心",
+    "ipa": "keə"
+   },
+   {
+    "en": "deserve",
+    "zh": "值得",
+    "ipa": "dɪˈzɜːv"
+   },
+   {
+    "en": "manage",
+    "zh": "設法做到；應付",
+    "ipa": "ˈmæn.ɪdʒ"
+   },
+   {
+    "en": "remain",
+    "zh": "保持；仍然是",
+    "ipa": "rɪˈmeɪn"
+   },
+   {
+    "en": "hold on",
+    "zh": "撐住；等一下",
+    "ipa": "ˌhəʊld ˈɒn"
+   },
+   {
+    "en": "be bored",
+    "zh": "感到無聊",
+    "ipa": "bi ˈbɔːd"
+   },
+   {
+    "en": "be tired",
+    "zh": "感到疲倦",
+    "ipa": "bi ˈtaɪəd"
+   },
+   {
+    "en": "be excited",
+    "zh": "感到興奮",
+    "ipa": "bi ɪkˈsaɪ.tɪd"
+   },
+   {
+    "en": "be disappointed",
+    "zh": "感到失望",
+    "ipa": "bi ˌdɪs.əˈpɔɪn.tɪd"
+   },
+   {
+    "en": "relaxed",
+    "zh": "放鬆的；輕鬆的",
+    "ipa": "ˈrɪ.lækst"
+   },
+   {
+    "en": "feel proud",
+    "zh": "感到驕傲",
+    "ipa": "ˈfiːl praʊd"
+   },
+   {
+    "en": "get used to",
+    "zh": "開始習慣於",
+    "ipa": "ˌɡet ˈjuːst tuː"
+   },
+   {
+    "en": "be used to",
+    "zh": "習慣於",
+    "ipa": "bi ˈjuːst tuː"
+   },
+   {
+    "en": "blame",
+    "zh": "責怪；把責任推給",
+    "ipa": "bleɪm"
+   },
+   {
+    "en": "forgive",
+    "zh": "原諒",
+    "ipa": "fəˈɡɪv"
+   },
+   {
+    "en": "hug",
+    "zh": "擁抱",
+    "ipa": "hʌɡ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "feel happy",
+    "zh": "感到開心",
+    "ipa": "ˌfiːl ˈhæp.i"
+   },
+   {
+    "en": "feel tired",
+    "zh": "感到疲倦",
+    "ipa": "ˌfiːl ˈtaɪəd"
+   },
+   {
+    "en": "feel like",
+    "zh": "想要",
+    "ipa": "ˌfiːl ˈlaɪk"
+   },
+   {
+    "en": "look like",
+    "zh": "看起來像",
+    "ipa": "ˌlʊk ˈlaɪk"
+   },
+   {
+    "en": "get better",
+    "zh": "變好",
+    "ipa": "ˌɡet ˈbet.ə"
+   },
+   {
+    "en": "cheer up",
+    "zh": "開心一點",
+    "ipa": "ˌtʃɪə ˈʌp"
+   },
+   {
+    "en": "calm down",
+    "zh": "冷靜下來",
+    "ipa": "ˌkɑːm ˈdaʊn"
+   },
+   {
+    "en": "fall asleep",
+    "zh": "睡著",
+    "ipa": "ˌfɔːl əˈsliːp"
+   },
+   {
+    "en": "make friends",
+    "zh": "交朋友",
+    "ipa": "ˌmeɪk ˈfrendz"
+   },
+   {
+    "en": "look forward to",
+    "zh": "期待",
+    "ipa": "ˌlʊk ˈfɔː.wəd tuː"
+   },
+   {
+    "en": "enjoy oneself",
+    "zh": "玩得開心",
+    "ipa": "ɪnˈdʒɔɪ wʌnˈself"
+   },
+   {
+    "en": "be afraid of",
+    "zh": "害怕",
+    "ipa": "bi əˈfreɪd əv"
+   },
+   {
+    "en": "be interested in",
+    "zh": "對……感興趣",
+    "ipa": "bi ˈɪn.trə.stɪd ɪn"
+   },
+   {
+    "en": "feel sorry for",
+    "zh": "為……感到抱歉",
+    "ipa": "ˌfiːl ˈsɒr.i fə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I feel tired, so I want to relax at home.",
+    "zh": "我覺得疲倦，所以想在家放鬆。"
+   },
+   {
+    "en": "My sister always worries, but she seems fine.",
+    "zh": "我姐姐總是擔心，但她看起來還好。"
+   },
+   {
+    "en": "You look happy and relaxed because you passed the exam.",
+    "zh": "你因為通過考試而看起來開心又輕鬆。"
+   },
+   {
+    "en": "She seems tired because she became ill last week.",
+    "zh": "她看起來很累，因為上星期生病了。"
+   },
+   {
+    "en": "I enjoy films, but my brother hates horror films.",
+    "zh": "我喜歡電影，但我哥哥討厭恐怖片。"
+   },
+   {
+    "en": "She did not mind waiting because she felt relaxed.",
+    "zh": "她不介意等待，因為她覺得很輕鬆。"
+   },
+   {
+    "en": "I worried about the test, but it became easy.",
+    "zh": "我擔心那場考試，但後來變得很簡單。"
+   },
+   {
+    "en": "They enjoyed the party and made many new friends.",
+    "zh": "他們玩得很開心，也交到許多新朋友。"
+   },
+   {
+    "en": "Your surprise made me smile and feel very happy.",
+    "zh": "你的驚喜讓我笑了起來，覺得很開心。"
+   },
+   {
+    "en": "He behaves well, so everyone seems happy with him.",
+    "zh": "他表現得很好，所以大家對他都很滿意。"
+   },
+   {
+    "en": "I prefer tea to coffee, but my sister prefers milk.",
+    "zh": "比起咖啡我更喜歡茶，但我姐姐更喜歡牛奶。"
+   },
+   {
+    "en": "Don't worry, because we all feel nervous before exams.",
+    "zh": "別擔心，因為我們考前都會感到緊張。"
+   },
+   {
+    "en": "She looked at me and I immediately felt much better.",
+    "zh": "她看著我，我立刻感覺好多了。"
+   },
+   {
+    "en": "I need to calm down and relax after this long day.",
+    "zh": "度過漫長的一天後，我需要冷靜下來放鬆。"
+   }
+  ],
+  "tips": [
+   "狀態動詞後面接的是形容詞，不是名詞：She seems happy、He became tired、I feel relaxed，中文式的「感覺到快樂」千萬不要寫。",
+   "feel、look、seem 這三個最容易被混用：feel 是自己的感覺，look 是外表，seem 是給人的整體印象，練句子時刻意各寫一句。",
+   "mind 後面接 if 從句要加完整的問法：Do you mind if I sit here?；想說「沒關係」時只有一句 Never mind.，不要多加字。"
+  ]
+ },
+ {
+  "id": "verbs-food",
+  "icon": "🍳",
+  "name": "動詞：飲食與烹調",
+  "nameEn": "Verbs: Food & Cooking",
+  "summary": "eat / drink / cook / boil / taste… 從廚房到餐桌的動詞。",
+  "note": "可數名詞後面的 eat / have 要用複數，是本場最大陷阱。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "add",
+    "zh": "加入；加上",
+    "ipa": "æd"
+   },
+   {
+    "en": "bake",
+    "zh": "用烤箱烘烤",
+    "ipa": "beɪk"
+   },
+   {
+    "en": "boil",
+    "zh": "煮沸；用開水煮",
+    "ipa": "bɔɪl"
+   },
+   {
+    "en": "mix",
+    "zh": "混合；攪拌",
+    "ipa": "mɪks"
+   },
+   {
+    "en": "order",
+    "zh": "點餐；訂購；順序",
+    "ipa": "ˈɔː.də"
+   },
+   {
+    "en": "roast",
+    "zh": "烤、烘烤；烤肉、烤菜",
+    "ipa": "rəʊst"
+   },
+   {
+    "en": "season",
+    "zh": "季節；加調味料",
+    "ipa": "ˈsiː.zən"
+   },
+   {
+    "en": "serve",
+    "zh": "盛出；供應",
+    "ipa": "sɜːv"
+   },
+   {
+    "en": "toast",
+    "zh": "吐司；烤吐司",
+    "ipa": "təʊst"
+   },
+   {
+    "en": "eat",
+    "zh": "吃",
+    "ipa": "iːt"
+   },
+   {
+    "en": "drink",
+    "zh": "喝；飲料",
+    "ipa": "drɪŋk"
+   },
+   {
+    "en": "cook",
+    "zh": "烹調；煮飯；廚師",
+    "ipa": "kʊk"
+   },
+   {
+    "en": "fry",
+    "zh": "用油炸；油煎",
+    "ipa": "fraɪ"
+   },
+   {
+    "en": "grill",
+    "zh": "燒烤",
+    "ipa": "ɡrɪl"
+   },
+   {
+    "en": "peel",
+    "zh": "削皮；剝皮",
+    "ipa": "piːl"
+   },
+   {
+    "en": "chop",
+    "zh": "切碎；剁",
+    "ipa": "tʃɒp"
+   },
+   {
+    "en": "pour",
+    "zh": "倒；灌",
+    "ipa": "pɔː"
+   },
+   {
+    "en": "stir",
+    "zh": "攪拌",
+    "ipa": "stɜː"
+   },
+   {
+    "en": "grate",
+    "zh": "刨碎；磨成碎屑",
+    "ipa": "ɡreɪt"
+   },
+   {
+    "en": "whisk",
+    "zh": "打發；快速攪拌",
+    "ipa": "wɪsk"
+   },
+   {
+    "en": "beat",
+    "zh": "攪打；打",
+    "ipa": "biːt"
+   },
+   {
+    "en": "squeeze",
+    "zh": "擠；壓榨",
+    "ipa": "skwiːz"
+   },
+   {
+    "en": "bite",
+    "zh": "咬；咬一口",
+    "ipa": "baɪt"
+   },
+   {
+    "en": "chew",
+    "zh": "咀嚼",
+    "ipa": "tʃuː"
+   },
+   {
+    "en": "swallow",
+    "zh": "吞下；嚥下",
+    "ipa": "ˈswɒl.əʊ"
+   },
+   {
+    "en": "sip",
+    "zh": "小口喝",
+    "ipa": "sɪp"
+   },
+   {
+    "en": "lick",
+    "zh": "舔",
+    "ipa": "lɪk"
+   },
+   {
+    "en": "feed",
+    "zh": "餵；餵養",
+    "ipa": "fiːd"
+   },
+   {
+    "en": "rinse",
+    "zh": "用清水沖洗",
+    "ipa": "rɪns"
+   },
+   {
+    "en": "soak",
+    "zh": "浸泡",
+    "ipa": "səʊk"
+   },
+   {
+    "en": "warm",
+    "zh": "加熱；溫暖的",
+    "ipa": "wɔːm"
+   },
+   {
+    "en": "heat",
+    "zh": "加熱；熱",
+    "ipa": "hiːt"
+   },
+   {
+    "en": "cool",
+    "zh": "冷卻；涼爽的",
+    "ipa": "kuːl"
+   },
+   {
+    "en": "freeze",
+    "zh": "冷凍；結冰",
+    "ipa": "friːz"
+   },
+   {
+    "en": "taste",
+    "zh": "品嚐；嘗起來",
+    "ipa": "teɪst"
+   },
+   {
+    "en": "pick",
+    "zh": "挑選；採摘",
+    "ipa": "pɪk"
+   },
+   {
+    "en": "shop",
+    "zh": "購物",
+    "ipa": "ʃɒp"
+   },
+   {
+    "en": "cost",
+    "zh": "花費；價錢是",
+    "ipa": "kɒst"
+   },
+   {
+    "en": "pay",
+    "zh": "付錢",
+    "ipa": "peɪ"
+   },
+   {
+    "en": "oven",
+    "zh": "烤箱",
+    "ipa": "ˈʌv.ən"
+   },
+   {
+    "en": "pan",
+    "zh": "平底鍋",
+    "ipa": "pæn"
+   },
+   {
+    "en": "pot",
+    "zh": "鍋；煮鍋",
+    "ipa": "pɒt"
+   },
+   {
+    "en": "menu",
+    "zh": "菜單",
+    "ipa": "ˈmen.juː"
+   },
+   {
+    "en": "waiter",
+    "zh": "服務生；侍者",
+    "ipa": "ˈweɪ.tə"
+   },
+   {
+    "en": "book a table",
+    "zh": "訂位",
+    "ipa": "ˌbʊk ə ˈteɪ.bəl"
+   },
+   {
+    "en": "hungry",
+    "zh": "餓的",
+    "ipa": "ˈhʌŋ.ɡri"
+   },
+   {
+    "en": "measure",
+    "zh": "測量；量",
+    "ipa": "ˈmeʒ.ə"
+   },
+   {
+    "en": "weigh",
+    "zh": "稱重；重達",
+    "ipa": "weɪ"
+   },
+   {
+    "en": "get hungry",
+    "zh": "開始覺得餓",
+    "ipa": "ˌɡet ˈhʌŋ.ɡri"
+   },
+   {
+    "en": "eat well",
+    "zh": "吃得好",
+    "ipa": "ˌiːt ˈwel"
+   },
+   {
+    "en": "spill",
+    "zh": "灑出；打翻",
+    "ipa": "spɪl"
+   },
+   {
+    "en": "melt",
+    "zh": "融化；溶化",
+    "ipa": "melt"
+   },
+   {
+    "en": "frozen",
+    "zh": "冷凍的；結冰的",
+    "ipa": "ˈfrəʊ.zən"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "boil an egg",
+    "zh": "水煮一顆蛋",
+    "ipa": "ˌbɔɪl ən ˈeɡ"
+   },
+   {
+    "en": "cook dinner",
+    "zh": "做晚餐",
+    "ipa": "ˌkʊk ˈdɪn.ə"
+   },
+   {
+    "en": "set the table",
+    "zh": "擺好餐具",
+    "ipa": "ˌset ðə ˈteɪ.bəl"
+   },
+   {
+    "en": "clear the table",
+    "zh": "收拾餐具",
+    "ipa": "ˌklɪə ðə ˈteɪ.bəl"
+   },
+   {
+    "en": "eat out",
+    "zh": "在外面吃",
+    "ipa": "ˌiːt ˈaʊt"
+   },
+   {
+    "en": "wash up",
+    "zh": "洗碗",
+    "ipa": "ˌwɒʃ ˈʌp"
+   },
+   {
+    "en": "heat up",
+    "zh": "熱一熱",
+    "ipa": "ˌhiːt ˈʌp"
+   },
+   {
+    "en": "take a bite",
+    "zh": "咬一口",
+    "ipa": "ˌteɪk ə ˈbaɪt"
+   },
+   {
+    "en": "cut the cake",
+    "zh": "切蛋糕",
+    "ipa": "ˌkʌt ðə ˈkeɪk"
+   },
+   {
+    "en": "a cup of tea",
+    "zh": "一杯茶",
+    "ipa": "ə ˌkʌp əv ˈtiː"
+   },
+   {
+    "en": "a glass of milk",
+    "zh": "一杯牛奶",
+    "ipa": "ə ˌɡlɑːs əv ˈmɪlk"
+   },
+   {
+    "en": "order food",
+    "zh": "點餐",
+    "ipa": "ˈɔː.də ˈfuːd"
+   },
+   {
+    "en": "be hungry",
+    "zh": "感到餓",
+    "ipa": "bi ˈhʌŋ.ɡri"
+   },
+   {
+    "en": "taste good",
+    "zh": "嘗起來很好吃",
+    "ipa": "ˌteɪst ˈɡʊd"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My family cooks dinner together and eats it at seven.",
+    "zh": "我們全家一起做晚餐，七點吃飯。"
+   },
+   {
+    "en": "Please add some sugar and stir my tea.",
+    "zh": "請加一點糖，然後攪拌我的茶。"
+   },
+   {
+    "en": "She peeled the apples and chopped them very small.",
+    "zh": "她把蘋果削了皮，切成很小的塊。"
+   },
+   {
+    "en": "He boils the water and drinks three cups of tea.",
+    "zh": "他煮開水，喝三杯茶。"
+   },
+   {
+    "en": "We often order here because they serve good bread.",
+    "zh": "我們常在這裡點餐，因為他們供應很好的麵包。"
+   },
+   {
+    "en": "I fry the eggs and my sister boils the rice.",
+    "zh": "我煎蛋，我姐姐煮飯。"
+   },
+   {
+    "en": "After dinner we wash up and clear the table.",
+    "zh": "晚餐後我們洗碗並收拾餐具。"
+   },
+   {
+    "en": "Please taste the soup before we serve it to the guests.",
+    "zh": "請在我們端給客人之前先嚐一下湯。"
+   },
+   {
+    "en": "I eat bread and cheese and drink a hot coffee.",
+    "zh": "我吃麵包和起司，並喝一杯熱咖啡。"
+   },
+   {
+    "en": "She ordered the fish and drank only water.",
+    "zh": "她點了魚，只喝白開水。"
+   },
+   {
+    "en": "He mixes the eggs and sugar, then bakes the cake.",
+    "zh": "他把蛋和糖混合起來，然後烤蛋糕。"
+   },
+   {
+    "en": "The hungry children ate three sandwiches for dinner.",
+    "zh": "飢餓的孩子們晚餐吃了三個三明治。"
+   },
+   {
+    "en": "We froze the soup and heated it up later.",
+    "zh": "我們把湯冷凍起來，之後再熱一熱。"
+   },
+   {
+    "en": "The waiter took our order and served the food quickly.",
+    "zh": "服務生接下我們的點單，很快送上了食物。"
+   }
+  ],
+  "tips": [
+   "可數名詞用複數、不可數名詞沒有複數：eat cakes、order two meals 是對的，eat rice 或 order two rice 就錯了。",
+   "烹調動詞幾乎都要跟賓語一起背：boil the water、mix the eggs、heat up the soup、wash up after dinner，整組記憶最快。",
+   "分清楚 cook、bake、fry：cook 是烹煮，bake 是用烤箱烤麵包或點心，fry 是用油炸，拼錯意思就整個不同。"
+  ]
+ }
+]

@@ -1,0 +1,54 @@
+{
+  "scenes": ["measurements", "feelings", "natural-world", "time", "places-buildings"],
+  "issues": [
+    {
+      "scene": "measurements",
+      "kind": "meaning",
+      "en": "month",
+      "zh": "個月",
+      "problem": "「個月」是量詞，必須搭配數字（如 三個月、兩個月）才能成立，不能單獨代表名詞 month。同一個專案的 time 場景就把 month 譯為「月份」，用法不一致。",
+      "suggestion": "月（或 一個月／月份）"
+    },
+    {
+      "scene": "time",
+      "kind": "polysemy",
+      "en": "o'clock",
+      "zh": "幾點鐘",
+      "problem": "o'clock 指「（整點的）…點鐘」這個用法；「幾點鐘」在中文裡是疑問語（What time is it?），是另一個詞性與語氣的說法。照這個譯法，學習者會把 o'clock 誤認為問時間的疑問詞。",
+      "suggestion": "點鐘（如 三點鐘）／鐘點"
+    },
+    {
+      "scene": "feelings",
+      "kind": "tips",
+      "en": "介紹一個人時先說名字，再用兩兩三個性格或心情的形容詞。",
+      "zh": "介紹一個人時先說名字，再用兩兩三個性格或心情的形容詞。",
+      "problem": "提示出現錯字：「兩兩三個」的「兩」重複，應為「兩三個」。",
+      "suggestion": "介紹一個人時先說名字，再用兩三個性格或心情的形容詞。"
+    },
+    {
+      "scene": "places-buildings",
+      "kind": "ipa",
+      "en": "opposite",
+      "zh": "在旅館對面",
+      "problem": "音標 ˈɒ.pə.zɪt 把重音放在第一個音節，這是美式讀法，但母音又寫成英式的 ɒ，變成英美混寫。英式 opposite 應為弱讀起首、重音在第二音節：əˈpɒzɪt。",
+      "suggestion": "əˈpɒzɪt"
+    },
+    {
+      "scene": "places-buildings",
+      "kind": "tips",
+      "en": "建築場所的名詞前要加定冠詞 the，複數場所則加 -s，例如 the shop、two shops。",
+      "zh": "建築場所的名詞前要加定冠詞 the，複數場所則加 -s，例如 the shop、two shops。",
+      "problem": "這條規則本身是錯的，只在特指某一個場所時才用 the。照字面理解會讓學習者說出 I go to the school、I work in the factory 這類錯誤句子；首次提及或泛指應該用 a，例如 a shop、This shop is nice。",
+      "suggestion": "特指某一個場所時前面用 the，例如 I like the shop on my street；泛指或第一次提到用 a，例如 There is a shop near here。"
+    },
+    {
+      "scene": "places-buildings",
+      "kind": "tips",
+      "en": "英式樓層怎麼說：ground floor 是一樓，往上依序是 first floor、second floor。",
+      "zh": "英式樓層怎麼說：ground floor 是一樓，往上依序是 first floor、second floor。",
+      "problem": "本場景的片語把 on the second floor 譯為「在二樓」，與這條提示自訂的英式編號（ground floor＝一樓、first floor＝二樓、second floor＝三樓）互相矛盾，學習者無從判斷 second floor 到底在哪一層。",
+      "suggestion": "統一採用英式編號，片語改為「在三樓」：on the second floor 在三樓；或修改提示，說明台灣口語的一樓即 ground floor。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

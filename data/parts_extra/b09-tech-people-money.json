@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "noun-tech-media",
+  "icon": "💾",
+  "name": "名詞：科技與媒體（補充）",
+  "nameEn": "Nouns: Technology & Media",
+  "summary": "website / program / printer / social media… 螢幕上的東西。",
+  "note": "news 不可數，「一則新聞」要說 a piece of news。",
+  "group": "名詞",
+  "words": [
+   {
+    "en": "app",
+    "zh": "應用程式",
+    "ipa": "ˈæp"
+   },
+   {
+    "en": "blog",
+    "zh": "部落格",
+    "ipa": "blɒɡ"
+   },
+   {
+    "en": "CD",
+    "zh": "光碟",
+    "ipa": "ˌsiː ˈdiː"
+   },
+   {
+    "en": "cell phone",
+    "zh": "行動電話",
+    "ipa": "ˈsel fəʊn"
+   },
+   {
+    "en": "channel",
+    "zh": "頻道",
+    "ipa": "ˈtʃæn.əl"
+   },
+   {
+    "en": "chatroom",
+    "zh": "聊天室",
+    "ipa": "ˈtʃæt.ruːm"
+   },
+   {
+    "en": "digital camera",
+    "zh": "數位相機",
+    "ipa": "ˈdɪ.dʒɪ.təl ˈkæm.rə"
+   },
+   {
+    "en": "document",
+    "zh": "文件",
+    "ipa": "ˈdɒk.jə.mənt"
+   },
+   {
+    "en": "DVD",
+    "zh": "數位影音光碟",
+    "ipa": "ˌdiː viː ˈdiː"
+   },
+   {
+    "en": "DVD player",
+    "zh": "光碟播放器",
+    "ipa": "ˌdiː viː ˈdiː ˈpleɪ.ə"
+   },
+   {
+    "en": "folder",
+    "zh": "資料夾",
+    "ipa": "ˈfəʊl.də"
+   },
+   {
+    "en": "link",
+    "zh": "連結",
+    "ipa": "lɪŋk"
+   },
+   {
+    "en": "microphone",
+    "zh": "麥克風",
+    "ipa": "ˈmaɪ.krə.fəʊn"
+   },
+   {
+    "en": "mobile",
+    "zh": "行動電話；手機",
+    "ipa": "ˈməʊ.baɪl"
+   },
+   {
+    "en": "net",
+    "zh": "網際網路",
+    "ipa": "net"
+   },
+   {
+    "en": "page",
+    "zh": "頁面",
+    "ipa": "peɪdʒ"
+   },
+   {
+    "en": "paragraph",
+    "zh": "段落",
+    "ipa": "ˈpær.ə.ɡrɑːf"
+   },
+   {
+    "en": "PC",
+    "zh": "個人電腦",
+    "ipa": "ˌpiː ˈsiː"
+   },
+   {
+    "en": "phone",
+    "zh": "電話；打電話",
+    "ipa": "fəʊn"
+   },
+   {
+    "en": "photo",
+    "zh": "照片",
+    "ipa": "ˈfəʊ.təʊ"
+   },
+   {
+    "en": "photography",
+    "zh": "攝影",
+    "ipa": "fəˈtɒɡ.rə.fi"
+   },
+   {
+    "en": "picture",
+    "zh": "圖片",
+    "ipa": "ˈpɪk.tʃə"
+   },
+   {
+    "en": "program",
+    "zh": "電腦程式；節目",
+    "ipa": "ˈprəʊ.ɡræm"
+   },
+   {
+    "en": "selfie",
+    "zh": "自拍照",
+    "ipa": "ˈsel.fi"
+   },
+   {
+    "en": "site",
+    "zh": "網站；場所",
+    "ipa": "saɪt"
+   },
+   {
+    "en": "social media",
+    "zh": "社群媒體",
+    "ipa": "ˈsəʊ.ʃəl ˈmiː.di.ə"
+   },
+   {
+    "en": "speaker",
+    "zh": "喇叭；發言者",
+    "ipa": "ˈspiː.kə"
+   },
+   {
+    "en": "technology",
+    "zh": "科技",
+    "ipa": "tekˈnɒl.ə.dʒi"
+   },
+   {
+    "en": "telephone",
+    "zh": "電話；打電話",
+    "ipa": "ˈtel.ɪ.fəʊn"
+   },
+   {
+    "en": "television",
+    "zh": "電視",
+    "ipa": "ˈtel.ɪ.vɪʒ.ən"
+   },
+   {
+    "en": "text message",
+    "zh": "簡訊",
+    "ipa": "ˈtekst ˈmes.ɪdʒ"
+   },
+   {
+    "en": "upload",
+    "zh": "上傳",
+    "ipa": "ˌʌpˈləʊd"
+   },
+   {
+    "en": "web",
+    "zh": "網路；網頁",
+    "ipa": "web"
+   },
+   {
+    "en": "wifi",
+    "zh": "無線網路",
+    "ipa": "ˈwaɪ.faɪ"
+   },
+   {
+    "en": "laptop",
+    "zh": "筆記型電腦",
+    "ipa": "ˈlæp.tɒp"
+   },
+   {
+    "en": "tablet",
+    "zh": "平板電腦",
+    "ipa": "ˈtæb.lət"
+   },
+   {
+    "en": "device",
+    "zh": "電子裝置",
+    "ipa": "dɪˈvaɪs"
+   },
+   {
+    "en": "data",
+    "zh": "資料",
+    "ipa": "ˈdeɪ.tə"
+   },
+   {
+    "en": "battery",
+    "zh": "電池",
+    "ipa": "ˈbæt.ər.i"
+   },
+   {
+    "en": "charger",
+    "zh": "充電器",
+    "ipa": "ˈtʃɑː.dʒə"
+   },
+   {
+    "en": "radio",
+    "zh": "收音機",
+    "ipa": "ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "song",
+    "zh": "歌曲",
+    "ipa": "sɒŋ"
+   },
+   {
+    "en": "report",
+    "zh": "報導",
+    "ipa": "rɪˈpɔːt"
+   },
+   {
+    "en": "studio",
+    "zh": "錄音室；攝影棚",
+    "ipa": "ˈstjuː.di.əʊ"
+   },
+   {
+    "en": "signal",
+    "zh": "訊號",
+    "ipa": "ˈsɪɡ.nəl"
+   },
+   {
+    "en": "headphone",
+    "zh": "耳機",
+    "ipa": "ˈhed.fəʊn"
+   },
+   {
+    "en": "webcam",
+    "zh": "網路攝影機",
+    "ipa": "ˈweb.kæm"
+   },
+   {
+    "en": "password",
+    "zh": "密碼",
+    "ipa": "ˈpɑːs.wɜːd"
+   },
+   {
+    "en": "username",
+    "zh": "使用者名稱",
+    "ipa": "ˈjuː.zə.neɪm"
+   },
+   {
+    "en": "search",
+    "zh": "搜尋",
+    "ipa": "sɜːtʃ"
+   },
+   {
+    "en": "menu",
+    "zh": "選單",
+    "ipa": "ˈmen.juː"
+   },
+   {
+    "en": "click",
+    "zh": "點選",
+    "ipa": "klɪk"
+   },
+   {
+    "en": "post",
+    "zh": "貼文；發表",
+    "ipa": "pəʊst"
+   },
+   {
+    "en": "share",
+    "zh": "分享",
+    "ipa": "ʃeə"
+   },
+   {
+    "en": "comment",
+    "zh": "留言",
+    "ipa": "ˈkɒm.ent"
+   },
+   {
+    "en": "headline",
+    "zh": "標題",
+    "ipa": "ˈhed.laɪn"
+   },
+   {
+    "en": "game",
+    "zh": "遊戲；電玩",
+    "ipa": "ɡeɪm"
+   },
+   {
+    "en": "hardware",
+    "zh": "硬體",
+    "ipa": "ˈhɑːd.weə"
+   },
+   {
+    "en": "scanner",
+    "zh": "掃描器",
+    "ipa": "ˈskæn.ə"
+   },
+   {
+    "en": "icon",
+    "zh": "圖示",
+    "ipa": "ˈaɪ.kɒn"
+   },
+   {
+    "en": "version",
+    "zh": "版本",
+    "ipa": "ˈvɜː.ʃən"
+   },
+   {
+    "en": "update",
+    "zh": "更新；更新檔",
+    "ipa": "ˌʌpˈdeɪt"
+   },
+   {
+    "en": "network",
+    "zh": "網路",
+    "ipa": "ˈnet.wɜːk"
+   },
+   {
+    "en": "browser",
+    "zh": "瀏覽器",
+    "ipa": "ˈbraʊ.zə"
+   },
+   {
+    "en": "news",
+    "zh": "新聞",
+    "ipa": "njuːz"
+   },
+   {
+    "en": "piece",
+    "zh": "一塊；一片",
+    "ipa": "piːs"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go online",
+    "zh": "上網；連線",
+    "ipa": "ˌɡəʊ ˌɒnˈlaɪn"
+   },
+   {
+    "en": "turn on the computer",
+    "zh": "開電腦",
+    "ipa": "ˌtɜːn ɒn ðə kəmˈpjuː.tə"
+   },
+   {
+    "en": "turn off the computer",
+    "zh": "關掉電腦",
+    "ipa": "ˌtɜːn ˈɒf ðə kəmˈpjuː.tə"
+   },
+   {
+    "en": "send a text message",
+    "zh": "傳送簡訊",
+    "ipa": "ˌsend ə ˈtekst ˈmes.ɪdʒ"
+   },
+   {
+    "en": "take a photo",
+    "zh": "拍照片",
+    "ipa": "ˌteɪk ə ˈfəʊ.təʊ"
+   },
+   {
+    "en": "watch TV",
+    "zh": "看電視",
+    "ipa": "ˌwɒtʃ ˌtiː ˈviː"
+   },
+   {
+    "en": "listen to music",
+    "zh": "聽音樂",
+    "ipa": "ˌlɪs.ən tə ˈmjuː.zɪk"
+   },
+   {
+    "en": "upload a photo",
+    "zh": "上傳照片",
+    "ipa": "ˌʌpˈləʊd ə ˈfəʊ.təʊ"
+   },
+   {
+    "en": "download a film",
+    "zh": "下載電影",
+    "ipa": "ˌdaʊnˈləʊd ə ˈfɪlm"
+   },
+   {
+    "en": "click on the link",
+    "zh": "點選連結",
+    "ipa": "ˌklɪk ɒn ðə lɪŋk"
+   },
+   {
+    "en": "search for information",
+    "zh": "搜尋資訊",
+    "ipa": "ˌsɜːtʃ fər ˌɪn.fəˈmeɪ.ʃən"
+   },
+   {
+    "en": "log on",
+    "zh": "登入",
+    "ipa": "ˌlɒɡ ˈɒn"
+   },
+   {
+    "en": "charge my phone",
+    "zh": "幫手機充電",
+    "ipa": "ˌtʃɑːdʒ maɪ fəʊn"
+   },
+   {
+    "en": "watch a video",
+    "zh": "觀看影片",
+    "ipa": "ˌwɒtʃ ə ˈvɪd.i.əʊ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I watch the news on my phone every morning.",
+    "zh": "我每天早上用手機看新聞。"
+   },
+   {
+    "en": "My brother uploads his photos to the web.",
+    "zh": "我弟弟把他的照片上傳到網路上。"
+   },
+   {
+    "en": "The app on my phone costs nothing.",
+    "zh": "我手機上的這個應用程式不要錢。"
+   },
+   {
+    "en": "We often watch films and news on our television.",
+    "zh": "我們常常在電視上看電影和新聞。"
+   },
+   {
+    "en": "Click on the link to read the news online.",
+    "zh": "點選連結就可以上網看新聞。"
+   },
+   {
+    "en": "My digital camera takes great photos.",
+    "zh": "我的數位相機拍的照片很棒。"
+   },
+   {
+    "en": "This DVD player is connected to the television.",
+    "zh": "這台光碟播放器接著電視。"
+   },
+   {
+    "en": "Please type your password on this page.",
+    "zh": "請在這一頁輸入你的密碼。"
+   },
+   {
+    "en": "I search for information about technology online.",
+    "zh": "我在網路上搜尋科技方面的資訊。"
+   },
+   {
+    "en": "The microphone on his laptop is broken.",
+    "zh": "他筆記型電腦上的麥克風壞了。"
+   },
+   {
+    "en": "She posts a new blog every Friday.",
+    "zh": "她每星期五都會發一篇新的部落格文章。"
+   },
+   {
+    "en": "Many people share their photos on social media.",
+    "zh": "很多人會在社群媒體上分享照片。"
+   },
+   {
+    "en": "I joined a chatroom about photography.",
+    "zh": "我加入了一個談攝影的聊天室。"
+   },
+   {
+    "en": "The battery in my phone is almost empty.",
+    "zh": "我手機的電池快沒電了。"
+   }
+  ],
+  "tips": [
+   "這組詞大多是科技產品的名字，練習時注意連字：數位相機、數位影音光碟、社群媒體都是兩個字合在一起，別只打一半。",
+   "photo 和 photography 只差一個尾音，兩者都會用到，打錯其中一個就整組不會，建議一起背。",
+   "上傳的字首有個 u 很容易漏掉；密碼和使用者名稱這種字，字尾的 d 與 e 也常常打錯，多打幾遍就順了。"
+  ]
+ },
+ {
+  "id": "noun-people-roles",
+  "icon": "🧑‍🤝‍🧑",
+  "name": "名詞：人物與職業（補充）",
+  "nameEn": "Nouns: People & Jobs",
+  "summary": "adult / neighbour / colleague / scientist / celebrity… 各種身分的人。",
+  "note": "adult、colleague 是可數名詞，前面要加 a / the。",
+  "group": "名詞",
+  "words": [
+   {
+    "en": "adult",
+    "zh": "成年人；成年的",
+    "ipa": "ˈæd.əlt"
+   },
+   {
+    "en": "baby",
+    "zh": "嬰兒",
+    "ipa": "ˈbeɪ.bi"
+   },
+   {
+    "en": "band",
+    "zh": "樂團；帶子",
+    "ipa": "bænd"
+   },
+   {
+    "en": "boy",
+    "zh": "男孩",
+    "ipa": "bɔɪ"
+   },
+   {
+    "en": "boyfriend",
+    "zh": "男朋友",
+    "ipa": "ˈbɔɪ.frend"
+   },
+   {
+    "en": "businessman",
+    "zh": "男商人；男業務員",
+    "ipa": "ˈbɪz.nəs.mən"
+   },
+   {
+    "en": "businesswoman",
+    "zh": "女商人；女業務員",
+    "ipa": "ˈbɪz.nəs.wʊm.ən"
+   },
+   {
+    "en": "celebrity",
+    "zh": "名人",
+    "ipa": "səˈles.ɪ.ti"
+   },
+   {
+    "en": "colleague",
+    "zh": "同事",
+    "ipa": "ˈkɒl.iː.ɡ"
+   },
+   {
+    "en": "dad",
+    "zh": "爸爸",
+    "ipa": "dæd"
+   },
+   {
+    "en": "Dr",
+    "zh": "博士（稱號）",
+    "ipa": "ˈdɒk.tə"
+   },
+   {
+    "en": "fan",
+    "zh": "迷；扇子",
+    "ipa": "fæn"
+   },
+   {
+    "en": "girlfriend",
+    "zh": "女朋友",
+    "ipa": "ˈɡɜːl.frend"
+   },
+   {
+    "en": "grandchild",
+    "zh": "孫子女",
+    "ipa": "ˈɡrænd.tʃaɪld"
+   },
+   {
+    "en": "grandfather",
+    "zh": "祖父；外祖父",
+    "ipa": "ˈɡrænd.fɑː.ðə"
+   },
+   {
+    "en": "grandmother",
+    "zh": "祖母；外祖母",
+    "ipa": "ˈɡrænd.mʌ.ðə"
+   },
+   {
+    "en": "grandparent",
+    "zh": "祖父母",
+    "ipa": "ˈɡrænd.peə.rənt"
+   },
+   {
+    "en": "granny",
+    "zh": "奶奶；外婆",
+    "ipa": "ˈɡræn.i"
+   },
+   {
+    "en": "guest",
+    "zh": "客人",
+    "ipa": "ɡest"
+   },
+   {
+    "en": "guide",
+    "zh": "嚮導；導遊",
+    "ipa": "ɡaɪd"
+   },
+   {
+    "en": "housewife",
+    "zh": "家庭主婦",
+    "ipa": "ˈhaʊs.waɪf"
+   },
+   {
+    "en": "kid",
+    "zh": "小孩",
+    "ipa": "kɪd"
+   },
+   {
+    "en": "king",
+    "zh": "國王",
+    "ipa": "kɪŋ"
+   },
+   {
+    "en": "man",
+    "zh": "男人",
+    "ipa": "mæn"
+   },
+   {
+    "en": "member",
+    "zh": "會員；成員",
+    "ipa": "ˈmem.bə"
+   },
+   {
+    "en": "mom",
+    "zh": "媽媽",
+    "ipa": "mɒm"
+   },
+   {
+    "en": "Ms",
+    "zh": "女士（稱號）",
+    "ipa": "mɪz"
+   },
+   {
+    "en": "mum",
+    "zh": "媽媽",
+    "ipa": "mʌm"
+   },
+   {
+    "en": "partner",
+    "zh": "伴侶；夥伴",
+    "ipa": "ˈpɑː.t.nə"
+   },
+   {
+    "en": "people",
+    "zh": "人們；人民",
+    "ipa": "ˈpiː.pəl"
+   },
+   {
+    "en": "person",
+    "zh": "人；個人",
+    "ipa": "ˈpɜː.sən"
+   },
+   {
+    "en": "queen",
+    "zh": "皇后；女王",
+    "ipa": "kwiːn"
+   },
+   {
+    "en": "schoolchild",
+    "zh": "學童",
+    "ipa": "ˈskuːl.tʃaɪld"
+   },
+   {
+    "en": "scientist",
+    "zh": "科學家",
+    "ipa": "ˈsaɪ.ən.tɪst"
+   },
+   {
+    "en": "staff",
+    "zh": "員工；職員",
+    "ipa": "stɑːf"
+   },
+   {
+    "en": "visitor",
+    "zh": "訪客；遊客",
+    "ipa": "ˈvɪ.zɪ.tə"
+   },
+   {
+    "en": "waitress",
+    "zh": "女服務生",
+    "ipa": "ˈweɪ.trəs"
+   },
+   {
+    "en": "woman",
+    "zh": "女人",
+    "ipa": "ˈwʊ.mən"
+   },
+   {
+    "en": "girl",
+    "zh": "女孩",
+    "ipa": "ɡɜːl"
+   },
+   {
+    "en": "children",
+    "zh": "孩子們",
+    "ipa": "ˈtʃɪl.drən"
+   },
+   {
+    "en": "teenager",
+    "zh": "青少年",
+    "ipa": "ˈtiːn.eɪ.dʒə"
+   },
+   {
+    "en": "parent",
+    "zh": "父母；家長",
+    "ipa": "ˈpeə.rənt"
+   },
+   {
+    "en": "couple",
+    "zh": "一對夫妻；情侶",
+    "ipa": "ˈkʌ.pəl"
+   },
+   {
+    "en": "husband",
+    "zh": "丈夫",
+    "ipa": "ˈhʌz.bənd"
+   },
+   {
+    "en": "wife",
+    "zh": "妻子",
+    "ipa": "waɪf"
+   },
+   {
+    "en": "son",
+    "zh": "兒子",
+    "ipa": "sʌn"
+   },
+   {
+    "en": "daughter",
+    "zh": "女兒",
+    "ipa": "ˈdɔː.tə"
+   },
+   {
+    "en": "aunt",
+    "zh": "姑姑；阿姨；舅媽",
+    "ipa": "ɑːnt"
+   },
+   {
+    "en": "uncle",
+    "zh": "叔叔；舅舅",
+    "ipa": "ˈʌŋ.kəl"
+   },
+   {
+    "en": "cousin",
+    "zh": "堂兄弟姊妹；表兄弟姊妹",
+    "ipa": "ˈkʌz.ən"
+   },
+   {
+    "en": "nephew",
+    "zh": "姪子；外甥",
+    "ipa": "ˈnef.juː"
+   },
+   {
+    "en": "niece",
+    "zh": "姪女；外甥女",
+    "ipa": "niːs"
+   },
+   {
+    "en": "classmate",
+    "zh": "同學",
+    "ipa": "ˈklɑːs.meɪt"
+   },
+   {
+    "en": "singer",
+    "zh": "歌手",
+    "ipa": "ˈsɪŋ.ə"
+   },
+   {
+    "en": "actor",
+    "zh": "演員",
+    "ipa": "ˈæk.tə"
+   },
+   {
+    "en": "artist",
+    "zh": "藝術家",
+    "ipa": "ˈɑː.tɪst"
+   },
+   {
+    "en": "writer",
+    "zh": "作家；作者",
+    "ipa": "ˈraɪ.tə"
+   },
+   {
+    "en": "cook",
+    "zh": "廚師；煮飯",
+    "ipa": "kʊk"
+   },
+   {
+    "en": "driver",
+    "zh": "司機",
+    "ipa": "ˈdraɪ.və"
+   },
+   {
+    "en": "farmer",
+    "zh": "農夫",
+    "ipa": "ˈfɑː.mə"
+   },
+   {
+    "en": "nurse",
+    "zh": "護士",
+    "ipa": "nɜːs"
+   },
+   {
+    "en": "lawyer",
+    "zh": "律師",
+    "ipa": "ˈlɔɪ.jə"
+   },
+   {
+    "en": "policeman",
+    "zh": "警察",
+    "ipa": "pəˈliːs.mən"
+   },
+   {
+    "en": "postman",
+    "zh": "郵差",
+    "ipa": "ˈpəʊst.mən"
+   },
+   {
+    "en": "assistant",
+    "zh": "助理；助手",
+    "ipa": "əˈsis.tənt"
+   },
+   {
+    "en": "manager",
+    "zh": "經理",
+    "ipa": "ˈmæn.ɪ.dʒə"
+   },
+   {
+    "en": "twin",
+    "zh": "雙胞胎",
+    "ipa": "twɪn"
+   },
+   {
+    "en": "foreigner",
+    "zh": "外國人",
+    "ipa": "ˈfɔː.rən.ə"
+   },
+   {
+    "en": "stranger",
+    "zh": "陌生人",
+    "ipa": "ˈstreɪn.dʒə"
+   },
+   {
+    "en": "crowd",
+    "zh": "人群",
+    "ipa": "kraʊd"
+   },
+   {
+    "en": "waiter",
+    "zh": "服務生",
+    "ipa": "ˈweɪ.tə"
+   },
+   {
+    "en": "Mr",
+    "zh": "先生（稱號）",
+    "ipa": "ˈmɪs.tə"
+   },
+   {
+    "en": "Mrs",
+    "zh": "太太（稱號）",
+    "ipa": "ˈmɪs.ɪz"
+   },
+   {
+    "en": "star",
+    "zh": "明星；星星",
+    "ipa": "stɑː"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a member of staff",
+    "zh": "職員中的一員",
+    "ipa": "ə ˈmem.bər əv stɑːf"
+   },
+   {
+    "en": "work as a nurse",
+    "zh": "當護士",
+    "ipa": "ˌwɜːk əz ə nɜːs"
+   },
+   {
+    "en": "make friends",
+    "zh": "交朋友",
+    "ipa": "ˌmeɪk ˈfrendz"
+   },
+   {
+    "en": "be friends with",
+    "zh": "和……是朋友",
+    "ipa": "bi ˈfrendz wɪð"
+   },
+   {
+    "en": "look after someone",
+    "zh": "照顧某人",
+    "ipa": "ˌlʊk ˈɑːf.tə ˈsʌm.wʌn"
+   },
+   {
+    "en": "take care of",
+    "zh": "照顧；保養",
+    "ipa": "ˌteɪk ˈkeər əv"
+   },
+   {
+    "en": "next-door neighbour",
+    "zh": "隔壁鄰居",
+    "ipa": "ˌnekst ˈdɔː ˈneɪ.bə"
+   },
+   {
+    "en": "introduce yourself",
+    "zh": "介紹自己",
+    "ipa": "ˌɪn.trəˈdjuːs jɔːˈself"
+   },
+   {
+    "en": "get on with",
+    "zh": "和……相處",
+    "ipa": "ˌɡet ˈɒn wɪð"
+   },
+   {
+    "en": "be born",
+    "zh": "出生",
+    "ipa": "bi ˈbɔːn"
+   },
+   {
+    "en": "grow up",
+    "zh": "長大",
+    "ipa": "ˌɡrəʊ ˈʌp"
+   },
+   {
+    "en": "work hard",
+    "zh": "努力工作",
+    "ipa": "ˌwɜːk ˈhɑːd"
+   },
+   {
+    "en": "a lot of people",
+    "zh": "很多人",
+    "ipa": "ə ˈlɒt əv ˈpiː.pəl"
+   },
+   {
+    "en": "a close friend",
+    "zh": "好友",
+    "ipa": "ə ˌkləʊs ˈfrend"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My grandmother is a scientist at a university.",
+    "zh": "我祖母是大學的科學家。"
+   },
+   {
+    "en": "My aunt met her husband when she was young.",
+    "zh": "我姑姑年輕時遇到她的先生。"
+   },
+   {
+    "en": "The waitress and the waiter are my cousins.",
+    "zh": "那位女服務生和服務生都是我的表兄弟姊妹。"
+   },
+   {
+    "en": "Every member of staff wears a name badge.",
+    "zh": "每位職員都佩戴著名牌。"
+   },
+   {
+    "en": "My colleague is a famous actor from London.",
+    "zh": "我的同事是一位來自倫敦的著名演員。"
+   },
+   {
+    "en": "A large crowd of people waited outside.",
+    "zh": "一大群人站在外面等。"
+   },
+   {
+    "en": "My parents have two children and a dog.",
+    "zh": "我爸爸媽媽有兩個孩子和一隻狗。"
+   },
+   {
+    "en": "The baby in the pram is my cousin.",
+    "zh": "嬰兒車裡的寶寶是我表弟。"
+   },
+   {
+    "en": "My aunt is a nurse at the local hospital.",
+    "zh": "我姑姑是當地醫院的護士。"
+   },
+   {
+    "en": "My uncle is a great fan of our singer.",
+    "zh": "我叔叔非常喜歡我們的歌手。"
+   },
+   {
+    "en": "Every visitor must sign the guest book.",
+    "zh": "每位訪客都必須在來賓簿上簽名。"
+   },
+   {
+    "en": "Our guide told us funny stories about the king.",
+    "zh": "我們的導遊給我們講了許多關於國王的趣事。"
+   },
+   {
+    "en": "People always want a photo with this celebrity.",
+    "zh": "人們都想和這位名人合照。"
+   },
+   {
+    "en": "Mr Brown is the manager of our school.",
+    "zh": "布朗先生是我們學校的經理。"
+   }
+  ],
+  "tips": [
+   "adult、colleague、scientist 都是可數名詞，前面要有冠詞或其他限定詞，如 an adult、a scientist；若要單獨使用就得用複數，如 Scientists work hard。",
+   "媽媽有很多說法：媽媽、母親、媽咪，另有 mom、mum 等拼寫差異；台灣口語還會說「媽媽咪」，各種場合用不同的詞，練習時記得分清楚。",
+   "注意主詞和動詞的一致：一個嬰兒用 is，兩個孩子用 are，這一點最容易在打字時寫錯。"
+  ]
+ },
+ {
+  "id": "noun-money-shopping",
+  "icon": "💰",
+  "name": "名詞：金錢與購物（補充）",
+  "nameEn": "Nouns: Money & Shopping",
+  "summary": "coin / change / credit card / discount / customer… 錢與買賣。",
+  "note": "money、cash 不可數，要數幾元才用 a dollar、a pound。",
+  "group": "名詞",
+  "words": [
+   {
+    "en": "credit card",
+    "zh": "信用卡",
+    "ipa": "ˈkred.ɪt kɑːd"
+   },
+   {
+    "en": "discount",
+    "zh": "折扣；減價",
+    "ipa": "ˈdis.kaʊnt"
+   },
+   {
+    "en": "money",
+    "zh": "錢",
+    "ipa": "ˈmʌn.i"
+   },
+   {
+    "en": "pence",
+    "zh": "便士（英國的一便士以上金額）",
+    "ipa": "pens"
+   },
+   {
+    "en": "penny",
+    "zh": "便士；一便士銅板",
+    "ipa": "ˈpen.i"
+   },
+   {
+    "en": "rent",
+    "zh": "租；租金",
+    "ipa": "rent"
+   },
+   {
+    "en": "sale",
+    "zh": "特價拍賣；出售",
+    "ipa": "seɪl"
+   },
+   {
+    "en": "coin",
+    "zh": "硬幣",
+    "ipa": "kɔɪn"
+   },
+   {
+    "en": "banknote",
+    "zh": "紙鈔",
+    "ipa": "ˈbæŋk.nəʊt"
+   },
+   {
+    "en": "dollar",
+    "zh": "美元",
+    "ipa": "ˈdɒl.ə"
+   },
+   {
+    "en": "pound",
+    "zh": "英鎊",
+    "ipa": "paʊnd"
+   },
+   {
+    "en": "euro",
+    "zh": "歐元",
+    "ipa": "ˈjʊə.rəʊ"
+   },
+   {
+    "en": "purse",
+    "zh": "錢包",
+    "ipa": "pɜːs"
+   },
+   {
+    "en": "wallet",
+    "zh": "皮夾",
+    "ipa": "ˈwɒl.ɪt"
+   },
+   {
+    "en": "bill",
+    "zh": "帳單",
+    "ipa": "bɪl"
+   },
+   {
+    "en": "receipt",
+    "zh": "收據",
+    "ipa": "rɪˈsiːt"
+   },
+   {
+    "en": "offer",
+    "zh": "特價；優惠",
+    "ipa": "ˈɒf.ə"
+   },
+   {
+    "en": "bargain",
+    "zh": "划算的東西；特價品",
+    "ipa": "ˈbɑː.ɡɪn"
+   },
+   {
+    "en": "value",
+    "zh": "價值；划算",
+    "ipa": "ˈvæl.juː"
+   },
+   {
+    "en": "afford",
+    "zh": "買得起",
+    "ipa": "əˈfɔːd"
+   },
+   {
+    "en": "spend",
+    "zh": "花費",
+    "ipa": "spend"
+   },
+   {
+    "en": "save",
+    "zh": "儲蓄；省下",
+    "ipa": "seɪv"
+   },
+   {
+    "en": "earn",
+    "zh": "賺（錢）",
+    "ipa": "ɜːn"
+   },
+   {
+    "en": "lend",
+    "zh": "借出；借給",
+    "ipa": "lend"
+   },
+   {
+    "en": "shopping",
+    "zh": "購物",
+    "ipa": "ˈʃɒp.ɪŋ"
+   },
+   {
+    "en": "shopping centre",
+    "zh": "購物中心",
+    "ipa": "ˈʃɒp.ɪŋ ˌsen.tə"
+   },
+   {
+    "en": "supermarket",
+    "zh": "超級市場",
+    "ipa": "ˈsuː.pə.mɑː.kɪt"
+   },
+   {
+    "en": "stall",
+    "zh": "攤位",
+    "ipa": "stɔːl"
+   },
+   {
+    "en": "queue",
+    "zh": "隊伍；排隊",
+    "ipa": "kjuː"
+   },
+   {
+    "en": "basket",
+    "zh": "籃子；購物籃",
+    "ipa": "ˈbɑːs.kɪt"
+   },
+   {
+    "en": "trolley",
+    "zh": "購物車",
+    "ipa": "ˈtrɒl.i"
+   },
+   {
+    "en": "shop assistant",
+    "zh": "店員",
+    "ipa": "ˈʃɒp əˌsis.tənt"
+   },
+   {
+    "en": "shopkeeper",
+    "zh": "店主；店員",
+    "ipa": "ˈʃɒp.kiː.pə"
+   },
+   {
+    "en": "goods",
+    "zh": "商品；貨物",
+    "ipa": "ɡʊdz"
+   },
+   {
+    "en": "product",
+    "zh": "產品",
+    "ipa": "ˈprɒd.ʌkt"
+   },
+   {
+    "en": "item",
+    "zh": "項目；商品",
+    "ipa": "ˈaɪ.təm"
+   },
+   {
+    "en": "brand",
+    "zh": "品牌",
+    "ipa": "brænd"
+   },
+   {
+    "en": "size",
+    "zh": "尺寸；號碼",
+    "ipa": "saɪz"
+   },
+   {
+    "en": "budget",
+    "zh": "預算",
+    "ipa": "ˈbʌdʒ.ɪt"
+   },
+   {
+    "en": "income",
+    "zh": "收入",
+    "ipa": "ˈɪn.kʌm"
+   },
+   {
+    "en": "salary",
+    "zh": "薪水",
+    "ipa": "ˈsæl.ər.i"
+   },
+   {
+    "en": "wage",
+    "zh": "工資；薪水",
+    "ipa": "weɪdʒ"
+   },
+   {
+    "en": "total",
+    "zh": "總共；總額",
+    "ipa": "ˈtəʊ.təl"
+   },
+   {
+    "en": "amount",
+    "zh": "金額；數量",
+    "ipa": "əˈmaʊnt"
+   },
+   {
+    "en": "list",
+    "zh": "清單",
+    "ipa": "lɪst"
+   },
+   {
+    "en": "bag",
+    "zh": "袋子；購物袋",
+    "ipa": "bæɡ"
+   },
+   {
+    "en": "shop window",
+    "zh": "商店櫥窗",
+    "ipa": "ˈʃɒp ˌwɪn.dəʊ"
+   },
+   {
+    "en": "cash machine",
+    "zh": "提款機",
+    "ipa": "ˈkæʃ məˌʃiːn"
+   },
+   {
+    "en": "customer service",
+    "zh": "顧客服務",
+    "ipa": "ˈkʌs.tə.mə ˌsɜː.vɪs"
+   },
+   {
+    "en": "second-hand",
+    "zh": "二手的",
+    "ipa": "ˌsek.ənd ˈhænd"
+   },
+   {
+    "en": "vending machine",
+    "zh": "自動販賣機",
+    "ipa": "ˈven.dɪŋ məˌʃiːn"
+   },
+   {
+    "en": "checkout",
+    "zh": "結帳處",
+    "ipa": "ˈtʃek.aʊt"
+   },
+   {
+    "en": "refund",
+    "zh": "退款",
+    "ipa": "ˈriː.fʌnd"
+   },
+   {
+    "en": "pocket money",
+    "zh": "零用錢",
+    "ipa": "ˈpɒk.ɪt ˈmʌn.i"
+   },
+   {
+    "en": "savings",
+    "zh": "存款",
+    "ipa": "ˈseɪ.vɪŋz"
+   },
+   {
+    "en": "currency",
+    "zh": "貨幣",
+    "ipa": "ˈkʌ.rən.si"
+   },
+   {
+    "en": "delivery",
+    "zh": "送貨；遞送",
+    "ipa": "dɪˈlɪv.ər.i"
+   },
+   {
+    "en": "tip",
+    "zh": "小費",
+    "ipa": "tɪp"
+   },
+   {
+    "en": "cashier",
+    "zh": "櫃員",
+    "ipa": "ˈkæʃ.ɪə"
+   },
+   {
+    "en": "tag",
+    "zh": "價籤；吊牌",
+    "ipa": "tæɡ"
+   },
+   {
+    "en": "counter",
+    "zh": "櫃檯",
+    "ipa": "ˈkaʊn.tə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "pay in cash",
+    "zh": "用現金付款",
+    "ipa": "ˌpeɪ ɪn ˈkæʃ"
+   },
+   {
+    "en": "pay by credit card",
+    "zh": "用信用卡付款",
+    "ipa": "ˌpeɪ baɪ ˈkred.ɪt kɑːd"
+   },
+   {
+    "en": "spend money",
+    "zh": "花錢",
+    "ipa": "ˈspend ˈmʌn.i"
+   },
+   {
+    "en": "save money",
+    "zh": "存錢",
+    "ipa": "ˌseɪv ˈmʌn.i"
+   },
+   {
+    "en": "earn money",
+    "zh": "賺錢",
+    "ipa": "ˈɜːn ˈmʌn.i"
+   },
+   {
+    "en": "make change",
+    "zh": "找錢；換錢",
+    "ipa": "ˌmeɪk ˈtʃeɪndʒ"
+   },
+   {
+    "en": "on sale",
+    "zh": "特價中",
+    "ipa": "ɒn ˈseɪl"
+   },
+   {
+    "en": "pay the bill",
+    "zh": "付帳單",
+    "ipa": "ˌpeɪ ðə ˈbɪl"
+   },
+   {
+    "en": "pay the rent",
+    "zh": "付房租",
+    "ipa": "ˌpeɪ ðə ˈrent"
+   },
+   {
+    "en": "go shopping",
+    "zh": "去購物",
+    "ipa": "ˌɡəʊ ˈʃɒp.ɪŋ"
+   },
+   {
+    "en": "stand in a queue",
+    "zh": "排隊",
+    "ipa": "ˌstænd ɪn ə ˈkjuː"
+   },
+   {
+    "en": "take money out",
+    "zh": "提錢",
+    "ipa": "ˌteɪk ˈmʌn.i aʊt"
+   },
+   {
+    "en": "cost a lot",
+    "zh": "花費很多",
+    "ipa": "ˌkɒst ə ˈlɒt"
+   },
+   {
+    "en": "get a discount",
+    "zh": "得到折扣",
+    "ipa": "ˌɡet ə ˈdis.kaʊnt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I spent all my money in the shopping centre.",
+    "zh": "我在購物中心把所有錢都花光了。"
+   },
+   {
+    "en": "She paid the bill with her credit card.",
+    "zh": "她用信用卡付了帳單。"
+   },
+   {
+    "en": "The shop has many cheap bags on sale today.",
+    "zh": "這家店今天有很多便宜的袋子在特價。"
+   },
+   {
+    "en": "I want to save money for a new laptop.",
+    "zh": "我想存錢買一台新的筆記型電腦。"
+   },
+   {
+    "en": "My dad earns a good salary every month.",
+    "zh": "我爸爸每月都有一份不錯的薪水。"
+   },
+   {
+    "en": "There was a long queue outside the supermarket.",
+    "zh": "超級市場外面排了很長的隊。"
+   },
+   {
+    "en": "How many coins can I get for ten pounds?",
+    "zh": "十英鎊可以換多少枚硬幣？"
+   },
+   {
+    "en": "The shop assistant put my goods in a bag.",
+    "zh": "店員把我的商品裝進袋子裡。"
+   },
+   {
+    "en": "I put my money in the cash machine.",
+    "zh": "我把錢放進提款機裡。"
+   },
+   {
+    "en": "We pay the rent at the end of the month.",
+    "zh": "我們在月底付房租。"
+   },
+   {
+    "en": "That second-hand jacket is a real bargain.",
+    "zh": "那件二手外套真的很划算。"
+   },
+   {
+    "en": "The shopkeeper gave us a big discount.",
+    "zh": "店主給了我們一個很大的折扣。"
+   },
+   {
+    "en": "Please keep your receipt for the refund.",
+    "zh": "請保留收據以便退款。"
+   },
+   {
+    "en": "The total amount was more than a hundred.",
+    "zh": "總金額超過一百。"
+   }
+  ],
+  "tips": [
+   "money 和 cash 都是不可數名詞，不能說 a money 或 a cash，要用數字或金額來修飾，例如十英鎊的錢。",
+   "penny 和 pence 要分清楚：one penny 是單數，thirty pence 是複數，寫錯複數型在考試會直接扣分。",
+   "購物常用的字按場景一起記：結帳處用 checkout、櫃檯用 counter、帳單用 bill、收據用 receipt，練成一組會快很多。"
+  ]
+ }
+]

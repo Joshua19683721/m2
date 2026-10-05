@@ -1,0 +1,550 @@
+[
+ {
+  "id": "places-town",
+  "icon": "🏙️",
+  "name": "場所：城鎮",
+  "nameEn": "Places: Town and City",
+  "summary": "市區的街道與公共場所。",
+  "words": [
+   {
+    "en": "airport",
+    "zh": "機場",
+    "ipa": "ˈeə.ə.pɔːt"
+   },
+   {
+    "en": "city centre",
+    "zh": "市中心",
+    "ipa": "ˈsɪ.ti ˌsen.tə"
+   },
+   {
+    "en": "petrol station",
+    "zh": "加油站",
+    "ipa": "ˈpet.rəl ˌsteɪ.ʃən"
+   },
+   {
+    "en": "station",
+    "zh": "車站",
+    "ipa": "ˈsteɪ.ʃən"
+   },
+   {
+    "en": "bridge",
+    "zh": "橋",
+    "ipa": "brɪdʒ"
+   },
+   {
+    "en": "corner",
+    "zh": "轉角",
+    "ipa": "ˈkɔː.nə"
+   },
+   {
+    "en": "playground",
+    "zh": "遊樂場",
+    "ipa": "ˈpleɪ.ɡraʊnd"
+   },
+   {
+    "en": "street",
+    "zh": "街道",
+    "ipa": "striːt"
+   },
+   {
+    "en": "bus station",
+    "zh": "巴士總站",
+    "ipa": "ˌbʌs ˈsteɪ.ʃən"
+   },
+   {
+    "en": "market",
+    "zh": "市場",
+    "ipa": "ˈmɑː.kɪt"
+   },
+   {
+    "en": "road",
+    "zh": "馬路",
+    "ipa": "rəʊd"
+   },
+   {
+    "en": "town",
+    "zh": "小鎮",
+    "ipa": "taʊn"
+   },
+   {
+    "en": "bus stop",
+    "zh": "公車站牌",
+    "ipa": "ˌbʌs ˈstɒp"
+   },
+   {
+    "en": "motorway",
+    "zh": "高速公路",
+    "ipa": "ˈməʊ.tə.weɪ"
+   },
+   {
+    "en": "roundabout",
+    "zh": "圓環",
+    "ipa": "ˈraʊn.də.baʊt"
+   },
+   {
+    "en": "underground",
+    "zh": "地下鐵",
+    "ipa": "ˈʌn.də.ɡraʊnd"
+   },
+   {
+    "en": "car park",
+    "zh": "停車場",
+    "ipa": "ˈkɑː pɑːk"
+   },
+   {
+    "en": "park",
+    "zh": "公園",
+    "ipa": "pɑːk"
+   },
+   {
+    "en": "square",
+    "zh": "廣場",
+    "ipa": "skweə"
+   },
+   {
+    "en": "zoo",
+    "zh": "動物園",
+    "ipa": "zuː"
+   },
+   {
+    "en": "town centre",
+    "zh": "小鎮中心",
+    "ipa": "ˌtaʊn ˈsen.tə"
+   },
+   {
+    "en": "high street",
+    "zh": "主要商業街",
+    "ipa": "ˌhaɪ ˈstriːt"
+   },
+   {
+    "en": "traffic lights",
+    "zh": "交通號誌",
+    "ipa": "ˌtræf.ɪk ˈlaɪts"
+   },
+   {
+    "en": "pedestrian crossing",
+    "zh": "行人穿越道",
+    "ipa": "pəˈdes.tri.ən ˈkrɒs.ɪŋ"
+   },
+   {
+    "en": "shopping centre",
+    "zh": "購物中心",
+    "ipa": "ˈʃɒp.ɪŋ ˌsen.tə"
+   },
+   {
+    "en": "fountain",
+    "zh": "噴泉",
+    "ipa": "ˈfɔʊn.tɪn"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in the city centre",
+    "zh": "在市中心",
+    "ipa": "ɪn ðə ˈsɪ.ti ˌsen.tə"
+   },
+   {
+    "en": "at the bus stop",
+    "zh": "在公車站牌",
+    "ipa": "ət ðə ˌbʌs ˈstɒp"
+   },
+   {
+    "en": "at the bus station",
+    "zh": "在巴士總站",
+    "ipa": "ət ðə ˌbʌs ˈsteɪ.ʃən"
+   },
+   {
+    "en": "walk up the street",
+    "zh": "沿著街往前走",
+    "ipa": "ˌwɔːk ˌʌp ðə ˈstriːt"
+   },
+   {
+    "en": "turn left at the corner",
+    "zh": "在轉角左轉",
+    "ipa": "ˌtɜːn left ət ðə ˈkɔː.nə"
+   },
+   {
+    "en": "cross the road",
+    "zh": "過馬路",
+    "ipa": "ˌkrɒs ðə ˈrəʊd"
+   },
+   {
+    "en": "wait for the bus",
+    "zh": "等公車",
+    "ipa": "ˌweɪt fə ðə ˈbʌs"
+   },
+   {
+    "en": "go straight on",
+    "zh": "一直往前走",
+    "ipa": "ˌɡəʊ ˌstreɪt ˈɒn"
+   },
+   {
+    "en": "near the roundabout",
+    "zh": "在圓環附近",
+    "ipa": "ˌnɪə ðə ˈraʊn.də.baʊt"
+   },
+   {
+    "en": "park in the car park",
+    "zh": "把車停在停車場",
+    "ipa": "ˈpɑːk ɪn ðə ˈkɑː pɑːk"
+   },
+   {
+    "en": "fill up at the petrol station",
+    "zh": "在加油站把油加滿",
+    "ipa": "ˌfɪl ˈʌp ət ðə ˈpet.rəl ˌsteɪ.ʃən"
+   },
+   {
+    "en": "walk through the park",
+    "zh": "穿過公園散步",
+    "ipa": "ˌwɔːk ˈθruː ðə ˈpɑːk"
+   },
+   {
+    "en": "on the high street",
+    "zh": "在主要商業街上",
+    "ipa": "ɒn ðə ˌhaɪ ˈstriːt"
+   },
+   {
+    "en": "on the corner of the square",
+    "zh": "在廣場的轉角",
+    "ipa": "ɒn ðə ˈkɔː.nə əv ðə ˈskweə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The bus stop is opposite the bank.",
+    "zh": "公車站牌在銀行對面。"
+   },
+   {
+    "en": "We walk down the street to the market.",
+    "zh": "我們沿著街走到市場。"
+   },
+   {
+    "en": "There is a big car park near the station.",
+    "zh": "車站附近有一個大停車場。"
+   },
+   {
+    "en": "My house is on the corner of this square.",
+    "zh": "我家就在這個廣場的轉角。"
+   },
+   {
+    "en": "The underground is quicker than the bus.",
+    "zh": "搭地下鐵比搭公車快。"
+   },
+   {
+    "en": "Turn right at the traffic lights, then go on.",
+    "zh": "在交通號誌右轉，然後繼續走。"
+   },
+   {
+    "en": "Children play in the playground in the park.",
+    "zh": "孩子們在公園裡的遊樂場玩。"
+   },
+   {
+    "en": "The airport is not far from the motorway.",
+    "zh": "機場離高速公路不遠。"
+   },
+   {
+    "en": "The bus is coming, so stand at the bus stop.",
+    "zh": "公車來了，所以站在公車站牌。"
+   },
+   {
+    "en": "The petrol station is behind the roundabout.",
+    "zh": "加油站在圓環的後面。"
+   },
+   {
+    "en": "Do you know the way to the town centre?",
+    "zh": "你知道去小鎮中心的路嗎？"
+   },
+   {
+    "en": "The cinema is in the middle of the square.",
+    "zh": "電影院在廣場的中間。"
+   },
+   {
+    "en": "Take the second turning after the petrol station.",
+    "zh": "在加油站之後的第二個路口轉彎。"
+   },
+   {
+    "en": "The bus station is very busy on Saturday mornings.",
+    "zh": "星期六早上巴士總站很忙。"
+   }
+  ],
+  "tips": [
+   "先把 in、on、at 三個位置介系詞的用法分清楚，再開始練整句會更快。",
+   "轉角、圓環、地下鐵這些詞，搭配方位一起記最不容易忘。",
+   "打完一句就唸一次，順便檢查有沒有漏掉定冠詞。"
+  ]
+ },
+ {
+  "id": "services",
+  "icon": "🛎️",
+  "name": "服務業場所",
+  "nameEn": "Services",
+  "summary": "各種服務的地方：餐廳、旅館、加油站、旅遊資訊。",
+  "words": [
+   {
+    "en": "bank",
+    "zh": "銀行",
+    "ipa": "bæŋk"
+   },
+   {
+    "en": "doctor",
+    "zh": "醫生",
+    "ipa": "ˈdɒk.tə"
+   },
+   {
+    "en": "petrol station",
+    "zh": "加油站",
+    "ipa": "ˈpet.rəl ˌsteɪ.ʃən"
+   },
+   {
+    "en": "theatre",
+    "zh": "戲劇院",
+    "ipa": "ˈθɪə.tə"
+   },
+   {
+    "en": "cafe",
+    "zh": "咖啡館",
+    "ipa": "ˈkæ.feɪ"
+   },
+   {
+    "en": "garage",
+    "zh": "修車廠",
+    "ipa": "ˈɡær.ɑːʒ"
+   },
+   {
+    "en": "post office",
+    "zh": "郵局",
+    "ipa": "ˈpəʊst ˌɒf.ɪs"
+   },
+   {
+    "en": "tourist information",
+    "zh": "旅遊資訊",
+    "ipa": "ˈtʊə.rɪst ˌɪn.fəˈmeɪ.ʃən"
+   },
+   {
+    "en": "cafeteria",
+    "zh": "自助餐廳",
+    "ipa": "ˌkæfɪˈtɪə.ri.ə"
+   },
+   {
+    "en": "hotel",
+    "zh": "旅館",
+    "ipa": "həʊˈtel"
+   },
+   {
+    "en": "restaurant",
+    "zh": "餐廳",
+    "ipa": "ˈres.trɒnt"
+   },
+   {
+    "en": "cinema",
+    "zh": "電影院",
+    "ipa": "ˈsɪ.nə.mə"
+   },
+   {
+    "en": "library",
+    "zh": "圖書館",
+    "ipa": "ˈlaɪ.brə.ri"
+   },
+   {
+    "en": "sports centre",
+    "zh": "運動中心",
+    "ipa": "ˈspɔːts ˌsen.tə"
+   },
+   {
+    "en": "dentist",
+    "zh": "牙醫",
+    "ipa": "ˈden.tɪst"
+   },
+   {
+    "en": "museum",
+    "zh": "博物館",
+    "ipa": "mjuˈziː.əm"
+   },
+   {
+    "en": "swimming pool",
+    "zh": "游泳池",
+    "ipa": "ˈswɪm.ɪŋ puːl"
+   },
+   {
+    "en": "menu",
+    "zh": "菜單",
+    "ipa": "ˈmen.juː"
+   },
+   {
+    "en": "ticket",
+    "zh": "票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "stamp",
+    "zh": "郵票",
+    "ipa": "stæmp"
+   },
+   {
+    "en": "waiting room",
+    "zh": "候車室",
+    "ipa": "ˈweɪ.tɪŋ ruːm"
+   },
+   {
+    "en": "cash machine",
+    "zh": "提款機",
+    "ipa": "ˈkæʃ məˌʃiːn"
+   },
+   {
+    "en": "takeaway",
+    "zh": "外帶食物",
+    "ipa": "ˈteɪ.kə.weɪ"
+   },
+   {
+    "en": "chemist",
+    "zh": "藥房",
+    "ipa": "ˈkem.ɪst"
+   },
+   {
+    "en": "guest house",
+    "zh": "家庭式旅館",
+    "ipa": "ˈɡest haʊs"
+   },
+   {
+    "en": "reception",
+    "zh": "櫃檯服務台",
+    "ipa": "rɪˈsep.ʃən"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "go to the bank",
+    "zh": "去銀行",
+    "ipa": "ˌɡəʊ ðə ˈbæŋk"
+   },
+   {
+    "en": "see the doctor",
+    "zh": "看醫生",
+    "ipa": "ˈsiː ðə ˈdɒk.tə"
+   },
+   {
+    "en": "book a table at the restaurant",
+    "zh": "在餐廳訂位",
+    "ipa": "ˌbʊk ə ˈteɪ.bəl ət ðə ˈres.trɒnt"
+   },
+   {
+    "en": "stay at a hotel",
+    "zh": "住旅館",
+    "ipa": "ˌsteɪ ət ə həʊˈtel"
+   },
+   {
+    "en": "ask at reception",
+    "zh": "在櫃檯詢問",
+    "ipa": "ˈɑːsk ət rɪˈsep.ʃən"
+   },
+   {
+    "en": "get a ticket at the cinema",
+    "zh": "在電影院買票",
+    "ipa": "ˌɡet ə ˈtɪk.ɪt ət ðə ˈsɪ.nə.mə"
+   },
+   {
+    "en": "leave the car at the garage",
+    "zh": "把車留在修車廠",
+    "ipa": "ˌliːv ðə ˈkɑː ət ðə ˈɡær.ɑːʒ"
+   },
+   {
+    "en": "buy stamps at the post office",
+    "zh": "在郵局買郵票",
+    "ipa": "ˌbaɪ ˈstæmps ət ðə ˈpəʊst ˌɒf.ɪs"
+   },
+   {
+    "en": "ask for tourist information",
+    "zh": "索取旅遊資訊",
+    "ipa": "ˈɑːsk fə ˈtʊə.rɪst ˌɪn.fəˈmeɪ.ʃən"
+   },
+   {
+    "en": "have lunch in the cafeteria",
+    "zh": "在自助餐廳吃午餐",
+    "ipa": "ˌhæv ˈlʌntʃ ɪn ðə ˌkæfɪˈtɪə.ri.ə"
+   },
+   {
+    "en": "wait in the waiting room",
+    "zh": "在候車室等候",
+    "ipa": "ˌweɪt ɪn ðə ˈweɪ.tɪŋ ruːm"
+   },
+   {
+    "en": "go to the dentist",
+    "zh": "看牙醫",
+    "ipa": "ˌɡəʊ ðə ˈden.tɪst"
+   },
+   {
+    "en": "swim in the swimming pool",
+    "zh": "在游泳池游泳",
+    "ipa": "ˌswɪm ɪn ðə ˈswɪm.ɪŋ puːl"
+   },
+   {
+    "en": "play tennis at the sports centre",
+    "zh": "在運動中心打網球",
+    "ipa": "ˌpleɪ ˈten.ɪs ət ðə ˈspɔːts ˌsen.tə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I need to see a doctor tomorrow morning.",
+    "zh": "明天早上我要去看醫生。"
+   },
+   {
+    "en": "We had dinner in the restaurant near the square.",
+    "zh": "我們在廣場附近的餐廳吃了晚餐。"
+   },
+   {
+    "en": "The dentist is on the first floor of this building.",
+    "zh": "牙醫在這棟建築的二樓。"
+   },
+   {
+    "en": "She works at reception in a big hotel.",
+    "zh": "她在一家大旅館的櫃檯工作。"
+   },
+   {
+    "en": "My car is at the garage because it is broken.",
+    "zh": "我的車在修車廠，因為它壞了。"
+   },
+   {
+    "en": "Can I pay at the petrol station with my card?",
+    "zh": "我可以在加油站刷卡付款嗎？"
+   },
+   {
+    "en": "We waited for two hours in the waiting room.",
+    "zh": "我們在候車室等了兩個小時。"
+   },
+   {
+    "en": "The museum is closed on Mondays, but it is free today.",
+    "zh": "博物館星期一休館，但今天免費。"
+   },
+   {
+    "en": "He bought two tickets for the film at the cinema.",
+    "zh": "他在電影院買了兩張電影票。"
+   },
+   {
+    "en": "We asked at reception and they gave us two keys.",
+    "zh": "我們在櫃檯詢問，他們給了我們兩把鑰匙。"
+   },
+   {
+    "en": "There is a small cafe beside the swimming pool.",
+    "zh": "游泳池旁邊有一家小咖啡館。"
+   },
+   {
+    "en": "Our hotel is near the library and the sports centre.",
+    "zh": "我們的旅館靠近圖書館和運動中心。"
+   },
+   {
+    "en": "I need some stamps, so I am going to the post office.",
+    "zh": "我需要郵票，所以我要去郵局。"
+   },
+   {
+    "en": "The sports centre has two tennis courts and a cafe.",
+    "zh": "運動中心有兩個網球場和一家咖啡館。"
+   }
+  ],
+  "tips": [
+   "場所詞要和情境綁在一起記：去銀行、看醫生、住旅館。",
+   "訂位、買票、付款這些固定搭配很常考，值得整組練習。",
+   "多音節單字分成音節慢慢打，出錯時比較容易找出問題。"
+  ]
+ }
+]

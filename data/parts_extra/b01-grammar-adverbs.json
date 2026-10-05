@@ -1,0 +1,803 @@
+[
+ {
+  "id": "grammar-adverbs",
+  "icon": "⏱️",
+  "name": "常用副詞",
+  "nameEn": "Common Adverbs",
+  "summary": "程度、時間、頻率、方向副詞——讓句子更自然的那一點點東西。",
+  "note": "副詞多半長得像形容詞但位置不同，是拼字練習的大坑。",
+  "group": "文法基礎",
+  "words": [
+   {
+    "en": "actually",
+    "zh": "其實；實際上",
+    "ipa": "ˈæk.tʃu.əl.i"
+   },
+   {
+    "en": "after",
+    "zh": "在……之後",
+    "ipa": "ˈɑːf.tə"
+   },
+   {
+    "en": "afterwards",
+    "zh": "之後；後來",
+    "ipa": "ˈɑːf.tə.wədz"
+   },
+   {
+    "en": "again",
+    "zh": "又；再一次",
+    "ipa": "əˈɡen"
+   },
+   {
+    "en": "ago",
+    "zh": "……以前；……前",
+    "ipa": "əˈɡəʊ"
+   },
+   {
+    "en": "all right/alright",
+    "zh": "沒問題；好吧；還不錯",
+    "ipa": "ɔːl ˈrɑɪt"
+   },
+   {
+    "en": "almost",
+    "zh": "幾乎",
+    "ipa": "ɔːlˈməʊst"
+   },
+   {
+    "en": "alone",
+    "zh": "獨自地",
+    "ipa": "əˈləʊn"
+   },
+   {
+    "en": "already",
+    "zh": "已經",
+    "ipa": "ɔːlˈredi"
+   },
+   {
+    "en": "also",
+    "zh": "也；還有",
+    "ipa": "ˈɔːl.səʊ"
+   },
+   {
+    "en": "always",
+    "zh": "總是；一直",
+    "ipa": "ˈɔːl.weɪz"
+   },
+   {
+    "en": "a.m.",
+    "zh": "上午",
+    "ipa": "eɪ ˈem"
+   },
+   {
+    "en": "anymore",
+    "zh": "不再",
+    "ipa": "ˌen.iˈmɔː"
+   },
+   {
+    "en": "anyway",
+    "zh": "無論如何；反正",
+    "ipa": "ˈen.i.weɪ"
+   },
+   {
+    "en": "anywhere",
+    "zh": "在任何地方",
+    "ipa": "ˈen.i.weə"
+   },
+   {
+    "en": "away",
+    "zh": "離開；在遠處",
+    "ipa": "əˈweɪ"
+   },
+   {
+    "en": "back",
+    "zh": "回原處；往後",
+    "ipa": "bæk"
+   },
+   {
+    "en": "badly",
+    "zh": "嚴重地；差地",
+    "ipa": "ˈbæd.li"
+   },
+   {
+    "en": "before",
+    "zh": "在……之前",
+    "ipa": "bɪˈfɔː"
+   },
+   {
+    "en": "best",
+    "zh": "最好的；最好地",
+    "ipa": "best"
+   },
+   {
+    "en": "better",
+    "zh": "更好的；更好地",
+    "ipa": "ˈbet.ə"
+   },
+   {
+    "en": "bit",
+    "zh": "一點點；少量",
+    "ipa": "bɪt"
+   },
+   {
+    "en": "carefully",
+    "zh": "小心地；仔細地",
+    "ipa": "ˈkeə.fəl.i"
+   },
+   {
+    "en": "certainly",
+    "zh": "當然；確定",
+    "ipa": "ˈsɜː.tən.li"
+   },
+   {
+    "en": "clearly",
+    "zh": "清楚地；顯然",
+    "ipa": "ˈklɪə.li"
+   },
+   {
+    "en": "daily",
+    "zh": "每天的；每天",
+    "ipa": "ˈdeɪ.li"
+   },
+   {
+    "en": "downstairs",
+    "zh": "在樓下；往樓下",
+    "ipa": "ˌdɑʊnˈstɑːz"
+   },
+   {
+    "en": "early",
+    "zh": "早的；早地",
+    "ipa": "ˈɜː.li"
+   },
+   {
+    "en": "easily",
+    "zh": "容易地",
+    "ipa": "ˈiː.zɪl.i"
+   },
+   {
+    "en": "else",
+    "zh": "其他的；別的",
+    "ipa": "els"
+   },
+   {
+    "en": "enough",
+    "zh": "足夠；足夠地",
+    "ipa": "ɪˈnʌf"
+   },
+   {
+    "en": "especially",
+    "zh": "尤其；特別",
+    "ipa": "ɪˈspe.ʃəl.i"
+   },
+   {
+    "en": "even",
+    "zh": "甚至；連",
+    "ipa": "ˈiː.vən"
+   },
+   {
+    "en": "ever",
+    "zh": "曾經；究竟",
+    "ipa": "ˈev.ə"
+   },
+   {
+    "en": "everywhere",
+    "zh": "到處",
+    "ipa": "ˈev.ri.weə"
+   },
+   {
+    "en": "exactly",
+    "zh": "正好；確實",
+    "ipa": "ɪɡˈzækt.li"
+   },
+   {
+    "en": "far",
+    "zh": "遠地；遠",
+    "ipa": "fɑː"
+   },
+   {
+    "en": "fast",
+    "zh": "快的；快速地",
+    "ipa": "fɑːst"
+   },
+   {
+    "en": "fast food",
+    "zh": "速食",
+    "ipa": "ˌfɑːst ˈfuːd"
+   },
+   {
+    "en": "finally",
+    "zh": "最後；終於",
+    "ipa": "ˈfɑɪ.nəl.i"
+   },
+   {
+    "en": "first",
+    "zh": "第一的；首先",
+    "ipa": "fɜːst"
+   },
+   {
+    "en": "first name",
+    "zh": "名（人的名字，不含姓）",
+    "ipa": "ˌfɜːst ˈneɪm"
+   },
+   {
+    "en": "first of all",
+    "zh": "首先",
+    "ipa": "ˌfɜːst əv ˈɔːl"
+   },
+   {
+    "en": "free",
+    "zh": "免費的；空閒的",
+    "ipa": "friː"
+   },
+   {
+    "en": "here",
+    "zh": "這裡",
+    "ipa": "hɪə"
+   },
+   {
+    "en": "home",
+    "zh": "家；到家",
+    "ipa": "həʊm"
+   },
+   {
+    "en": "how",
+    "zh": "怎樣；多麼",
+    "ipa": "hɑʊ"
+   },
+   {
+    "en": "however",
+    "zh": "然而；不過",
+    "ipa": "hɑʊˈev.ə"
+   },
+   {
+    "en": "immediately",
+    "zh": "立刻；馬上",
+    "ipa": "ɪˈmiː.di.ət.li"
+   },
+   {
+    "en": "indoors",
+    "zh": "在室內",
+    "ipa": "ˌɪnˈdɔːz"
+   },
+   {
+    "en": "inside",
+    "zh": "在裡面；內部",
+    "ipa": "ˌɪnˈsɑɪd"
+   },
+   {
+    "en": "instead",
+    "zh": "相反地；代替",
+    "ipa": "ɪnˈsted"
+   },
+   {
+    "en": "instead of",
+    "zh": "而不是",
+    "ipa": "ɪnˈsted əv"
+   },
+   {
+    "en": "just",
+    "zh": "剛才；只是；恰好",
+    "ipa": "dʒʌst"
+   },
+   {
+    "en": "last",
+    "zh": "最後一個；上一次的",
+    "ipa": "lɑːst"
+   },
+   {
+    "en": "late",
+    "zh": "晚的；晚；遲",
+    "ipa": "leɪt"
+   },
+   {
+    "en": "later",
+    "zh": "之後；稍後",
+    "ipa": "ˈleɪ.tə"
+   },
+   {
+    "en": "least",
+    "zh": "最少的；最少",
+    "ipa": "liːst"
+   },
+   {
+    "en": "left",
+    "zh": "左邊；向左",
+    "ipa": "left"
+   },
+   {
+    "en": "less",
+    "zh": "更少的；更少地",
+    "ipa": "les"
+   },
+   {
+    "en": "long",
+    "zh": "長的；久的",
+    "ipa": "lɒŋ"
+   },
+   {
+    "en": "luckily",
+    "zh": "幸運地；還好",
+    "ipa": "ˈlʌk.ɪl.i"
+   },
+   {
+    "en": "maybe",
+    "zh": "也許",
+    "ipa": "ˈmeɪ.bi"
+   },
+   {
+    "en": "monthly",
+    "zh": "每月的；每月",
+    "ipa": "ˈmʌnθ.li"
+   },
+   {
+    "en": "more",
+    "zh": "更多的；更多",
+    "ipa": "mɔː"
+   },
+   {
+    "en": "most",
+    "zh": "最多的；大多數",
+    "ipa": "məʊst"
+   },
+   {
+    "en": "near",
+    "zh": "接近；在附近",
+    "ipa": "nɪə"
+   },
+   {
+    "en": "nearly",
+    "zh": "幾乎",
+    "ipa": "ˈnɪə.li"
+   },
+   {
+    "en": "never",
+    "zh": "從不",
+    "ipa": "ˈnev.ə"
+   },
+   {
+    "en": "next",
+    "zh": "下一個；接著的",
+    "ipa": "nekst"
+   },
+   {
+    "en": "next to",
+    "zh": "緊鄰著；在……旁邊",
+    "ipa": "ˈnekst tuː"
+   },
+   {
+    "en": "north",
+    "zh": "北；北方的",
+    "ipa": "nɔːθ"
+   },
+   {
+    "en": "not",
+    "zh": "不；不是",
+    "ipa": "nɒt"
+   },
+   {
+    "en": "now",
+    "zh": "現在",
+    "ipa": "nɑʊ"
+   },
+   {
+    "en": "of course",
+    "zh": "當然",
+    "ipa": "əv ˈkɔːs"
+   },
+   {
+    "en": "off",
+    "zh": "關掉；離開",
+    "ipa": "ɒf"
+   },
+   {
+    "en": "often",
+    "zh": "經常；常常",
+    "ipa": "ˈɒf.ən"
+   },
+   {
+    "en": "once",
+    "zh": "一次；曾經",
+    "ipa": "wʌns"
+   },
+   {
+    "en": "only",
+    "zh": "只；僅僅",
+    "ipa": "ˈəʊn.li"
+   },
+   {
+    "en": "out",
+    "zh": "出去；在外面",
+    "ipa": "ɑʊt"
+   },
+   {
+    "en": "outdoors",
+    "zh": "在戶外",
+    "ipa": "ˌɑʊtˈdɔːz"
+   },
+   {
+    "en": "outside",
+    "zh": "在外面；外部",
+    "ipa": "ˌɑʊtˈsɑɪd"
+   },
+   {
+    "en": "perhaps",
+    "zh": "也許",
+    "ipa": "pəˈhæps"
+   },
+   {
+    "en": "p.m.",
+    "zh": "下午；晚上",
+    "ipa": "ˌpiː ˈem"
+   },
+   {
+    "en": "possibly",
+    "zh": "可能",
+    "ipa": "ˈpɒs.ə.bli"
+   },
+   {
+    "en": "probably",
+    "zh": "大概；很可能",
+    "ipa": "ˈprɒb.ə.bli"
+   },
+   {
+    "en": "quickly",
+    "zh": "很快地",
+    "ipa": "ˈkwɪk.li"
+   },
+   {
+    "en": "quite",
+    "zh": "相當；頗",
+    "ipa": "kwɑɪt"
+   },
+   {
+    "en": "really",
+    "zh": "真的；非常",
+    "ipa": "ˈrɪə.li"
+   },
+   {
+    "en": "recently",
+    "zh": "最近",
+    "ipa": "ˈriː.sənt.li"
+   },
+   {
+    "en": "slowly",
+    "zh": "慢慢地",
+    "ipa": "ˈsləʊ.li"
+   },
+   {
+    "en": "sometimes",
+    "zh": "有時",
+    "ipa": "ˈsʌm.tɑɪmz"
+   },
+   {
+    "en": "somewhere",
+    "zh": "在某處",
+    "ipa": "ˈsʌm.weə"
+   },
+   {
+    "en": "soon",
+    "zh": "不久；很快",
+    "ipa": "suːn"
+   },
+   {
+    "en": "south",
+    "zh": "南；南方的",
+    "ipa": "sɑʊθ"
+   },
+   {
+    "en": "still",
+    "zh": "仍然；靜止地",
+    "ipa": "stɪl"
+   },
+   {
+    "en": "straight",
+    "zh": "直的；筆直地",
+    "ipa": "streɪt"
+   },
+   {
+    "en": "suddenly",
+    "zh": "突然",
+    "ipa": "ˈsʌd.ən.li"
+   },
+   {
+    "en": "then",
+    "zh": "然後；當時",
+    "ipa": "ðen"
+   },
+   {
+    "en": "there",
+    "zh": "那裡",
+    "ipa": "ðeə"
+   },
+   {
+    "en": "together",
+    "zh": "一起；同時",
+    "ipa": "təˈɡeð.ə"
+   },
+   {
+    "en": "tonight",
+    "zh": "今晚",
+    "ipa": "təˈnɑɪt"
+   },
+   {
+    "en": "too",
+    "zh": "也；太",
+    "ipa": "tuː"
+   },
+   {
+    "en": "twice",
+    "zh": "兩次；兩倍",
+    "ipa": "twɑɪs"
+   },
+   {
+    "en": "upstairs",
+    "zh": "在樓上；往樓上",
+    "ipa": "ˌʌpˈsteəz"
+   },
+   {
+    "en": "usually",
+    "zh": "通常",
+    "ipa": "ˈjuː.ʒu.əl.i"
+   },
+   {
+    "en": "very",
+    "zh": "非常",
+    "ipa": "ˈve.ri"
+   },
+   {
+    "en": "weekly",
+    "zh": "每週的；每週",
+    "ipa": "ˈwiːk.li"
+   },
+   {
+    "en": "well",
+    "zh": "好；健康的；……地",
+    "ipa": "wel"
+   },
+   {
+    "en": "well known",
+    "zh": "出名的",
+    "ipa": "ˌwel ˈnəʊn"
+   },
+   {
+    "en": "west",
+    "zh": "西；西方的",
+    "ipa": "west"
+   },
+   {
+    "en": "when",
+    "zh": "什麼時候；當……時",
+    "ipa": "wen"
+   },
+   {
+    "en": "where",
+    "zh": "在哪裡",
+    "ipa": "weə"
+   },
+   {
+    "en": "why",
+    "zh": "為什麼",
+    "ipa": "wɑɪ"
+   },
+   {
+    "en": "worse",
+    "zh": "更差的；更糟地",
+    "ipa": "wɜːs"
+   },
+   {
+    "en": "yes",
+    "zh": "是；對",
+    "ipa": "jes"
+   },
+   {
+    "en": "yet",
+    "zh": "還；尚未",
+    "ipa": "jet"
+   },
+   {
+    "en": "hardly",
+    "zh": "幾乎不",
+    "ipa": "ˈhɑːd.li"
+   },
+   {
+    "en": "somehow",
+    "zh": "以某種方式",
+    "ipa": "ˈsʌm.hɑʊ"
+   },
+   {
+    "en": "altogether",
+    "zh": "總共；合起來",
+    "ipa": "ˌɔːl.təˈɡeð.ə"
+   },
+   {
+    "en": "otherwise",
+    "zh": "否則；在其他方面",
+    "ipa": "ˈʌð.ə.wɑɪz"
+   },
+   {
+    "en": "indeed",
+    "zh": "確實；真的",
+    "ipa": "ɪnˈdiːd"
+   },
+   {
+    "en": "surely",
+    "zh": "一定；當然",
+    "ipa": "ˈʃʊə.li"
+   },
+   {
+    "en": "lately",
+    "zh": "最近；近來",
+    "ipa": "ˈleɪt.li"
+   },
+   {
+    "en": "mostly",
+    "zh": "大多；多半",
+    "ipa": "ˈməʊst.li"
+   },
+   {
+    "en": "forward",
+    "zh": "向前",
+    "ipa": "ˈfɔː.wəd"
+   },
+   {
+    "en": "backwards",
+    "zh": "向後",
+    "ipa": "ˈbæk.wədz"
+   },
+   {
+    "en": "halfway",
+    "zh": "半路；一半",
+    "ipa": "ˌhɑːfˈweɪ"
+   },
+   {
+    "en": "abroad",
+    "zh": "在國外；到國外",
+    "ipa": "əˈbrɔːd"
+   },
+   {
+    "en": "nearby",
+    "zh": "附近的；在附近",
+    "ipa": "ˌnɪəˈbɑɪ"
+   },
+   {
+    "en": "onwards",
+    "zh": "向前地；繼續",
+    "ipa": "ˈɒn.wədz"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "at least",
+    "zh": "至少",
+    "ipa": "ət ˈliːst"
+   },
+   {
+    "en": "at last",
+    "zh": "最後終於",
+    "ipa": "ət ˈlɑːst"
+   },
+   {
+    "en": "all the time",
+    "zh": "一直；不斷地",
+    "ipa": "ɔːl ðə ˈtɑɪm"
+   },
+   {
+    "en": "as well as",
+    "zh": "以及；和……一樣",
+    "ipa": "əz ˈwel əz"
+   },
+   {
+    "en": "as soon as possible",
+    "zh": "盡快",
+    "ipa": "əz ˈsuːn əz ˈpɒs.ə.bəl"
+   },
+   {
+    "en": "just now",
+    "zh": "剛才",
+    "ipa": "dʒʌst ˈnɑʊ"
+   },
+   {
+    "en": "right now",
+    "zh": "立刻；就在此時",
+    "ipa": "ˌrɑɪt ˈnɑʊ"
+   },
+   {
+    "en": "so far",
+    "zh": "到目前為止",
+    "ipa": "səʊ ˈfɑː"
+   },
+   {
+    "en": "for ever",
+    "zh": "永遠",
+    "ipa": "fəˈrev.ə"
+   },
+   {
+    "en": "from now on",
+    "zh": "從現在起",
+    "ipa": "frəm ˈnɑʊ ɒn"
+   },
+   {
+    "en": "in the end",
+    "zh": "最後；結果",
+    "ipa": "ɪn ði ˈend"
+   },
+   {
+    "en": "next door",
+    "zh": "隔壁",
+    "ipa": "ˌnekst ˈdɔː"
+   },
+   {
+    "en": "day by day",
+    "zh": "一天一天地",
+    "ipa": "ˌdeɪ bɑɪ ˈdeɪ"
+   },
+   {
+    "en": "more or less",
+    "zh": "大致上；差不了多少",
+    "ipa": "ˌmɔːr ɔː ˈles"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I usually walk to school because it is only ten minutes away.",
+    "zh": "我通常走路去上學，因為只有十分鐘的路程。"
+   },
+   {
+    "en": "She has already finished her homework, so she is free now.",
+    "zh": "她作業已經做完了，所以現在有空。"
+   },
+   {
+    "en": "We often eat fast food on Friday evenings.",
+    "zh": "我們星期五晚上常常吃速食。"
+   },
+   {
+    "en": "The film was very long, so I went to sleep early.",
+    "zh": "那部電影非常長，所以我早早就睡了。"
+   },
+   {
+    "en": "Turn left at the traffic lights and go straight on.",
+    "zh": "在紅綠燈那裡左轉，然後直走。"
+   },
+   {
+    "en": "My brother never goes to bed before eleven at night.",
+    "zh": "我弟弟從來不會在晚上十一點前上床睡覺。"
+   },
+   {
+    "en": "Can you come here again tomorrow, please?",
+    "zh": "你明天可以再來這裡一次嗎？"
+   },
+   {
+    "en": "The train was late again, so we waited outside the station.",
+    "zh": "火車又晚點了，所以我們在車站外面等。"
+   },
+   {
+    "en": "She speaks English quite well, although she is only twelve.",
+    "zh": "她英語說得相當好，雖然她才十二歲。"
+   },
+   {
+    "en": "My phone rang suddenly while I was cooking dinner downstairs.",
+    "zh": "我在樓下煮晚餐時，電話突然響了。"
+   },
+   {
+    "en": "We usually have a big meal together on Sundays.",
+    "zh": "我們星期天通常會一起吃一頓豐盛的飯。"
+   },
+   {
+    "en": "He always does his homework carefully before he goes to bed.",
+    "zh": "他睡覺前總是很仔細地做作業。"
+   },
+   {
+    "en": "The shop is still closed, but it opens early on Mondays.",
+    "zh": "商店還沒開門，但星期一開得很早。"
+   },
+   {
+    "en": "We hardly ever watch TV now; we usually talk instead.",
+    "zh": "我們現在幾乎不看電視，通常會聊天。"
+   }
+  ],
+  "tips": [
+   "頻率副詞（always、usually、often、sometimes、never）位置最容易錯：要放在一般動詞前面、be 動詞後面，不能丟到句尾。",
+   "late、early、fast、straight 這幾個字長得跟形容詞一樣，但形容詞放名詞前面、副詞修飾動詞，拼錯字型會直接改變句意。",
+   "程度副詞（more、most、least、almost、nearly、enough）幾乎都要搭配固定用法，建議把「至少」「快好了」這類片語連句一起記。"
+  ]
+ }
+]

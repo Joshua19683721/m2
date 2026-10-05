@@ -1,0 +1,550 @@
+[
+ {
+  "id": "natural-world",
+  "icon": "🌍",
+  "name": "自然世界",
+  "nameEn": "The Natural World",
+  "summary": "動植物、天氣現象和地球上的自然景觀。",
+  "words": [
+   {
+    "en": "air",
+    "zh": "空氣",
+    "ipa": "ˈeə"
+   },
+   {
+    "en": "fire",
+    "zh": "火",
+    "ipa": "ˈfaɪə"
+   },
+   {
+    "en": "moon",
+    "zh": "月亮",
+    "ipa": "muːn"
+   },
+   {
+    "en": "star",
+    "zh": "星星",
+    "ipa": "stɑː"
+   },
+   {
+    "en": "sky",
+    "zh": "天空",
+    "ipa": "skaɪ"
+   },
+   {
+    "en": "spring",
+    "zh": "春天",
+    "ipa": "sprɪŋ"
+   },
+   {
+    "en": "summer",
+    "zh": "夏天",
+    "ipa": "ˈsʌmə"
+   },
+   {
+    "en": "autumn",
+    "zh": "秋天",
+    "ipa": "ˈɔːtəm"
+   },
+   {
+    "en": "winter",
+    "zh": "冬天",
+    "ipa": "ˈwɪntə"
+   },
+   {
+    "en": "flower",
+    "zh": "花朵",
+    "ipa": "ˈflaʊə"
+   },
+   {
+    "en": "tree",
+    "zh": "樹木",
+    "ipa": "triː"
+   },
+   {
+    "en": "grass",
+    "zh": "草地",
+    "ipa": "ɡrɑːs"
+   },
+   {
+    "en": "plant",
+    "zh": "植物",
+    "ipa": "plɑːnt"
+   },
+   {
+    "en": "bee",
+    "zh": "蜜蜂",
+    "ipa": "biː"
+   },
+   {
+    "en": "grow",
+    "zh": "生長",
+    "ipa": "ɡrəʊ"
+   },
+   {
+    "en": "water",
+    "zh": "水",
+    "ipa": "ˈwɔːtə"
+   },
+   {
+    "en": "ice",
+    "zh": "冰",
+    "ipa": "aɪs"
+   },
+   {
+    "en": "hot",
+    "zh": "炎熱的",
+    "ipa": "hɒt"
+   },
+   {
+    "en": "sea",
+    "zh": "海",
+    "ipa": "siː"
+   },
+   {
+    "en": "lake",
+    "zh": "湖泊",
+    "ipa": "leɪk"
+   },
+   {
+    "en": "river",
+    "zh": "河流",
+    "ipa": "ˈrɪvə"
+   },
+   {
+    "en": "mountain",
+    "zh": "高山",
+    "ipa": "ˈmaʊntɪn"
+   },
+   {
+    "en": "hill",
+    "zh": "小山",
+    "ipa": "hɪl"
+   },
+   {
+    "en": "forest",
+    "zh": "森林",
+    "ipa": "ˈfɒrɪst"
+   },
+   {
+    "en": "desert",
+    "zh": "沙漠",
+    "ipa": "ˈdezət"
+   },
+   {
+    "en": "east",
+    "zh": "東方",
+    "ipa": "iːst"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "in the forest",
+    "zh": "在森林裡",
+    "ipa": "ˌɪn ðə ˈfɒrɪst"
+   },
+   {
+    "en": "under the tree",
+    "zh": "在樹下",
+    "ipa": "ˌʌndə ðə ˈtriː"
+   },
+   {
+    "en": "rise in the east",
+    "zh": "從東方升起",
+    "ipa": "ˌraɪz ɪn ði ˈiːst"
+   },
+   {
+    "en": "the sea is cold",
+    "zh": "海水很冷",
+    "ipa": "ði ˈsiː ɪz ˈkəʊld"
+   },
+   {
+    "en": "a lot of water",
+    "zh": "很多水",
+    "ipa": "ə ˌlɒt əv ˈwɔːtə"
+   },
+   {
+    "en": "in the countryside",
+    "zh": "在鄉間",
+    "ipa": "ˌɪn ðə ˈkʌntrisaɪd"
+   },
+   {
+    "en": "in the mountains",
+    "zh": "在山裡",
+    "ipa": "ˌɪn ðə maʊnˈteɪnz"
+   },
+   {
+    "en": "plant a tree",
+    "zh": "種一棵樹",
+    "ipa": "ˌplɑːnt ə ˈtriː"
+   },
+   {
+    "en": "grow flowers",
+    "zh": "種花",
+    "ipa": "ˌɡrəʊ ˈflaʊəz"
+   },
+   {
+    "en": "hot water",
+    "zh": "熱水",
+    "ipa": "ˌhɒt ˈwɔːtə"
+   },
+   {
+    "en": "ice on the lake",
+    "zh": "湖上的冰",
+    "ipa": "ˌaɪs ɒn ðə ˈleɪk"
+   },
+   {
+    "en": "a big fire",
+    "zh": "一場大火",
+    "ipa": "ə ˈbɪɡ ˈfaɪə"
+   },
+   {
+    "en": "look at the stars",
+    "zh": "看星星",
+    "ipa": "ˌlʊk ət ðə ˈstɑːz"
+   },
+   {
+    "en": "under the moon",
+    "zh": "在月光下",
+    "ipa": "ˌʌndə ðə ˈmuːn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "The sun rises in the east every morning.",
+    "zh": "太陽每天早上從東方升起。"
+   },
+   {
+    "en": "Bees love the yellow flowers near the tree.",
+    "zh": "蜜蜂喜歡樹旁的黃色花朵。"
+   },
+   {
+    "en": "In winter the lake is covered with ice.",
+    "zh": "冬天的湖面結滿了冰。"
+   },
+   {
+    "en": "There are a lot of fish in the river.",
+    "zh": "河裡有很多魚。"
+   },
+   {
+    "en": "My grandmother grew up in the countryside.",
+    "zh": "我的祖母在鄉間長大。"
+   },
+   {
+    "en": "I can see the moon and two stars.",
+    "zh": "我看得到月亮和兩顆星星。"
+   },
+   {
+    "en": "We climbed the mountain and saw the sea.",
+    "zh": "我們爬上那座山，看見了大海。"
+   },
+   {
+    "en": "The desert is very hot and very dry.",
+    "zh": "沙漠又熱又乾燥。"
+   },
+   {
+    "en": "Many plants grow in the forest in spring.",
+    "zh": "許多植物在春天的森林裡生長。"
+   },
+   {
+    "en": "We planted a tree beside the river.",
+    "zh": "我們在河邊種了一棵樹。"
+   },
+   {
+    "en": "Tall grass hides the path near the lake.",
+    "zh": "高高的草蓋住了湖邊的小徑。"
+   },
+   {
+    "en": "In summer we swim in the sea every day.",
+    "zh": "夏天我們每天都在海裡游泳。"
+   },
+   {
+    "en": "We burn wood when the house is cold.",
+    "zh": "房子冷的時候，我們會燒木頭。"
+   },
+   {
+    "en": "The old tree in the park is very tall.",
+    "zh": "公園裡那棵老樹非常高大。"
+   }
+  ],
+  "tips": [
+   "先把「在森林裡」這類片語練熟，再拆成單字練習。",
+   "注意月、星、花、草這類單字的重音位置。",
+   "每天挑一個自然場景，邊看圖邊複習會更快。"
+  ]
+ },
+ {
+  "id": "time",
+  "icon": "🕒",
+  "name": "時間與日期",
+  "nameEn": "Time",
+  "summary": "時間、星期、月份、日期怎麼說。",
+  "words": [
+   {
+    "en": "morning",
+    "zh": "早晨",
+    "ipa": "ˈmɔːnɪŋ"
+   },
+   {
+    "en": "afternoon",
+    "zh": "下午",
+    "ipa": "ˌɑːftəˈnuːn"
+   },
+   {
+    "en": "evening",
+    "zh": "傍晚",
+    "ipa": "ˈiːvnɪŋ"
+   },
+   {
+    "en": "night",
+    "zh": "夜晚",
+    "ipa": "naɪt"
+   },
+   {
+    "en": "noon",
+    "zh": "中午",
+    "ipa": "nuːn"
+   },
+   {
+    "en": "midnight",
+    "zh": "午夜",
+    "ipa": "ˌmɪdˈnaɪt"
+   },
+   {
+    "en": "today",
+    "zh": "今天",
+    "ipa": "təˈdeɪ"
+   },
+   {
+    "en": "tomorrow",
+    "zh": "明天",
+    "ipa": "təˈmɒrəʊ"
+   },
+   {
+    "en": "yesterday",
+    "zh": "昨天",
+    "ipa": "ˈjestədeɪ"
+   },
+   {
+    "en": "hour",
+    "zh": "小時",
+    "ipa": "ˈaʊə"
+   },
+   {
+    "en": "minute",
+    "zh": "分鐘",
+    "ipa": "ˈmɪnɪt"
+   },
+   {
+    "en": "second",
+    "zh": "秒",
+    "ipa": "ˈsekənd"
+   },
+   {
+    "en": "moment",
+    "zh": "片刻",
+    "ipa": "ˈməʊmənt"
+   },
+   {
+    "en": "day",
+    "zh": "天",
+    "ipa": "deɪ"
+   },
+   {
+    "en": "week",
+    "zh": "星期",
+    "ipa": "wiːk"
+   },
+   {
+    "en": "month",
+    "zh": "月份",
+    "ipa": "mʌnθ"
+   },
+   {
+    "en": "year",
+    "zh": "年",
+    "ipa": "jɪə"
+   },
+   {
+    "en": "weekend",
+    "zh": "週末",
+    "ipa": "ˌwiːkˈend"
+   },
+   {
+    "en": "weekday",
+    "zh": "工作日",
+    "ipa": "ˈwiːkdeɪ"
+   },
+   {
+    "en": "o'clock",
+    "zh": "點鐘（如三點鐘）",
+    "ipa": "əˈklɒk"
+   },
+   {
+    "en": "birthday",
+    "zh": "生日",
+    "ipa": "ˈbɜːθdeɪ"
+   },
+   {
+    "en": "meeting",
+    "zh": "會議",
+    "ipa": "ˈmiːtɪŋ"
+   },
+   {
+    "en": "clock",
+    "zh": "時鐘",
+    "ipa": "klɒk"
+   },
+   {
+    "en": "calendar",
+    "zh": "日曆",
+    "ipa": "ˈkælɪndə"
+   },
+   {
+    "en": "date",
+    "zh": "日期",
+    "ipa": "deɪt"
+   },
+   {
+    "en": "time",
+    "zh": "時間",
+    "ipa": "taɪm"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "next week",
+    "zh": "下週",
+    "ipa": "ˌnekst ˈwiːk"
+   },
+   {
+    "en": "this morning",
+    "zh": "今天早上",
+    "ipa": "ðɪs ˈmɔːnɪŋ"
+   },
+   {
+    "en": "at the weekend",
+    "zh": "在週末",
+    "ipa": "ət ðə ˌwiːkˈend"
+   },
+   {
+    "en": "half past six",
+    "zh": "六點半",
+    "ipa": "ˌhɑːf pɑːst ˈsɪks"
+   },
+   {
+    "en": "in the afternoon",
+    "zh": "在下午",
+    "ipa": "ɪn ðə ˌɑːftəˈnuːn"
+   },
+   {
+    "en": "a week ago",
+    "zh": "一週前",
+    "ipa": "ə ˈwiːk əˈɡəʊ"
+   },
+   {
+    "en": "every day",
+    "zh": "每天",
+    "ipa": "ˌevri ˈdeɪ"
+   },
+   {
+    "en": "at the moment",
+    "zh": "此刻",
+    "ipa": "ət ðə ˈməʊmənt"
+   },
+   {
+    "en": "in the evening",
+    "zh": "在傍晚",
+    "ipa": "ɪn ði ˈiːvnɪŋ"
+   },
+   {
+    "en": "half an hour",
+    "zh": "半小時",
+    "ipa": "ˌhɑːf ən ˈaʊə"
+   },
+   {
+    "en": "at midnight",
+    "zh": "在午夜",
+    "ipa": "ət ˈmɪdnaɪt"
+   },
+   {
+    "en": "the day before yesterday",
+    "zh": "前天",
+    "ipa": "ðə ˌdeɪ bɪˈfɔː ˈjestədeɪ"
+   },
+   {
+    "en": "next month",
+    "zh": "下個月",
+    "ipa": "ˌnekst ˈmʌnθ"
+   },
+   {
+    "en": "last year",
+    "zh": "去年",
+    "ipa": "ˌlɑːst ˈjɪə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We have four lessons in the morning.",
+    "zh": "我們上午有四堂課。"
+   },
+   {
+    "en": "My birthday is in the summer.",
+    "zh": "我的生日在夏天。"
+   },
+   {
+    "en": "The film starts at half past eight.",
+    "zh": "電影八點半開始。"
+   },
+   {
+    "en": "We always go swimming at the weekend.",
+    "zh": "我們週末都去游泳。"
+   },
+   {
+    "en": "I read the news every day before breakfast.",
+    "zh": "我每天吃早餐前看新聞。"
+   },
+   {
+    "en": "It was cold yesterday, but it is warm today.",
+    "zh": "昨天很冷，但今天很暖和。"
+   },
+   {
+    "en": "We must arrive before noon tomorrow.",
+    "zh": "我們明天中午之前必須到。"
+   },
+   {
+    "en": "She works three hours in the evening.",
+    "zh": "她傍晚工作三個小時。"
+   },
+   {
+    "en": "Please write your name and the date here.",
+    "zh": "請在這裡寫上你的名字和日期。"
+   },
+   {
+    "en": "I was very tired at midnight last night.",
+    "zh": "昨晚半夜的時候我非常累。"
+   },
+   {
+    "en": "Next week we are going to the mountains.",
+    "zh": "下週我們要去山上。"
+   },
+   {
+    "en": "Can you call me in a few minutes?",
+    "zh": "你可以在幾分鐘後打給我嗎？"
+   },
+   {
+    "en": "The meeting is at ten on Monday.",
+    "zh": "會議在星期一十點舉行。"
+   },
+   {
+    "en": "Look at the calendar and find today's date.",
+    "zh": "看日曆，找出今天的日期。"
+   }
+  ],
+  "tips": [
+   "先把早上、下午、晚上的順序記熟，再練相關片語。",
+   "鐘點表達從整點開始，再慢慢練習半點與一刻。",
+   "星期和月份的第一個字母記得要大寫。"
+  ]
+ }
+]

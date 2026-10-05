@@ -1,0 +1,550 @@
+[
+ {
+  "id": "documents",
+  "icon": "📄",
+  "name": "文件與書報",
+  "nameEn": "Documents and Texts",
+  "summary": "信、單據、護照、雜誌這一類會拿到或寫的文字。",
+  "words": [
+   {
+    "en": "advertisement",
+    "zh": "廣告",
+    "ipa": "ədˈvɜː.tɪs.mənt"
+   },
+   {
+    "en": "ad",
+    "zh": "短廣告",
+    "ipa": "æd"
+   },
+   {
+    "en": "magazine",
+    "zh": "雜誌",
+    "ipa": "ˌmæɡ.əˈziːn"
+   },
+   {
+    "en": "newspaper",
+    "zh": "報紙",
+    "ipa": "ˈnjuːz.peɪ.pə"
+   },
+   {
+    "en": "article",
+    "zh": "文章",
+    "ipa": "ˈɑː.tɪ.kəl"
+   },
+   {
+    "en": "comic",
+    "zh": "漫畫",
+    "ipa": "ˈkɒ.mɪk"
+   },
+   {
+    "en": "book",
+    "zh": "書",
+    "ipa": "bʊk"
+   },
+   {
+    "en": "textbook",
+    "zh": "教科書",
+    "ipa": "ˈtekst.bʊk"
+   },
+   {
+    "en": "notebook",
+    "zh": "筆記本",
+    "ipa": "ˈnəʊt.bʊk"
+   },
+   {
+    "en": "diary",
+    "zh": "日記",
+    "ipa": "ˈdaɪ.ə.ri"
+   },
+   {
+    "en": "letter",
+    "zh": "信；字母",
+    "ipa": "ˈlet.ə"
+   },
+   {
+    "en": "postcard",
+    "zh": "明信片",
+    "ipa": "ˈpəʊst.kɑːd"
+   },
+   {
+    "en": "note",
+    "zh": "便條；筆記",
+    "ipa": "nəʊt"
+   },
+   {
+    "en": "message",
+    "zh": "訊息",
+    "ipa": "ˈmes.ɪdʒ"
+   },
+   {
+    "en": "email",
+    "zh": "電子郵件",
+    "ipa": "ˈiː.meɪl"
+   },
+   {
+    "en": "text",
+    "zh": "簡訊；文字",
+    "ipa": "tekst"
+   },
+   {
+    "en": "form",
+    "zh": "表格",
+    "ipa": "fɔːm"
+   },
+   {
+    "en": "bill",
+    "zh": "帳單",
+    "ipa": "bɪl"
+   },
+   {
+    "en": "menu",
+    "zh": "菜單",
+    "ipa": "ˈmen.juː"
+   },
+   {
+    "en": "ticket",
+    "zh": "票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "passport",
+    "zh": "護照",
+    "ipa": "ˈpɑːs.pɔːt"
+   },
+   {
+    "en": "licence",
+    "zh": "執照；駕照",
+    "ipa": "ˈlaɪ.səns"
+   },
+   {
+    "en": "diploma",
+    "zh": "證書；文憑",
+    "ipa": "dɪˈpləʊ.mə"
+   },
+   {
+    "en": "project",
+    "zh": "專題作業",
+    "ipa": "ˈprɒ.dʒekt"
+   },
+   {
+    "en": "card",
+    "zh": "卡片",
+    "ipa": "kɑːd"
+   },
+   {
+    "en": "envelope",
+    "zh": "信封",
+    "ipa": "ɪnˈveləʊp"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "fill in a form",
+    "zh": "填寫表格",
+    "ipa": "ˌfɪl ˈɪn ə ˈfɔːm"
+   },
+   {
+    "en": "write a letter",
+    "zh": "寫一封信",
+    "ipa": "ˌraɪt ə ˈlet.ə"
+   },
+   {
+    "en": "send an email",
+    "zh": "寄電子郵件",
+    "ipa": "ˌsend ən ˈiː.meɪl"
+   },
+   {
+    "en": "sign your name",
+    "zh": "簽上你的名字",
+    "ipa": "ˌsaɪn jɔː ˈneɪm"
+   },
+   {
+    "en": "write a diary",
+    "zh": "寫日記",
+    "ipa": "ˌraɪt ə ˈdaɪ.ə.ri"
+   },
+   {
+    "en": "read a magazine",
+    "zh": "閱讀雜誌",
+    "ipa": "ˌriːd ə ˌmæɡ.əˈziːn"
+   },
+   {
+    "en": "look through a newspaper",
+    "zh": "翻閱報紙",
+    "ipa": "ˌlʊk θruː ə ˈnjuːz.peɪ.pə"
+   },
+   {
+    "en": "leave a message",
+    "zh": "留言",
+    "ipa": "ˌliːv ə ˈmes.ɪdʒ"
+   },
+   {
+    "en": "take notes",
+    "zh": "記筆記",
+    "ipa": "ˌteɪk ˈnəʊts"
+   },
+   {
+    "en": "pay the bill",
+    "zh": "付帳單",
+    "ipa": "ˌpeɪ ðə ˈbɪl"
+   },
+   {
+    "en": "show your passport",
+    "zh": "出示護照",
+    "ipa": "ˌʃəʊ jɔː ˈpɑːs.pɔːt"
+   },
+   {
+    "en": "post a postcard",
+    "zh": "寄明信片",
+    "ipa": "ˌpəʊst ə ˈpəʊst.kɑːd"
+   },
+   {
+    "en": "a page from a book",
+    "zh": "書裡的一頁",
+    "ipa": "ə ˈpeɪdʒ frəm ə ˈbʊk"
+   },
+   {
+    "en": "send a text message",
+    "zh": "傳送簡訊",
+    "ipa": "ˌsend ə ˈtekst ˈmes.ɪdʒ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Please fill in this form and give it to the office.",
+    "zh": "請填寫這張表格，然後交給櫃檯。"
+   },
+   {
+    "en": "I bought a new magazine at the station this morning.",
+    "zh": "今天早上我在車站買了一本新雜誌。"
+   },
+   {
+    "en": "My passport expires next year, so I need a new one.",
+    "zh": "我的護照明年到期，所以需要換一本新的。"
+   },
+   {
+    "en": "She left a short message on my desk before lunch.",
+    "zh": "午飯前她在我的桌上留了一則留言。"
+   },
+   {
+    "en": "The article in this newspaper is about healthy food.",
+    "zh": "這份報紙上的那篇文章在談健康飲食。"
+   },
+   {
+    "en": "We need a menu and two tickets for the show.",
+    "zh": "我們需要一份菜單和兩張演出的票。"
+   },
+   {
+    "en": "I bought this notebook for my English class.",
+    "zh": "我買了這本筆記本要用在英文課上。"
+   },
+   {
+    "en": "Can you send me the photo by email tomorrow?",
+    "zh": "你明天可以用電子郵件把照片寄給我嗎？"
+   },
+   {
+    "en": "Please write your name clearly on this card.",
+    "zh": "請在這張卡片上把名字寫清楚。"
+   },
+   {
+    "en": "I read the comic before I started my homework.",
+    "zh": "開始寫作業之前我先看了一本漫畫。"
+   },
+   {
+    "en": "The teacher gave our class a new project.",
+    "zh": "老師給我們班一個新的專題作業。"
+   },
+   {
+    "en": "We have a big exam at the end of the term.",
+    "zh": "這學期末我們有一場大考試。"
+   },
+   {
+    "en": "He read the whole book in just three days.",
+    "zh": "他只花了三天就讀完整本書。"
+   },
+   {
+    "en": "My driving licence ends in March, so I must renew it.",
+    "zh": "我的駕照三月到期，所以我必須換照。"
+   }
+  ],
+  "tips": [
+   "這組有些字以 /t/ 結尾，例如 ticket、text，末尾的音別漏掉；bill、postcard 則分別以 /l/、/d/ 結尾，不要記成一樣。",
+   "這組字很多以 t 結尾，例如 bill、ticket、text、postcard，末尾的音別漏掉。",
+   "打完一遍要回頭檢查會不會漏字，diary、magazine 這種長單字最容易少打一個字母。"
+  ]
+ },
+ {
+  "id": "education",
+  "icon": "🎓",
+  "name": "學校教育",
+  "nameEn": "Education",
+  "summary": "學校生活：科目、課本、考試、教室裡的用品。",
+  "words": [
+   {
+    "en": "school",
+    "zh": "學校",
+    "ipa": "ˈskuːl"
+   },
+   {
+    "en": "student",
+    "zh": "學生",
+    "ipa": "ˈstjuː.dənt"
+   },
+   {
+    "en": "teacher",
+    "zh": "老師",
+    "ipa": "ˈtiː.tʃə"
+   },
+   {
+    "en": "classmate",
+    "zh": "同學",
+    "ipa": "ˈklɑːs.meɪt"
+   },
+   {
+    "en": "lesson",
+    "zh": "課堂；課",
+    "ipa": "ˈles.ən"
+   },
+   {
+    "en": "class",
+    "zh": "班級；一堂課",
+    "ipa": "ˈklɑːs"
+   },
+   {
+    "en": "classroom",
+    "zh": "教室",
+    "ipa": "ˈklɑːs.ruːm"
+   },
+   {
+    "en": "desk",
+    "zh": "課桌",
+    "ipa": "desk"
+   },
+   {
+    "en": "blackboard",
+    "zh": "黑板",
+    "ipa": "ˈblæk.bɔːd"
+   },
+   {
+    "en": "eraser",
+    "zh": "橡皮擦",
+    "ipa": "ɪˈreɪ.zə"
+   },
+   {
+    "en": "ruler",
+    "zh": "尺",
+    "ipa": "ˈruː.lə"
+   },
+   {
+    "en": "dictionary",
+    "zh": "字典",
+    "ipa": "ˈdɪk.ʃən.ri"
+   },
+   {
+    "en": "library",
+    "zh": "圖書館",
+    "ipa": "ˈlaɪ.brə.ri"
+   },
+   {
+    "en": "university",
+    "zh": "大學",
+    "ipa": "ˌjuː.nɪˈvɜː.sə.ti"
+   },
+   {
+    "en": "homework",
+    "zh": "家庭作業",
+    "ipa": "ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "exam",
+    "zh": "考試",
+    "ipa": "ɪɡˈzæm"
+   },
+   {
+    "en": "test",
+    "zh": "測驗",
+    "ipa": "test"
+   },
+   {
+    "en": "mark",
+    "zh": "分數",
+    "ipa": "ˈmɑːk"
+   },
+   {
+    "en": "subject",
+    "zh": "科目",
+    "ipa": "ˈsʌb.dʒɪkt"
+   },
+   {
+    "en": "course",
+    "zh": "課程",
+    "ipa": "ˈkɔːs"
+   },
+   {
+    "en": "term",
+    "zh": "學期",
+    "ipa": "ˈtɜːm"
+   },
+   {
+    "en": "maths",
+    "zh": "數學",
+    "ipa": "mæθs"
+   },
+   {
+    "en": "science",
+    "zh": "科學",
+    "ipa": "ˈsaɪ.əns"
+   },
+   {
+    "en": "history",
+    "zh": "歷史",
+    "ipa": "ˈhɪs.tri"
+   },
+   {
+    "en": "study",
+    "zh": "用功讀書",
+    "ipa": "ˈstʌ.di"
+   },
+   {
+    "en": "practise",
+    "zh": "練習",
+    "ipa": "ˈpræktɪs"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "do homework",
+    "zh": "做家庭作業",
+    "ipa": "ˌduː ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "hand in your homework",
+    "zh": "交家庭作業",
+    "ipa": "ˌhænd ɪn jɔː ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "take an exam",
+    "zh": "參加考試",
+    "ipa": "ˌteɪk ən ɪɡˈzæm"
+   },
+   {
+    "en": "pass the exam",
+    "zh": "通過考試",
+    "ipa": "ˌpɑːs ðɪ ɪɡˈzæm"
+   },
+   {
+    "en": "get a good mark",
+    "zh": "拿到好成績",
+    "ipa": "ˌɡet ə ˌɡʊd ˈmɑːk"
+   },
+   {
+    "en": "go to school",
+    "zh": "上學",
+    "ipa": "ˌɡəʊ tə ˈskuːl"
+   },
+   {
+    "en": "go to university",
+    "zh": "上大學",
+    "ipa": "ˌɡəʊ tə ˌjuː.nɪˈvɜː.sə.ti"
+   },
+   {
+    "en": "do a test",
+    "zh": "參加測驗",
+    "ipa": "ˌduː ə ˈtest"
+   },
+   {
+    "en": "ask the teacher a question",
+    "zh": "向老師問問題",
+    "ipa": "ˌɑːsk ðə ˈtiː.tʃə ə ˈkwes.tʃən"
+   },
+   {
+    "en": "look up a word in a dictionary",
+    "zh": "在字典裡查單字",
+    "ipa": "ˌlʊk ʌp ə ˈwɜːd ɪn ə ˈdɪk.ʃən.ri"
+   },
+   {
+    "en": "borrow a book from the library",
+    "zh": "從圖書館借書",
+    "ipa": "ˌbɒ.rəʊ ə ˈbʊk frəm ðə ˈlaɪ.brə.ri"
+   },
+   {
+    "en": "learn a new language",
+    "zh": "學一門新語言",
+    "ipa": "ˌlɜːn ə njuː ˈlæŋ.ɡwɪdʒ"
+   },
+   {
+    "en": "study hard for the exam",
+    "zh": "為考試努力讀書",
+    "ipa": "ˈstʌ.di hɑːd fə ðɪ ɪɡˈzæm"
+   },
+   {
+    "en": "write down the new words",
+    "zh": "寫下新單字",
+    "ipa": "ˌraɪt ˌdaʊn ðə njuː ˈwɜːdz"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My son goes to school by bus every morning.",
+    "zh": "我兒子每天早上搭公車上學。"
+   },
+   {
+    "en": "We have four lessons in the morning.",
+    "zh": "我們上午有四堂課。"
+   },
+   {
+    "en": "She always does her homework after dinner.",
+    "zh": "她總是吃完晚餐後才做家庭作業。"
+   },
+   {
+    "en": "The maths exam was really difficult this year.",
+    "zh": "今年的數學考試真的很難。"
+   },
+   {
+    "en": "Our teacher writes new words on the blackboard.",
+    "zh": "我們的老師把新單字寫在黑板上。"
+   },
+   {
+    "en": "I need a new eraser and a ruler.",
+    "zh": "我需要一塊新的橡皮擦和一把尺。"
+   },
+   {
+    "en": "He studies science and history at university.",
+    "zh": "他在大學念科學和歷史。"
+   },
+   {
+    "en": "This word is difficult so I checked my dictionary.",
+    "zh": "這個單字很難，所以我查了字典。"
+   },
+   {
+    "en": "We must finish the project before Friday.",
+    "zh": "我們必須在星期五之前完成專題作業。"
+   },
+   {
+    "en": "My classmate gave me his history notes.",
+    "zh": "我的同學把歷史筆記借給我。"
+   },
+   {
+    "en": "Can you explain this lesson again, please?",
+    "zh": "請你再解釋一次這堂課好嗎？"
+   },
+   {
+    "en": "Every student must work hard in class.",
+    "zh": "每個學生在課堂上都必須努力。"
+   },
+   {
+    "en": "She speaks three languages at school.",
+    "zh": "她在學校會說三種語言。"
+   },
+   {
+    "en": "Our term starts in September and ends in July.",
+    "zh": "我們的學期九月開始、七月結束。"
+   }
+  ],
+  "tips": [
+   "先打出整個句子，再回頭檢查大小寫和標點，句號是最容易忘記的一個。",
+   "homework 這種合字中間沒有空格，dictionary 這種多音節字要跟著音節分節奏。",
+   "每天固定背五個新單字，隔天先複習昨天的，再學新的，效果最好。"
+  ]
+ }
+]

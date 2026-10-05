@@ -1,0 +1,37 @@
+# ── Python ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# ── Node ───────────────────────────────────────────────
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# ── 編輯器 / 作業系統 ──────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── 暫存與本機輸出 ─────────────────────────────────────
+# 一次性的除錯頁面（不要進版控）
+_*.html
+_*.png
+*.log
+
+# 內容建置的中間產物（可由 tools/ 重新產生）
+data/_coverage.json
+data/_qa_batches.json
+
+# 稽核產物（報告本身保留，但暫存 dump 不留）
+data/**/_vfy.js
+data/qa/_qa_dump.js
+
+# ── 說明 ───────────────────────────────────────────────
+# data/scenes.js 是產生的，但**必須**進版控，因為它是線上網站實際載入的檔案。
+# 改了 data/parts*/  之後要記得執行：
+#     python tools/build_scenes.py

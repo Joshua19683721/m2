@@ -1,0 +1,550 @@
+[
+ {
+  "id": "entertainment",
+  "icon": "🎭",
+  "name": "娛樂與媒體",
+  "nameEn": "Entertainment and Media",
+  "summary": "看電影、聽音樂、參展、看節目。",
+  "words": [
+   {
+    "en": "film",
+    "zh": "電影",
+    "ipa": "ˈfɪlm"
+   },
+   {
+    "en": "cinema",
+    "zh": "電影院",
+    "ipa": "ˈsɪn.ə.mə"
+   },
+   {
+    "en": "theatre",
+    "zh": "劇場",
+    "ipa": "ˈθɪə.tə"
+   },
+   {
+    "en": "concert",
+    "zh": "音樂會",
+    "ipa": "ˈkɒn.sət"
+   },
+   {
+    "en": "festival",
+    "zh": "節慶活動",
+    "ipa": "ˈfes.tɪ.vəl"
+   },
+   {
+    "en": "opera",
+    "zh": "歌劇",
+    "ipa": "ˈɒp.ər.ə"
+   },
+   {
+    "en": "disco",
+    "zh": "狄索可",
+    "ipa": "ˈdɪs.kəʊ"
+   },
+   {
+    "en": "museum",
+    "zh": "博物館",
+    "ipa": "mjuˈziː.əm"
+   },
+   {
+    "en": "exhibition",
+    "zh": "展覽會",
+    "ipa": "ˌek.sɪˈbɪʃ.ən"
+   },
+   {
+    "en": "actor",
+    "zh": "演員",
+    "ipa": "ˈæk.tə"
+   },
+   {
+    "en": "singer",
+    "zh": "歌手",
+    "ipa": "ˈsɪŋ.ə"
+   },
+   {
+    "en": "musician",
+    "zh": "音樂家",
+    "ipa": "mjuˈzɪʃ.ən"
+   },
+   {
+    "en": "dancer",
+    "zh": "舞者",
+    "ipa": "ˈdɑːn.sə"
+   },
+   {
+    "en": "painter",
+    "zh": "畫家",
+    "ipa": "ˈpeɪn.tə"
+   },
+   {
+    "en": "photographer",
+    "zh": "攝影師",
+    "ipa": "fəˈtɒɡ.rə.fə"
+   },
+   {
+    "en": "guitar",
+    "zh": "吉他",
+    "ipa": "ɡɪˈtɑː"
+   },
+   {
+    "en": "piano",
+    "zh": "鋼琴",
+    "ipa": "piˈæn.əʊ"
+   },
+   {
+    "en": "drum",
+    "zh": "鼓",
+    "ipa": "drʌm"
+   },
+   {
+    "en": "instrument",
+    "zh": "樂器",
+    "ipa": "ˈɪn.stə.mənt"
+   },
+   {
+    "en": "newspaper",
+    "zh": "報紙",
+    "ipa": "ˈnjuːz.peɪ.pə"
+   },
+   {
+    "en": "magazine",
+    "zh": "雜誌",
+    "ipa": "ˌmæɡ.əˈziːn"
+   },
+   {
+    "en": "cartoon",
+    "zh": "漫畫",
+    "ipa": "ˈkɑː.tuːn"
+   },
+   {
+    "en": "video game",
+    "zh": "電玩遊戲",
+    "ipa": "ˈvɪd.i.əʊ ˌɡeɪm"
+   },
+   {
+    "en": "ticket",
+    "zh": "門票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "radio",
+    "zh": "廣播",
+    "ipa": "ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "song",
+    "zh": "歌曲",
+    "ipa": "sɒŋ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "watch a film",
+    "zh": "看電影",
+    "ipa": "ˌwɒtʃ ə ˈfɪlm"
+   },
+   {
+    "en": "watch TV",
+    "zh": "看電視",
+    "ipa": "ˈwɒtʃ ˌtiːˈviː"
+   },
+   {
+    "en": "listen to music",
+    "zh": "聽音樂",
+    "ipa": "ˌlɪs.ən tə ˈmjuː.zɪk"
+   },
+   {
+    "en": "listen to the radio",
+    "zh": "聽廣播",
+    "ipa": "ˌlɪs.ən tə ðə ˈreɪ.di.əʊ"
+   },
+   {
+    "en": "play the guitar",
+    "zh": "彈吉他",
+    "ipa": "ˌpleɪ ðə ɡɪˈtɑː"
+   },
+   {
+    "en": "sing a song",
+    "zh": "唱一首歌",
+    "ipa": "ˌsɪŋ ə ˈsɒŋ"
+   },
+   {
+    "en": "draw a picture",
+    "zh": "畫一幅畫",
+    "ipa": "ˌdrɔː ə ˈpɪk.tʃə"
+   },
+   {
+    "en": "read a magazine",
+    "zh": "讀雜誌",
+    "ipa": "ˌriːd ə ˌmæɡ.əˈziːn"
+   },
+   {
+    "en": "go to a concert",
+    "zh": "去聽音樂會",
+    "ipa": "ˌɡəʊ tə ə ˈkɒn.sət"
+   },
+   {
+    "en": "go to the theatre",
+    "zh": "去劇場",
+    "ipa": "ˌɡəʊ tə ðə ˈθɪə.tə"
+   },
+   {
+    "en": "act in a film",
+    "zh": "在電影裡演出",
+    "ipa": "ˌækt ɪn ə ˈfɪlm"
+   },
+   {
+    "en": "play a video game",
+    "zh": "玩電玩遊戲",
+    "ipa": "ˌpleɪ ə ˈvɪd.i.əʊ ˌɡeɪm"
+   },
+   {
+    "en": "take photos",
+    "zh": "拍照",
+    "ipa": "ˌteɪk ˈfəʊ.tə.ɡrɑːfs"
+   },
+   {
+    "en": "buy a ticket",
+    "zh": "買一張票",
+    "ipa": "ˌbaɪ ə ˈtɪk.ɪt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My brother and I watch a film every Friday night.",
+    "zh": "我哥哥和我每週五晚上都看電影。"
+   },
+   {
+    "en": "The concert at the festival starts in the evening.",
+    "zh": "節慶的音樂會在晚上開始。"
+   },
+   {
+    "en": "She is a famous singer from my home town.",
+    "zh": "她是我家鄉有名的歌手。"
+   },
+   {
+    "en": "They danced to the music all evening long.",
+    "zh": "他們整個晚上都跟著音樂跳舞。"
+   },
+   {
+    "en": "We bought two tickets for the opera tonight.",
+    "zh": "我們買了兩張今晚歌劇的票。"
+   },
+   {
+    "en": "There is a good cartoon on the television now.",
+    "zh": "現在電視上正在播一部好看的卡通。"
+   },
+   {
+    "en": "He wants to be an actor when he is older.",
+    "zh": "他長大後想當演員。"
+   },
+   {
+    "en": "The museum has a new exhibition about photography.",
+    "zh": "博物館有一個關於攝影的新展覽。"
+   },
+   {
+    "en": "I like reading the newspaper on Sunday morning.",
+    "zh": "我喜歡星期天早上看報紙。"
+   },
+   {
+    "en": "My little brother plays video games for hours.",
+    "zh": "我弟弟玩電玩一玩就是好幾個小時。"
+   },
+   {
+    "en": "We went to the cinema to see a comedy.",
+    "zh": "我們去電影院看了一部喜劇片。"
+   },
+   {
+    "en": "That singer sings beautiful songs on the radio.",
+    "zh": "那位歌手在廣播裡唱著動聽的歌。"
+   },
+   {
+    "en": "She draws pictures of animals in her notebook.",
+    "zh": "她在筆記本上畫動物圖畫。"
+   },
+   {
+    "en": "The kids laugh at the funny photos every day.",
+    "zh": "小朋友每天都會被那些有趣的照片逗笑。"
+   }
+  ],
+  "tips": [
+   "片語要當成一個整體輸入，中間的冠詞 a 或 the 也都要打出來。",
+   "樂器前面要加定詞，例如吉他、鋼琴前面都有 the，不要漏打。",
+   "影劇與音樂單字的重音多在第一音節，先穩住第一音節的節奏再往下打。"
+  ]
+ },
+ {
+  "id": "family-friends",
+  "icon": "👨‍👩‍👧",
+  "name": "家人與朋友",
+  "nameEn": "Family and Friends",
+  "summary": "介紹家人、朋友，講親戚關係和稱呼。",
+  "words": [
+   {
+    "en": "family",
+    "zh": "家庭",
+    "ipa": "ˈfæm.əl.i"
+   },
+   {
+    "en": "father",
+    "zh": "父親",
+    "ipa": "ˈfɑː.ðə"
+   },
+   {
+    "en": "mother",
+    "zh": "母親",
+    "ipa": "ˈmʌð.ə"
+   },
+   {
+    "en": "parent",
+    "zh": "家長",
+    "ipa": "ˈpeə.rənt"
+   },
+   {
+    "en": "son",
+    "zh": "兒子",
+    "ipa": "sʌn"
+   },
+   {
+    "en": "daughter",
+    "zh": "女兒",
+    "ipa": "ˈdɔː.tə"
+   },
+   {
+    "en": "child",
+    "zh": "小孩",
+    "ipa": "tʃaɪld"
+   },
+   {
+    "en": "brother",
+    "zh": "兄弟",
+    "ipa": "ˈbrʌð.ə"
+   },
+   {
+    "en": "sister",
+    "zh": "姊妹",
+    "ipa": "ˈsɪs.tə"
+   },
+   {
+    "en": "aunt",
+    "zh": "姑姑、阿姨",
+    "ipa": "ɑːnt"
+   },
+   {
+    "en": "uncle",
+    "zh": "叔叔、舅舅",
+    "ipa": "ˈʌŋ.kəl"
+   },
+   {
+    "en": "cousin",
+    "zh": "表兄弟姊妹",
+    "ipa": "ˈkʌz.ən"
+   },
+   {
+    "en": "grandpa",
+    "zh": "爺爺、外公",
+    "ipa": "ˈɡræn.pɑː"
+   },
+   {
+    "en": "grandma",
+    "zh": "奶奶、外婆",
+    "ipa": "ˈɡræn.mɑː"
+   },
+   {
+    "en": "grandson",
+    "zh": "孫子",
+    "ipa": "ˈɡræn.sʌn"
+   },
+   {
+    "en": "granddaughter",
+    "zh": "孫女",
+    "ipa": "ˈɡræn.dɔː.tə"
+   },
+   {
+    "en": "husband",
+    "zh": "丈夫",
+    "ipa": "ˈhʌz.bənd"
+   },
+   {
+    "en": "wife",
+    "zh": "妻子",
+    "ipa": "waɪf"
+   },
+   {
+    "en": "friend",
+    "zh": "朋友",
+    "ipa": "frend"
+   },
+   {
+    "en": "neighbour",
+    "zh": "鄰居",
+    "ipa": "ˈneɪ.bə"
+   },
+   {
+    "en": "surname",
+    "zh": "姓",
+    "ipa": "ˈsɜː.neɪm"
+   },
+   {
+    "en": "married",
+    "zh": "已婚的",
+    "ipa": "ˈmær.ɪd"
+   },
+   {
+    "en": "teenager",
+    "zh": "青少年",
+    "ipa": "ˈtiːn.eɪ.dʒə"
+   },
+   {
+    "en": "Mr",
+    "zh": "先生",
+    "ipa": "ˈmɪs.tə"
+   },
+   {
+    "en": "Mrs",
+    "zh": "女士",
+    "ipa": "ˈmɪs.ɪz"
+   },
+   {
+    "en": "Miss",
+    "zh": "小姐",
+    "ipa": "mɪs"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "make friends",
+    "zh": "交朋友",
+    "ipa": "ˌmeɪk ˈfrendz"
+   },
+   {
+    "en": "close friends",
+    "zh": "親密的朋友",
+    "ipa": "ˌkləʊs ˈfrendz"
+   },
+   {
+    "en": "an old friend",
+    "zh": "老朋友",
+    "ipa": "ən ˈəʊld ˈfrend"
+   },
+   {
+    "en": "my best friend",
+    "zh": "我最好的朋友",
+    "ipa": "maɪ ˈbest ˈfrend"
+   },
+   {
+    "en": "meet a friend",
+    "zh": "認識一位朋友",
+    "ipa": "ˌmiːt ə ˈfrend"
+   },
+   {
+    "en": "introduce a friend",
+    "zh": "介紹一位朋友",
+    "ipa": "ˌɪn.trəˈdjuːs ə ˈfrend"
+   },
+   {
+    "en": "get on with",
+    "zh": "和某人相處得好",
+    "ipa": "ˌɡet ɒn wɪð"
+   },
+   {
+    "en": "a big family",
+    "zh": "一個大家庭",
+    "ipa": "ə ˈbɪɡ ˈfæm.əl.i"
+   },
+   {
+    "en": "happy family",
+    "zh": "幸福美滿的家庭",
+    "ipa": "ˈhæp.i ˈfæm.əl.i"
+   },
+   {
+    "en": "visit my family",
+    "zh": "拜訪我的家人",
+    "ipa": "ˈvɪ.zɪt maɪ ˈfæm.əl.i"
+   },
+   {
+    "en": "live with my parents",
+    "zh": "和父母同住",
+    "ipa": "ˌlɪv wɪð maɪ ˈpeə.rənts"
+   },
+   {
+    "en": "be married to",
+    "zh": "和某人結婚",
+    "ipa": "bi ˈmær.ɪd tə"
+   },
+   {
+    "en": "next door neighbour",
+    "zh": "隔壁鄰居",
+    "ipa": "ˌnekst ˈdɔː ˈneɪ.bə"
+   },
+   {
+    "en": "call my grandma",
+    "zh": "打電話給奶奶",
+    "ipa": "ˌkɔːl maɪ ˈɡræn.mɑː"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My family is not big, but we are happy.",
+    "zh": "我家人口不多，但我們很幸福。"
+   },
+   {
+    "en": "My grandmother lives with my parents in the city.",
+    "zh": "我奶奶和我的父母住在市區。"
+   },
+   {
+    "en": "My cousin has two daughters and one son.",
+    "zh": "我表姊有兩個女兒和一個兒子。"
+   },
+   {
+    "en": "She is married to my older brother.",
+    "zh": "她和我哥哥結婚了。"
+   },
+   {
+    "en": "Our neighbour has a very friendly dog.",
+    "zh": "我們的鄰居家有一隻很友善的狗。"
+   },
+   {
+    "en": "We made some new friends at school.",
+    "zh": "我們在學校認識了一些新朋友。"
+   },
+   {
+    "en": "Mrs Chen is my English teacher at school.",
+    "zh": "陳女士是我學校的英文老師。"
+   },
+   {
+    "en": "My son is a teenager now, and he loves games.",
+    "zh": "我兒子現在是青少年，他很喜歡遊戲。"
+   },
+   {
+    "en": "I call my grandma every Sunday evening on the phone.",
+    "zh": "我每個星期天晚上打電話給奶奶。"
+   },
+   {
+    "en": "My uncle and his wife live near the train station.",
+    "zh": "我叔叔和他的太太住在火車站附近。"
+   },
+   {
+    "en": "Their grandfather is a famous actor on the television.",
+    "zh": "他們的爺爺是電視上有名的演員。"
+   },
+   {
+    "en": "What is your surname? Who is your father?",
+    "zh": "你姓什麼？你爸爸是誰？"
+   },
+   {
+    "en": "My aunt and uncle have a new grandson.",
+    "zh": "我姑姑和叔叔有了一個新孫子。"
+   },
+   {
+    "en": "She gets on well with the parents of her husband.",
+    "zh": "她和丈夫的父母相處得很好。"
+   }
+  ],
+  "tips": [
+   "英文的稱謂前面要加所有格詞：講自己的家人用 my，講別人的家人用 his、her 或 their，例如 my mother、her sister。",
+   "這組字多個以相同字母開頭，先想好開頭的音再往下打會順很多。",
+   "姓和名要分兩次輸入，中間別漏打分隔用的空白鍵。"
+  ]
+ }
+]

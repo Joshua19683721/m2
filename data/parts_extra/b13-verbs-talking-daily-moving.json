@@ -1,0 +1,1395 @@
+[
+ {
+  "id": "verbs-talking",
+  "icon": "💬",
+  "name": "動詞：溝通與想法",
+  "nameEn": "Verbs: Talking & Thinking",
+  "summary": "say / tell / think / know / understand… 說話與思考的動詞。",
+  "note": "注意 say 與 tell、look 與 see、hear 與 listen 的差別。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "agree",
+    "zh": "同意；看法一致",
+    "ipa": "əˈɡriː"
+   },
+   {
+    "en": "answer",
+    "zh": "回答；答案",
+    "ipa": "ˈɑːn.sə"
+   },
+   {
+    "en": "ask",
+    "zh": "問；請求",
+    "ipa": "ɑːsk"
+   },
+   {
+    "en": "believe",
+    "zh": "相信；認為",
+    "ipa": "bɪˈliːv"
+   },
+   {
+    "en": "decide",
+    "zh": "決定",
+    "ipa": "dɪˈsaɪd"
+   },
+   {
+    "en": "describe",
+    "zh": "描述",
+    "ipa": "dɪˈskraɪb"
+   },
+   {
+    "en": "discuss",
+    "zh": "討論",
+    "ipa": "dɪˈskʌs"
+   },
+   {
+    "en": "explain",
+    "zh": "解釋；說明",
+    "ipa": "ɪkˈspleɪn"
+   },
+   {
+    "en": "forget",
+    "zh": "忘記",
+    "ipa": "fəˈɡet"
+   },
+   {
+    "en": "guess",
+    "zh": "猜測",
+    "ipa": "ɡes"
+   },
+   {
+    "en": "guess what",
+    "zh": "猜猜看是什麼",
+    "ipa": "ˈɡes wɒt"
+   },
+   {
+    "en": "hope",
+    "zh": "希望",
+    "ipa": "həʊp"
+   },
+   {
+    "en": "know",
+    "zh": "知道；認識",
+    "ipa": "nəʊ"
+   },
+   {
+    "en": "mean",
+    "zh": "意思是；代表",
+    "ipa": "miːn"
+   },
+   {
+    "en": "need",
+    "zh": "需要",
+    "ipa": "niːd"
+   },
+   {
+    "en": "notice",
+    "zh": "注意到；告示",
+    "ipa": "ˈnəʊ.tɪs"
+   },
+   {
+    "en": "plan",
+    "zh": "計畫；打算",
+    "ipa": "plæn"
+   },
+   {
+    "en": "question",
+    "zh": "問題",
+    "ipa": "ˈkwes.tʃən"
+   },
+   {
+    "en": "remember",
+    "zh": "記得",
+    "ipa": "rɪˈmem.bə"
+   },
+   {
+    "en": "say",
+    "zh": "說",
+    "ipa": "seɪ"
+   },
+   {
+    "en": "shout",
+    "zh": "大喊",
+    "ipa": "ʃaʊt"
+   },
+   {
+    "en": "speak",
+    "zh": "說；發言",
+    "ipa": "spiːk"
+   },
+   {
+    "en": "spell",
+    "zh": "拼寫",
+    "ipa": "spel"
+   },
+   {
+    "en": "suppose",
+    "zh": "認為；以為",
+    "ipa": "səˈpəʊz"
+   },
+   {
+    "en": "talk",
+    "zh": "說話；聊天",
+    "ipa": "tɔːk"
+   },
+   {
+    "en": "tell",
+    "zh": "告訴",
+    "ipa": "tel"
+   },
+   {
+    "en": "think",
+    "zh": "想；認為",
+    "ipa": "θɪŋk"
+   },
+   {
+    "en": "understand",
+    "zh": "理解；明白",
+    "ipa": "ˌʌn.dəˈstænd"
+   },
+   {
+    "en": "want",
+    "zh": "想要",
+    "ipa": "wɒnt"
+   },
+   {
+    "en": "wish",
+    "zh": "希望；祝福",
+    "ipa": "wɪʃ"
+   },
+   {
+    "en": "advise",
+    "zh": "勸告；建議",
+    "ipa": "ədˈvaɪz"
+   },
+   {
+    "en": "apologise",
+    "zh": "道歉",
+    "ipa": "əˈpɒl.ə.dʒaɪz"
+   },
+   {
+    "en": "argue",
+    "zh": "爭論；辯論",
+    "ipa": "ˈɑː.ɡjuː"
+   },
+   {
+    "en": "call",
+    "zh": "打電話；叫",
+    "ipa": "kɔːl"
+   },
+   {
+    "en": "chat",
+    "zh": "聊天",
+    "ipa": "tʃæt"
+   },
+   {
+    "en": "complain",
+    "zh": "抱怨",
+    "ipa": "kəmˈpleɪn"
+   },
+   {
+    "en": "correct",
+    "zh": "改正；正確的",
+    "ipa": "kəˈrekt"
+   },
+   {
+    "en": "cry",
+    "zh": "哭；大叫",
+    "ipa": "kraɪ"
+   },
+   {
+    "en": "doubt",
+    "zh": "懷疑",
+    "ipa": "daʊt"
+   },
+   {
+    "en": "express",
+    "zh": "表達",
+    "ipa": "ɪkˈspres"
+   },
+   {
+    "en": "hear",
+    "zh": "聽見",
+    "ipa": "hɪə"
+   },
+   {
+    "en": "joke",
+    "zh": "開玩笑",
+    "ipa": "dʒəʊk"
+   },
+   {
+    "en": "laugh",
+    "zh": "笑",
+    "ipa": "lɑːf"
+   },
+   {
+    "en": "learn",
+    "zh": "學習",
+    "ipa": "lɜːn"
+   },
+   {
+    "en": "listen",
+    "zh": "聽",
+    "ipa": "ˈlɪs.ən"
+   },
+   {
+    "en": "mention",
+    "zh": "提到",
+    "ipa": "ˈmen.ʃən"
+   },
+   {
+    "en": "name",
+    "zh": "名字；說出名字",
+    "ipa": "neɪm"
+   },
+   {
+    "en": "order",
+    "zh": "點餐；命令",
+    "ipa": "ˈɔː.də"
+   },
+   {
+    "en": "point",
+    "zh": "指；指向",
+    "ipa": "pɔɪnt"
+   },
+   {
+    "en": "promise",
+    "zh": "答應；承諾",
+    "ipa": "ˈprɒm.ɪs"
+   },
+   {
+    "en": "read",
+    "zh": "閱讀",
+    "ipa": "riːd"
+   },
+   {
+    "en": "repeat",
+    "zh": "重複",
+    "ipa": "rɪˈpiːt"
+   },
+   {
+    "en": "reply",
+    "zh": "回覆",
+    "ipa": "rɪˈplaɪ"
+   },
+   {
+    "en": "report",
+    "zh": "報告",
+    "ipa": "rɪˈpɔːt"
+   },
+   {
+    "en": "show",
+    "zh": "展示；指明",
+    "ipa": "ʃəʊ"
+   },
+   {
+    "en": "smile",
+    "zh": "微笑",
+    "ipa": "smaɪl"
+   },
+   {
+    "en": "study",
+    "zh": "學習；研究",
+    "ipa": "ˈstʌd.i"
+   },
+   {
+    "en": "suggest",
+    "zh": "建議",
+    "ipa": "səˈdʒest"
+   },
+   {
+    "en": "teach",
+    "zh": "教",
+    "ipa": "tiːtʃ"
+   },
+   {
+    "en": "try",
+    "zh": "嘗試",
+    "ipa": "traɪ"
+   },
+   {
+    "en": "warn",
+    "zh": "警告",
+    "ipa": "wɔːn"
+   },
+   {
+    "en": "whisper",
+    "zh": "低聲說",
+    "ipa": "ˈwɪs.pə"
+   },
+   {
+    "en": "write",
+    "zh": "寫",
+    "ipa": "raɪt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "agree with",
+    "zh": "同意；與某人看法一致",
+    "ipa": "əˈɡriː wɪð"
+   },
+   {
+    "en": "ask somebody a question",
+    "zh": "問某人一個問題",
+    "ipa": "ˈɑːsk ˈsʌm.ə.bədi ə ˈkwes.tʃən"
+   },
+   {
+    "en": "believe in",
+    "zh": "信任；相信其存在",
+    "ipa": "bɪˈliːv ɪn"
+   },
+   {
+    "en": "decide to do",
+    "zh": "決定去做某事",
+    "ipa": "dɪˈsaɪd tuː ˈduː"
+   },
+   {
+    "en": "explain something to somebody",
+    "zh": "向某人解釋某件事",
+    "ipa": "ɪkˈspleɪn ˈsʌm.θɪŋ tuː ˈsʌm.ə.bədi"
+   },
+   {
+    "en": "forget to do",
+    "zh": "忘記去做某事",
+    "ipa": "fəˈɡet tuː ˈduː"
+   },
+   {
+    "en": "hope for",
+    "zh": "期待；盼望",
+    "ipa": "həʊp fɔː"
+   },
+   {
+    "en": "know about",
+    "zh": "知道關於某事",
+    "ipa": "nəʊ əˈbaʊt"
+   },
+   {
+    "en": "talk to somebody",
+    "zh": "跟某人說話",
+    "ipa": "ˈtɔːk tuː ˈsʌm.ə.bədi"
+   },
+   {
+    "en": "want to do",
+    "zh": "想要做某事",
+    "ipa": "ˈwɒnt tuː ˈduː"
+   },
+   {
+    "en": "say something to somebody",
+    "zh": "對某人說些什麼",
+    "ipa": "ˈseɪ ˈsʌm.θɪŋ tuː ˈsʌm.ə.bədi"
+   },
+   {
+    "en": "spell out",
+    "zh": "逐字母拼出；仔細說明",
+    "ipa": "ˌspel ˈaʊt"
+   },
+   {
+    "en": "tell somebody something",
+    "zh": "告訴某人某件事",
+    "ipa": "ˈtel ˈsʌm.ə.bədi ˈsʌm.θɪŋ"
+   },
+   {
+    "en": "think about",
+    "zh": "考慮；想著",
+    "ipa": "ˈθɪŋk əˈbaʊt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I want to tell you something important about tomorrow.",
+    "zh": "我想跟你說一件關於明天的重要事。"
+   },
+   {
+    "en": "She asked me a question, but I didn't know the answer.",
+    "zh": "她問我一個問題，可是我不知道答案。"
+   },
+   {
+    "en": "Can you explain this word? I don't understand it.",
+    "zh": "你可以解釋這個字嗎？我不懂它的意思。"
+   },
+   {
+    "en": "My brother always talks too much and shouts at me.",
+    "zh": "我哥哥總是話太多，還會對我大吼。"
+   },
+   {
+    "en": "I think you are right, but I don't really agree.",
+    "zh": "我認為你說得對，但我真的不認同。"
+   },
+   {
+    "en": "We discussed the plan and decided to start on Monday.",
+    "zh": "我們討論了計畫，決定禮拜一開始。"
+   },
+   {
+    "en": "Could you describe the street where you live? I can't remember it.",
+    "zh": "你可以描述一下你住的那條街嗎？我記不得了。"
+   },
+   {
+    "en": "He forgot to reply to my email yesterday evening.",
+    "zh": "他昨天晚上忘記回覆我的電子郵件。"
+   },
+   {
+    "en": "Don't shout! I can't hear what you are saying.",
+    "zh": "別大聲！我聽不清你在說什麼。"
+   },
+   {
+    "en": "I hope you will remember my party tomorrow.",
+    "zh": "我希望明天你還記得我的派對。"
+   },
+   {
+    "en": "She wrote her name at the top of the page.",
+    "zh": "她把名字寫在那一頁的最上面。"
+   },
+   {
+    "en": "We talked about the film and told funny stories.",
+    "zh": "我們聊了那部電影，還講了有趣的故事。"
+   },
+   {
+    "en": "I suppose you are right, but I want to know more.",
+    "zh": "我想你是對的，不過我想知道更多。"
+   },
+   {
+    "en": "Please spell your surname; I didn't hear it clearly.",
+    "zh": "請拼出你的姓氏，我剛才沒聽清楚。"
+   }
+  ],
+  "tips": [
+   "say 後面直接接說的內容，tell 一定要先接人：說 something 是 say，告訴某人某件事是 tell somebody something，這兩組千萬不要互換。",
+   "hear 是「聽見」，listen 是「聽」這個動作；聽廣播用 listen，看見東西才用 see。",
+   "練習時把 want、hope、think、decide 後面接 to 加動詞原形，寫完立刻檢查自己是不是多加或多寫了形式。"
+  ]
+ },
+ {
+  "id": "verbs-daily",
+  "icon": "🧹",
+  "name": "動詞：日常與家務",
+  "nameEn": "Verbs: Daily Life",
+  "summary": "clean / carry / open / close / put / take… 每天在做的事。",
+  "note": "put / take / get 這組三兄弟的搭配最常考。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "begin",
+    "zh": "開始",
+    "ipa": "bɪˈɡɪn"
+   },
+   {
+    "en": "borrow",
+    "zh": "借入",
+    "ipa": "ˈbɒr.əʊ"
+   },
+   {
+    "en": "break",
+    "zh": "打破；休息",
+    "ipa": "breɪk"
+   },
+   {
+    "en": "bring",
+    "zh": "帶來",
+    "ipa": "brɪŋ"
+   },
+   {
+    "en": "bring back",
+    "zh": "帶回來",
+    "ipa": "ˌbrɪŋ ˈbæk"
+   },
+   {
+    "en": "brush",
+    "zh": "刷；刷子",
+    "ipa": "brʌʃ"
+   },
+   {
+    "en": "build",
+    "zh": "建造",
+    "ipa": "bɪld"
+   },
+   {
+    "en": "carry",
+    "zh": "搬；提",
+    "ipa": "ˈkær.i"
+   },
+   {
+    "en": "catch",
+    "zh": "抓住；接住",
+    "ipa": "kætʃ"
+   },
+   {
+    "en": "choose",
+    "zh": "選擇",
+    "ipa": "tʃuːz"
+   },
+   {
+    "en": "clean",
+    "zh": "打掃；乾淨的",
+    "ipa": "kliːn"
+   },
+   {
+    "en": "clear",
+    "zh": "清楚的；清空",
+    "ipa": "klɪə"
+   },
+   {
+    "en": "close to",
+    "zh": "靠近；接近",
+    "ipa": "ˈkləʊs tuː"
+   },
+   {
+    "en": "continue",
+    "zh": "繼續",
+    "ipa": "kənˈtɪn.juː"
+   },
+   {
+    "en": "cover",
+    "zh": "蓋住；封面",
+    "ipa": "ˈkʌv.ə"
+   },
+   {
+    "en": "cut",
+    "zh": "切；剪",
+    "ipa": "kʌt"
+   },
+   {
+    "en": "deliver",
+    "zh": "送遞；送達",
+    "ipa": "dɪˈlɪv.ə"
+   },
+   {
+    "en": "do",
+    "zh": "做；幹",
+    "ipa": "duː"
+   },
+   {
+    "en": "dry",
+    "zh": "乾的；曬乾",
+    "ipa": "draɪ"
+   },
+   {
+    "en": "empty",
+    "zh": "空的；倒空",
+    "ipa": "ˈemp.ti"
+   },
+   {
+    "en": "fill",
+    "zh": "裝滿；填",
+    "ipa": "fɪl"
+   },
+   {
+    "en": "find",
+    "zh": "找到；發現",
+    "ipa": "faɪnd"
+   },
+   {
+    "en": "finish",
+    "zh": "完成；結束",
+    "ipa": "ˈfɪn.ɪʃ"
+   },
+   {
+    "en": "fix",
+    "zh": "修理；修好",
+    "ipa": "fɪks"
+   },
+   {
+    "en": "keep",
+    "zh": "保持；保留",
+    "ipa": "kiːp"
+   },
+   {
+    "en": "lend",
+    "zh": "借出",
+    "ipa": "lend"
+   },
+   {
+    "en": "lose",
+    "zh": "遺失；輸",
+    "ipa": "luːz"
+   },
+   {
+    "en": "make",
+    "zh": "做；製作",
+    "ipa": "meɪk"
+   },
+   {
+    "en": "make sure",
+    "zh": "確定；務必",
+    "ipa": "ˌmeɪk ˈʃʊə"
+   },
+   {
+    "en": "move",
+    "zh": "移動；搬家",
+    "ipa": "muːv"
+   },
+   {
+    "en": "own",
+    "zh": "自己的；擁有",
+    "ipa": "əʊn"
+   },
+   {
+    "en": "pack",
+    "zh": "打包；收拾行李",
+    "ipa": "pæk"
+   },
+   {
+    "en": "pull",
+    "zh": "拉",
+    "ipa": "pʊl"
+   },
+   {
+    "en": "push",
+    "zh": "推",
+    "ipa": "pʊʃ"
+   },
+   {
+    "en": "put",
+    "zh": "放；擺",
+    "ipa": "pʊt"
+   },
+   {
+    "en": "repair",
+    "zh": "修理",
+    "ipa": "rɪˈpeə"
+   },
+   {
+    "en": "save",
+    "zh": "儲存；省下",
+    "ipa": "seɪv"
+   },
+   {
+    "en": "shut",
+    "zh": "關上",
+    "ipa": "ʃʌt"
+   },
+   {
+    "en": "start",
+    "zh": "開始",
+    "ipa": "stɑːt"
+   },
+   {
+    "en": "stop",
+    "zh": "停止；站",
+    "ipa": "stɒp"
+   },
+   {
+    "en": "take",
+    "zh": "拿；帶",
+    "ipa": "teɪk"
+   },
+   {
+    "en": "take part",
+    "zh": "參加",
+    "ipa": "ˈteɪk pɑːt"
+   },
+   {
+    "en": "throw",
+    "zh": "丟；扔",
+    "ipa": "θrəʊ"
+   },
+   {
+    "en": "tidy",
+    "zh": "整潔的；整理",
+    "ipa": "ˈtaɪ.di"
+   },
+   {
+    "en": "tidy up",
+    "zh": "整理乾淨",
+    "ipa": "ˌtaɪ.di ˈʌp"
+   },
+   {
+    "en": "use",
+    "zh": "使用",
+    "ipa": "juːz"
+   },
+   {
+    "en": "wash",
+    "zh": "洗",
+    "ipa": "wɒʃ"
+   },
+   {
+    "en": "boil",
+    "zh": "煮沸；燒開水",
+    "ipa": "bɔɪl"
+   },
+   {
+    "en": "buy",
+    "zh": "買",
+    "ipa": "baɪ"
+   },
+   {
+    "en": "change",
+    "zh": "改變；更換；零錢",
+    "ipa": "tʃeɪndʒ"
+   },
+   {
+    "en": "chop",
+    "zh": "切碎；剁",
+    "ipa": "tʃɒp"
+   },
+   {
+    "en": "close",
+    "zh": "關上",
+    "ipa": "kləʊz"
+   },
+   {
+    "en": "cook",
+    "zh": "烹飪；煮飯",
+    "ipa": "kʊk"
+   },
+   {
+    "en": "count",
+    "zh": "數；計算",
+    "ipa": "kaʊnt"
+   },
+   {
+    "en": "hang",
+    "zh": "掛；吊",
+    "ipa": "hæŋ"
+   },
+   {
+    "en": "iron",
+    "zh": "熨（衣服）",
+    "ipa": "ˈaɪ.ən"
+   },
+   {
+    "en": "knock",
+    "zh": "敲",
+    "ipa": "nɒk"
+   },
+   {
+    "en": "lay",
+    "zh": "放置；鋪",
+    "ipa": "leɪ"
+   },
+   {
+    "en": "lock",
+    "zh": "鎖上；鎖",
+    "ipa": "lɒk"
+   },
+   {
+    "en": "mix",
+    "zh": "混合",
+    "ipa": "mɪks"
+   },
+   {
+    "en": "open",
+    "zh": "打開",
+    "ipa": "ˈəʊ.pən"
+   },
+   {
+    "en": "paint",
+    "zh": "油漆；上油漆",
+    "ipa": "peɪnt"
+   },
+   {
+    "en": "peel",
+    "zh": "削皮",
+    "ipa": "piːl"
+   },
+   {
+    "en": "pour",
+    "zh": "倒；灌",
+    "ipa": "pɔː"
+   },
+   {
+    "en": "rub",
+    "zh": "擦；摩擦",
+    "ipa": "rʌb"
+   },
+   {
+    "en": "sweep",
+    "zh": "掃；掃地",
+    "ipa": "swiːp"
+   },
+   {
+    "en": "wipe",
+    "zh": "擦；擦拭",
+    "ipa": "waɪp"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "put away",
+    "zh": "收好；放回原處",
+    "ipa": "ˌpʊt əˈweɪ"
+   },
+   {
+    "en": "make the bed",
+    "zh": "整理床舖",
+    "ipa": "ˌmeɪk ðə ˈbed"
+   },
+   {
+    "en": "do the washing-up",
+    "zh": "洗碗",
+    "ipa": "ˌduː ðə ˈwɒ.ʃɪŋ ʌp"
+   },
+   {
+    "en": "clean the room",
+    "zh": "打掃房間",
+    "ipa": "ˌkliːn ðə ˈruːm"
+   },
+   {
+    "en": "tidy your room",
+    "zh": "整理你的房間",
+    "ipa": "ˌtaɪ.di jɔː ˈruːm"
+   },
+   {
+    "en": "take a shower",
+    "zh": "洗澡",
+    "ipa": "ˌteɪk ə ˈʃaʊ.ə"
+   },
+   {
+    "en": "brush your teeth",
+    "zh": "刷牙",
+    "ipa": "ˌbrʌʃ jɔː ˈtiːθ"
+   },
+   {
+    "en": "wash the dishes",
+    "zh": "洗碗",
+    "ipa": "ˌwɒʃ ðə ˈdɪʃ.ɪz"
+   },
+   {
+    "en": "help with the housework",
+    "zh": "幫忙做家事",
+    "ipa": "ˌhelp wɪð ðə ˈhaʊs.wɜːk"
+   },
+   {
+    "en": "borrow something from somebody",
+    "zh": "向某人借某樣東西",
+    "ipa": "ˈbɒr.əʊ ˈsʌm.θɪŋ frəm ˈsʌm.ə.bədi"
+   },
+   {
+    "en": "buy something online",
+    "zh": "在網路上買東西",
+    "ipa": "ˌbaɪ ˈsʌm.θɪŋ ˌɒnˈlaɪn"
+   },
+   {
+    "en": "fix something at home",
+    "zh": "在家裡修理東西",
+    "ipa": "ˌfɪks ˈsʌm.θɪŋ ət ˈhəʊm"
+   },
+   {
+    "en": "take part in",
+    "zh": "參加",
+    "ipa": "ˌteɪk ˈpɑːt ɪn"
+   },
+   {
+    "en": "make sure to do",
+    "zh": "記得要做某事",
+    "ipa": "ˌmeɪk ˈʃʊə tuː ˈduː"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Please clean the table and wash the cups.",
+    "zh": "請擦桌子，然後把杯子洗一洗。"
+   },
+   {
+    "en": "My mother makes us lunch and helps me wash up.",
+    "zh": "我媽會幫我們做午餐，也會陪我洗碗。"
+   },
+   {
+    "en": "I must finish my homework before I start cooking.",
+    "zh": "我必須在開始煮飯之前完成作業。"
+   },
+   {
+    "en": "He broke a cup while he was washing the dishes.",
+    "zh": "他洗碗的時候打破了一個杯子。"
+   },
+   {
+    "en": "Can I borrow your bike? I'll bring it back tonight.",
+    "zh": "我可以借你的腳踏車嗎？我今晚會還回來。"
+   },
+   {
+    "en": "We put the boxes in the garage and carried them upstairs.",
+    "zh": "我們把箱子放進車庫，還搬上樓去。"
+   },
+   {
+    "en": "She started the washing machine and tidied the kitchen.",
+    "zh": "她啟動洗衣機，然後把廚房整理乾淨。"
+   },
+   {
+    "en": "Please take the empty bottles to the recycling point.",
+    "zh": "請把空瓶送到回收點。"
+   },
+   {
+    "en": "He locked the door and cleaned all the windows.",
+    "zh": "他鎖上門，接著把窗戶都擦乾淨。"
+   },
+   {
+    "en": "We save money every month and put it in a box.",
+    "zh": "我們每月存錢，把錢放進一個盒子裡。"
+   },
+   {
+    "en": "The machine has stopped, so I need to fix it.",
+    "zh": "機器停住了，所以我得修理它。"
+   },
+   {
+    "en": "I made a cake and put the boxes in the fridge.",
+    "zh": "我做了一個蛋糕，還把盒子放進冰箱裡。"
+   },
+   {
+    "en": "He packed his bags and threw the old boxes away.",
+    "zh": "他把行李打包好，然後把舊紙箱丟掉。"
+   },
+   {
+    "en": "I found my keys under the sofa after I cleaned the room.",
+    "zh": "我打掃完房間後，在沙發下面找到我的鑰匙。"
+   }
+  ],
+  "tips": [
+   "put 是「放進某個地方」，take 是「拿出來」，get 是「拿到手」，這三個動詞搭配的地點最容易記錯。",
+   "begin 和 start 後面接動詞原形或動名詞都可以，但同一句裡不要混著寫；continue 後面則不能接不定詞。",
+   "寫家務相關句子時，廚房、垃圾、洗衣、鞋櫃這些台灣用語要先想熟，再翻成英文會比逐字硬譯自然得多。"
+  ]
+ },
+ {
+  "id": "verbs-moving",
+  "icon": "🚶",
+  "name": "動詞：移動與出行",
+  "nameEn": "Verbs: Moving & Travelling",
+  "summary": "go / come / walk / drive / travel / arrive… 移動的動詞。",
+  "note": "方向副詞放句尾（go home、come back）不要放句首。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "arrive",
+    "zh": "抵達",
+    "ipa": "əˈraɪv"
+   },
+   {
+    "en": "climb",
+    "zh": "爬；攀爬",
+    "ipa": "klaɪm"
+   },
+   {
+    "en": "come",
+    "zh": "來",
+    "ipa": "kʌm"
+   },
+   {
+    "en": "come back",
+    "zh": "回來",
+    "ipa": "ˌkʌm ˈbæk"
+   },
+   {
+    "en": "cross",
+    "zh": "穿過；十字路口",
+    "ipa": "krɒs"
+   },
+   {
+    "en": "cycle",
+    "zh": "騎腳踏車",
+    "ipa": "ˈsaɪ.kəl"
+   },
+   {
+    "en": "drive",
+    "zh": "開車；駕駛",
+    "ipa": "draɪv"
+   },
+   {
+    "en": "enter",
+    "zh": "進入",
+    "ipa": "ˈen.tə"
+   },
+   {
+    "en": "fall",
+    "zh": "跌倒；落下",
+    "ipa": "fɔːl"
+   },
+   {
+    "en": "fly",
+    "zh": "飛",
+    "ipa": "flaɪ"
+   },
+   {
+    "en": "follow",
+    "zh": "跟隨",
+    "ipa": "ˈfɒl.əʊ"
+   },
+   {
+    "en": "go",
+    "zh": "去",
+    "ipa": "ɡəʊ"
+   },
+   {
+    "en": "hurry",
+    "zh": "匆忙；趕緊",
+    "ipa": "ˈhʌr.i"
+   },
+   {
+    "en": "jump",
+    "zh": "跳",
+    "ipa": "dʒʌmp"
+   },
+   {
+    "en": "leave",
+    "zh": "離開；留下",
+    "ipa": "liːv"
+   },
+   {
+    "en": "return",
+    "zh": "返回；歸還",
+    "ipa": "rɪˈtɜːn"
+   },
+   {
+    "en": "ride",
+    "zh": "騎；乘",
+    "ipa": "raɪd"
+   },
+   {
+    "en": "run",
+    "zh": "跑；奔跑",
+    "ipa": "rʌn"
+   },
+   {
+    "en": "sail",
+    "zh": "航行；帆船",
+    "ipa": "seɪl"
+   },
+   {
+    "en": "stay",
+    "zh": "停留；待",
+    "ipa": "steɪ"
+   },
+   {
+    "en": "tour",
+    "zh": "旅行；參觀團",
+    "ipa": "tʊə"
+   },
+   {
+    "en": "tour guide",
+    "zh": "導遊",
+    "ipa": "ˈtʊə ɡaɪd"
+   },
+   {
+    "en": "travel",
+    "zh": "旅行",
+    "ipa": "ˈtræv.əl"
+   },
+   {
+    "en": "turn",
+    "zh": "轉；轉彎",
+    "ipa": "tɜːn"
+   },
+   {
+    "en": "visit",
+    "zh": "拜訪；參觀",
+    "ipa": "ˈvɪz.ɪt"
+   },
+   {
+    "en": "wait",
+    "zh": "等待",
+    "ipa": "weɪt"
+   },
+   {
+    "en": "abroad",
+    "zh": "在國外；到國外",
+    "ipa": "əˈbrɔːd"
+   },
+   {
+    "en": "airport",
+    "zh": "機場",
+    "ipa": "ˈeə.pɔːt"
+   },
+   {
+    "en": "board",
+    "zh": "搭上；登上",
+    "ipa": "bɔːd"
+   },
+   {
+    "en": "book",
+    "zh": "預訂；訂票",
+    "ipa": "bʊk"
+   },
+   {
+    "en": "camp",
+    "zh": "露營；營地",
+    "ipa": "kæmp"
+   },
+   {
+    "en": "commute",
+    "zh": "上下班通勤",
+    "ipa": "kəˈmjuːt"
+   },
+   {
+    "en": "delay",
+    "zh": "延誤；耽擱",
+    "ipa": "dɪˈleɪ"
+   },
+   {
+    "en": "depart",
+    "zh": "出發；離開",
+    "ipa": "dɪˈpɑːt"
+   },
+   {
+    "en": "explore",
+    "zh": "探索；探險",
+    "ipa": "ɪkˈsplɔː"
+   },
+   {
+    "en": "hike",
+    "zh": "健行；徒步旅行",
+    "ipa": "haɪk"
+   },
+   {
+    "en": "holiday",
+    "zh": "假日；假期",
+    "ipa": "ˈhɒl.ə.deɪ"
+   },
+   {
+    "en": "journey",
+    "zh": "旅程",
+    "ipa": "ˈdʒɜː.ni"
+   },
+   {
+    "en": "land",
+    "zh": "降落；著陸",
+    "ipa": "lænd"
+   },
+   {
+    "en": "map",
+    "zh": "地圖",
+    "ipa": "mæp"
+   },
+   {
+    "en": "march",
+    "zh": "行進；前進",
+    "ipa": "mɑːtʃ"
+   },
+   {
+    "en": "miss",
+    "zh": "錯過；想念",
+    "ipa": "mɪs"
+   },
+   {
+    "en": "park",
+    "zh": "停車；公園",
+    "ipa": "pɑːk"
+   },
+   {
+    "en": "pass",
+    "zh": "經過；通過",
+    "ipa": "pɑːs"
+   },
+   {
+    "en": "passport",
+    "zh": "護照",
+    "ipa": "ˈpɑːs.pɔːt"
+   },
+   {
+    "en": "platform",
+    "zh": "月台",
+    "ipa": "ˈplæt.fɔːm"
+   },
+   {
+    "en": "queue",
+    "zh": "排隊",
+    "ipa": "kjuː"
+   },
+   {
+    "en": "reach",
+    "zh": "抵達；伸手拿到",
+    "ipa": "riːtʃ"
+   },
+   {
+    "en": "route",
+    "zh": "路線",
+    "ipa": "ruːt"
+   },
+   {
+    "en": "seat",
+    "zh": "座位",
+    "ipa": "siːt"
+   },
+   {
+    "en": "set off",
+    "zh": "出發；動身",
+    "ipa": "ˌset ˈɒf"
+   },
+   {
+    "en": "ski",
+    "zh": "滑雪",
+    "ipa": "skiː"
+   },
+   {
+    "en": "speed",
+    "zh": "加快；速度",
+    "ipa": "spiːd"
+   },
+   {
+    "en": "station",
+    "zh": "車站",
+    "ipa": "ˈsteɪ.ʃən"
+   },
+   {
+    "en": "suitcase",
+    "zh": "行李箱",
+    "ipa": "ˈsuːt.keɪs"
+   },
+   {
+    "en": "swim",
+    "zh": "游泳",
+    "ipa": "swɪm"
+   },
+   {
+    "en": "ticket",
+    "zh": "票；車票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "traffic",
+    "zh": "交通；車流",
+    "ipa": "ˈtræf.ɪk"
+   },
+   {
+    "en": "trip",
+    "zh": "旅行；短程旅遊",
+    "ipa": "trɪp"
+   },
+   {
+    "en": "walk",
+    "zh": "走路",
+    "ipa": "wɔːk"
+   },
+   {
+    "en": "wander",
+    "zh": "漫步；閒逛",
+    "ipa": "ˈwɒn.də"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "arrive at",
+    "zh": "到達（某個地點）",
+    "ipa": "əˈraɪv æt"
+   },
+   {
+    "en": "arrive home",
+    "zh": "到家",
+    "ipa": "əˈraɪv ˈhəʊm"
+   },
+   {
+    "en": "get off the bus",
+    "zh": "下公車",
+    "ipa": "ˌɡet ˈɒf ðə ˈbʌs"
+   },
+   {
+    "en": "get on the train",
+    "zh": "上火車",
+    "ipa": "ˌɡet ˈɒn ðə ˈtreɪn"
+   },
+   {
+    "en": "go on foot",
+    "zh": "步行前往",
+    "ipa": "ˌɡəʊ ɒn ˈfʊt"
+   },
+   {
+    "en": "go straight on",
+    "zh": "一直往前走",
+    "ipa": "ˌɡəʊ ˈstreɪt ɒn"
+   },
+   {
+    "en": "turn left",
+    "zh": "左轉",
+    "ipa": "ˌtɜːn ˈleft"
+   },
+   {
+    "en": "turn right",
+    "zh": "右轉",
+    "ipa": "ˌtɜːn ˈraɪt"
+   },
+   {
+    "en": "wait for",
+    "zh": "等待",
+    "ipa": "ˈweɪt fɔː"
+   },
+   {
+    "en": "travel by train",
+    "zh": "搭火車旅行",
+    "ipa": "ˈtræv.əl baɪ ˈtreɪn"
+   },
+   {
+    "en": "travel abroad",
+    "zh": "到國外旅行",
+    "ipa": "ˈtræv.əl əˈbrɔːd"
+   },
+   {
+    "en": "come back from",
+    "zh": "從某個地方回來",
+    "ipa": "ˌkʌm ˈbæk frɒm"
+   },
+   {
+    "en": "miss the bus",
+    "zh": "錯過公車",
+    "ipa": "ˌmɪs ðə ˈbʌs"
+   },
+   {
+    "en": "on time",
+    "zh": "準時",
+    "ipa": "ˌɒn ˈtaɪm"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We arrived at the station and waited for the train.",
+    "zh": "我們到了車站，等火車。"
+   },
+   {
+    "en": "We crossed the road and walked to the park.",
+    "zh": "我們過了馬路，然後走路去公園。"
+   },
+   {
+    "en": "My sister cycles to school and comes back by bus.",
+    "zh": "我姊姊騎腳踏車上學，坐公車回來。"
+   },
+   {
+    "en": "We drove to the airport and parked near terminal two.",
+    "zh": "我們開車到機場，把車停在第二航廈附近。"
+   },
+   {
+    "en": "The plane flies to London and lands at noon.",
+    "zh": "那班飛機飛往倫敦，中午降落。"
+   },
+   {
+    "en": "Please hurry up or we will miss the train.",
+    "zh": "請快一點，不然我們會錯過火車。"
+   },
+   {
+    "en": "He climbed the mountain and jumped into the lake.",
+    "zh": "他爬上山，然後跳進湖裡。"
+   },
+   {
+    "en": "Tourists come here every summer to visit the old town.",
+    "zh": "觀光客每年夏天都來這裡參觀老街。"
+   },
+   {
+    "en": "We stay at home and wait for the rain to stop.",
+    "zh": "我們待在家裡，等雨停。"
+   },
+   {
+    "en": "The bus turned left and arrived at the market.",
+    "zh": "那班公車左轉，然後到了市場。"
+   },
+   {
+    "en": "We travelled around Europe and visited ten big cities.",
+    "zh": "我們在歐洲各地旅行，參觀了十座大城市。"
+   },
+   {
+    "en": "The tour guide told us to follow him and not to fall behind.",
+    "zh": "導遊叫我們跟著他，不要掉隊。"
+   },
+   {
+    "en": "Our train leaves at six, so let's go now.",
+    "zh": "我們的火車六點開，所以現在走吧。"
+   },
+   {
+    "en": "Enter through the side door and turn right upstairs.",
+    "zh": "請從側門進入，上樓後右轉。"
+   }
+  ],
+  "tips": [
+   "方向與地點的字眼（回家、上車、到站）要放在動詞後面或句尾，擺到句首會讓整句變得很不自然。",
+   "travel 是動詞或不可數名詞，trip 和 tour 是可數名詞，一個是「旅行這件事」，兩個是「一趟行程」，用法要分清楚。",
+   "arrive 後面接大地方用 in、接小地方用 at；reach 才是「到達某個點」，這組介系詞最容易出題。"
+  ]
+ }
+]

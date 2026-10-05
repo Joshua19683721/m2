@@ -1,0 +1,513 @@
+{
+ "_note": "QA 稽核後人工確認的修正。field 可為 zh / ipa / en。",
+ "entries": [
+  {
+   "scene": "comms-tech",
+   "en": "envelope",
+   "field": "ipa",
+   "value": "ɪnˈveləʊp"
+  },
+  {
+   "scene": "documents",
+   "en": "envelope",
+   "field": "ipa",
+   "value": "ɪnˈveləʊp"
+  },
+  {
+   "scene": "documents",
+   "en": "project",
+   "field": "ipa",
+   "value": "ˈprɒ.dʒekt"
+  },
+  {
+   "scene": "places-buildings",
+   "en": "opposite the hotel",
+   "field": "ipa",
+   "value": "əˈpɒ.zɪt ðə həʊˈtel"
+  },
+  {
+   "scene": "places-town",
+   "en": "pedestrian crossing",
+   "field": "ipa",
+   "value": "pəˈdes.tri.ən ˈkrɒs.ɪŋ"
+  },
+  {
+   "scene": "places-town",
+   "en": "underground",
+   "field": "ipa",
+   "value": "ˈʌn.də.ɡraʊnd"
+  },
+  {
+   "scene": "travel-transport",
+   "en": "airport",
+   "field": "ipa",
+   "value": "ˈeə.pɔːt"
+  },
+  {
+   "scene": "grammar-core",
+   "en": "have got to",
+   "field": "ipa",
+   "value": "ˈhæv ˌɡɒt tə"
+  },
+  {
+   "scene": "grammar-core",
+   "en": "because",
+   "field": "ipa",
+   "value": "bɪˈkɒz"
+  },
+  {
+   "scene": "grammar-core",
+   "en": "be going to",
+   "field": "ipa",
+   "value": "biː ˌɡəʊ.ɪŋ tə"
+  },
+  {
+   "scene": "noun-everyday-misc",
+   "en": "trainer",
+   "field": "ipa",
+   "value": "ˈtreɪ.nə"
+  },
+  {
+   "scene": "verbs-feeling",
+   "en": "heal",
+   "field": "ipa",
+   "value": "hiːl"
+  },
+  {
+   "scene": "verbs-feeling",
+   "en": "prefer / would prefer",
+   "field": "ipa",
+   "value": "prɪˈfɜː ˈwʊd prɪˈfɜː"
+  },
+  {
+   "scene": "places-town",
+   "en": "Children play on the playground in the park.",
+   "field": "en",
+   "value": "Children play in the playground in the park."
+  },
+  {
+   "scene": "noun-sports-games",
+   "en": "cheer your team",
+   "field": "en",
+   "value": "cheer on your team"
+  },
+  {
+   "scene": "noun-sports-games",
+   "en": "The score was two goals when the match ended.",
+   "field": "en",
+   "value": "The score was two goals to nil when the match ended."
+  },
+  {
+   "scene": "travel-transport",
+   "en": "a long delay",
+   "field": "zh",
+   "value": "長時間的延誤"
+  },
+  {
+   "scene": "phrasal-verbs",
+   "en": "fall over",
+   "field": "zh",
+   "value": "摔倒；（腳踏車等）翻倒"
+  },
+  {
+   "scene": "verbs-people",
+   "en": "Everyone in the audience cheered and clapped loudly.",
+   "field": "zh",
+   "value": "觀眾席上的每個人都大聲喝采。"
+  },
+  {
+   "scene": "health",
+   "en": "He had an accident and broke his arm.",
+   "field": "zh",
+   "value": "他出了意外，手臂骨折了。"
+  },
+  {
+   "scene": "measurements",
+   "en": "month",
+   "field": "zh",
+   "value": "一個月；月份"
+  },
+  {
+   "scene": "services",
+   "en": "The dentist is on the first floor of this building.",
+   "field": "zh",
+   "value": "牙醫在這棟建築的二樓。"
+  },
+  {
+   "scene": "travel-transport",
+   "en": "Take a map and look at the motorway signs.",
+   "field": "zh",
+   "value": "帶張地圖看看高速公路的交通標誌。"
+  },
+  {
+   "scene": "travel-transport",
+   "en": "We missed the bus, so we walked to the station.",
+   "field": "zh",
+   "value": "我們錯過公車，所以走到車站。"
+  },
+  {
+   "scene": "noun-everyday-misc",
+   "en": "ID",
+   "field": "zh",
+   "value": "身分證明文件（identification 的簡稱）"
+  },
+  {
+   "scene": "adj-extra",
+   "en": "horror",
+   "field": "zh",
+   "value": "恐怖；恐怖片（複數 horrors 指恐怖片）"
+  },
+  {
+   "scene": "verbs-food",
+   "en": "He boils the water and drinks three cups of tea.",
+   "field": "zh",
+   "value": "他煮開水，喝三杯茶。"
+  },
+  {
+   "scene": "adj-quality",
+   "en": "My worst holiday was really awful and terrible.",
+   "field": "zh",
+   "value": "我最糟的假期真的糟透了。"
+  },
+  {
+   "scene": "adj-things",
+   "en": "poor thing/you",
+   "field": "zh",
+   "value": "真可憐喔！（感嘆用語，不是形容詞）"
+  },
+  {
+   "scene": "noun-clothes-extra",
+   "en": "I put my wet gloves and scarf near the heater.",
+   "field": "zh",
+   "value": "我把溼手套和圍巾放在暖氣旁邊晾乾。"
+  },
+  {
+   "scene": "noun-people-roles",
+   "en": "The waitress and the waiter are my cousins.",
+   "field": "zh",
+   "value": "那位女服務生和服務生都是我的表兄弟姊妹。"
+  },
+  {
+   "scene": "noun-people-roles",
+   "en": "Every member of staff wears a name badge.",
+   "field": "zh",
+   "value": "每位職員都佩戴著名牌。"
+  },
+  {
+   "scene": "noun-tech-media",
+   "en": "search for information",
+   "field": "zh",
+   "value": "搜尋資訊"
+  },
+  {
+   "scene": "noun-home-things",
+   "en": "There is a big mirror on the wall near the stairs.",
+   "field": "zh",
+   "value": "樓梯附近的牆壁上有一面大鏡子。"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "Her bedroom is on the second floor above the kitchen.",
+   "field": "zh",
+   "value": "她的臥室在三樓，就在廚房上面。"
+  },
+  {
+   "scene": "phrasal-verbs",
+   "en": "Look out! That glass is going to fall off the table.",
+   "field": "zh",
+   "value": "小心！那個玻璃杯快要從桌上掉下來了。"
+  },
+  {
+   "scene": "clothes",
+   "en": "backpack",
+   "field": "zh",
+   "value": "背包（美式說法；英式為 rucksack）"
+  },
+  {
+   "scene": "entertainment",
+   "en": "The kids laugh at the funny photos every day.",
+   "field": "zh",
+   "value": "小朋友每天都會被那些有趣的照片逗笑。"
+  },
+  {
+   "scene": "family-friends",
+   "en": "Our neighbour has a very friendly dog.",
+   "field": "zh",
+   "value": "我們的鄰居家有一隻很友善的狗。"
+  },
+  {
+   "scene": "family-friends",
+   "en": "What is your surname, and who is your father?",
+   "field": "en",
+   "value": "What is your surname? Who is your father?"
+  },
+  {
+   "scene": "places-town",
+   "en": "Take the second turning after the petrol station.",
+   "field": "zh",
+   "value": "在加油站之後的第二個路口轉彎。"
+  },
+  {
+   "scene": "work-jobs",
+   "en": "Please ask your boss about the new job.",
+   "field": "zh",
+   "value": "請向你的老闆詢問新工作的事。"
+  },
+  {
+   "scene": "noun-everyday-misc",
+   "en": "centre/center",
+   "field": "zh",
+   "value": "中心（美式=center）"
+  },
+  {
+   "scene": "adj-extra",
+   "en": "be good at",
+   "field": "zh",
+   "value": "擅長（做某事）"
+  },
+  {
+   "scene": "verbs-food",
+   "en": "roast",
+   "field": "zh",
+   "value": "烤、烘烤；烤肉、烤菜"
+  },
+  {
+   "scene": "noun-clothes-extra",
+   "en": "a leather belt",
+   "field": "zh",
+   "value": "皮質皮帶"
+  },
+  {
+   "scene": "noun-people-roles",
+   "en": "My colleague is a famous actor from London.",
+   "field": "zh",
+   "value": "我的同事是一位來自倫敦的著名演員。"
+  },
+  {
+   "scene": "colours",
+   "en": "pale",
+   "field": "zh",
+   "value": "淡色的；淺淡的（例：pale green 淡綠色）"
+  },
+  {
+   "scene": "time",
+   "en": "o'clock",
+   "field": "zh",
+   "value": "點鐘（如三點鐘）"
+  },
+  {
+   "scene": "places-countryside",
+   "en": "The sky is very clear above the hills tonight.",
+   "field": "zh",
+   "value": "今晚山丘上方的天空很晴朗。"
+  },
+  {
+   "scene": "noun-everyday-misc",
+   "en": "character",
+   "field": "zh",
+   "value": "人物；影劇小說中的人物；性格、特質"
+  },
+  {
+   "scene": "noun-people-roles",
+   "en": "guide",
+   "field": "zh",
+   "value": "嚮導；導遊"
+  },
+  {
+   "scene": "measurements",
+   "en": "The lesson starts in a few minutes.",
+   "field": "zh",
+   "value": "這堂課幾分鐘後開始。"
+  },
+  {
+   "scene": "house-home",
+   "en": "The bathroom is next to my bedroom on this floor.",
+   "field": "zh",
+   "value": "浴室在這層樓我臥室的旁邊。"
+  },
+  {
+   "scene": "places-buildings",
+   "en": "on the second floor",
+   "field": "zh",
+   "value": "在三樓"
+  },
+  {
+   "scene": "time",
+   "en": "She works three hours in the evening.",
+   "field": "zh",
+   "value": "她傍晚工作三個小時。"
+  },
+  {
+   "scene": "verbs-people",
+   "en": "apologise",
+   "field": "ipa",
+   "value": "əˈpɒl.ə.dʒaɪz"
+  },
+  {
+   "scene": "noun-everyday-misc",
+   "en": "by accident",
+   "field": "zh",
+   "value": "意外地、碰巧"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "walk through the park",
+   "field": "zh",
+   "value": "走過公園"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "floor",
+   "field": "zh",
+   "value": "地板；樓層"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "court",
+   "field": "zh",
+   "value": "球場；法庭"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "gallery",
+   "field": "zh",
+   "value": "美術館；畫廊"
+  },
+  {
+   "scene": "noun-places-extra",
+   "en": "field",
+   "field": "zh",
+   "value": "田地；場地"
+  },
+  {
+   "scene": "adj-things",
+   "en": "poor thing/you",
+   "field": "ipa",
+   "value": "ˌpɔː ˈθɪŋ　ˌpɔː ˈjuː"
+  },
+  {
+   "scene": "adj-things",
+   "en": "poor thing/you",
+   "field": "zh",
+   "value": "真可憐喔！／你好可憐喔！"
+  },
+  {
+   "scene": "noun-sports-games",
+   "en": "She won first prize at the school sports competition.",
+   "field": "zh",
+   "value": "她在學校運動競賽中贏得了第一名。"
+  },
+  {
+   "scene": "grammar-core",
+   "en": "The film was so long that I slept well.",
+   "field": "en",
+   "value": "The film was so long that I fell asleep."
+  },
+  {
+   "scene": "grammar-core",
+   "en": "You can borrow my pen if you have to go now.",
+   "field": "en",
+   "value": "You can borrow my pen if you want."
+  },
+  {
+   "scene": "measurements",
+   "en": "gramme",
+   "field": "delete",
+   "value": ""
+  },
+  {
+   "scene": "grammar-adverbs",
+   "en": "alright",
+   "field": "delete",
+   "value": ""
+  },
+  {
+   "scene": "adj-quality",
+   "en": "My worst holiday was really awful and terrible.",
+   "field": "en",
+   "value": "My worst holiday was really awful."
+  }
+ ],
+ "tips": [
+  {
+   "scene": "documents",
+   "index": 0,
+   "value": "這組有些字以 /t/ 結尾，例如 ticket、text，末尾的音別漏掉；bill、postcard 則分別以 /l/、/d/ 結尾，不要記成一樣。"
+  },
+  {
+   "scene": "hobbies",
+   "index": 0,
+   "value": "拍照可以說 take photos 或 take a photo；take a photo with a camera 也完全正確，兩種說法都能用。"
+  },
+  {
+   "scene": "house-home",
+   "index": 0,
+   "value": "房間名稱前面要加定冠詞 the：in the kitchen、in the bathroom、in the living room。"
+  },
+  {
+   "scene": "feelings",
+   "index": 0,
+   "value": "介紹一個人時先說名字，再用兩三個性格或心情的形容詞。"
+  },
+  {
+   "scene": "places-buildings",
+   "index": 0,
+   "value": "特指某一個場所時前面用 the，例如 I like the shop on my street；泛指或第一次提到用 a，例如 There is a shop near here。"
+  },
+  {
+   "scene": "places-buildings",
+   "index": 1,
+   "value": "英式樓層怎麼說：ground floor 是一樓，first floor 是二樓，second floor 是三樓。"
+  },
+  {
+   "scene": "adj-extra",
+   "index": 0,
+   "value": "比較級與最高級看字尾：-y 結尾改成 -ier、-iest（happy → happier → happiest）；-e 結尾只加 -r、-st（nice → nicer → nicest）。"
+  },
+  {
+   "scene": "verbs-extra",
+   "index": 0,
+   "value": "聽寫時常把 -ng 與 -nk 聽混（sing 與 sink 不同），建議放慢速度逐字輸入，再回頭核對字母。"
+  },
+  {
+   "scene": "adj-quality",
+   "index": 0,
+   "value": "加強語氣不要亂加：口語說「蠻好的」「還不錯」比較自然，正式場合才用「很棒」。"
+  },
+  {
+   "scene": "adj-people",
+   "index": 0,
+   "value": "這組形容詞多以 -ful、-ive、-ous、-able 結尾，注意不要漏字或寫成 -full、-iveness。"
+  },
+  {
+   "scene": "adj-things",
+   "index": 0,
+   "value": "形容詞放在名詞前面時，中間不能插別的字：可以說「一個很大的車子」，但不能說「一個大的很高車子」。"
+  },
+  {
+   "scene": "adj-emotion",
+   "index": 0,
+   "value": "這組最大的陷阱是 -ed 與 -ing 兩種詞尾：說自己被這種感覺困住就用 -ed（如 bored、worried），形容會讓別人產生這種感覺的事才用 -ing（如 boring、worrying）。"
+  },
+  {
+   "scene": "noun-people-roles",
+   "index": 0,
+   "value": "adult、colleague、scientist 都是可數名詞，前面要有冠詞或其他限定詞，如 an adult、a scientist；若要單獨使用就得用複數，如 Scientists work hard。"
+  },
+  {
+   "scene": "family-friends",
+   "index": 0,
+   "value": "英文的稱謂前面要加所有格詞：講自己的家人用 my，講別人的家人用 his、her 或 their，例如 my mother、her sister。"
+  },
+  {
+   "scene": "noun-people-roles",
+   "index": 1,
+   "value": "媽媽有很多說法：媽媽、母親、媽咪，另有 mom、mum 等拼寫差異；台灣口語還會說「媽媽咪」，各種場合用不同的詞，練習時記得分清楚。"
+  },
+  {
+   "scene": "phrasal-verbs",
+   "index": 1,
+   "value": "最容易錯的是 turn on 與 turn off、get on 與 get off，都是同一個動詞配不同的小字，建議一次背一整組。"
+  }
+ ]
+}

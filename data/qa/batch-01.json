@@ -1,0 +1,70 @@
+{
+  "scenes": ["colours", "comms-tech", "documents", "education", "entertainment"],
+  "issues": [
+    {
+      "scene": "colours",
+      "kind": "polysemy",
+      "en": "pale",
+      "zh": "蒼白的",
+      "problem": "「蒼白」通常只用於臉色、膚色蒼白的語境；本場景中 pale 指的是顏色濃度低、偏淡淡的另一個義項，母語者不會用「蒼白」來形容一般顏色。",
+      "suggestion": "淡色的；淺淡的（例：pale green 淡綠色）"
+    },
+    {
+      "scene": "colours",
+      "kind": "zh-naturalness",
+      "en": "The traffic lights change to red and green.",
+      "zh": "號誌燈會變成紅色和綠色。",
+      "problem": "英文不像母語者會說的話：號誌燈不是「變成紅色和綠色」，而是由紅轉綠的單一轉換，介詞應為 from…to…。",
+      "suggestion": "The traffic lights change from red to green.（號誌燈會從紅色變成綠色。）"
+    },
+    {
+      "scene": "comms-tech",
+      "kind": "ipa",
+      "en": "envelope",
+      "zh": "信封",
+      "problem": "envelope 唸 /ɪnˈveləʊp/，結尾有清楚的 /p/ 音；此處 IPA 漏掉了捲舌尾的 /p/。",
+      "suggestion": "ɪnˈveləʊp"
+    },
+    {
+      "scene": "documents",
+      "kind": "ipa",
+      "en": "envelope",
+      "zh": "信封",
+      "problem": "重音位置錯誤：envelope 的主重音在第二音節 -vel-，不是第一音節。",
+      "suggestion": "ɪnˈveləʊp"
+    },
+    {
+      "scene": "documents",
+      "kind": "ipa",
+      "en": "project",
+      "zh": "專題作業",
+      "problem": "IPA 使用了本專案未收錄的符號「ɜ」（缺長音符號 ː），且音節切分錯誤；英式讀音應為 /ˈprɒdʒekt/。",
+      "suggestion": "ˈprɒ.dʒekt"
+    },
+    {
+      "scene": "documents",
+      "kind": "tips",
+      "en": "",
+      "zh": "這組字很多以 t 結尾，例如 bill、ticket、text、postcard，末尾的音別漏掉。",
+      "problem": "提示內容錯誤：bill 結尾是 /l/、postcard 結尾是 /d/，兩者都不以 /t/ 結尾，照此提示記憶會把音讀錯。",
+      "suggestion": "這組字有些以 /t/ 結尾，例如 ticket、text，末尾的音別漏掉。"
+    },
+    {
+      "scene": "entertainment",
+      "kind": "polysemy",
+      "en": "There is a good cartoon on the television now.",
+      "zh": "現在電視上正在播一部好看的漫畫。",
+      "problem": "「漫畫」是書刊上的 comic，但句中指電視播出的動畫節目，是 cartoon 的另一個義項，中文用錯詞。",
+      "suggestion": "現在電視上正在播一部好看的卡通。"
+    },
+    {
+      "scene": "entertainment",
+      "kind": "zh-naturalness",
+      "en": "The kids laugh at the funny photos every day.",
+      "zh": "小朋友每天都看那些好笑的照照片。",
+      "problem": "中文衍字，多出一個「照」字，「照照片」不是正確寫法。",
+      "suggestion": "小朋友每天都看那些好笑的照片。"
+    }
+  ],
+  "checked": { "words": 130, "phrases": 70, "sentences": 70, "tips": 15 }
+}

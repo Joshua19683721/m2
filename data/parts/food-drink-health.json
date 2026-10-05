@@ -1,0 +1,550 @@
+[
+ {
+  "id": "food-drink",
+  "icon": "🍎",
+  "name": "食物與飲料",
+  "nameEn": "Food and Drink",
+  "summary": "買食物、煮東西、在餐廳點餐。",
+  "words": [
+   {
+    "en": "apple",
+    "zh": "蘋果",
+    "ipa": "ˈæp.əl"
+   },
+   {
+    "en": "bread",
+    "zh": "麵包",
+    "ipa": "bred"
+   },
+   {
+    "en": "breakfast",
+    "zh": "早餐",
+    "ipa": "ˈbrek.fəst"
+   },
+   {
+    "en": "lunch",
+    "zh": "午餐",
+    "ipa": "lʌntʃ"
+   },
+   {
+    "en": "dinner",
+    "zh": "晚餐",
+    "ipa": "ˈdɪn.ə"
+   },
+   {
+    "en": "food",
+    "zh": "食物",
+    "ipa": "fuːd"
+   },
+   {
+    "en": "fruit",
+    "zh": "水果",
+    "ipa": "fruːt"
+   },
+   {
+    "en": "vegetable",
+    "zh": "蔬菜",
+    "ipa": "ˈvedʒ.tə.bəl"
+   },
+   {
+    "en": "meat",
+    "zh": "肉",
+    "ipa": "miːt"
+   },
+   {
+    "en": "fish",
+    "zh": "魚",
+    "ipa": "fɪʃ"
+   },
+   {
+    "en": "chicken",
+    "zh": "雞肉",
+    "ipa": "ˈtʃɪk.ɪn"
+   },
+   {
+    "en": "cheese",
+    "zh": "起司",
+    "ipa": "tʃiːz"
+   },
+   {
+    "en": "egg",
+    "zh": "蛋",
+    "ipa": "eɡ"
+   },
+   {
+    "en": "rice",
+    "zh": "米飯",
+    "ipa": "raɪs"
+   },
+   {
+    "en": "soup",
+    "zh": "湯",
+    "ipa": "suːp"
+   },
+   {
+    "en": "sandwich",
+    "zh": "三明治",
+    "ipa": "ˈsæn.wɪdʒ"
+   },
+   {
+    "en": "pizza",
+    "zh": "披薩",
+    "ipa": "ˈpiːt.sə"
+   },
+   {
+    "en": "chocolate",
+    "zh": "巧克力",
+    "ipa": "ˈtʃɒk.lə.tɪd"
+   },
+   {
+    "en": "cake",
+    "zh": "蛋糕",
+    "ipa": "keɪk"
+   },
+   {
+    "en": "juice",
+    "zh": "果汁",
+    "ipa": "dʒuːs"
+   },
+   {
+    "en": "coffee",
+    "zh": "咖啡",
+    "ipa": "ˈkɒf.i"
+   },
+   {
+    "en": "tea",
+    "zh": "茶",
+    "ipa": "tiː"
+   },
+   {
+    "en": "milk",
+    "zh": "牛奶",
+    "ipa": "mɪlk"
+   },
+   {
+    "en": "eat",
+    "zh": "吃",
+    "ipa": "iːt"
+   },
+   {
+    "en": "drink",
+    "zh": "喝",
+    "ipa": "drɪŋk"
+   },
+   {
+    "en": "hungry",
+    "zh": "餓的",
+    "ipa": "ˈhʌŋ.ɡri"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "piece of cake",
+    "zh": "一塊蛋糕",
+    "ipa": "ə piːs əv keɪk"
+   },
+   {
+    "en": "main course",
+    "zh": "主餐",
+    "ipa": "ˌmeɪn ˈkɔːs"
+   },
+   {
+    "en": "eat out",
+    "zh": "外食",
+    "ipa": "ˌiːt ˈaʊt"
+   },
+   {
+    "en": "cook dinner",
+    "zh": "做晚餐",
+    "ipa": "ˌkʊk ˈdɪn.ə"
+   },
+   {
+    "en": "make breakfast",
+    "zh": "做早餐",
+    "ipa": "ˌmeɪk ˈbrek.fəst"
+   },
+   {
+    "en": "order food",
+    "zh": "點餐",
+    "ipa": "ˈɔː.dər fuːd"
+   },
+   {
+    "en": "look at the menu",
+    "zh": "看菜單",
+    "ipa": "ˌlʊk ət ðə ˈmen.juə"
+   },
+   {
+    "en": "wash up",
+    "zh": "洗碗收拾",
+    "ipa": "ˌwɒʃ ˈʌp"
+   },
+   {
+    "en": "set the table",
+    "zh": "擺好餐桌",
+    "ipa": "ˌset ðə ˈteɪ.bəl"
+   },
+   {
+    "en": "boil an egg",
+    "zh": "水煮一顆蛋",
+    "ipa": "ˌbɔɪl ən ˈeɡ"
+   },
+   {
+    "en": "glass of water",
+    "zh": "一杯水",
+    "ipa": "ˌɡlɑːs əv ˈwɔː.tə"
+   },
+   {
+    "en": "make a sandwich",
+    "zh": "做三明治",
+    "ipa": "ˌmeɪk ə ˈsæn.wɪdʒ"
+   },
+   {
+    "en": "have a picnic",
+    "zh": "去野餐",
+    "ipa": "ˌhæv ə ˈpɪk.nɪk"
+   },
+   {
+    "en": "help yourself",
+    "zh": "請隨意享用",
+    "ipa": "ˌhelp jɔːˈself"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My sister is hungry and wants some bread.",
+    "zh": "我妹妹餓了，想要一些麵包。"
+   },
+   {
+    "en": "We had lunch at the cafe near school.",
+    "zh": "我們在學校附近的咖啡館吃了午餐。"
+   },
+   {
+    "en": "I eat fruit and vegetables every day.",
+    "zh": "我每天吃水果和蔬菜。"
+   },
+   {
+    "en": "This pizza is really hot and delicious.",
+    "zh": "這個披薩又熱又好吃。"
+   },
+   {
+    "en": "Can I have a glass of water, please?",
+    "zh": "可以給我一杯水嗎？"
+   },
+   {
+    "en": "She drinks tea with milk every morning.",
+    "zh": "她每天早上喝茶加牛奶。"
+   },
+   {
+    "en": "We cooked dinner and washed up together.",
+    "zh": "我們一起做晚餐，然後洗碗。"
+   },
+   {
+    "en": "He wants fish and chips for lunch today.",
+    "zh": "他今天午餐想吃炸魚薯條。"
+   },
+   {
+    "en": "The chocolate cake in the kitchen is nice.",
+    "zh": "廚房裡的巧克力蛋糕很好吃。"
+   },
+   {
+    "en": "Let's make a sandwich for a picnic.",
+    "zh": "我們做三明治去野餐吧。"
+   },
+   {
+    "en": "My favourite meal is chicken and salad.",
+    "zh": "我最喜歡的一餐是雞肉和沙拉。"
+   },
+   {
+    "en": "The waiter brought us the main course.",
+    "zh": "服務生端上了主餐。"
+   },
+   {
+    "en": "She boiled an egg for breakfast.",
+    "zh": "她水煮了一顆蛋當早餐。"
+   },
+   {
+    "en": "We can buy fresh fruit at the market.",
+    "zh": "我們可以在市場買新鮮水果。"
+   }
+  ],
+  "tips": [
+   "先用短的食物名詞熱身，三個字以內的單字最好打。",
+   "片語要整組練習，節奏會比拆成單字更順。",
+   "問句的問號和句號別忘記，收尾符號也算分數。"
+  ]
+ },
+ {
+  "id": "health",
+  "icon": "🏥",
+  "name": "健康醫療與運動",
+  "nameEn": "Health, Medicine and Exercise",
+  "summary": "身體不舒服、看醫生、保持健康。",
+  "words": [
+   {
+    "en": "health",
+    "zh": "健康",
+    "ipa": "ˈhelθ"
+   },
+   {
+    "en": "sick",
+    "zh": "生病的",
+    "ipa": "sɪk"
+   },
+   {
+    "en": "tired",
+    "zh": "疲累的",
+    "ipa": "ˈtaɪəd"
+   },
+   {
+    "en": "pain",
+    "zh": "疼痛",
+    "ipa": "peɪn"
+   },
+   {
+    "en": "hurt",
+    "zh": "受傷",
+    "ipa": "hɜːt"
+   },
+   {
+    "en": "body",
+    "zh": "身體",
+    "ipa": "ˈbɒd.i"
+   },
+   {
+    "en": "head",
+    "zh": "頭",
+    "ipa": "hed"
+   },
+   {
+    "en": "eye",
+    "zh": "眼睛",
+    "ipa": "aɪ"
+   },
+   {
+    "en": "ear",
+    "zh": "耳朵",
+    "ipa": "ɪə"
+   },
+   {
+    "en": "nose",
+    "zh": "鼻子",
+    "ipa": "nəʊz"
+   },
+   {
+    "en": "tooth",
+    "zh": "牙齒",
+    "ipa": "tuːθ"
+   },
+   {
+    "en": "hand",
+    "zh": "手",
+    "ipa": "hænd"
+   },
+   {
+    "en": "arm",
+    "zh": "手臂",
+    "ipa": "ɑːm"
+   },
+   {
+    "en": "leg",
+    "zh": "腿",
+    "ipa": "leɡ"
+   },
+   {
+    "en": "foot",
+    "zh": "腳",
+    "ipa": "fʊt"
+   },
+   {
+    "en": "stomach",
+    "zh": "胃",
+    "ipa": "ˈstʌ.mək"
+   },
+   {
+    "en": "heart",
+    "zh": "心臟",
+    "ipa": "hɑːt"
+   },
+   {
+    "en": "toothache",
+    "zh": "牙痛",
+    "ipa": "ˈtuː.θeɪk"
+   },
+   {
+    "en": "doctor",
+    "zh": "醫生",
+    "ipa": "ˈdɒk.tə"
+   },
+   {
+    "en": "dentist",
+    "zh": "牙醫",
+    "ipa": "ˈden.tɪst"
+   },
+   {
+    "en": "nurse",
+    "zh": "護士",
+    "ipa": "nɜːs"
+   },
+   {
+    "en": "hospital",
+    "zh": "醫院",
+    "ipa": "ˈhɒs.pɪ.təl"
+   },
+   {
+    "en": "medicine",
+    "zh": "藥物",
+    "ipa": "ˈmed.sən"
+   },
+   {
+    "en": "appointment",
+    "zh": "預約",
+    "ipa": "əˈpɔɪnt.mənt"
+   },
+   {
+    "en": "walk",
+    "zh": "走路",
+    "ipa": "wɔːk"
+   },
+   {
+    "en": "exercise",
+    "zh": "運動",
+    "ipa": "ˈek.sə.saɪz"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "stomach ache",
+    "zh": "胃痛",
+    "ipa": "ˈstʌ.mək eɪk"
+   },
+   {
+    "en": "have a cold",
+    "zh": "感冒",
+    "ipa": "ˌhæv ə ˈkəʊld"
+   },
+   {
+    "en": "have a temperature",
+    "zh": "發燒",
+    "ipa": "ˌhæv ə ˈtem.prə.tʃə"
+   },
+   {
+    "en": "have a rest",
+    "zh": "休息一下",
+    "ipa": "ˌhæv ə ˈrest"
+   },
+   {
+    "en": "lie down",
+    "zh": "躺下",
+    "ipa": "ˌlaɪ ˈdaʊn"
+   },
+   {
+    "en": "feel ill",
+    "zh": "覺得不舒服",
+    "ipa": "ˌfiːl ˈɪl"
+   },
+   {
+    "en": "see the doctor",
+    "zh": "看醫生",
+    "ipa": "ˌsiː ðə ˈdɒk.tə"
+   },
+   {
+    "en": "make an appointment",
+    "zh": "預約掛號",
+    "ipa": "ˌmeɪk ən əˈpɔɪnt.mənt"
+   },
+   {
+    "en": "take medicine",
+    "zh": "吃藥",
+    "ipa": "ˌteɪk ˈmed.sən"
+   },
+   {
+    "en": "brush your teeth",
+    "zh": "刷牙",
+    "ipa": "ˌbrʌʃ jɔː ˈtiːθ"
+   },
+   {
+    "en": "wash your hands",
+    "zh": "洗手",
+    "ipa": "ˌwɔʃ jɔː ˈhændz"
+   },
+   {
+    "en": "hurt myself",
+    "zh": "弄傷自己",
+    "ipa": "ˌhɜːt maɪˈself"
+   },
+   {
+    "en": "fall down",
+    "zh": "跌倒",
+    "ipa": "ˌfɔːl ˈdaʊn"
+   },
+   {
+    "en": "do exercise",
+    "zh": "做運動",
+    "ipa": "ˌduː ˈek.sə.saɪz"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My son has a stomach ache this morning.",
+    "zh": "我兒子今天早上胃痛。"
+   },
+   {
+    "en": "You look tired, so please have a rest.",
+    "zh": "你看起來很累，請休息一下。"
+   },
+   {
+    "en": "I need to see the doctor this afternoon.",
+    "zh": "我今天下午要去看醫生。"
+   },
+   {
+    "en": "He hurt his hand when he fell down.",
+    "zh": "他跌倒時把手弄傷了。"
+   },
+   {
+    "en": "I brushed my teeth but my tooth still hurts.",
+    "zh": "我有刷牙，但牙齒還是很痛。"
+   },
+   {
+    "en": "The dentist checks my teeth twice a year.",
+    "zh": "牙醫每年幫我檢查兩次牙齒。"
+   },
+   {
+    "en": "Wash your hands before you eat dinner.",
+    "zh": "吃飯前請先洗手。"
+   },
+   {
+    "en": "She has a temperature and needs some medicine.",
+    "zh": "她有發燒，需要吃藥。"
+   },
+   {
+    "en": "I do exercise three times a week to stay fit.",
+    "zh": "我一週運動三次，維持健康。"
+   },
+   {
+    "en": "My grandmother walks to the park every day.",
+    "zh": "我奶奶每天走路去公園。"
+   },
+   {
+    "en": "The ambulance took him to hospital quickly.",
+    "zh": "救護車很快把他送到醫院。"
+   },
+   {
+    "en": "He had an accident and broke his arm.",
+    "zh": "他出了意外，手臂骨折了。"
+   },
+   {
+    "en": "I feel ill and want to lie down.",
+    "zh": "我覺得不舒服，想躺一下。"
+   },
+   {
+    "en": "My sister has a cold and a bad cough.",
+    "zh": "我妹妹感冒了，還咳得很厲害。"
+   }
+  ],
+  "tips": [
+   "身體部位的字比較多，建議分組練習：頭臉、手臂、腿腳。",
+   "片語不要只背單字，感冒、發燒、休息這類搭配要整組記下來。",
+   "練習時把看醫生的對話一起唸，問句記得加問號。"
+  ]
+ }
+]

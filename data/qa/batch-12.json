@@ -1,0 +1,46 @@
+{
+  "scenes": ["verbs-daily", "verbs-moving", "daily-expressions", "appliances", "clothes"],
+  "issues": [
+    {
+      "scene": "daily-expressions",
+      "kind": "ipa",
+      "en": "congratulations!",
+      "zh": "恭喜！",
+      "problem": "音標「kənˌɡræ.tʃəˈleɪ.ʃənz」結尾用成齒齦後塞擦音（U+0283，齒音的 ʃ），但英式 congratulations 的 -tions 一律是後齒齦擦音（U+0299，拼音 sh 的 ʃ）。同一個單字前半的 -tulate 用的是正確的 ʃ，後半卻換成 ʃ，唸出來會變成兩個不同的輔音。",
+      "suggestion": "ipa 改為 kənˌɡræ.tʃəˈleɪ.ʃənz（結尾那個音請改用 U+0299 的 ʃ）。"
+    },
+    {
+      "scene": "appliances",
+      "kind": "ipa",
+      "en": "washing machine",
+      "zh": "洗衣機",
+      "problem": "音標「ˈwɒʃ.ɪŋ məˈʃiːn」同時在前後兩個成分各標了一次主重音符號，一個詞不可能有兩個主重音。英式複合名詞的主重音固定落在前一個構詞成分上（washing machine、swimming costume 都是前字重音），machine 應該弱讀；照現有標法唸，學習者會把重音落在 SHINE 上。",
+      "suggestion": "ipa 改為 ˈwɒʃ.ɪŋ mə.ʃiːn（刪掉 machine 的主重音符號）。"
+    },
+    {
+      "scene": "clothes",
+      "kind": "meaning",
+      "en": "backpack",
+      "zh": "書包",
+      "problem": "「書包」在台灣指的是 school bag（學生上學背的書袋），不是 backpack（一般用途的背包）。同一場次裡 rucksack 已經譯成「背包」，把 backpack 譯成「書包」等於把這兩個同義詞的中文對調，學習者查到時會拿錯義項。",
+      "suggestion": "zh 改為「背包」；若要標出美英差異，可寫成「背包（美式說法；英式為 rucksack）」。"
+    },
+    {
+      "scene": "clothes",
+      "kind": "duplicate",
+      "en": "get dressed",
+      "zh": "穿衣服／穿好衣服",
+      "problem": "同一個場次的 words 與 phrases 都收錄「get dressed」，音標也完全相同（ˌɡet ˈdrest），等於同一條目重複教學兩次。",
+      "suggestion": "刪掉 phrases 中的 get dressed，只保留 words 裡的一筆。"
+    },
+    {
+      "scene": "clothes",
+      "kind": "tips",
+      "en": "這組大量是兩個字合起來的複合詞，前一個字通常不重讀，後一個字才是重點音節，唸的時候別搶。",
+      "zh": "",
+      "problem": "這則提示把英式複合名詞的重音規則講反了。英文複合名詞的主重音落在前一個成分上，本場的 swimming costume、bathing suit、T-shirt、shoelace、raincoat 都是前字重音（與該場各單字所標的音標一致）。提示卻說「前一個字通常不重讀，後一個字才是重點音節」，方向相反，學習者照著唸會把整組詞的重音唸反。",
+      "suggestion": "改寫為：「這組大量是兩個字合起來的複合詞，重音通常落在前一個字上（swimming costume、bathing suit、shoelace 都是前字重音），後一個字要輕輕帶過。」"
+    }
+  ],
+  "checked": { "words": 341, "phrases": 70, "sentences": 70, "tips": 15 }
+}

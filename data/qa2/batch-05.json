@@ -1,0 +1,38 @@
+{
+  "scenes": ["noun-everyday-misc", "adj-extra", "verbs-feeling", "verbs-food", "verbs-people"],
+  "issues": [
+    {
+      "scene": "verbs-people",
+      "kind": "zh-simplified",
+      "en": "Everyone in the audience cheered and clapped loudly.",
+      "zh": "觀眾席上的每個人都大声喝采。",
+      "problem": "中文夾帶簡體字：「大声」的「声」是「聲」的簡體，與本教材全繁體的體例不符（同一句的「觀」「眾」都已是繁體）。",
+      "suggestion": "觀眾席上的每個人都大聲喝采。"
+    },
+    {
+      "scene": "adj-extra",
+      "kind": "tips",
+      "en": "happy → happier → happiest",
+      "zh": "比較級與最高級別靠語感：-y 結尾要加 -er、-est，應改成 -ier、-iest（happy → happier → happiest）。",
+      "problem": "規則說法錯誤且自相矛盾：前半句「-y 結尾要加 -er、-est」是錯的（happy 不能直接加 -er，必須先把 y 變成 i），後半句「應改成 -ier、-iest」又變成要求學習者去修正規則本身，而不是說明正確做法；而舉例 happy → happier → happiest 用的正是 y 變 i 的 -ier、-iest 形式，與前半句互相打架。依現有文字，學習者只會記到「-y 加 -er」這個錯的規則。",
+      "suggestion": "比較級與最高級別靠語感：-y 結尾的形容詞要先把 y 改成 i，再加 -er、-est（happy → happier → happiest）。"
+    },
+    {
+      "scene": "verbs-people",
+      "kind": "ipa",
+      "en": "apologise",
+      "zh": "道歉",
+      "problem": "音標漏音：寫成 əˈpɒ.lə.dʒaɪz，pɒ 後少了英式發音必有的 l 音（英式 apologise 為 /əˈpɒlədʒaɪz/）。同一批資料中 verbs-feeling 的同一個字寫作 əˈpɒl.ə.dʒaɪz，才是正確寫法，兩處不一致。",
+      "suggestion": "əˈpɒl.ə.dʒaɪz"
+    },
+    {
+      "scene": "noun-everyday-misc",
+      "kind": "meaning",
+      "en": "by accident",
+      "zh": "意外地、萬一",
+      "problem": "「萬一」的意思是「萬一……就……」的假設語氣（in case / if by any chance），並不表示「意外地」，放在這裡等於教給學習者一個錯的譯法。同一份資料中另一處 by accident 譯為「偶然地；意外地」，可見此處的「萬一」是不一致且不成立的。",
+      "suggestion": "意外地、碰巧"
+    }
+  ],
+  "checked": { "words": 392, "phrases": 70, "sentences": 70, "tips": 15 }
+}

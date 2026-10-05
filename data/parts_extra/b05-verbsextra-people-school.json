@@ -1,0 +1,1380 @@
+[
+ {
+  "id": "verbs-extra",
+  "icon": "🔁",
+  "name": "動詞：其他高頻動詞",
+  "nameEn": "Verbs: More High-Frequency Verbs",
+  "summary": "主題表沒列、但日常真的會用到的一批動詞，一次補齊。",
+  "note": "這組多是簡單現在式動詞，練的是 -s / -ed 這兩個尾巴。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "act",
+    "zh": "動手；表演",
+    "ipa": "ækt"
+   },
+   {
+    "en": "allow",
+    "zh": "允許",
+    "ipa": "əˈlaʊ"
+   },
+   {
+    "en": "belong",
+    "zh": "屬於",
+    "ipa": "bɪˈlɒŋ"
+   },
+   {
+    "en": "board",
+    "zh": "黑板；木板",
+    "ipa": "bɔːd"
+   },
+   {
+    "en": "board game",
+    "zh": "桌遊",
+    "ipa": "ˈbɔːd ˌɡeɪm"
+   },
+   {
+    "en": "bother",
+    "zh": "打擾；使煩惱",
+    "ipa": "ˈbɒð.ə"
+   },
+   {
+    "en": "call",
+    "zh": "打電話；叫喊",
+    "ipa": "kɔːl"
+   },
+   {
+    "en": "celebrate",
+    "zh": "慶祝",
+    "ipa": "ˈsel.ɪ.breɪt"
+   },
+   {
+    "en": "contact",
+    "zh": "聯絡；聯絡方式",
+    "ipa": "ˈkɒn.tækt"
+   },
+   {
+    "en": "cry",
+    "zh": "哭；大聲喊",
+    "ipa": "kraɪ"
+   },
+   {
+    "en": "die",
+    "zh": "死亡；消失",
+    "ipa": "daɪ"
+   },
+   {
+    "en": "discover",
+    "zh": "發現",
+    "ipa": "dɪˈskʌv.ə"
+   },
+   {
+    "en": "dive",
+    "zh": "潛水；跳水",
+    "ipa": "daɪv"
+   },
+   {
+    "en": "drop",
+    "zh": "掉落；丟下",
+    "ipa": "drɒp"
+   },
+   {
+    "en": "earn",
+    "zh": "賺取；掙得",
+    "ipa": "ɜːn"
+   },
+   {
+    "en": "end",
+    "zh": "結束；盡頭",
+    "ipa": "end"
+   },
+   {
+    "en": "excuse",
+    "zh": "寬恕；藉口",
+    "ipa": "ɪkˈskjuːz"
+   },
+   {
+    "en": "explore",
+    "zh": "探索",
+    "ipa": "ɪkˈsplɔː"
+   },
+   {
+    "en": "get",
+    "zh": "得到；變得",
+    "ipa": "ɡet"
+   },
+   {
+    "en": "get back",
+    "zh": "回來；取回",
+    "ipa": "ˌɡet ˈbæk"
+   },
+   {
+    "en": "get dressed",
+    "zh": "穿好衣服",
+    "ipa": "ˌɡet ˈdrest"
+   },
+   {
+    "en": "get fit",
+    "zh": "變得健康；健身",
+    "ipa": "ˌɡet ˈfɪt"
+   },
+   {
+    "en": "get married",
+    "zh": "結婚",
+    "ipa": "ˌɡet ˈmær.ɪd"
+   },
+   {
+    "en": "happen",
+    "zh": "發生",
+    "ipa": "ˈhæp.ən"
+   },
+   {
+    "en": "hear",
+    "zh": "聽見",
+    "ipa": "hɪə"
+   },
+   {
+    "en": "hit",
+    "zh": "擊中；打",
+    "ipa": "hɪt"
+   },
+   {
+    "en": "hold",
+    "zh": "拿著；握；舉辦",
+    "ipa": "həʊld"
+   },
+   {
+    "en": "improve",
+    "zh": "改善；進步",
+    "ipa": "ɪmˈpruːv"
+   },
+   {
+    "en": "include",
+    "zh": "包括",
+    "ipa": "ɪnˈkluːd"
+   },
+   {
+    "en": "invent",
+    "zh": "發明",
+    "ipa": "ɪnˈvent"
+   },
+   {
+    "en": "kick",
+    "zh": "踢",
+    "ipa": "kɪk"
+   },
+   {
+    "en": "kiss",
+    "zh": "親吻",
+    "ipa": "kɪs"
+   },
+   {
+    "en": "laugh",
+    "zh": "笑；大笑",
+    "ipa": "lɑːf"
+   },
+   {
+    "en": "let",
+    "zh": "讓",
+    "ipa": "let"
+   },
+   {
+    "en": "listen",
+    "zh": "聽",
+    "ipa": "ˈlɪs.ən"
+   },
+   {
+    "en": "live",
+    "zh": "居住；生活",
+    "ipa": "lɪv"
+   },
+   {
+    "en": "matter",
+    "zh": "要緊；事情",
+    "ipa": "ˈmæt.ə"
+   },
+   {
+    "en": "offer",
+    "zh": "提供；出價",
+    "ipa": "ˈɒf.ə"
+   },
+   {
+    "en": "perform",
+    "zh": "表演；演出",
+    "ipa": "pəˈfɔːm"
+   },
+   {
+    "en": "point",
+    "zh": "指；點",
+    "ipa": "pɔɪnt"
+   },
+   {
+    "en": "post",
+    "zh": "郵寄；貼文",
+    "ipa": "pəʊst"
+   },
+   {
+    "en": "prepare",
+    "zh": "準備",
+    "ipa": "prɪˈpeə"
+   },
+   {
+    "en": "print",
+    "zh": "列印；印刷",
+    "ipa": "prɪnt"
+   },
+   {
+    "en": "record",
+    "zh": "錄音；紀錄",
+    "ipa": "rɪˈkɔːd"
+   },
+   {
+    "en": "repeat",
+    "zh": "重複",
+    "ipa": "rɪˈpiːt"
+   },
+   {
+    "en": "rest",
+    "zh": "休息；其餘",
+    "ipa": "rest"
+   },
+   {
+    "en": "see",
+    "zh": "看見",
+    "ipa": "siː"
+   },
+   {
+    "en": "sell",
+    "zh": "賣；販售",
+    "ipa": "sel"
+   },
+   {
+    "en": "send",
+    "zh": "寄；送",
+    "ipa": "send"
+   },
+   {
+    "en": "set",
+    "zh": "一組；擺放",
+    "ipa": "set"
+   },
+   {
+    "en": "shampoo",
+    "zh": "洗髮；洗髮精",
+    "ipa": "ʃæmˈpuː"
+   },
+   {
+    "en": "show",
+    "zh": "展示；節目",
+    "ipa": "ʃəʊ"
+   },
+   {
+    "en": "sit",
+    "zh": "坐",
+    "ipa": "sɪt"
+   },
+   {
+    "en": "sleep",
+    "zh": "睡覺",
+    "ipa": "sliːp"
+   },
+   {
+    "en": "smoke",
+    "zh": "抽菸；煙",
+    "ipa": "sməʊk"
+   },
+   {
+    "en": "sort",
+    "zh": "分類；種類",
+    "ipa": "sɔːt"
+   },
+   {
+    "en": "sound",
+    "zh": "聽起來；聲音",
+    "ipa": "saʊnd"
+   },
+   {
+    "en": "stand",
+    "zh": "站；站立",
+    "ipa": "stænd"
+   },
+   {
+    "en": "steal",
+    "zh": "偷竊",
+    "ipa": "stiːl"
+   },
+   {
+    "en": "surf",
+    "zh": "上網；衝浪",
+    "ipa": "sɜːf"
+   },
+   {
+    "en": "try",
+    "zh": "試試看；努力",
+    "ipa": "traɪ"
+   },
+   {
+    "en": "wake",
+    "zh": "醒來",
+    "ipa": "weɪk"
+   },
+   {
+    "en": "wear",
+    "zh": "穿；戴",
+    "ipa": "weə"
+   },
+   {
+    "en": "work",
+    "zh": "工作；運作",
+    "ipa": "wɜːk"
+   },
+   {
+    "en": "lock",
+    "zh": "鎖上；鎖",
+    "ipa": "lɒk"
+   },
+   {
+    "en": "knock",
+    "zh": "敲；敲門",
+    "ipa": "nɒk"
+   },
+   {
+    "en": "wave",
+    "zh": "揮手；波浪",
+    "ipa": "weɪv"
+   },
+   {
+    "en": "smile",
+    "zh": "微笑",
+    "ipa": "smaɪl"
+   },
+   {
+    "en": "count",
+    "zh": "數；計算",
+    "ipa": "kaʊnt"
+   },
+   {
+    "en": "appear",
+    "zh": "出現；顯得",
+    "ipa": "əˈpɪə"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "belong to",
+    "zh": "屬於",
+    "ipa": "bɪˈlɒŋ.tuː"
+   },
+   {
+    "en": "call off",
+    "zh": "取消",
+    "ipa": "ˌkɔːl ˈɒf"
+   },
+   {
+    "en": "cry out",
+    "zh": "大聲喊叫",
+    "ipa": "ˌkraɪ ˈaʊt"
+   },
+   {
+    "en": "drop by",
+    "zh": "順道拜訪",
+    "ipa": "ˌdrɒp ˈbaɪ"
+   },
+   {
+    "en": "act like",
+    "zh": "表現得像",
+    "ipa": "ˈækt laɪk"
+   },
+   {
+    "en": "hold on",
+    "zh": "稍等；抓緊",
+    "ipa": "ˌhəʊld ˈɒn"
+   },
+   {
+    "en": "listen to",
+    "zh": "聽（某個聲音或節目）",
+    "ipa": "ˈlɪs.ən.tuː"
+   },
+   {
+    "en": "make up",
+    "zh": "組成；編造",
+    "ipa": "ˌmeɪk ˈʌp"
+   },
+   {
+    "en": "point at",
+    "zh": "指著",
+    "ipa": "ˈpɔɪnt.æt"
+   },
+   {
+    "en": "run out of",
+    "zh": "用完；耗盡",
+    "ipa": "ˌrʌn ˈaʊt.əv"
+   },
+   {
+    "en": "set up",
+    "zh": "設置；架設",
+    "ipa": "ˌset ˈʌp"
+   },
+   {
+    "en": "try on",
+    "zh": "試穿",
+    "ipa": "ˌtraɪ ˈɒn"
+   },
+   {
+    "en": "wake up",
+    "zh": "醒來",
+    "ipa": "ˌweɪk ˈʌp"
+   },
+   {
+    "en": "carry on",
+    "zh": "繼續",
+    "ipa": "ˌkær.i ˈɒn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Please hold on a moment, I want to listen.",
+    "zh": "請稍等一下，我想聽。"
+   },
+   {
+    "en": "The baby began to cry, so we could not sleep.",
+    "zh": "寶寶開始哭，所以我們睡不著。"
+   },
+   {
+    "en": "I tried to wake my brother, but he was very tired.",
+    "zh": "我試著叫醒弟弟，但他非常累。"
+   },
+   {
+    "en": "Please call me tomorrow, because I need to hear you.",
+    "zh": "請你明天打電話給我，因為我想聽你說話。"
+   },
+   {
+    "en": "I want to improve my English, so I listen to the radio.",
+    "zh": "我想提升自己的英文，所以會聽廣播。"
+   },
+   {
+    "en": "Excuse me, but I need to finish my work first.",
+    "zh": "不好意思，但我得先做完我的工作。"
+   },
+   {
+    "en": "The film was so funny that we laughed for ten minutes.",
+    "zh": "那部電影太爆笑了，我們笑了十分鐘。"
+   },
+   {
+    "en": "My brother and I live here, so I see him every day.",
+    "zh": "我哥哥和我住在這裡，所以我每天都見得到他。"
+   },
+   {
+    "en": "Please send me the photo as soon as you get home.",
+    "zh": "請你一到家就把照片傳給我。"
+   },
+   {
+    "en": "He held the door open for the old woman.",
+    "zh": "他幫那位老太太把門撐開。"
+   },
+   {
+    "en": "Don't stand too close to the edge of the pool.",
+    "zh": "不要站得離泳池邊緣太近。"
+   },
+   {
+    "en": "The noise was so loud that I could not sleep well.",
+    "zh": "聲音太大了，所以我睡不好。"
+   },
+   {
+    "en": "She looked at me, smiled and waved goodbye.",
+    "zh": "她看著我，微笑著揮手道別。"
+   },
+   {
+    "en": "He hurt his hand when the ball hit him hard.",
+    "zh": "球用力打到他的手，他的手受傷了。"
+   }
+  ],
+  "tips": [
+   "聽寫時常把 -ng 與 -nk 聽混（sing 與 sink 不同），建議放慢速度逐字輸入，再回頭核對字母。",
+   "belong、matter、sound 這類詞後面接的東西不同：belong to、It doesn't matter、sound good，要搭配整組一起背。",
+   "聽寫時常把 -ng 與 -nk 聽混（long 與 lorry 不同），建議放慢速度逐字輸入，再回頭核對字母。"
+  ]
+ },
+ {
+  "id": "verbs-people",
+  "icon": "🤝",
+  "name": "動詞：人際與關係",
+  "nameEn": "Verbs: People & Relationships",
+  "summary": "meet / help / love / marry / join / invite… 跟人有關的動詞。",
+  "note": "invite someone to do something 的 to 很容易漏掉。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "give",
+    "zh": "給",
+    "ipa": "ɡɪv"
+   },
+   {
+    "en": "give back",
+    "zh": "歸還",
+    "ipa": "ˌɡɪv ˈbæk"
+   },
+   {
+    "en": "give somebody a call/ring",
+    "zh": "打電話給某人",
+    "ipa": "ˌɡɪv ˈsʌm.bəd.i ə ˈkɔːl"
+   },
+   {
+    "en": "help",
+    "zh": "幫忙；協助",
+    "ipa": "help"
+   },
+   {
+    "en": "invite",
+    "zh": "邀請",
+    "ipa": "ɪnˈvaɪt"
+   },
+   {
+    "en": "meet",
+    "zh": "遇見；見面",
+    "ipa": "miːt"
+   },
+   {
+    "en": "receive",
+    "zh": "收到；接受",
+    "ipa": "rɪˈsiːv"
+   },
+   {
+    "en": "share",
+    "zh": "分享；共用",
+    "ipa": "ʃeə"
+   },
+   {
+    "en": "thank",
+    "zh": "感謝",
+    "ipa": "θæŋk"
+   },
+   {
+    "en": "thank you",
+    "zh": "謝謝你",
+    "ipa": "ˌθæŋk ˈjuː"
+   },
+   {
+    "en": "welcome",
+    "zh": "歡迎；不受歡迎的",
+    "ipa": "ˈwel.kəm"
+   },
+   {
+    "en": "trust",
+    "zh": "信任",
+    "ipa": "trʌst"
+   },
+   {
+    "en": "care",
+    "zh": "關心；在乎",
+    "ipa": "keə"
+   },
+   {
+    "en": "forgive",
+    "zh": "原諒",
+    "ipa": "fəˈɡɪv"
+   },
+   {
+    "en": "apologise",
+    "zh": "道歉",
+    "ipa": "əˈpɒl.ə.dʒaɪz"
+   },
+   {
+    "en": "greet",
+    "zh": "問候；迎接",
+    "ipa": "ɡriːt"
+   },
+   {
+    "en": "reply",
+    "zh": "回覆",
+    "ipa": "rɪˈplaɪ"
+   },
+   {
+    "en": "support",
+    "zh": "支持",
+    "ipa": "səˈpɔːt"
+   },
+   {
+    "en": "respect",
+    "zh": "尊敬",
+    "ipa": "rɪˈspekt"
+   },
+   {
+    "en": "disagree",
+    "zh": "不同意",
+    "ipa": "ˌdɪs.əˈɡriː"
+   },
+   {
+    "en": "behave",
+    "zh": "守規矩；表現",
+    "ipa": "bɪˈheɪv"
+   },
+   {
+    "en": "refuse",
+    "zh": "拒絕",
+    "ipa": "rɪˈfjuːz"
+   },
+   {
+    "en": "introduce",
+    "zh": "介紹",
+    "ipa": "ˌɪn.trəˈdjuːs"
+   },
+   {
+    "en": "marry",
+    "zh": "結婚",
+    "ipa": "ˈmær.i"
+   },
+   {
+    "en": "accept",
+    "zh": "接受",
+    "ipa": "əkˈsept"
+   },
+   {
+    "en": "cheer",
+    "zh": "替某人加油；喝彩",
+    "ipa": "tʃɪə"
+   },
+   {
+    "en": "hug",
+    "zh": "擁抱",
+    "ipa": "hʌɡ"
+   },
+   {
+    "en": "comfort",
+    "zh": "安慰",
+    "ipa": "ˈkʌm.fət"
+   },
+   {
+    "en": "miss",
+    "zh": "想念；錯過",
+    "ipa": "mɪs"
+   },
+   {
+    "en": "argue",
+    "zh": "爭吵；辯論",
+    "ipa": "ˈɑː.ɡjuː"
+   },
+   {
+    "en": "complain",
+    "zh": "抱怨",
+    "ipa": "kəmˈpleɪn"
+   },
+   {
+    "en": "blame",
+    "zh": "責怪",
+    "ipa": "bleɪm"
+   },
+   {
+    "en": "gossip",
+    "zh": "說閒話",
+    "ipa": "ˈɡɒs.ɪp"
+   },
+   {
+    "en": "fight",
+    "zh": "爭吵；打架",
+    "ipa": "faɪt"
+   },
+   {
+    "en": "encourage",
+    "zh": "鼓勵",
+    "ipa": "ɪnˈkʌr.ɪdʒ"
+   },
+   {
+    "en": "congratulate",
+    "zh": "恭喜",
+    "ipa": "kənˈɡræt.jə.leɪt"
+   },
+   {
+    "en": "entertain",
+    "zh": "招待；娛樂",
+    "ipa": "ˌen.təˈteɪn"
+   },
+   {
+    "en": "amuse",
+    "zh": "逗樂；使開心",
+    "ipa": "əˈmjuːz"
+   },
+   {
+    "en": "host",
+    "zh": "主人；主辦",
+    "ipa": "həʊst"
+   },
+   {
+    "en": "audience",
+    "zh": "觀眾；聽眾",
+    "ipa": "ˈɔː.di.əns"
+   },
+   {
+    "en": "wedding",
+    "zh": "婚禮",
+    "ipa": "ˈwed.ɪŋ"
+   },
+   {
+    "en": "grown-up",
+    "zh": "成人",
+    "ipa": "ˈɡrəʊn.ʌp"
+   },
+   {
+    "en": "relationship",
+    "zh": "關係",
+    "ipa": "rɪˈleɪ.ʃən.ʃɪp"
+   },
+   {
+    "en": "argument",
+    "zh": "爭論；吵架",
+    "ipa": "ˈɑː.ɡjʊ.mənt"
+   },
+   {
+    "en": "sympathy",
+    "zh": "同情",
+    "ipa": "ˈsɪm.pə.θi"
+   },
+   {
+    "en": "kindness",
+    "zh": "善意；好心地",
+    "ipa": "ˈkaɪnd.nəs"
+   },
+   {
+    "en": "marriage",
+    "zh": "婚姻；結婚",
+    "ipa": "ˈmær.ɪdʒ"
+   },
+   {
+    "en": "friendship",
+    "zh": "友情",
+    "ipa": "ˈfrend.ʃɪp"
+   },
+   {
+    "en": "teammate",
+    "zh": "隊友",
+    "ipa": "ˈtiːm.meɪt"
+   },
+   {
+    "en": "apology",
+    "zh": "道歉",
+    "ipa": "əˈpɒl.ə.dʒi"
+   },
+   {
+    "en": "unfriendly",
+    "zh": "不友善的",
+    "ipa": "ˌʌnˈfrend.li"
+   },
+   {
+    "en": "impolite",
+    "zh": "無禮的",
+    "ipa": "ˌɪm.pəˈlaɪt"
+   },
+   {
+    "en": "unkind",
+    "zh": "刻薄的；不友善的",
+    "ipa": "ʌnˈkaɪnd"
+   },
+   {
+    "en": "talented",
+    "zh": "有才華的",
+    "ipa": "ˈtæl.ən.tɪd"
+   },
+   {
+    "en": "loyal",
+    "zh": "忠心的",
+    "ipa": "ˈlɔɪ.əl"
+   },
+   {
+    "en": "pen friend",
+    "zh": "筆友",
+    "ipa": "ˌpen ˈfrend"
+   },
+   {
+    "en": "close friend",
+    "zh": "好友",
+    "ipa": "ˌkləʊs ˈfrend"
+   },
+   {
+    "en": "good friend",
+    "zh": "好朋友",
+    "ipa": "ˌɡʊd ˈfrend"
+   },
+   {
+    "en": "harsh",
+    "zh": "嚴厲的；刻薄的",
+    "ipa": "hɑːʃ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "give somebody a hand",
+    "zh": "幫某人一把",
+    "ipa": "ˌɡɪv ˈsʌm.bəd.i ə ˈhænd"
+   },
+   {
+    "en": "help out",
+    "zh": "幫忙",
+    "ipa": "ˌhelp ˈaʊt"
+   },
+   {
+    "en": "keep in touch",
+    "zh": "保持聯絡",
+    "ipa": "ˌkiːp ɪn ˈtʌtʃ"
+   },
+   {
+    "en": "get to know",
+    "zh": "認識；了解",
+    "ipa": "ˌɡet tə ˈnəʊ"
+   },
+   {
+    "en": "look forward to",
+    "zh": "很期待",
+    "ipa": "ˌlʊk ˈfɔː.wəd.tuː"
+   },
+   {
+    "en": "say sorry to somebody",
+    "zh": "向某人道歉",
+    "ipa": "ˌseɪ ˈsɒr.i tə ˈsʌm.bəd.i"
+   },
+   {
+    "en": "ask somebody out",
+    "zh": "邀請某人外出",
+    "ipa": "ˌɑːsk ˈsʌm.bəd.i ˈaʊt"
+   },
+   {
+    "en": "do somebody a favour",
+    "zh": "幫某人一個忙",
+    "ipa": "ˌduː ˈsʌm.bəd.i ə ˈfeɪ.və"
+   },
+   {
+    "en": "fall in love with",
+    "zh": "愛上",
+    "ipa": "ˌfɔːl ɪn ˈlʌv wɪð"
+   },
+   {
+    "en": "get along with",
+    "zh": "與某人相處融洽",
+    "ipa": "ˌɡet əˈlɒŋ wɪð"
+   },
+   {
+    "en": "get together",
+    "zh": "聚在一起；聚會",
+    "ipa": "ˌɡet təˈɡeð.ə"
+   },
+   {
+    "en": "shake hands",
+    "zh": "握手",
+    "ipa": "ˌʃeɪk ˈhændz"
+   },
+   {
+    "en": "say hello to",
+    "zh": "向某人說哈囉",
+    "ipa": "ˌseɪ həˈləʊ.tuː"
+   },
+   {
+    "en": "call on",
+    "zh": "拜訪",
+    "ipa": "ˈkɔːl.ɒn"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "Please introduce me to your new friend tomorrow.",
+    "zh": "請你明天介紹你的新朋友給我認識。"
+   },
+   {
+    "en": "My parents invited me to their wedding last year.",
+    "zh": "我父母去年邀請我參加他們的婚禮。"
+   },
+   {
+    "en": "She accepted the gift and said thank you very much.",
+    "zh": "她接受了那份禮物，並說了聲非常感謝。"
+   },
+   {
+    "en": "He gave back the money that he borrowed from me.",
+    "zh": "他把他跟我借的錢還給我。"
+   },
+   {
+    "en": "Please help me with my homework this evening.",
+    "zh": "請幫我完成今天的家庭作業。"
+   },
+   {
+    "en": "I miss my friends who now live far away.",
+    "zh": "我很想念那些住得很遠的朋友。"
+   },
+   {
+    "en": "My teacher encouraged me to try again.",
+    "zh": "老師鼓勵我再試一次。"
+   },
+   {
+    "en": "They argued about the money and then apologised.",
+    "zh": "他們為了錢爭吵，然後又道歉了。"
+   },
+   {
+    "en": "Everyone in the audience cheered and clapped loudly.",
+    "zh": "觀眾席上的每個人都大聲喝彩。"
+   },
+   {
+    "en": "I trust my best friend with all my secrets.",
+    "zh": "我最信任的朋友，連秘密我都願意告訴他。"
+   },
+   {
+    "en": "My brother got married last summer in a small church.",
+    "zh": "我哥哥去年夏天在一間小教堂結婚。"
+   },
+   {
+    "en": "She refused to give me her new phone number.",
+    "zh": "她拒絕把手機號碼給我。"
+   },
+   {
+    "en": "Please respect my decision and do not ask again.",
+    "zh": "請尊重我的決定，不要再問了。"
+   },
+   {
+    "en": "We get together every Saturday to talk about our week.",
+    "zh": "我們每星期六聚在一起聊這一週的事。"
+   }
+  ],
+  "tips": [
+   "邀請句的 to 最容易漏：invite somebody to do something，請把整句背下來，而不是只背 invite。",
+   "give、lend、borrow 的方向要分清楚：給出去是 give，借出去是 lend，暫時拿到手是 borrow。",
+   "thank somebody for something 用 for 不用 to；say sorry 是道歉，forgive 是原諒，兩個不要混用。"
+  ]
+ },
+ {
+  "id": "verbs-school",
+  "icon": "📖",
+  "name": "動詞：學校與學習",
+  "nameEn": "Verbs: School & Learning",
+  "summary": "learn / study / practise / pass / remember… 學習相關的動詞。",
+  "note": "learn 與 study 意思接近但搭法不同，練的時候要一起記。",
+  "group": "動詞",
+  "words": [
+   {
+    "en": "check",
+    "zh": "檢查；核對",
+    "ipa": "tʃek"
+   },
+   {
+    "en": "copy",
+    "zh": "複製；抄寫",
+    "ipa": "ˈkɒ.pi"
+   },
+   {
+    "en": "draw",
+    "zh": "畫；拉",
+    "ipa": "drɔː"
+   },
+   {
+    "en": "fail",
+    "zh": "不及格；失敗",
+    "ipa": "feɪl"
+   },
+   {
+    "en": "learn",
+    "zh": "學習；學會",
+    "ipa": "lɜːn"
+   },
+   {
+    "en": "pass",
+    "zh": "通過；及格",
+    "ipa": "pɑːs"
+   },
+   {
+    "en": "play",
+    "zh": "玩；演奏",
+    "ipa": "pleɪ"
+   },
+   {
+    "en": "read",
+    "zh": "閱讀",
+    "ipa": "riːd"
+   },
+   {
+    "en": "review",
+    "zh": "複習；評論",
+    "ipa": "rɪˈvjuː"
+   },
+   {
+    "en": "sing",
+    "zh": "唱歌",
+    "ipa": "sɪŋ"
+   },
+   {
+    "en": "teach",
+    "zh": "教",
+    "ipa": "tiːtʃ"
+   },
+   {
+    "en": "write",
+    "zh": "寫",
+    "ipa": "raɪt"
+   },
+   {
+    "en": "revise",
+    "zh": "溫習；修正",
+    "ipa": "rɪˈvaɪz"
+   },
+   {
+    "en": "translate",
+    "zh": "翻譯",
+    "ipa": "trænzˈleɪt"
+   },
+   {
+    "en": "pronounce",
+    "zh": "發音",
+    "ipa": "prəˈnaʊns"
+   },
+   {
+    "en": "organise",
+    "zh": "組織；安排",
+    "ipa": "ˈɔː.ɡə.naɪz"
+   },
+   {
+    "en": "arrange",
+    "zh": "安排",
+    "ipa": "əˈreɪndʒ"
+   },
+   {
+    "en": "compete",
+    "zh": "參加競賽",
+    "ipa": "kəmˈpiːt"
+   },
+   {
+    "en": "imagine",
+    "zh": "想像",
+    "ipa": "ɪˈmæ.dʒɪn"
+   },
+   {
+    "en": "qualify",
+    "zh": "取得資格",
+    "ipa": "ˈkwɒl.ɪ.faɪ"
+   },
+   {
+    "en": "volunteer",
+    "zh": "志工；自願參加",
+    "ipa": "ˌvɒl.ənˈtɪə"
+   },
+   {
+    "en": "sketch",
+    "zh": "畫草圖",
+    "ipa": "sketʃ"
+   },
+   {
+    "en": "graduate",
+    "zh": "畢業",
+    "ipa": "ˈɡrædʒu.eɪt"
+   },
+   {
+    "en": "verb",
+    "zh": "動詞",
+    "ipa": "vɜːb"
+   },
+   {
+    "en": "noun",
+    "zh": "名詞",
+    "ipa": "naʊn"
+   },
+   {
+    "en": "phrase",
+    "zh": "片語",
+    "ipa": "freɪz"
+   },
+   {
+    "en": "adjective",
+    "zh": "形容詞",
+    "ipa": "əˈdʒek.tɪv"
+   },
+   {
+    "en": "adverb",
+    "zh": "副詞",
+    "ipa": "ˈæd.vɜːb"
+   },
+   {
+    "en": "alphabet",
+    "zh": "字母表",
+    "ipa": "ˈæl.fə.bet"
+   },
+   {
+    "en": "syllable",
+    "zh": "音節",
+    "ipa": "ˈsɪl.ə.bəl"
+   },
+   {
+    "en": "essay",
+    "zh": "文章；作文",
+    "ipa": "ˈes.eɪ"
+   },
+   {
+    "en": "poem",
+    "zh": "詩",
+    "ipa": "ˈpəʊ.əm"
+   },
+   {
+    "en": "novel",
+    "zh": "小說",
+    "ipa": "ˈnɒv.əl"
+   },
+   {
+    "en": "author",
+    "zh": "作家",
+    "ipa": "ˈɔː.θə"
+   },
+   {
+    "en": "chalk",
+    "zh": "粉筆",
+    "ipa": "tʃɔːk"
+   },
+   {
+    "en": "certificate",
+    "zh": "證書",
+    "ipa": "səˈtɪf.ɪ.kət"
+   },
+   {
+    "en": "medal",
+    "zh": "獎牌",
+    "ipa": "ˈmed.əl"
+   },
+   {
+    "en": "tutor",
+    "zh": "家教老師",
+    "ipa": "ˈtjuː.tə"
+   },
+   {
+    "en": "qualification",
+    "zh": "資格",
+    "ipa": "kˌkwɒl.ɪˈfɪˈkeɪ.ʃən"
+   },
+   {
+    "en": "feedback",
+    "zh": "老師的回饋",
+    "ipa": "ˈfiːd.bæk"
+   },
+   {
+    "en": "assembly",
+    "zh": "全校大會",
+    "ipa": "əˈsem.bli"
+   },
+   {
+    "en": "choir",
+    "zh": "合唱團",
+    "ipa": "ˈkwaɪə"
+   },
+   {
+    "en": "orchestra",
+    "zh": "管弦樂團",
+    "ipa": "ˈɔː.kɪ.strə"
+   },
+   {
+    "en": "recital",
+    "zh": "演奏會",
+    "ipa": "rɪˈsaɪ.təl"
+   },
+   {
+    "en": "solo",
+    "zh": "獨奏曲",
+    "ipa": "ˈsəʊ.ləʊ"
+   },
+   {
+    "en": "audition",
+    "zh": "試唱；甄選",
+    "ipa": "ɔːˈdɪʃ.ən"
+   },
+   {
+    "en": "speech",
+    "zh": "演講",
+    "ipa": "spiːtʃ"
+   },
+   {
+    "en": "presentation",
+    "zh": "簡報；發表",
+    "ipa": "prɪˌzenˈteɪ.ʃən"
+   },
+   {
+    "en": "craft",
+    "zh": "手藝；手工",
+    "ipa": "krɑːft"
+   },
+   {
+    "en": "monitor",
+    "zh": "班長；螢幕",
+    "ipa": "ˈmɒn.ɪ.tə"
+   },
+   {
+    "en": "accent",
+    "zh": "口音",
+    "ipa": "ˈæk.sənt"
+   },
+   {
+    "en": "rhythm",
+    "zh": "節奏",
+    "ipa": "ˈrɪð.əm"
+   },
+   {
+    "en": "stress",
+    "zh": "重音",
+    "ipa": "stres"
+   },
+   {
+    "en": "register",
+    "zh": "點名",
+    "ipa": "ˈredʒ.ɪ.stə"
+   },
+   {
+    "en": "diary",
+    "zh": "日記",
+    "ipa": "ˈdaɪ.ə.ri"
+   },
+   {
+    "en": "dictation",
+    "zh": "聽寫",
+    "ipa": "dɪkˈteɪ.ʃən"
+   },
+   {
+    "en": "times table",
+    "zh": "九九乘法表",
+    "ipa": "ˈtaɪmz ˌteɪ.bəl"
+   },
+   {
+    "en": "exercise book",
+    "zh": "練習簿",
+    "ipa": "ˈek.sə.saɪz bʊk"
+   },
+   {
+    "en": "course",
+    "zh": "課程",
+    "ipa": "kɔːs"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "learn by heart",
+    "zh": "背下來",
+    "ipa": "ˌlɜːn baɪ ˈhɑːt"
+   },
+   {
+    "en": "read out",
+    "zh": "讀出來",
+    "ipa": "ˌriːd ˈaʊt"
+   },
+   {
+    "en": "copy down",
+    "zh": "抄下來",
+    "ipa": "ˌkɒ.pi ˈdaʊn"
+   },
+   {
+    "en": "make mistakes",
+    "zh": "犯錯",
+    "ipa": "ˌmeɪk ˈmɪs.tɪks"
+   },
+   {
+    "en": "make progress",
+    "zh": "有進步",
+    "ipa": "ˌmeɪk ˈprəʊ.ɡres"
+   },
+   {
+    "en": "pay attention",
+    "zh": "專心聽講",
+    "ipa": "ˌpeɪ əˈten.ʃən"
+   },
+   {
+    "en": "check your work",
+    "zh": "檢查作業",
+    "ipa": "ˌtʃek jɔː ˈwɜːk"
+   },
+   {
+    "en": "pass an exam",
+    "zh": "通過考試",
+    "ipa": "ˌpɑːs ən ɪɡˈzæm"
+   },
+   {
+    "en": "fail an exam",
+    "zh": "考試不及格",
+    "ipa": "ˌfeɪl ən ɪɡˈzæm"
+   },
+   {
+    "en": "revise for a test",
+    "zh": "為考試複習",
+    "ipa": "rɪˈvaɪz fər ə ˈtest"
+   },
+   {
+    "en": "look up a word",
+    "zh": "查單字",
+    "ipa": "ˌlʊk ʌp ə ˈwɜːd"
+   },
+   {
+    "en": "learn a language",
+    "zh": "學語言",
+    "ipa": "ˌlɜːn ə ˈlæŋ.ɡwɪdʒ"
+   },
+   {
+    "en": "hand in",
+    "zh": "交作業",
+    "ipa": "ˌhænd ˈɪn"
+   },
+   {
+    "en": "write an essay",
+    "zh": "寫作文",
+    "ipa": "ˌraɪt ən ˈes.eɪ"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "I learn ten new words every day at school.",
+    "zh": "我每天在學校學十個新單字。"
+   },
+   {
+    "en": "My teacher said that I could pass the exam.",
+    "zh": "老師說我可以通過這次考試。"
+   },
+   {
+    "en": "Please copy these sentences in your exercise book.",
+    "zh": "請把這些句子抄在你的練習簿上。"
+   },
+   {
+    "en": "We read the story and then draw a picture.",
+    "zh": "我們先讀故事，然後畫一幅畫。"
+   },
+   {
+    "en": "He failed the test, so he wants to revise more.",
+    "zh": "他考試不及格，所以想再多複習。"
+   },
+   {
+    "en": "Our class sings a new song every Friday.",
+    "zh": "我們班每星期五都會唱一首新歌。"
+   },
+   {
+    "en": "I play the guitar and my sister plays the piano.",
+    "zh": "我彈吉他，我姐姐彈鋼琴。"
+   },
+   {
+    "en": "She checks her work before she hands it in.",
+    "zh": "她在交上去之前會先檢查作業。"
+   },
+   {
+    "en": "Can you pronounce this word for me, please?",
+    "zh": "可以請你唸出這個單字的發音嗎？"
+   },
+   {
+    "en": "We learnt these verbs last week and now we use them.",
+    "zh": "我們上星期學了這些動詞，現在會用了。"
+   },
+   {
+    "en": "I need to translate this page into English.",
+    "zh": "我需要把這頁翻譯成英文。"
+   },
+   {
+    "en": "The teacher taught us how to write a letter.",
+    "zh": "老師教我們怎麼寫信。"
+   },
+   {
+    "en": "Don't be afraid to make mistakes when you write.",
+    "zh": "寫的時候不要怕犯錯。"
+   },
+   {
+    "en": "Our teacher reviews the lesson at the start of class.",
+    "zh": "老師在課堂一開始會先複習上一課。"
+   }
+  ],
+  "tips": [
+   "learn something 與 teach somebody something 後面直接接名詞，不要加介系詞；study 則常搭配 about，兩個詞的搭法要分開記。",
+   "pass 是「通過」，fail 是「不及格」，後面都直接接考試名稱，不要多加一個 to。",
+   "copy、check、imagine 這幾個字連音很快，聽打時容易混，建議放慢速度逐字輸入後再回頭核對。"
+  ]
+ }
+]

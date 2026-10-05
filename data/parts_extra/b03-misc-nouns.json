@@ -1,0 +1,888 @@
+[
+ {
+  "id": "noun-everyday-misc",
+  "icon": "✨",
+  "name": "名詞：其他日常詞彙",
+  "nameEn": "Nouns: Everyday Miscellaneous",
+  "summary": "主題表沒有歸類的零散名詞收在一起，方便一次補齊。",
+  "note": "這一組比較雜，建議當成複習清單來過。",
+  "group": "名詞",
+  "words": [
+   {
+    "en": "accident",
+    "zh": "意外、事故",
+    "ipa": "ˈæk.sɪ.dənt"
+   },
+   {
+    "en": "accommodation",
+    "zh": "住宿",
+    "ipa": "əˌkɒm.əˈdeɪ.ʃən"
+   },
+   {
+    "en": "activity",
+    "zh": "活動",
+    "ipa": "ækˈtɪv.ə.ti"
+   },
+   {
+    "en": "adventure",
+    "zh": "冒險",
+    "ipa": "ədˈven.tʃə"
+   },
+   {
+    "en": "advert",
+    "zh": "廣告",
+    "ipa": "ˈæd.vɜːt"
+   },
+   {
+    "en": "age",
+    "zh": "年紀、年齡",
+    "ipa": "eɪdʒ"
+   },
+   {
+    "en": "alarm clock",
+    "zh": "鬧鐘",
+    "ipa": "əˈlɑːm klɒk"
+   },
+   {
+    "en": "album",
+    "zh": "相簿、專輯",
+    "ipa": "ˈæl.bəm"
+   },
+   {
+    "en": "ambulance",
+    "zh": "救護車",
+    "ipa": "ˈæm.bjə.ləns"
+   },
+   {
+    "en": "apartment building",
+    "zh": "公寓大樓",
+    "ipa": "əˈpɑː.tənt ˌbɪl.dɪŋ"
+   },
+   {
+    "en": "art",
+    "zh": "藝術",
+    "ipa": "ɑːt"
+   },
+   {
+    "en": "beginner",
+    "zh": "初學者、新手",
+    "ipa": "bɪˈɡɪn.ə"
+   },
+   {
+    "en": "beginning",
+    "zh": "開始、開頭",
+    "ipa": "bɪˈɡɪn.ɪŋ"
+   },
+   {
+    "en": "birth",
+    "zh": "出生",
+    "ipa": "bɜːθ"
+   },
+   {
+    "en": "block",
+    "zh": "街區",
+    "ipa": "blɒk"
+   },
+   {
+    "en": "bookstore",
+    "zh": "書店",
+    "ipa": "ˈbʊk.stɔː"
+   },
+   {
+    "en": "business",
+    "zh": "生意、事業",
+    "ipa": "ˈbɪz.nəs"
+   },
+   {
+    "en": "business person",
+    "zh": "上班族、商人",
+    "ipa": "ˈbɪz.nəs ˌpɜː.sən"
+   },
+   {
+    "en": "camping",
+    "zh": "露營",
+    "ipa": "ˈkæm.pɪŋ"
+   },
+   {
+    "en": "capital",
+    "zh": "首都",
+    "ipa": "ˈkæp.ɪ.təl"
+   },
+   {
+    "en": "career",
+    "zh": "職業、生涯",
+    "ipa": "kəˈrɪə"
+   },
+   {
+    "en": "centre/center",
+    "zh": "中心（美式=center）",
+    "ipa": "ˈsen.tə"
+   },
+   {
+    "en": "chain",
+    "zh": "鏈子、鍊子",
+    "ipa": "tʃeɪn"
+   },
+   {
+    "en": "character",
+    "zh": "人物；影劇小說中的人物；性格、特質",
+    "ipa": "ˈkær.ək.tə"
+   },
+   {
+    "en": "chef",
+    "zh": "主廚",
+    "ipa": "ʃef"
+   },
+   {
+    "en": "circle",
+    "zh": "圓圈",
+    "ipa": "ˈsɜː.kəl"
+   },
+   {
+    "en": "clown",
+    "zh": "小丑",
+    "ipa": "klaʊn"
+   },
+   {
+    "en": "comedy",
+    "zh": "喜劇",
+    "ipa": "ˈkɒm.ə.di"
+   },
+   {
+    "en": "company",
+    "zh": "公司",
+    "ipa": "ˈkʌm.pə.ni"
+   },
+   {
+    "en": "conversation",
+    "zh": "對話",
+    "ipa": "ˌkɒn.vəˈseɪ.ʃən"
+   },
+   {
+    "en": "cooking",
+    "zh": "烹飪",
+    "ipa": "ˈkʊk.ɪŋ"
+   },
+   {
+    "en": "country",
+    "zh": "國家、鄉下",
+    "ipa": "ˈkʌn.tri"
+   },
+   {
+    "en": "dancing",
+    "zh": "跳舞",
+    "ipa": "ˈdɑː.nsɪŋ"
+   },
+   {
+    "en": "department",
+    "zh": "部門",
+    "ipa": "dɪˈpɑː.tə.mənt"
+   },
+   {
+    "en": "details",
+    "zh": "細節",
+    "ipa": "ˈdiː.teɪlz"
+   },
+   {
+    "en": "difference",
+    "zh": "差異",
+    "ipa": "ˈdɪf.ə.rəns"
+   },
+   {
+    "en": "directions",
+    "zh": "方向、指引",
+    "ipa": "dəˈrek.ʃənz"
+   },
+   {
+    "en": "doll",
+    "zh": "洋娃娃",
+    "ipa": "dɒl"
+   },
+   {
+    "en": "dot",
+    "zh": "點、圓點",
+    "ipa": "dɒt"
+   },
+   {
+    "en": "drawing",
+    "zh": "畫畫、圖畫",
+    "ipa": "ˈdrɔː.ɪŋ"
+   },
+   {
+    "en": "driver's licence",
+    "zh": "駕照（英式寫法）",
+    "ipa": "ˈdraɪ.vəz ˈlaɪ.səns"
+   },
+   {
+    "en": "drugstore",
+    "zh": "藥局",
+    "ipa": "ˈdrʌɡ.stɔː"
+   },
+   {
+    "en": "electricity",
+    "zh": "電",
+    "ipa": "ɪˌlekˈtrɪs.ə.ti"
+   },
+   {
+    "en": "elevator",
+    "zh": "電梯",
+    "ipa": "ˈel.ɪ.veɪ.tə"
+   },
+   {
+    "en": "environment",
+    "zh": "環境",
+    "ipa": "ɪnˈvaɪ.rən.mənt"
+   },
+   {
+    "en": "event",
+    "zh": "活動、事件",
+    "ipa": "ɪˈvent"
+   },
+   {
+    "en": "explorer",
+    "zh": "探險家",
+    "ipa": "ɪkˈsplɔː.rə"
+   },
+   {
+    "en": "fashion",
+    "zh": "時尚",
+    "ipa": "ˈfæʃ.ən"
+   },
+   {
+    "en": "feelings",
+    "zh": "感受、情緒",
+    "ipa": "ˈfiː.lɪŋz"
+   },
+   {
+    "en": "fishing",
+    "zh": "釣魚",
+    "ipa": "ˈfɪʃ.ɪŋ"
+   },
+   {
+    "en": "French fries",
+    "zh": "薯條",
+    "ipa": "ˌfrenʃ ˈfraɪz"
+   },
+   {
+    "en": "front",
+    "zh": "前面",
+    "ipa": "frʌnt"
+   },
+   {
+    "en": "future",
+    "zh": "未來",
+    "ipa": "ˈfjuː.tʃə"
+   },
+   {
+    "en": "gift",
+    "zh": "禮物",
+    "ipa": "ɡɪft"
+   },
+   {
+    "en": "girl",
+    "zh": "女孩",
+    "ipa": "ɡɜːl"
+   },
+   {
+    "en": "grade",
+    "zh": "年級、成績",
+    "ipa": "ɡreɪd"
+   },
+   {
+    "en": "grand",
+    "zh": "（孫輩的）孫子、孫女",
+    "ipa": "ɡrænd"
+   },
+   {
+    "en": "grocery store",
+    "zh": "雜貨店",
+    "ipa": "ˈɡrəʊ.sə.ri stɔː"
+   },
+   {
+    "en": "ground",
+    "zh": "地面",
+    "ipa": "ɡraʊnd"
+   },
+   {
+    "en": "group",
+    "zh": "團體、小組",
+    "ipa": "ɡruːp"
+   },
+   {
+    "en": "guy",
+    "zh": "男生、傢伙",
+    "ipa": "ɡaɪ"
+   },
+   {
+    "en": "headphones",
+    "zh": "耳機",
+    "ipa": "ˈhed.fəʊnz"
+   },
+   {
+    "en": "heating",
+    "zh": "暖氣",
+    "ipa": "ˈhiː.tɪŋ"
+   },
+   {
+    "en": "helicopter",
+    "zh": "直升機",
+    "ipa": "ˈhel.ɪ.kɒp.tə"
+   },
+   {
+    "en": "hip hop",
+    "zh": "嘻哈",
+    "ipa": "ˈhɪp.hɒp"
+   },
+   {
+    "en": "ID",
+    "zh": "身分證明文件（identification 的簡稱）",
+    "ipa": "ˌaɪ ˈdiː"
+   },
+   {
+    "en": "ID card",
+    "zh": "身分證",
+    "ipa": "ˌaɪ ˈdiː kɑːd"
+   },
+   {
+    "en": "identification",
+    "zh": "身分證明文件",
+    "ipa": "aɪˌden.tɪ.fɪˈkeɪ.ʃən"
+   },
+   {
+    "en": "instructions",
+    "zh": "使用說明、指示",
+    "ipa": "ɪnˈstrʌk.ʃənz"
+   },
+   {
+    "en": "invitation",
+    "zh": "邀請",
+    "ipa": "ˌɪn.vɪˈteɪ.ʃən"
+   },
+   {
+    "en": "jazz",
+    "zh": "爵士樂",
+    "ipa": "dʒæz"
+   },
+   {
+    "en": "kit",
+    "zh": "工具組、裝備",
+    "ipa": "kɪt"
+   },
+   {
+    "en": "kite",
+    "zh": "風箏",
+    "ipa": "kaɪt"
+   },
+   {
+    "en": "language",
+    "zh": "語言",
+    "ipa": "ˈlæŋ.ɡwɪdʒ"
+   },
+   {
+    "en": "level",
+    "zh": "程度、等級",
+    "ipa": "ˈlev.əl"
+   },
+   {
+    "en": "life",
+    "zh": "生活",
+    "ipa": "laɪf"
+   },
+   {
+    "en": "line",
+    "zh": "線、行列",
+    "ipa": "laɪn"
+   },
+   {
+    "en": "list",
+    "zh": "清單",
+    "ipa": "lɪst"
+   },
+   {
+    "en": "lots / a lot",
+    "zh": "許多／很多",
+    "ipa": "lɒts ə lɒt"
+   },
+   {
+    "en": "luck",
+    "zh": "運氣",
+    "ipa": "lʌk"
+   },
+   {
+    "en": "mail",
+    "zh": "郵件、信件",
+    "ipa": "meɪl"
+   },
+   {
+    "en": "memory",
+    "zh": "記憶",
+    "ipa": "ˈmem.ər.i"
+   },
+   {
+    "en": "middle",
+    "zh": "中間",
+    "ipa": "ˈmɪd.əl"
+   },
+   {
+    "en": "mile",
+    "zh": "英里",
+    "ipa": "maɪl"
+   },
+   {
+    "en": "million",
+    "zh": "百萬",
+    "ipa": "ˈmɪl.jən"
+   },
+   {
+    "en": "model",
+    "zh": "模型",
+    "ipa": "ˈmɒd.əl"
+   },
+   {
+    "en": "movie",
+    "zh": "電影",
+    "ipa": "ˈmuː.vi"
+   },
+   {
+    "en": "movie star",
+    "zh": "電影明星",
+    "ipa": "ˈmuː.vi stɑː"
+   },
+   {
+    "en": "name",
+    "zh": "名字",
+    "ipa": "neɪm"
+   },
+   {
+    "en": "nationality",
+    "zh": "國籍",
+    "ipa": "ˌnæʃ.əˈnæl.ə.ti"
+   },
+   {
+    "en": "noise",
+    "zh": "噪音",
+    "ipa": "nɔɪz"
+   },
+   {
+    "en": "number",
+    "zh": "數字、號碼",
+    "ipa": "ˈnʌm.bə"
+   },
+   {
+    "en": "occupation",
+    "zh": "職業",
+    "ipa": "ˌɒk.jəˈpeɪ.ʃən"
+   },
+   {
+    "en": "painting",
+    "zh": "畫作",
+    "ipa": "ˈpeɪn.tɪŋ"
+   },
+   {
+    "en": "pair",
+    "zh": "一對、一雙",
+    "ipa": "peə"
+   },
+   {
+    "en": "part",
+    "zh": "部分",
+    "ipa": "pɑːt"
+   },
+   {
+    "en": "penfriend",
+    "zh": "筆友",
+    "ipa": "ˈpen.frend"
+   },
+   {
+    "en": "performance",
+    "zh": "表演",
+    "ipa": "pəˈfɔː.məns"
+   },
+   {
+    "en": "piece",
+    "zh": "一塊、一片",
+    "ipa": "piːs"
+   },
+   {
+    "en": "pity",
+    "zh": "可惜、可憐",
+    "ipa": "ˈpɪt.i"
+   },
+   {
+    "en": "place",
+    "zh": "地方",
+    "ipa": "pleɪs"
+   },
+   {
+    "en": "polar bear",
+    "zh": "北極熊",
+    "ipa": "ˈpəʊ.lə beə"
+   },
+   {
+    "en": "pop",
+    "zh": "流行樂",
+    "ipa": "pɒp"
+   },
+   {
+    "en": "poster",
+    "zh": "海報",
+    "ipa": "ˈpəʊ.stə"
+   },
+   {
+    "en": "practice",
+    "zh": "練習",
+    "ipa": "ˈpræk.tɪs"
+   },
+   {
+    "en": "present",
+    "zh": "禮物",
+    "ipa": "ˈprez.ənt"
+   },
+   {
+    "en": "programme",
+    "zh": "節目",
+    "ipa": "ˈprəʊ.ɡræm"
+   },
+   {
+    "en": "rap",
+    "zh": "饒舌樂",
+    "ipa": "ræp"
+   },
+   {
+    "en": "reading",
+    "zh": "閱讀",
+    "ipa": "ˈriː.dɪŋ"
+   },
+   {
+    "en": "riding",
+    "zh": "騎乘",
+    "ipa": "ˈraɪ.dɪŋ"
+   },
+   {
+    "en": "rubber",
+    "zh": "橡膠",
+    "ipa": "ˈrʌb.ə"
+   },
+   {
+    "en": "runner",
+    "zh": "跑者",
+    "ipa": "ˈrʌn.ə"
+   },
+   {
+    "en": "running",
+    "zh": "跑步",
+    "ipa": "ˈrʌn.ɪŋ"
+   },
+   {
+    "en": "sentence",
+    "zh": "句子",
+    "ipa": "ˈsen.təns"
+   },
+   {
+    "en": "September",
+    "zh": "九月",
+    "ipa": "sepˈtem.bə"
+   },
+   {
+    "en": "shame",
+    "zh": "羞恥，可惜",
+    "ipa": "ʃeɪm"
+   },
+   {
+    "en": "side",
+    "zh": "旁邊",
+    "ipa": "saɪd"
+   },
+   {
+    "en": "sightseeing",
+    "zh": "觀光",
+    "ipa": "ˈsaɪt.siː.ɪŋ"
+   },
+   {
+    "en": "sign",
+    "zh": "標誌、招牌",
+    "ipa": "saɪn"
+   },
+   {
+    "en": "singing",
+    "zh": "唱歌",
+    "ipa": "ˈsɪŋ.ɪŋ"
+   },
+   {
+    "en": "sitting room",
+    "zh": "客廳",
+    "ipa": "ˈsɪ.tɪŋ ˌruːm"
+   },
+   {
+    "en": "size",
+    "zh": "尺寸",
+    "ipa": "saɪz"
+   },
+   {
+    "en": "smoking",
+    "zh": "抽菸",
+    "ipa": "ˈsməʊ.kɪŋ"
+   },
+   {
+    "en": "stage",
+    "zh": "舞台",
+    "ipa": "steɪdʒ"
+   },
+   {
+    "en": "stripes",
+    "zh": "條紋",
+    "ipa": "staɪps"
+   },
+   {
+    "en": "stuff",
+    "zh": "東西、物品",
+    "ipa": "stʌf"
+   },
+   {
+    "en": "surfboarding",
+    "zh": "衝浪",
+    "ipa": "ˈsɜːf.bɔː.dɪŋ"
+   },
+   {
+    "en": "tail",
+    "zh": "尾巴",
+    "ipa": "teɪl"
+   },
+   {
+    "en": "thing",
+    "zh": "東西",
+    "ipa": "θɪŋ"
+   },
+   {
+    "en": "title",
+    "zh": "標題",
+    "ipa": "ˈtaɪ.təl"
+   },
+   {
+    "en": "top",
+    "zh": "頂部",
+    "ipa": "tɒp"
+   },
+   {
+    "en": "tourist",
+    "zh": "觀光客",
+    "ipa": "ˈtʊə.rɪst"
+   },
+   {
+    "en": "toy",
+    "zh": "玩具",
+    "ipa": "tɔɪ"
+   },
+   {
+    "en": "training",
+    "zh": "訓練",
+    "ipa": "ˈtreɪ.nɪŋ"
+   },
+   {
+    "en": "trainer",
+    "zh": "運動鞋",
+    "ipa": "ˈtreɪ.nə"
+   },
+   {
+    "en": "tune",
+    "zh": "曲調",
+    "ipa": "tjuːn"
+   },
+   {
+    "en": "type",
+    "zh": "類型",
+    "ipa": "taɪp"
+   },
+   {
+    "en": "variety",
+    "zh": "種類、多樣",
+    "ipa": "vəˈraɪ.ə.ti"
+   },
+   {
+    "en": "view",
+    "zh": "景色、看法",
+    "ipa": "vjuː"
+   },
+   {
+    "en": "violin",
+    "zh": "小提琴",
+    "ipa": "ˌvaɪ.əˈlɪn"
+   },
+   {
+    "en": "walking",
+    "zh": "散步",
+    "ipa": "ˈwɔː.kɪŋ"
+   },
+   {
+    "en": "way",
+    "zh": "方法、道路",
+    "ipa": "weɪ"
+   },
+   {
+    "en": "winner",
+    "zh": "贏家、冠軍",
+    "ipa": "ˈwɪn.ə"
+   },
+   {
+    "en": "word",
+    "zh": "單字",
+    "ipa": "wɜːd"
+   },
+   {
+    "en": "world",
+    "zh": "世界",
+    "ipa": "wɜːld"
+   },
+   {
+    "en": "writer",
+    "zh": "作家",
+    "ipa": "ˈraɪ.tə"
+   },
+   {
+    "en": "writing",
+    "zh": "寫作",
+    "ipa": "ˈraɪ.tɪŋ"
+   },
+   {
+    "en": "yog",
+    "zh": "優格",
+    "ipa": "jɒɡ"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "a piece of cake",
+    "zh": "一塊蛋糕",
+    "ipa": "ə piːs əv keɪk"
+   },
+   {
+    "en": "a pair of trainers",
+    "zh": "一雙運動鞋",
+    "ipa": "ə peə əv ˈtreɪ.nəz"
+   },
+   {
+    "en": "at the front of the class",
+    "zh": "在教室最前面",
+    "ipa": "ət ðə ˌfrʌnt əv ðə klɑːs"
+   },
+   {
+    "en": "in the middle of the day",
+    "zh": "在一天當中",
+    "ipa": "ɪn ðə ˈmɪd.əl əv ðə deɪ"
+   },
+   {
+    "en": "in the future",
+    "zh": "在未來",
+    "ipa": "ɪn ðə ˈfjuː.tʃə"
+   },
+   {
+    "en": "by accident",
+    "zh": "意外地、碰巧",
+    "ipa": "baɪ ˈæk.sɪ.dənt"
+   },
+   {
+    "en": "a lot of homework",
+    "zh": "很多功課",
+    "ipa": "ə lɒt əv ˈhəʊm.wɜːk"
+   },
+   {
+    "en": "on the way to work",
+    "zh": "在上班的路上",
+    "ipa": "ɒn ðə ˈweɪ tə wɜːk"
+   },
+   {
+    "en": "take part in the show",
+    "zh": "參加演出",
+    "ipa": "ˈteɪk ˈpɑːt ɪn ðə ʃəʊ"
+   },
+   {
+    "en": "ask for directions",
+    "zh": "問路",
+    "ipa": "ɑːsk fə dəˈrek.ʃənz"
+   },
+   {
+    "en": "a little bit of luck",
+    "zh": "一點點好運",
+    "ipa": "ə ˈlɪt.əl bɪt əv lʌk"
+   },
+   {
+    "en": "working hours",
+    "zh": "上班時間",
+    "ipa": "ˈwɜː.kɪŋ ˌaʊəz"
+   },
+   {
+    "en": "tourist information centre",
+    "zh": "旅遊服務中心",
+    "ipa": "ˈtʊə.rɪst ˌɪnfəˈmeɪ.ʃən ˈsen.tə"
+   },
+   {
+    "en": "movie theater",
+    "zh": "電影院",
+    "ipa": "ˈmuː.vi ˈθɪə.tə"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "We watched a comedy movie at the cinema last night.",
+    "zh": "我們昨晚在電影院看了一部喜劇片。"
+   },
+   {
+    "en": "My alarm clock is the first thing I look at.",
+    "zh": "我的鬧鐘是我每天早上最先看的東西。"
+   },
+   {
+    "en": "He wants to be a movie star, but he plays the violin too.",
+    "zh": "他想當電影明星，但也會拉小提琴。"
+   },
+   {
+    "en": "The company gave me a beautiful present for my birthday.",
+    "zh": "公司送了我一件很棒的生日禮物。"
+   },
+   {
+    "en": "We had lots of fun at the party and ate lots of cake.",
+    "zh": "我們在派對上玩得很開心，也吃了不少蛋糕。"
+   },
+   {
+    "en": "He works in the sales department of a big company.",
+    "zh": "他在一家大公司的業務部工作。"
+   },
+   {
+    "en": "Please read the instructions and the details before the test.",
+    "zh": "考試前請先閱讀說明和細節。"
+   },
+   {
+    "en": "The clown and the comedy show made the whole room laugh.",
+    "zh": "小丑和喜劇表演讓全場的人都笑了。"
+   },
+   {
+    "en": "She wore a gold chain and bought a book at the bookstore.",
+    "zh": "她戴著金鍊子，並在書店買了一本書。"
+   },
+   {
+    "en": "Do you know the way to the tourist information centre?",
+    "zh": "你知道怎麼去旅遊服務中心嗎？"
+   },
+   {
+    "en": "Her singing voice is famous all over the world.",
+    "zh": "她的歌聲在世界各地都很有名。"
+   },
+   {
+    "en": "There was a bad accident near our apartment building last night.",
+    "zh": "昨晚我們的公寓大樓附近發生了一起嚴重事故。"
+   },
+   {
+    "en": "He goes running every morning before football practice.",
+    "zh": "他每天早上都會去跑步，然後練習足球。"
+   },
+   {
+    "en": "Our city is the capital of this small country.",
+    "zh": "我們的城市是這個小國家的首都。"
+   }
+  ],
+  "tips": [
+   "單數可數名詞前面千萬不要漏掉冠詞，唸的時候把冠詞一起唸出來，像一塊蛋糕前面的那個字。",
+   "這組很多是兩三個字合起來的複合名詞，打字時中間一個字都不能少，也別把英式和美式的寫法混在一起。",
+   "片語要整組記，不要只背其中一個字，否則很容易忘記前面的量詞或介系詞。"
+  ]
+ }
+]

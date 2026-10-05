@@ -1,0 +1,550 @@
+[
+ {
+  "id": "shopping",
+  "icon": "💳",
+  "name": "購物與金錢",
+  "nameEn": "Shopping",
+  "summary": "買東西、比價、付款與金錢。",
+  "words": [
+   {
+    "en": "shop",
+    "zh": "商店",
+    "ipa": "ˈʃɒp"
+   },
+   {
+    "en": "store",
+    "zh": "店鋪",
+    "ipa": "stɔː"
+   },
+   {
+    "en": "supermarket",
+    "zh": "超級市場",
+    "ipa": "ˈsuː.pə.mɑː.kɪt"
+   },
+   {
+    "en": "bookshop",
+    "zh": "書店",
+    "ipa": "ˈbʊk.ʃɒp"
+   },
+   {
+    "en": "shopping",
+    "zh": "購物",
+    "ipa": "ˈʃɒp.ɪŋ"
+   },
+   {
+    "en": "shopper",
+    "zh": "購物的人",
+    "ipa": "ˈʃɒp.ə"
+   },
+   {
+    "en": "customer",
+    "zh": "顧客",
+    "ipa": "ˈkʌs.tə.mə"
+   },
+   {
+    "en": "assistant",
+    "zh": "店員；助理",
+    "ipa": "əˈsis.tənt"
+   },
+   {
+    "en": "buy",
+    "zh": "買",
+    "ipa": "ˈbaɪ"
+   },
+   {
+    "en": "pay",
+    "zh": "付款",
+    "ipa": "ˈpeɪ"
+   },
+   {
+    "en": "spend",
+    "zh": "花費",
+    "ipa": "ˈspend"
+   },
+   {
+    "en": "cost",
+    "zh": "價錢；花費",
+    "ipa": "kɒst"
+   },
+   {
+    "en": "price",
+    "zh": "價格",
+    "ipa": "ˈpraɪs"
+   },
+   {
+    "en": "cheap",
+    "zh": "便宜的",
+    "ipa": "ˈtʃiːp"
+   },
+   {
+    "en": "expensive",
+    "zh": "昂貴的",
+    "ipa": "ɪkˈspen.sɪv"
+   },
+   {
+    "en": "cash",
+    "zh": "現金",
+    "ipa": "ˈkæʃ"
+   },
+   {
+    "en": "cheque",
+    "zh": "支票",
+    "ipa": "ˈtʃek"
+   },
+   {
+    "en": "receipt",
+    "zh": "收據",
+    "ipa": "rɪˈsiːt"
+   },
+   {
+    "en": "bill",
+    "zh": "帳單",
+    "ipa": "ˈbɪl"
+   },
+   {
+    "en": "pound",
+    "zh": "英鎊",
+    "ipa": "ˈpaʊnd"
+   },
+   {
+    "en": "dollar",
+    "zh": "美元",
+    "ipa": "ˈdɒl.ə"
+   },
+   {
+    "en": "euro",
+    "zh": "歐元",
+    "ipa": "ˈjʊə.rəʊ"
+   },
+   {
+    "en": "cent",
+    "zh": "分（錢）",
+    "ipa": "ˈsent"
+   },
+   {
+    "en": "change",
+    "zh": "零錢；找零",
+    "ipa": "ˈtʃeɪndʒ"
+   },
+   {
+    "en": "open",
+    "zh": "開門；營業中",
+    "ipa": "ˈəʊ.pən"
+   },
+   {
+    "en": "close",
+    "zh": "關門；打烊",
+    "ipa": "kləʊz"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "pay for it",
+    "zh": "為這件東西付款",
+    "ipa": "ˈpeɪ fər ɪt"
+   },
+   {
+    "en": "try on",
+    "zh": "試穿",
+    "ipa": "ˈtraɪ ɒn"
+   },
+   {
+    "en": "go shopping",
+    "zh": "去購物",
+    "ipa": "ˌɡəʊ ˈʃɒp.ɪŋ"
+   },
+   {
+    "en": "how much is it",
+    "zh": "這個多少錢？",
+    "ipa": "haʊ ˈmʌtʃ ɪz ɪt"
+   },
+   {
+    "en": "a shop assistant",
+    "zh": "店員",
+    "ipa": "ə ˈʃɒp əˌsis.tənt"
+   },
+   {
+    "en": "in cash",
+    "zh": "用現金",
+    "ipa": "ɪn ˈkæʃ"
+   },
+   {
+    "en": "pay by credit card",
+    "zh": "用信用卡付款",
+    "ipa": "ˌpeɪ baɪ ˈkred.ɪt ˌkɑːd"
+   },
+   {
+    "en": "a receipt",
+    "zh": "一張收據",
+    "ipa": "ə rɪˈsiːt"
+   },
+   {
+    "en": "a department store",
+    "zh": "百貨公司",
+    "ipa": "ə dɪˈpɑː.t.mənt stɔː"
+   },
+   {
+    "en": "an advertisement",
+    "zh": "一則廣告",
+    "ipa": "ən ədˈvɜː.tɪ.mənt"
+   },
+   {
+    "en": "a good price",
+    "zh": "好價錢",
+    "ipa": "ə ˈɡʊd ˈpraɪs"
+   },
+   {
+    "en": "too expensive",
+    "zh": "太貴了",
+    "ipa": "ˌtuː ɪkˈspen.sɪv"
+   },
+   {
+    "en": "for sale",
+    "zh": "出售",
+    "ipa": "fə ˈseɪl"
+   },
+   {
+    "en": "pay the bill",
+    "zh": "付帳單",
+    "ipa": "ˈpeɪ ðə ˈbɪl"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My sister and I go shopping every Saturday.",
+    "zh": "我和妹妹每個星期六都去購物。"
+   },
+   {
+    "en": "The shop assistant helped me find a cheap jacket.",
+    "zh": "店員幫我找到一件便宜的夾克。"
+   },
+   {
+    "en": "Can I try on these trousers, please?",
+    "zh": "我可以試穿這條褲子嗎？"
+   },
+   {
+    "en": "How much is it? I only have ten pounds.",
+    "zh": "這個多少錢？我只有十英鎊。"
+   },
+   {
+    "en": "I paid for the shoes with my credit card.",
+    "zh": "我用信用卡付了鞋子的錢。"
+   },
+   {
+    "en": "The supermarket sells cheap milk and fresh bread.",
+    "zh": "這家超級市場賣便宜的牛奶和新鮮麵包。"
+   },
+   {
+    "en": "She kept the receipt and the change.",
+    "zh": "她留下了收據和找零。"
+   },
+   {
+    "en": "That bookshop opens at ten on Saturdays.",
+    "zh": "那家書店星期六十點開門。"
+   },
+   {
+    "en": "We read the advertisement in the newspaper.",
+    "zh": "我們在報紙上讀到那則廣告。"
+   },
+   {
+    "en": "The new shop is closed on Sunday afternoon.",
+    "zh": "新開的商店星期日下午不營業。"
+   },
+   {
+    "en": "These shoes are for sale at a good price.",
+    "zh": "這雙鞋以好價錢出售。"
+   },
+   {
+    "en": "My brother spends all his money on clothes.",
+    "zh": "我哥哥把所有錢都花在衣服上。"
+   },
+   {
+    "en": "The department store is too expensive for me.",
+    "zh": "百貨公司對我來說太貴了。"
+   },
+   {
+    "en": "Please pay the bill before you leave.",
+    "zh": "請在離開前把帳單付清。"
+   }
+  ],
+  "tips": [
+   "先熟記 How much is it? 這句問價，再練習回答價格。",
+   "buy 是買東西，pay 是付錢，spend 是花費，三個用法分清楚。",
+   "每句練習後再讀一次單字，特別注意 cheque 與 queue 的發音差異。"
+  ]
+ },
+ {
+  "id": "sport",
+  "icon": "⚽",
+  "name": "運動比賽",
+  "nameEn": "Sport",
+  "summary": "各種運動、比賽和運動員。",
+  "words": [
+   {
+    "en": "ball",
+    "zh": "球",
+    "ipa": "ˈbɔːl"
+   },
+   {
+    "en": "goal",
+    "zh": "球門；進球",
+    "ipa": "ˈɡəʊl"
+   },
+   {
+    "en": "football",
+    "zh": "足球",
+    "ipa": "ˈfʊt.bɔːl"
+   },
+   {
+    "en": "basketball",
+    "zh": "籃球",
+    "ipa": "ˈbɑː.skɪt.bɔːl"
+   },
+   {
+    "en": "badminton",
+    "zh": "羽毛球",
+    "ipa": "ˈbæd.mɪ.tən"
+   },
+   {
+    "en": "baseball",
+    "zh": "棒球",
+    "ipa": "ˈbeɪs.bɔːl"
+   },
+   {
+    "en": "cricket",
+    "zh": "板球",
+    "ipa": "ˈkrɪk.ɪt"
+   },
+   {
+    "en": "rugby",
+    "zh": "橄欖球",
+    "ipa": "ˈrʌɡ.bi"
+   },
+   {
+    "en": "tennis",
+    "zh": "網球",
+    "ipa": "ˈten.ɪs"
+   },
+   {
+    "en": "volleyball",
+    "zh": "排球",
+    "ipa": "ˈvɒl.i.bɔːl"
+   },
+   {
+    "en": "swimming",
+    "zh": "游泳",
+    "ipa": "ˈswɪm.ɪŋ"
+   },
+   {
+    "en": "swim",
+    "zh": "游泳",
+    "ipa": "ˈswɪm"
+   },
+   {
+    "en": "skate",
+    "zh": "溜冰",
+    "ipa": "ˈskeɪt"
+   },
+   {
+    "en": "ski",
+    "zh": "滑雪",
+    "ipa": "ˈskiː"
+   },
+   {
+    "en": "bicycle",
+    "zh": "腳踏車",
+    "ipa": "ˈbaɪ.sɪ.kəl"
+   },
+   {
+    "en": "racket",
+    "zh": "球拍",
+    "ipa": "ˈræk.ɪt"
+   },
+   {
+    "en": "surfboard",
+    "zh": "衝浪板",
+    "ipa": "ˈsɜːf.bɔːd"
+   },
+   {
+    "en": "player",
+    "zh": "選手",
+    "ipa": "ˈpleɪ.ə"
+   },
+   {
+    "en": "team",
+    "zh": "隊伍",
+    "ipa": "ˈtiːm"
+   },
+   {
+    "en": "coach",
+    "zh": "教練",
+    "ipa": "ˈkəʊtʃ"
+   },
+   {
+    "en": "club",
+    "zh": "俱樂部",
+    "ipa": "ˈklʌb"
+   },
+   {
+    "en": "stadium",
+    "zh": "體育場",
+    "ipa": "ˈsteɪ.di.əm"
+   },
+   {
+    "en": "prize",
+    "zh": "獎品",
+    "ipa": "ˈpraɪz"
+   },
+   {
+    "en": "ticket",
+    "zh": "門票",
+    "ipa": "ˈtɪk.ɪt"
+   },
+   {
+    "en": "win",
+    "zh": "贏",
+    "ipa": "ˈwɪn"
+   },
+   {
+    "en": "sport",
+    "zh": "運動",
+    "ipa": "ˈspɔːt"
+   }
+  ],
+  "phrases": [
+   {
+    "en": "play football",
+    "zh": "踢足球",
+    "ipa": "ˌpleɪ ˈfʊt.bɔːl"
+   },
+   {
+    "en": "watch a match",
+    "zh": "看比賽",
+    "ipa": "ˈwɒtʃ ə ˈmætʃ"
+   },
+   {
+    "en": "win a prize",
+    "zh": "贏得獎品",
+    "ipa": "ˈwɪn ə ˈpraɪz"
+   },
+   {
+    "en": "go swimming",
+    "zh": "去游泳",
+    "ipa": "ˌɡəʊ ˈswɪm.ɪŋ"
+   },
+   {
+    "en": "take part in",
+    "zh": "參加",
+    "ipa": "ˌteɪk ˈpɑːt ɪn"
+   },
+   {
+    "en": "a sports centre",
+    "zh": "運動中心",
+    "ipa": "ə ˈspɔːts ˌsen.tə"
+   },
+   {
+    "en": "play in a team",
+    "zh": "加入球隊比賽",
+    "ipa": "ˌpleɪ ɪn ə ˈtiːm"
+   },
+   {
+    "en": "a swimming costume",
+    "zh": "泳衣",
+    "ipa": "ə ˈswɪm.ɪŋ ˈkɒs.tjuːm"
+   },
+   {
+    "en": "a tennis racket",
+    "zh": "網球拍",
+    "ipa": "ə ˈten.ɪs ˈræk.ɪt"
+   },
+   {
+    "en": "ride a bicycle",
+    "zh": "騎腳踏車",
+    "ipa": "ˌraɪd ə ˈbaɪ.sɪ.kəl"
+   },
+   {
+    "en": "a football player",
+    "zh": "足球員",
+    "ipa": "ə ˈfʊt.bɔːl ˌpleɪ.ə"
+   },
+   {
+    "en": "enter a competition",
+    "zh": "參加競賽",
+    "ipa": "ˌent.ər ə ˌkɒm.pɪˈtɪʃ.ən"
+   },
+   {
+    "en": "the home team",
+    "zh": "主隊",
+    "ipa": "ðə ˈhəʊm ˈtiːm"
+   },
+   {
+    "en": "do sport",
+    "zh": "做運動",
+    "ipa": "ˌduː ˈspɔːt"
+   }
+  ],
+  "sentences": [
+   {
+    "en": "My brother plays football for his school team.",
+    "zh": "我弟弟為學校隊伍踢足球。"
+   },
+   {
+    "en": "We go swimming at the sports centre every Friday.",
+    "zh": "我們每星期五去運動中心游泳。"
+   },
+   {
+    "en": "She won a prize in the school competition.",
+    "zh": "她在學校競賽中贏得了獎品。"
+   },
+   {
+    "en": "The match starts at three o'clock on Saturday.",
+    "zh": "比賽星期六三點開始。"
+   },
+   {
+    "en": "Our coach is very happy with the new player.",
+    "zh": "我們的教練對這位新選手很滿意。"
+   },
+   {
+    "en": "I want to learn to surf this summer.",
+    "zh": "今年夏天我想學衝浪。"
+   },
+   {
+    "en": "Do you play badminton in the school club?",
+    "zh": "你在學校俱樂部打羽毛球嗎？"
+   },
+   {
+    "en": "Two tickets for the football match, please.",
+    "zh": "請給我兩張足球賽的門票。"
+   },
+   {
+    "en": "He bought a new racket for the tennis match.",
+    "zh": "他為網球比賽買了一支新球拍。"
+   },
+   {
+    "en": "My sister rides her bicycle to school every day.",
+    "zh": "我姊姊每天騎腳踏車上學。"
+   },
+   {
+    "en": "The stadium was full for the big game.",
+    "zh": "那場大比賽的體育場坐滿了人。"
+   },
+   {
+    "en": "I took part in the swimming race last week.",
+    "zh": "上週我參加了那場游泳比賽。"
+   },
+   {
+    "en": "We watched the match on television at home.",
+    "zh": "我們在家看電視轉播的比賽。"
+   },
+   {
+    "en": "Snowboarding on the mountain is very exciting.",
+    "zh": "在山上玩滑雪板非常刺激。"
+   }
+  ],
+  "tips": [
+   "球類名詞很多，先分清 football、basketball、volleyball 的唸法。",
+   "動詞 win、swim、play 可搭配不同受詞，照著例句各打幾次。",
+   "練習參加比賽的片語 take part in 與 enter a competition。"
+  ]
+ }
+]

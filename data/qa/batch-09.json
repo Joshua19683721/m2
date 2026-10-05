@@ -1,0 +1,78 @@
+{
+  "scenes": ["noun-home-things", "noun-school-things", "noun-abstract", "noun-tech-media", "noun-people-roles"],
+  "issues": [
+    {
+      "scene": "noun-people-roles",
+      "kind": "meaning",
+      "en": "The waitress and the waiter are my cousins.",
+      "zh": "那位女服務生和服務生都是我的表弟。",
+      "problem": "cousins 是複數名詞（堂／表兄弟姊妹），中文卻只寫「表弟」這個單數、而且限定為男性的稱呼，數量與詞義都不符；主語是兩人，譯文只指一人。",
+      "suggestion": "那位女服務生和服務生都是我的表兄弟姊妹。"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "zh-naturalness",
+      "en": "My colleague is a famous actor from London.",
+      "zh": "我的同事是倫敦一位有名的演員。",
+      "problem": "中文名詞組結構錯誤：「倫敦」是處所詞，不能直接放在「一位…的演員」這個量詞片語前面，讀起來不成句。",
+      "suggestion": "我的同事是一位來自倫敦的著名演員。"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "meaning",
+      "en": "Every member of staff wears a name badge.",
+      "zh": "每位職員都要別上名牌。",
+      "problem": "wears 是一般現在式、只陳述事實；中文的「要」是「必須」，把描述句譯成了規定。本場景的「Every visitor must sign the guest book.」才用「必須」，兩句處理不一致。",
+      "suggestion": "每位職員都佩戴著名牌。"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "tips",
+      "en": "",
+      "zh": "adult、colleague、scientist 這類詞前面要加冠詞或修飾語，例如 an adult、a colleague、a famous scientist，不能單獨出現。",
+      "problem": "「不能單獨出現」說法不正確：adult、colleague、scientist 都是可數名詞，可以單獨使用（Adults need exercise.），只是前面必須有冠詞或限定詞。照原說法會讓學生誤以為這幾個詞不能當主語或單獨成詞。",
+      "suggestion": "adult、colleague、scientist 都是可數名詞，前面要有冠詞或其他限定詞，如 an adult、a colleague、a famous scientist；若要單獨使用就得用複數，如 Scientists work hard。"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "tips",
+      "en": "",
+      "zh": "媽媽有很多說法：媽媽、母親、媽咪、婆婆，各種場合用不同的詞，練習時記得分清楚。",
+      "problem": "「婆婆」在台灣指的是丈夫的母親（部分地區也指奶奶），並不是「媽媽」的說法，列在這裡會讓學生記錯親屬稱呼。",
+      "suggestion": "媽媽有很多種叫法：媽媽、母親、媽咪、阿母，不同場合用不同的詞，練習時記得分清楚。"
+    },
+    {
+      "scene": "noun-people-roles",
+      "kind": "polysemy",
+      "en": "guide",
+      "zh": "導覽；嚮導",
+      "problem": "這個場景是名詞詞彙，guide 指「人」時應譯成名詞；「導覽」是動詞（導覽行程），詞性不符，會讓學生把 guide 記成一個動作。",
+      "suggestion": "嚮導；導遊"
+    },
+    {
+      "scene": "noun-tech-media",
+      "kind": "meaning",
+      "en": "search for information",
+      "zh": "搜尋資料",
+      "problem": "本專案在 noun-abstract 把 information 定為「資訊」，data 才定為「資料」；同一場景的例句 I search for information… 也譯成「搜尋…資訊」。這裡用「資料」會與 data 混淆，譯法不一致。",
+      "suggestion": "搜尋資訊"
+    },
+    {
+      "scene": "noun-tech-media",
+      "kind": "tips",
+      "en": "",
+      "zh": "photo 和 photography 只差一個尾音，兩者都會用到，打錯其中一個就整組不會，建議一起背。",
+      "problem": "說法錯誤：photo 是兩音節 /ˈfəʊ.təʊ/，photography 是四音節 /fəˈtɒɡ.rə.fi/，重音位置也不同，兩者並非只差一個尾音。照這個提示去記音會記錯。",
+      "suggestion": "photo 和 photography 開頭都是 pho-to，但 photo 只有兩音節，photography 有四音節且重音在第二音節，輸入時容易互相打錯，建議一起背。"
+    },
+    {
+      "scene": "noun-home-things",
+      "kind": "meaning",
+      "en": "There is a big mirror on the wall near the stairs.",
+      "zh": "樓梯旁的牆壁上有一面大鏡子。",
+      "problem": "near 是「在⋯附近」，中文的「旁」則是 beside／緊鄰著，空間關係比英文更靠近，意思不符。本場景另有 next to 譯作「緊鄰著」，兩個介詞被混用。",
+      "suggestion": "樓梯附近的牆壁上有一面大鏡子。"
+    }
+  ],
+  "checked": { "words": 341, "phrases": 70, "sentences": 70, "tips": 15 }
+}
