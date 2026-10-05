@@ -61,16 +61,25 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      # 把網站需要的三個資料夾與入口檔打包
+      # 先整理成單一目錄再上傳。
+      # 不要直接用多行 path：upload-pages-artifact 會把多行值原樣交給 tar，
+      # 變成一個含 \n 的單一參數，tar 會回 "Cannot open: No such file or directory"。
+      - name: 整理要部署的檔案
+        run: |
+          set -e
+          rm -rf _site
+          mkdir -p _site/data _site/tools
+          cp index.html            _site/
+          cp -r css js             _site/
+          cp data/scenes.js        _site/data/
+          cp tools/mobile-check.html _site/tools/
+          echo "將部署："
+          find _site -type f | sort
+
       - name: 打包
         uses: actions/upload-pages-artifact@v3
         with:
-          path: |
-            index.html
-            css/
-            js/
-            data/scenes.js
-            tools/mobile-check.html
+          path: _site
 
   deploy:
     name: 部署
