@@ -86,6 +86,12 @@
     return a && (a.tagName === 'INPUT' || a.tagName === 'TEXTAREA');
   }
 
+  /** 有彈窗／抽屜開著的時候不要搶按鍵 */
+  function panelOpen() {
+    return !!document.querySelector('.modal:not([hidden])') ||
+           !!($('explainPanel') && $('explainPanel').classList.contains('open'));
+  }
+
   function bindKeys() {
     document.addEventListener('keydown', function (e) {
       // Alt 組合：任何畫面都吃
@@ -103,7 +109,14 @@
 
       if (current === 'practice') {
         if (document.activeElement && document.activeElement.id === 'blindInput') {
-          if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); Practice.submitBlind(); }
+          if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); Practice.submitBlind(); return; }
+          // 盲打：整句還沒送出去之前，空白鍵要能正常輸入；
+          //       送出去而且全對之後，按空白鍵改成跳到下一句。
+          if ((e.key === ' ' || e.code === 'Space') && Practice.blindDone()) {
+            e.preventDefault();
+            Practice.next();
+            return;
+          }
           return;
         }
         if (e.key === 'Enter') {
@@ -115,6 +128,14 @@
         }
         if (e.key === 'ArrowRight' && !typing()) { e.preventDefault(); Practice.next(); return; }
         if (e.key === 'ArrowLeft' && !typing()) { e.preventDefault(); Practice.prev(); return; }
+        // 空白鍵：句子還沒打完 → 朗讀目前這個單字；整句都打完 → 跳到下一張。
+        // 逐字模式的輸入框自己已經吃掉空白鍵（e.defaultPrevented），這裡不會重複處理；
+        // 整句打完後輸入框會失焦，就由這裡接手換張。
+        if ((e.key === ' ' || e.code === 'Space') && !e.defaultPrevented && !panelOpen()) {
+          var ae = document.activeElement;
+          if (ae && ae.tagName === 'BUTTON') return;   // 焦點在按鈕上時留給按鈕
+          if (Practice.handleSpace()) e.preventDefault();
+        }
       }
     });
   }

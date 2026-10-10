@@ -14,6 +14,7 @@
     index: 0,
     errCounts: [],    // 每個輸入框的錯誤次數
     hinted: [],       // 是否已顯示浮水印
+    blindDone: false, // 盲打模式：整句是否已送出正確答案（之後按空白鍵換下一張）
     startedAt: 0,
     typedChars: 0,
     totalErr: 0,
@@ -219,8 +220,10 @@
   }
 
   function renderBlind(unit) {
+    P.blindDone = false;          // 換一張就重置：新的一題還沒送出
     $('blindInput').value = '';
-    $('blindDiff').innerHTML = '打完整句後按 <b>Enter</b> 送出，App 會逐詞標出對錯。';
+    $('blindDiff').innerHTML = '打完整句後按 <b>Enter</b> 送出，App 會逐詞標出對錯；' +
+                               '整句都打對後按 <b>Space</b> 換下一句。';
     $('blindLine').innerHTML = '輸入前不會顯示任何提示，打完送出才比對。';
     setTimeout(function () { $('blindInput').focus(); }, 40);
   }
@@ -340,7 +343,8 @@
   function onKey(e, input, token, idx) {
     if (e.key === ' ' || e.code === 'Space') {
       e.preventDefault();
-      next();   // Space 一律跳下一張，不管這一張打完沒有
+      // 空白鍵：句子還沒打完 → 朗讀目前這個單字；整句都打完 → 跳到下一張
+      handleSpace();
     }
     if (e.key === 'Backspace' || e.key === 'Delete' || e.key === 'ArrowLeft' ||
         e.key === 'ArrowRight' || e.ctrlKey || e.metaKey || e.key === 'Enter') return;
@@ -384,6 +388,51 @@
     if (!list.length) return false;
     return list.every(function (i) { return eq(i.value, i.dataset.target); });
   }
+
+  /* ───────── 空白鍵 ─────────
+     需求：句子還沒打完時按空白鍵 → 朗讀「目前這個單字」的發音；
+           整句都打完後按空白鍵 → 跳到下一句的開頭，直接開始打下一句。
+     （先前空白鍵一律跳下一張，句子打到一半按到就整張跳走，現在改成依完成狀態分流）
+
+     「目前這個單字」的判斷：
+       · 游標那一格已經有字（打了一半、或點回某個字）→ 讀那一格
+       · 游標在一個空格上 → 多半是「一個字剛打好、自動跳過來」，讀剛打好那個字
+       · 沒有焦點 → 讀第一個還沒打好的字                                  */
+  function spaceWord() {
+    var list = inputs();
+    var active = document.activeElement;
+    var focused = (active && active.classList && active.classList.contains('word-input')) ? active : null;
+    var input = focused || list.filter(function (i) { return !i.classList.contains('correct'); })[0];
+    if (!input) return '';
+    // 游標這一格已經有字（打了一半、或點回某個字）→ 讀這一格
+    if (input.value) return input.dataset.target;
+    // 游標在一個空格上 → 讀剛剛打好、自動跳過來的那一個字
+    if (focused) {
+      var prev = list.filter(function (i) {
+        return Number(i.dataset.index) === Number(input.dataset.index) - 1;
+      })[0];
+      return (prev || input).dataset.target;
+    }
+    return input.dataset.target;
+  }
+
+  /** 空白鍵統一入口。回傳 true 表示這個按鍵已被處理，呼叫端要 preventDefault()。 */
+  function handleSpace() {
+    if (Home.state.mode === 'blind') {
+      // 盲打模式的空白鍵在送出前要能正常輸入，只有整句都打對之後才換張
+      if (!P.blindDone) return false;
+      next();
+      return true;
+    }
+    if (isComplete()) { next(); return true; }
+    var word = spaceWord();
+    if (!word) return false;
+    Speech.say(word, 1, { rate: settings.rate });
+    return true;
+  }
+
+  /** 盲打模式目前是否處於「整句已送出道正確答案」的狀態 */
+  function blindDone() { return !!P.blindDone; }
 
   /* ───────── 完成 ───────── */
   function currentUnit() { return unitAt(P.index) || { en: '', zh: '', index: 0 }; }
@@ -548,6 +597,7 @@
     });
     Store.recordSession({ cards: 1, words: t.length, err: 0, chars: u.length, seconds: secs });
 
+    P.blindDone = true;           // 之後按空白鍵就是跳到下一句
     showBanner('✔ 整句完全正確！按 <strong>Space</strong> 下一張、<strong>Enter</strong> 再打一次', false);
   }
 
@@ -622,6 +672,8 @@
     next: next,
     prev: prev,
     back: back,
+    handleSpace: handleSpace,
+    blindDone: blindDone,
     speakUnit: speakUnit,
     speakWord: speakWord,
     submitBlind: submitBlind,
