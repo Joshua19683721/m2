@@ -56,6 +56,7 @@ jobs:
         run: |
           node tools/test.js
           node tools/test_apostrophe.js
+          node tools/test_space.js
 
       - name: 設定 Pages
         id: pages
