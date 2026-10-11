@@ -86,7 +86,31 @@
     'count': 'n v', 'heat': 'n v', 'land': 'n v', 'lock': 'n v', 'plug': 'n v', 'reply': 'n v',
     'report': 'n v', 'respect': 'n v', 'rise': 'n v', 'search': 'n v', 'shake': 'n v', 'smile': 'n v',
     'support': 'n v', 'switch': 'n v', 'taste': 'n v', 'touch': 'n v', 'trust': 'n v', 'value': 'n v',
-    'wave': 'n v', 'whisper': 'n v',
+    'wave': 'n v', 'whisper': 'n v', 'type': 'n v', 'page': 'n v', 'hand': 'n v', 'book': 'n v',
+    'answer': 'n v', 'change': 'n v', 'check': 'n v', 'clean': 'n v', 'clear': 'n v',
+    'cross': 'n v', 'dry': 'n v', 'empty': 'n v', 'exercise': 'n v', 'experience': 'n v',
+    'face': 'n v', 'fear': 'n v', 'finish': 'n v', 'force': 'n v', 'form': 'n v',
+    'glance': 'n v', 'guess': 'n v', 'guide': 'n v', 'hammer': 'n v', 'handle': 'n v',
+    'head': 'n v', 'help': 'n v', 'hit': 'n v', 'hold': 'n v', 'hurry': 'n v',
+    'increase': 'n v', 'interest': 'n v', 'interview': 'n v', 'judge': 'n v', 'kick': 'n v',
+    'kiss': 'n v', 'knock': 'n v', 'laugh': 'n v', 'look': 'n v', 'love': 'n v',
+    'mark': 'n v', 'match': 'n v', 'measure': 'n v', 'message': 'n v', 'mind': 'n v',
+    'miss': 'n v', 'model': 'n v', 'name': 'n v', 'need': 'n v', 'note': 'n v',
+    'offer': 'n v', 'order': 'n v', 'paint': 'n v', 'park': 'n v', 'pass': 'n v',
+    'pay': 'n v', 'phone': 'n v', 'pick': 'n v', 'plan': 'n v', 'plant': 'n v',
+    'play': 'n v', 'point': 'n v', 'post': 'n v', 'practise': 'n v', 'practice': 'n v',
+    'present': 'n v', 'promise': 'n v', 'question': 'n v', 'rain': 'n v', 'reach': 'n v',
+    'record': 'n v', 'report': 'n v', 'request': 'n v', 'rest': 'n v', 'ring': 'n v',
+    'risk': 'n v', 'rock': 'n v', 'rule': 'n v', 'run': 'n v', 'save': 'n v',
+    'saw': 'n v', 'scare': 'n v', 'search': 'n v', 'shade': 'n v', 'shape': 'n v',
+    'share': 'n v', 'shave': 'n v', 'show': 'n v', 'sign': 'n v', 'smell': 'n v',
+    'smoke': 'n v', 'sound': 'n v', 'stamp': 'n v', 'start': 'n v', 'stay': 'n v',
+    'step': 'n v', 'stop': 'n v', 'study': 'n v', 'surprise': 'n v', 'test': 'n v',
+    'thank': 'n v', 'touch': 'n v', 'train': 'n v', 'travel': 'n v', 'treat': 'n v',
+    'try': 'n v', 'turn': 'n v', 'use': 'n v', 'visit': 'n v', 'voice': 'n v',
+    'vote': 'n v', 'wait': 'n v', 'walk': 'n v', 'wash': 'n v', 'watch': 'n v',
+    'water': 'n v', 'wave': 'n v', 'whisper': 'n v', 'win': 'n v', 'wish': 'n v',
+    'worry': 'n v', 'wrap': 'n v',
     /* 形容詞或動詞 */
     'calm': 'adj v',
     /* 名詞 */
@@ -207,15 +231,26 @@
     ensurePos();
     var k = normKey(word);
     if (!k) return null;
-    if (POSDB.single[k]) return normCodes(POSDB.single[k]);
-    if (POSDB.multi[k]) return normCodes(POSDB.multi[k]);
-    if (EXTRA_POS[k]) return [EXTRA_POS[k]];
-    var ss = stems(k);
-    for (var i = 0; i < ss.length; i++) {
-      if (POSDB.single[ss[i]]) return normCodes(POSDB.single[ss[i]]);
-      if (EXTRA_POS[ss[i]]) return [EXTRA_POS[ss[i]]];
+    var posdb = [];
+    if (POSDB.single[k]) posdb = normCodes(POSDB.single[k]);
+    else if (POSDB.multi[k]) posdb = normCodes(POSDB.multi[k]);
+    else {
+      var ss = stems(k);
+      for (var i = 0; i < ss.length; i++) {
+        if (POSDB.single[ss[i]]) { posdb = normCodes(POSDB.single[ss[i]]); break; }
+        if (POSDB.multi[ss[i]]) { posdb = normCodes(POSDB.multi[ss[i]]); break; }
+      }
     }
-    return null;
+    if (EXTRA_POS[k]) {
+      var extra = [EXTRA_POS[k]];
+      if (posdb.length) {
+        var merged = posdb.slice();
+        extra.forEach(function (e) { if (merged.indexOf(e) < 0) merged.push(e); });
+        return merged;
+      }
+      return extra;
+    }
+    return posdb.length ? posdb : null;
   }
 
   /* 靜態優先序（沒有上下文時用） */
@@ -255,12 +290,12 @@
   function primaryPos(codes, ctx) {
     if (!codes || !codes.length) return null;
     ctx = ctx || {};
-    // 「please,」這類：後面接標點或句尾 → 感嘆詞
-    if (ctx.atClauseEnd && codes.indexOf('exclam') >= 0) return 'exclam';
-    // 句首或放在 can/please 後面，後面直接接動詞 → 感嘆詞（Please send…）
-    if (ctx.beforeVerb && codes.indexOf('exclam') >= 0 && EXCLAM_WORDS[normKey(ctx.token)]) {
+    // 句首的 Please / Sorry / Excuse / Hello / Hey → 直接感嘆詞
+    if (ctx.atSentenceStart && codes.indexOf('exclam') >= 0 && EXCLAM_WORDS[normKey(ctx.token)]) {
       return 'exclam';
     }
+    // 「please,」這類：後面接標點或句尾 → 感嘆詞
+    if (ctx.atClauseEnd && codes.indexOf('exclam') >= 0) return 'exclam';
     // that + 名詞 + 動詞 → 連接詞（that 子句）
     if (ctx.beforeClause && codes.indexOf('conj') >= 0) return 'conj';
     // 名詞／動詞兩用的字：看它站在哪個位置決定
@@ -626,6 +661,22 @@
         row.role = 'conj';
         row.codes = codes ? codes.concat(['conj']) : ['conj'];
       }
+      /* Please / Sorry / Excuse 句首或在 can 後面 → 感嘆詞
+         直接看下一個 token 的 codes 有無動詞，避免 roughRole 受 PRIORITY 干擾 */
+      var nextCodes = idx + 1 < tokens.length ? posOf(tokens[idx + 1]) : null;
+      var nextIsVerb = nextCodes && (nextCodes.indexOf('v') >= 0 || nextCodes.indexOf('n v') >= 0 ||
+        nextCodes.indexOf('phr v') >= 0 || nextCodes.indexOf('mv') >= 0 || nextCodes.indexOf('av') >= 0);
+      if (EXCLAM_WORDS[normKey(tok)] && (idx === 0 || (prevRole === 'modal' || prevRole === 'exclam')) &&
+        nextIsVerb) {
+        row.role = 'exclam';
+        row.codes = codes ? codes.concat(['exclam']) : ['exclam'];
+      }
+      /* 兜底：句首就是感嘆詞（Please / Sorry / Excuse / Hello / Hey），
+         不管後面是什麼，先強制標成 exclam，免得 firstVerb 誤判 */
+      if (idx === 0 && EXCLAM_WORDS[normKey(tok)]) {
+        row.role = 'exclam';
+        row.codes = codes ? codes.concat(['exclam']) : ['exclam'];
+      }
       return row;
     });
 
@@ -694,12 +745,16 @@
       var next = rows[idx + 1], after = rows[idx + 2];
       var prevRow = idx > 0 ? rows[idx - 1] : null;
       var nextRole = next && !next.punct ? next.role : null;
+      var nextCodes = next && !next.punct ? next.codes : null;
+      var nextCanBeVerb = nextCodes && (nextCodes.indexOf('v') >= 0 || nextCodes.indexOf('n v') >= 0 ||
+        nextCodes.indexOf('phr v') >= 0 || nextCodes.indexOf('mv') >= 0 || nextCodes.indexOf('av') >= 0);
       var ctx = {
         token: r.token,
         inSubject: !!subjSet[idx],
         afterDeterminer: !!r.afterDet,
         atClauseEnd: !next || next.punct,
-        beforeVerb: nextRole === 'verb' || nextRole === 'modal',
+        beforeVerb: nextCanBeVerb,
+        atSentenceStart: idx === 0,
         afterPreposition: !!(prevRow && !prevRow.punct && prevRow.role === 'prep'),
         afterTo: !!(prevRow && !prevRow.punct && prevRow.role === 'prep' &&
           normKey(prevRow.token) === 'to'),
