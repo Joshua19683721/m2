@@ -424,6 +424,37 @@ Store.clearAll();
 Store.invalidate();
 eq('清空進度後錯題本也清空', Home.weakUnits().length, 0);
 
+// ───────── 12. 語速：頂列下拉與設定頁滑桿同步 ─────────
+group('12. 語速控制');
+
+eq('預設語速', Store.settings().rate, 0.9);
+eq('語速可存進設定', Store.saveSettings({ rate: 0.7 }).rate, 0.7);
+eq('語速會真的被讀到', Store.settings().rate, 0.7);
+eq('語速可改回預設值', Store.saveSettings({ rate: 0.9 }).rate, 0.9);
+eq('其他設定不會被語速覆蓋掉',
+  (() => { const s = Store.settings(); return ['autoSpeak', 'speakPenalty', 'strictCase', 'fontSize', 'showHints'].every(k => k in s); })(), true);
+
+// 接線檢查：下拉、滑桿、標籤三個元件都要接上同一條路
+const indexHtml = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8')
+  .replace(/^\uFEFF/, '');
+const uiSrc = fs.readFileSync(path.join(ROOT, 'js/ui.js'), 'utf8')
+  .replace(/^\uFEFF/, '');
+
+ok('頂列有語速下拉 #rateSelect', /id="rateSelect"/.test(indexHtml));
+ok('下拉的選項範圍與滑桿一致（0.5–1.3）',
+  /value="0\.5"/.test(indexHtml) && /value="1\.3"/.test(indexHtml));
+ok('設定頁同時保留朗讀速度滑桿', /id="setRate"/.test(indexHtml) && /id="setRateVal"/.test(indexHtml));
+ok('ui.js 有 syncRateSelect 把下拉同步到設定值', /function syncRateSelect/.test(uiSrc));
+ok('renderSettings 會呼叫 syncRateSelect', /syncRateSelect\(s\.rate\)/.test(uiSrc) ||
+  /renderSettings[\s\S]{0,600}syncRateSelect\(/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '')));
+ok('頂列下拉的 change 走 setRate', /rateSelect'\)[\s\S]{0,200}setRate\(/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '')));
+ok('設定頁滑桿的 input 也走 setRate', /setRate'\)[\s\S]{0,160}addEventListener\('input'[\s\S]{0,120}setRate\(/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\/\/.*$/gm, '')));
+ok('setRate 會呼叫 Practice.refreshSettings（下一句就用新速度）',
+  /setRate[\s\S]{0,600}Practice\.refreshSettings\(\)/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '')));
+ok('setRate 會更新滑桿位置與數字標籤',
+  /setRate[\s\S]{0,400}setRateVal/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '')));
+ok('語速上限不會超過 speech.js 的合理範圍', /RATE_MAX/.test(uiSrc));
+
 // ───────── 結果 ─────────
 process.stdout.write('\n' + '─'.repeat(58) + '\n');
 process.stdout.write(`通過 ${pass}　失敗 ${fail}\n`);

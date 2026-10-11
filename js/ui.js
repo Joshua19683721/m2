@@ -179,6 +179,49 @@
       '<p class="stat-note">按鍵正確率 =（打對的字元 ÷ 全部按鍵）× 100%。只計算你實際完成的單元；中途放棄的不列入。</p>';
   }
 
+  /* ───────── 語速：頂列下拉與設定頁滑桿共用同一個值 ─────────
+     頂列的下拉讓練習到一半也能直接改速度，不用先開設定彈窗；
+     兩個控制項都走 setRate()，所以永遠是同步的。                  */
+  var RATE_MIN = 0.5, RATE_MAX = 1.3;
+
+  /** 設定頁的滑桿是 0.05 步進，可能指到 0.85 這種不在下拉清單裡的值。
+      這時候補一個臨時選項，不然兩邊會不同步（下拉空白、滑桿 0.85）。 */
+  function syncRateSelect(v) {
+    var sel = $('rateSelect');
+    if (!sel) return;
+    var i;
+    for (i = 0; i < sel.options.length; i++) {
+      if (parseFloat(sel.options[i].value) === v) { sel.value = sel.options[i].value; return; }
+    }
+    var extra = Array.prototype.filter.call(sel.options, function (o) {
+      return o.dataset && o.dataset.dynamic === '1';
+    })[0];
+    if (!extra) {
+      extra = document.createElement('option');
+      extra.dataset.dynamic = '1';
+      sel.appendChild(extra);
+    }
+    extra.value = String(v);
+    extra.textContent = v + '×';
+    sel.value = String(v);
+  }
+
+  function setRate(v, opts) {
+    if (typeof v !== 'number' || isNaN(v)) return;
+    // 夾在 speech.js 的合理範圍內，避免存進設定的是怪值
+    v = Math.max(RATE_MIN, Math.min(RATE_MAX, Math.round(v * 100) / 100));
+    Store.saveSettings({ rate: v });
+    var range = $('setRate');
+    if (range) range.value = String(v);
+    var label = $('setRateVal');
+    if (label) label.textContent = v;
+    syncRateSelect(v);
+    Practice.refreshSettings();               // 練習引擎下一句就用新速度
+    if (opts && opts.preview) {
+      Speech.say('The quick brown fox jumps over the lazy dog.', 1, { rate: v });
+    }
+  }
+
   /* ───────── 設定 ───────── */
   function renderSettings() {
     var s = Store.settings();
@@ -190,6 +233,7 @@
     $('setFontSize').value = s.fontSize;
     $('setFontSizeVal').textContent = s.fontSize;
     $('hintToggle').checked = s.showHints;
+    syncRateSelect(s.rate);        // 頂列下拉跟著設定值走
   }
 
   function bindSettings() {
@@ -207,7 +251,13 @@
     bind('setAutoSpeak', 'autoSpeak');
     bind('setSpeakPenalty', 'speakPenalty');
     bind('setStrictCase', 'strictCase', function () { Practice.restart(); });
-    bind('setRate', 'rate', function (v) { $('setRateVal').textContent = v; });
+    // 語速：設定頁滑桿與頂列下拉都要走 setRate()，兩邊才會同步
+    var rateRange = $('setRate');
+    if (rateRange) rateRange.addEventListener('input', function () { setRate(parseFloat(rateRange.value)); });
+    var rateSelect = $('rateSelect');
+    if (rateSelect) rateSelect.addEventListener('change', function () {
+      setRate(parseFloat(rateSelect.value), { preview: true });
+    });
     bind('setFontSize', 'fontSize', function (v) {
       $('setFontSizeVal').textContent = v;
       var wc = $('wordsContainer');
