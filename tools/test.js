@@ -28,6 +28,8 @@ const ctx = { console };
 ctx.window = ctx;
 ctx.setTimeout = setTimeout;
 ctx.clearTimeout = clearTimeout;
+ctx.setInterval = setInterval;
+ctx.clearInterval = clearInterval;
 
 // 計算 localStorage 的讀寫次數，用來驗證「記憶體快取 + 延遲寫回」
 const lsLog = { reads: 0, writes: 0 };
@@ -38,7 +40,14 @@ ctx.localStorage = {
   removeItem: k => { lsLog.writes++; lsMem.delete(k); },
   reset: () => { lsLog.reads = 0; lsLog.writes = 0; lsMem.clear(); }
 };
-ctx.document = { getElementById: () => null, addEventListener: () => {}, querySelectorAll: () => [], readyState: 'complete', hidden: false };
+ctx.document = {
+  getElementById: () => null,
+  addEventListener: () => {},
+  querySelectorAll: () => [],
+  createElement: () => ({ style: {}, classList: { add() {} }, setAttribute: () => {}, appendChild: () => {}, addEventListener: () => {} }),
+  readyState: 'complete',
+  hidden: false
+};
 ctx.navigator = { userAgent: 'node' };
 vm.createContext(ctx);
 
@@ -251,6 +260,95 @@ eq('The film → film 是名詞', rowOf('The film was good.', 'film').pos, '名�
 eq('句尾 please → 感嘆詞', rowOf('Come here, please.', 'please').pos, '感嘆詞 (Exclamation)');
 eq('每個 token 都有一列', Analysis.structure('I like tea.').length, 4);
 ok('標點也會列出', Analysis.structure('I like tea.').some(r => r.role === '標點'));
+
+// ───────── 6c. 在句中的功能（要看前後文，不是印一句通用的詞性說明）─────────
+group('6c. 句中功能');
+
+eq('Please send… → please 是感嘆詞', rowOf('Please send me the file.', 'Please').pos, '感嘆詞 (Exclamation)');
+eq('Please be quiet → quiet 是主詞補語', rowOf('Please be quiet.', 'quiet').role, '主詞補語');
+eq('studies 是動詞不是名詞複數', rowOf('He studies science at university.', 'studies').pos, '動詞 (Verb)');
+eq('by email → email 是名詞不是動名詞', rowOf('Please send me the file by email.', 'email').pos, '名詞 (Noun)');
+eq('by email → email 標成介系詞受詞', rowOf('Please send me the file by email.', 'email').role, '介系詞受詞');
+eq('so long → long 是 be 動詞後的表語', rowOf('The film was so long that I fell asleep.', 'long').role, '主詞補語');
+eq('that I fell asleep → I 是子句主詞', rowOf('The film was so long that I fell asleep.', 'I').role, '子句主詞');
+eq('turned red → red 是動詞補語', rowOf('She turned red when she heard the news.', 'red').role, '動詞補語');
+eq('when she heard → when 是連接詞', rowOf('She turned red when she heard the news.', 'when').role, '連接詞');
+eq('when she heard → she 是子句主詞', rowOf('She turned red when she heard the news.', 'she').role, '子句主詞');
+eq('brought us the main course → us 是間接受詞', rowOf('The waiter brought us the main course.', 'us').role, '間接受詞');
+eq('brought us the main course → course 是受詞', rowOf('The waiter brought us the main course.', 'course').role, '受詞');
+eq('brought us the main course → main 修飾 course', rowOf('The waiter brought us the main course.', 'main').role, '名詞修飾語');
+eq('studies science and history → history 也是受詞', rowOf('He studies science and history.', 'history').role, '受詞');
+eq('want some bread → bread 是受詞', rowOf('My sister wants some bread.', 'bread').role, '受詞');
+eq('Let me know → me 是受詞', rowOf('Let me know.', 'me').role, '受詞');
+eq('Let me know → know 是不定詞', rowOf('Let me know.', 'know').role, '不定詞');
+eq("Let's make → make 是不定詞", rowOf("Let's make a sandwich.", 'make').role, '不定詞');
+eq('to calm down → calm 是不定詞', rowOf('I need to calm down.', 'calm').role, '不定詞');
+eq('Frank 是專有名詞', rowOf('Let me know if you ever see Frank.', 'Frank').pos, '專有名詞 (Proper Noun)');
+eq('if you ever see → you 是子句主詞', rowOf('Let me know if you ever see Frank.', 'you').role, '子句主詞');
+ok('每一列都有功能說明', Analysis.structure('Let me know if you ever see Frank.')
+  .every(r => r.func && r.func.length > 4));
+
+// 例句裡不該再出現「虛詞／功能詞」這種等於沒回答的標示
+(function () {
+  const bad = [];
+  for (const sc of ctx.SCENES) {
+    for (const s of (sc.sentences || [])) {
+      for (const r of Analysis.structure(s.en)) {
+        if (/[A-Za-z]/.test(r.token) && /虛詞／功能詞/.test(r.pos || '')) {
+          bad.push(sc.id + ': ' + s.en + ' → ' + r.token);
+        }
+      }
+    }
+  }
+  ok('例句每個字都查得到詞性（0 個「虛詞／功能詞」）', bad.length === 0,
+    bad.length ? bad.slice(0, 5).join(' / ') : '0');
+})();
+
+// ───────── 6d. 朗讀語音 speech.js（固定用 Microsoft Mark en-US）─────────
+group('6d. 朗讀語音');
+
+const VOICES = [
+  { name: 'Google US English', lang: 'en-US', localService: false },
+  { name: 'Microsoft Zira Desktop - Natural', lang: 'en-US', localService: true },
+  { name: 'Microsoft Mark Desktop - Natural', lang: 'en-US', localService: true },
+  { name: 'Daniel', lang: 'en-GB', localService: true }
+];
+const spoken = [];
+ctx.speechSynthesis = {
+  getVoices: () => VOICES,
+  cancel: () => {},
+  speak: (u) => spoken.push(u),
+  onvoiceschanged: null
+};
+ctx.SpeechSynthesisUtterance = function (t) { this.text = t; };
+load('js/speech.js');
+const { Speech } = ctx;
+
+function reloadVoices(list) {
+  ctx.speechSynthesis.getVoices = () => list;
+  spoken.length = 0;
+}
+
+eq('英文語音清單第一位是 Microsoft Mark',
+  Speech.voices()[0].name, 'Microsoft Mark Desktop - Natural');
+eq('preferred 直接指定 Mark', Speech.preferred(Speech.voices()).name, 'Microsoft Mark Desktop - Natural');
+
+Speech.say('Let me know.', 1, { rate: 0.8 });
+eq('朗讀用的是 Mark', spoken[0].voice.name, 'Microsoft Mark Desktop - Natural');
+eq('朗讀語言是 en-US', spoken[0].lang, 'en-US');
+eq('朗讀速度沿用設定', spoken[0].rate, 0.8);
+
+// 沒裝 Mark 的電腦要能退回其他英文語音，而不是沒有聲音
+reloadVoices([VOICES[0], VOICES[3]]);
+eq('沒有 Mark 就用排序後第一個', Speech.preferred(Speech.voices()).name, 'Google US English');
+
+reloadVoices(VOICES);
+function fakeSelect() {
+  return { options: [], value: '', selectedIndex: -1, innerHTML: '', appendChild(o) { this.options.push(o); }, addEventListener() {} };
+}
+const sel = fakeSelect();
+Speech.init(sel);
+eq('頂列語音選單第一項是 Mark', sel.options[0].value, 'Microsoft Mark Desktop - Natural|en-US');
 
 // ───────── 7. 進度儲存 ─────────
 group('7. 進度儲存 store.js');
