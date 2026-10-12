@@ -298,17 +298,25 @@
     if (ctx.atClauseEnd && codes.indexOf('exclam') >= 0) return 'exclam';
     // that + 名詞 + 動詞 → 連接詞（that 子句）
     if (ctx.beforeClause && codes.indexOf('conj') >= 0) return 'conj';
+    // to 後面接動詞原形
+    if (ctx.afterTo) {
+      var inf2 = pick(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
+      if (inf2 === 'adj v' || inf2 === 'n v') return 'v';
+      if (inf2) return inf2;
+    }
+    // 情態動詞後面接動詞原形（絕不接 be 動詞）
+    if (ctx.afterModal) {
+      var inf2 = pick(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
+      if (inf2 === 'adj v' || inf2 === 'n v') return 'v';
+      if (inf2) return inf2;
+    }
     // 名詞／動詞兩用的字：看它站在哪個位置決定
     if (codes.indexOf('n v') >= 0 || codes.indexOf('adj v') >= 0) {
       var isNv = codes.indexOf('n v') >= 0;
       if (ctx.afterDeterminer || ctx.inSubject) return isNv ? 'n' : 'adj';
       if (ctx.afterBe) return 'adj';
+      if (ctx.afterPreposition) return isNv ? 'n' : 'adj';
       return 'v';
-    }
-    // to 後面接動詞原形
-    if (ctx.afterTo) {
-      var inf2 = pick(codes, ['phr v', 'v', 'n v', 'adj v', 'mv', 'av']);
-      if (inf2) return inf2;
     }
     // 介系詞後面接名詞片語（真的能當名詞才切，after / before 仍當介系詞）
     if (ctx.afterPreposition) {
@@ -420,10 +428,11 @@
 
   /* ═══════════ 句子結構與詞性對照表 ═══════════ */
 
-  /** 「動名詞」用的介系詞：後面接 V-ing。to 不算，它是接原形的不定詞 */
+  /** 「動名詞」用的介系詞：後面接 V-ing。to 不算，它是接原形的不定詞
+      of / during / between 後面接名詞，不放進來 */
   var GERUND_PREPS = {
-    of: 1, for: 1, about: 1, without: 1, after: 1, before: 1, in: 1,
-    on: 1, at: 1, by: 1, from: 1, like: 1, with: 1, during: 1, between: 1
+    for: 1, about: 1, without: 1, after: 1, before: 1, in: 1,
+    on: 1, at: 1, by: 1, from: 1, with: 1
   };
 
   /** 從 idx 往後看，同一個名詞片語裡還有沒有別的名詞性成分（用來分辨「間接受詞」） */
@@ -480,6 +489,19 @@
 
   /* let me know / help me see：受詞後面接原形，是「讓某人做某事」的不定詞 */
   var LET_LIKE = { let: 1, help: 1, make: 1, lets: 1, "let's": 1 };
+
+  /** 往前跳過主詞片語（名詞、代名詞、限定詞、形容詞、副詞、連接詞），
+      看是不是接在情態動詞後面（Can I have… → have 是情態動詞後面的原形） */
+  function modalBehind(rows, idx) {
+    var j = idx - 1;
+    while (j >= 0 && !rows[j].punct) {
+      var role = rows[j].role;
+      if (role === 'noun' || role === 'pron' || role === 'det' || role === 'adj' ||
+        role === 'adv' || role === 'conj') { j--; continue; }
+      break;
+    }
+    return j >= 0 && !rows[j].punct && rows[j].role === 'modal';
+  }
 
   /** 往前跳過形容詞／副詞／連接詞，看是不是接在 be 動詞後面
       （are pale blue and white → blue、white 也是 be 後面的表語） */
@@ -748,6 +770,7 @@
       var nextCodes = next && !next.punct ? next.codes : null;
       var nextCanBeVerb = nextCodes && (nextCodes.indexOf('v') >= 0 || nextCodes.indexOf('n v') >= 0 ||
         nextCodes.indexOf('phr v') >= 0 || nextCodes.indexOf('mv') >= 0 || nextCodes.indexOf('av') >= 0);
+      var prevCanBeModal = prevRow && !prevRow.punct && prevRow.role === 'modal';
       var ctx = {
         token: r.token,
         inSubject: !!subjSet[idx],
@@ -760,6 +783,7 @@
           normKey(prevRow.token) === 'to'),
         afterBe: !!(prevRow && !prevRow.punct && prevRow.role === 'verb' &&
           BE_FORMS[normKey(prevRow.token)]),
+        afterModal: prevCanBeModal || modalBehind(rows, idx),
         beforeClause: !!(next && after && !next.punct && !after.punct &&
           NOMINAL[info(pick(next.codes || [], PRIORITY)).role] &&
           ['verb', 'modal'].indexOf(info(pick(after.codes || [], PRIORITY)).role) >= 0)
