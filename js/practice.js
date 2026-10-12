@@ -434,6 +434,100 @@
   /** 盲打模式目前是否處於「整句已送出道正確答案」的狀態 */
   function blindDone() { return !!P.blindDone; }
 
+  /* ───────── 錯字本：把打錯的東西餵給 SRS ─────────
+     記兩種粒度：
+       unit → 整張卡（單字／片語／整句）
+       word → 這張卡裡被打錯的那一個字
+     word 級最有用：複習一個字只要兩秒，但正好打在你最需要它的地方。 */
+
+  /* 功能字（the / of / is / you…）不單獨開一張卡。
+     它們的錯幾乎都跟著句型走，把整句練一遍就會練到；
+     單獨抽一張出來，幾次就畢業，只會把錯字本灌滿雜訊。
+     它們仍然會被 unit 級的那一筆帶到。 */
+  var SRS_SKIP_WORDS = {
+    'a': 1, 'an': 1, 'the': 1, 'this': 1, 'that': 1, 'these': 1, 'those': 1,
+    'i': 1, 'you': 1, 'he': 1, 'she': 1, 'it': 1, 'we': 1, 'they': 1,
+    'me': 1, 'him': 1, 'her': 1, 'us': 1, 'them': 1,
+    'my': 1, 'your': 1, 'his': 1, 'its': 1, 'our': 1, 'their': 1,
+    'is': 1, 'am': 1, 'are': 1, 'was': 1, 'were': 1, 'be': 1, 'been': 1, 'being': 1,
+    'do': 1, 'does': 1, 'did': 1, 'have': 1, 'has': 1, 'had': 1,
+    'will': 1, 'would': 1, 'can': 1, 'could': 1, 'should': 1,
+    'may': 1, 'might': 1, 'must': 1,
+    'and': 1, 'or': 1, 'but': 1, 'so': 1, 'because': 1, 'if': 1, 'then': 1, 'than': 1,
+    'of': 1, 'in': 1, 'on': 1, 'at': 1, 'to': 1, 'for': 1, 'from': 1,
+    'with': 1, 'by': 1, 'about': 1,
+    'not': 1, 'no': 1, 'yes': 1, 'very': 1, 'too': 1,
+    'there': 1, 'here': 1, 'up': 1, 'down': 1, 'out': 1,
+    'what': 1, 'who': 1, 'where': 1, 'when': 1, 'why': 1, 'how': 1, 'which': 1
+  };
+
+  function worthOwnCard(word) {
+    return !!word && !SRS_SKIP_WORDS[String(word).toLowerCase().replace(/[^a-z']/g, '')];
+  }
+
+  function srsBase(unit, mode) {
+    var scene = Home.state.scene;
+    if (!scene) return null;
+    return {
+      sceneId: scene.id,
+      sceneName: scene.name,
+      sceneIcon: scene.icon,
+      mode: mode,
+      index: unit.index,
+      zh: unit.zh || '',
+      ipa: Ipa.ensureIpa(unit),
+      context: unit.en || ''
+    };
+  }
+
+  function srsRecord(kind, en, base) {
+    if (!global.SRS || !SRS.record || !base || !en) return;
+    var o = { kind: kind, en: en };
+    for (var k in base) if (Object.prototype.hasOwnProperty.call(base, k)) o[k] = base[k];
+    SRS.record(o);
+  }
+
+  /** 逐字模式：整張卡 + 每個打錯的字 */
+  function captureSrs(unit, mode) {
+    var base = srsBase(unit, mode);
+    if (!base) return;
+    srsRecord('unit', unit.en, base);
+    var seen = {};
+    inputs().forEach(function (input, i) {
+      if (!(P.errCounts[i] > 0)) return;
+      var w = input.dataset ? input.dataset.target : '';
+      if (!w || seen[w] || !worthOwnCard(w)) return;
+      seen[w] = true;
+      srsRecord('word', w, base);
+    });
+    if (global.SRSUI) SRSUI.refreshBadge();
+  }
+
+  /** 重新練原卡而且完全正確 → 錯字本裡也算一次答對 */
+  function srsPass(unit, mode) {
+    if (!global.SRS || !SRS.byId || !SRS.grade) return;
+    var scene = Home.state.scene;
+    if (!scene) return;
+    var id = SRS.idFor('unit', scene.id, mode, unit.index, unit.en);
+    if (!SRS.byId(id)) return;
+    SRS.grade(id, true);
+    if (global.SRSUI) SRSUI.refreshBadge();
+  }
+
+  /** 盲打模式：整句 + 打錯／漏掉的每一個詞 */
+  function captureSrsBlind(unit, words) {
+    var base = srsBase(unit, 'blind');
+    if (!base) return;
+    srsRecord('unit', unit.en, base);
+    var seen = {};
+    words.forEach(function (w) {
+      if (!w || seen[w] || !worthOwnCard(w)) return;
+      seen[w] = true;
+      srsRecord('word', w, base);
+    });
+    if (global.SRSUI) SRSUI.refreshBadge();
+  }
+
   /* ───────── 完成 ───────── */
   function currentUnit() { return unitAt(P.index) || { en: '', zh: '', index: 0 }; }
 
@@ -460,6 +554,10 @@
       chars: P.typedChars,
       seconds: secs
     });
+
+    // 有錯就進錯字本，讓 SRS 排日後的複習
+    if (P.totalErr > 0) captureSrs(unit, Home.state.mode);
+    else srsPass(unit, Home.state.mode);
 
     stopTimer();
     showBanner(
@@ -586,6 +684,12 @@
         errTotal: (bprev.errTotal || 0) + berr,
         attempts: (bprev.attempts || 0) + 1
       });
+      // wrong / missing 的第一段都是「正確的那個詞」
+      var bad = [];
+      wrong.concat(missing).forEach(function (x) {
+        bad.push(String(x).split(' → ')[0].trim());
+      });
+      captureSrsBlind(unit, bad);
       return;
     }
 
@@ -596,6 +700,7 @@
       lastAt: Date.now()
     });
     Store.recordSession({ cards: 1, words: t.length, err: 0, chars: u.length, seconds: secs });
+    srsPass(unit, 'blind');
 
     P.blindDone = true;           // 之後按空白鍵就是跳到下一句
     showBanner('✔ 整句完全正確！按 <strong>Space</strong> 下一張、<strong>Enter</strong> 再打一次', false);

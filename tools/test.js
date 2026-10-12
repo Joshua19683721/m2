@@ -553,6 +553,225 @@ ok('setRate 會更新滑桿位置與數字標籤',
   /setRate[\s\S]{0,400}setRateVal/.test(uiSrc.replace(/\/\*[\s\S]*?\*\//g, '')));
 ok('語速上限不會超過 speech.js 的合理範圍', /RATE_MAX/.test(uiSrc));
 
+// ───────── 13. 錯字本 SRS 間隔重複 ─────────
+group('13. 錯字本 SRS 間隔重複');
+
+load('js/srs-notebook.js');
+const SRS = ctx.SRS;
+SRS.clear();
+
+const ONE = {
+  kind: 'unit', sceneId: 'food-drink', mode: 'words', index: 3,
+  en: 'breakfast', zh: '早餐', sceneName: '飲食', sceneIcon: '🍽'
+};
+
+// ① 新增就立刻可複習
+eq('錯字本一開始是空的', SRS.all().length, 0);
+const srsA = SRS.record(ONE);
+ok('record 會回傳項目', !!(srsA && srsA.id));
+eq('新錯字放進去只有一筆', SRS.all().length, 1);
+eq('新錯字階段是 0', SRS.byId(srsA.id).stage, 0);
+eq('新錯字立刻可複習', SRS.due().length, 1);
+
+// ② 重複記錄同一個錯字不會多出一筆
+SRS.record(ONE);
+SRS.record(ONE);
+eq('同一個錯字重複記錄仍然只有一筆', SRS.all().length, 1);
+eq('重複記錄會累加出錯次數', SRS.byId(srsA.id).lapses, 3);
+
+// ③ 一次答對不算過關，連對 NEED 次才升階
+const srsAfter1 = SRS.grade(srsA.id, true);
+eq('答對 1 次還在第 0 階', srsAfter1.stage, 0);
+eq('答對 1 次連對數 = 1', srsAfter1.streak, 1);
+ok('沒升階就不會回報 promoted', !srsAfter1.promoted);
+SRS.grade(srsA.id, true);
+const srsAfter3 = SRS.grade(srsA.id, true);
+eq('連對 ' + SRS.NEED + ' 次升到第 1 階', srsAfter3.stage, 1);
+ok('升階會回報 promoted', srsAfter3.promoted);
+eq('升階後連對數歸零', srsAfter3.streak, 0);
+
+// ④ 升階後到「未來」才會再出現
+eq('升階後就不再是到期項目', SRS.due().length, 0);
+ok('升階後的下次時間在未來', SRS.byId(srsA.id).due > Date.now());
+ok('第 1 階的間隔比第 0 階長',
+  SRS.byId(srsA.id).due - Date.now() > SRS.STEPS[0].gap);
+
+// ⑤ 間隔逐階遞增
+ok('階梯間隔嚴格遞增',
+  SRS.STEPS.every((s, i) => i === 0 || s.gap > SRS.STEPS[i - 1].gap));
+
+// ⑥ 答錯立刻打回原點
+const beforeLapse = SRS.byId(srsA.id).lapses;
+const srsW = SRS.grade(srsA.id, false);
+eq('答錯階段歸零', srsW.stage, 0);
+eq('答錯連對數歸零', srsW.streak, 0);
+ok('答錯會累加出錯次數', SRS.byId(srsA.id).lapses === beforeLapse + 1);
+eq('答錯後立刻可複習', SRS.due().length, 1);
+
+// ⑦ 一路答對到畢業，畢業後不再排入到期
+let guard = 0;
+while (SRS.byId(srsA.id).stage < SRS.TOP && guard++ < 100) {
+  for (let k = 0; k < SRS.NEED; k++) SRS.grade(srsA.id, true);
+}
+eq('一路答對會走到畢業階段', SRS.byId(srsA.id).stage, SRS.TOP);
+eq('畢業後不再列為到期', SRS.due().length, 0);
+eq('畢業標籤正確', SRS.stageLabel(SRS.byId(srsA.id).stage), '已畢業');
+eq('畢業進度是 100%', SRS.progress(SRS.byId(srsA.id)), 100);
+eq('畢業文字是「已畢業」', SRS.dueText(SRS.byId(srsA.id)), '已畢業');
+
+// ⑧ 單元粒度與單字粒度是不同項目
+const srsB = SRS.record(Object.assign({}, ONE, { kind: 'word', en: 'receipt' }));
+SRS.record(Object.assign({}, ONE, { kind: 'word', en: 'receipt' }));   // 同字不重複
+SRS.record(Object.assign({}, ONE, { kind: 'word', en: 'kettle' }));    // 另一個字
+eq('同一個字在同一張卡裡只有一筆（3 筆 = 1 單元 + 2 單字）', SRS.all().length, 3);
+ok('單元與單字的 id 不同',
+  SRS.idFor('unit', 'food-drink', 'words', 3, 'breakfast') !==
+  SRS.idFor('word', 'food-drink', 'words', 3, 'breakfast'));
+
+// ⑨ 統計
+const srsSt = SRS.stats();
+eq('統計總數等於項目數', srsSt.total, SRS.all().length);
+eq('byStage 長度 = 階段數 + 畢業', srsSt.byStage.length, SRS.TOP + 1);
+ok('累計複習次數 > 0', srsSt.reviews > 0);
+ok('到期 + 等待中 + 已畢業 = 總數',
+  srsSt.due + srsSt.waiting + srsSt.graduated === srsSt.total);
+
+// ⑩ 一定要能存進 JSON（不能出現 Infinity，否則 JSON.stringify 會變 null）
+SRS.flush();
+const dumped = lsMem.get('sceneTyping.srs.v2');
+ok('錯字本可以寫進 localStorage', !!dumped);
+ok('寫出去的內容沒有被 JSON 弄壞',
+  typeof dumped === 'string' && dumped.indexOf('"due":null') < 0);
+ok('可以整份讀回來', Array.isArray(JSON.parse(dumped)) && JSON.parse(dumped).length === 3);
+
+// ⑪ 刪除與清空
+ok('可以刪除單筆', SRS.remove(srsB.id));
+eq('刪除後少一筆', SRS.all().length, 2);
+SRS.clear();
+eq('clear 會清空整本', SRS.all().length, 0);
+eq('清空後沒有到期項目', SRS.due().length, 0);
+
+// ⑫ 壞掉的資料不應該讓整個功能死掉
+{
+  const c2 = { console };
+  c2.window = c2;
+  c2.setTimeout = setTimeout;
+  c2.clearTimeout = clearTimeout;
+  const m2 = new Map([['sceneTyping.srs.v2', '{壞掉的 JSON']]);
+  c2.localStorage = {
+    getItem: k => (m2.has(k) ? m2.get(k) : null),
+    setItem: (k, v) => m2.set(k, String(v)),
+    removeItem: k => m2.delete(k)
+  };
+  vm.createContext(c2);
+  vm.runInContext(fs.readFileSync(path.join(ROOT, 'js/srs-notebook.js'), 'utf8'), c2,
+    { filename: 'srs-notebook.js' });
+  eq('壞掉的 JSON 會退成空清單而不是報錯', c2.SRS.all().length, 0);
+  c2.SRS.record(ONE);
+  eq('壞掉過之後仍可正常寫入', c2.SRS.all().length, 1);
+}
+{
+  const c3 = { console };
+  c3.window = c3;
+  c3.setTimeout = setTimeout;
+  c3.clearTimeout = clearTimeout;
+  const m3 = new Map([['sceneTyping.srs.v2', '[1,2,3]']]);
+  c3.localStorage = {
+    getItem: k => (m3.has(k) ? m3.get(k) : null),
+    setItem: (k, v) => m3.set(k, String(v)),
+    removeItem: k => m3.delete(k)
+  };
+  vm.createContext(c3);
+  vm.runInContext(fs.readFileSync(path.join(ROOT, 'js/srs-notebook.js'), 'utf8'), c3,
+    { filename: 'srs-notebook.js' });
+  eq('結構不對的資料也會被過濾掉', c3.SRS.all().length, 0);
+}
+
+// ⑬ 接線檢查：UI 與練習頁都要接上
+const appCss2 = fs.readFileSync(path.join(ROOT, 'css/app.css'), 'utf8');
+const srsUiSrc = fs.readFileSync(path.join(ROOT, 'js/srs-ui.js'), 'utf8').replace(/^\uFEFF/, '');
+const SRSUI_MAX_REQUEUE = Number(/MAX_REQUEUE = (\d+)/.exec(srsUiSrc)[1]);
+const srsNbSrc = fs.readFileSync(path.join(ROOT, 'js/srs-notebook.js'), 'utf8').replace(/^\uFEFF/, '');
+const practiceSrc2 = fs.readFileSync(path.join(ROOT, 'js/practice.js'), 'utf8').replace(/^\uFEFF/, '');
+const appSrc2 = fs.readFileSync(path.join(ROOT, 'js/app.js'), 'utf8').replace(/^\uFEFF/, '');
+
+ok('index.html 有錯字本按鈕 #srsBtn', /id="srsBtn"/.test(indexHtml));
+ok('index.html 有角標 #srsBadge', /id="srsBadge"/.test(indexHtml));
+ok('index.html 有錯字本抽屜 #srsPanel', /id="srsPanel"/.test(indexHtml));
+ok('index.html 有複習輸入框 #srsInput', /id="srsInput"/.test(indexHtml));
+ok('index.html 有「開始���習」與「再一輪」',
+  /id="srsStart"/.test(indexHtml) && /id="srsAgain"/.test(indexHtml));
+ok('index.html 載入了 srs-notebook.js 與 srs-ui.js',
+  /js\/srs-notebook\.js/.test(indexHtml) && /js\/srs-ui\.js/.test(indexHtml));
+ok('srs-notebook.js 在 srs-ui.js 之前載入',
+  indexHtml.indexOf('srs-notebook.js') >= 0 &&
+  indexHtml.indexOf('srs-notebook.js') < indexHtml.indexOf('srs-ui.js'));
+ok('srs-ui.js 在 app.js 之前載入（boot 時角標已就緒）',
+  indexHtml.indexOf('srs-ui.js') >= 0 &&
+  indexHtml.indexOf('srs-ui.js') < indexHtml.indexOf('js/app.js'));
+
+ok('practice.js 完成一張卡後會把錯字餵給錯字本',
+  /P\.totalErr > 0\) captureSrs\(/.test(practiceSrc2));
+ok('practice.js 全對時會在錯字本記一次答對',
+  /else srsPass\(unit, Home\.state\.mode\)/.test(practiceSrc2));
+ok('practice.js 盲打失敗也會記錄',
+  /captureSrsBlind\(unit, bad\)/.test(practiceSrc2));
+ok('app.js 的 panelOpen 有算錯字本，鍵盤才不會被搶',
+  /srsPanel[\s\S]{0,80}contains\('open'\)/.test(appSrc2));
+ok('srs-notebook.js 不使用 Infinity（改用 stage === TOP 表示畢業）',
+  /Infinity/.test(srsNbSrc) === false);
+ok('srs-ui.js 的滾動有上限，不會無限滾',
+  /MAX_REQUEUE = \d+/.test(srsUiSrc) && /tries < MAX_REQUEUE/.test(srsUiSrc));
+ok('有逐字標紅的樣式 .srs-d__bad', /\.srs-d__bad/.test(appCss2));
+ok('階梯分布有樣式 .srs-ladder', /\.srs-ladder/.test(appCss2));
+// ⑭ 篩選籌碼真的接上了（迴歸：重寫時漏掉過一次，切籌碼完全不動）
+ok('srs-ui.js 有綁 [data-srs-filter] 的 click',
+  /querySelectorAll\('\[data-srs-filter\]'\)/.test(srsUiSrc) &&
+  /state\.filter = b\.dataset\.srsFilter/.test(srsUiSrc));
+ok('切籌碼後會重畫清單', /state\.filter = b\.dataset\.srsFilter[\s\S]{0,200}renderList\(\)/.test(srsUiSrc));
+ok('初始籌碼狀態也會上色（chip--on）', /paintChips\(\);/.test(srsUiSrc));
+ok('index.html 的四個籌碼都有 data-srs-filter',
+  ['due', 'waiting', 'graduated', 'all'].every(f =>
+    new RegExp('data-srs-filter="' + f + '"').test(indexHtml)));
+
+// ⑮ 功能字不該單獨開一張卡（迴歸：the / on / My 曾經各自佔一筆）
+ok('practice.js 有功能字清單', /SRS_SKIP_WORDS/.test(practiceSrc2));
+ok('the / of / is / you 都在不開卡的清單裡',
+  /'the': 1/.test(practiceSrc2) && /'of': 1/.test(practiceSrc2) &&
+  /'is': 1/.test(practiceSrc2) && /'you': 1/.test(practiceSrc2));
+ok('captureSrs 會過濾功能字', /worthOwnCard\(w\)/.test(practiceSrc2));
+ok('captureSrsBlind 會過濾功能字', /worthOwnCard\(w\)/.test(practiceSrc2));
+ok('但整張卡（unit）不受功能字清單影響',
+  /srsRecord\('unit', unit\.en, base\)/.test(practiceSrc2));
+
+// ⑯ 記錄錯字之後要順手更新頂列角標
+ok('captureSrs 有呼叫 SRSUI.refreshBadge',
+  /function captureSrs\(unit, mode\)[\s\S]{0,900}refreshBadge\(\)/.test(practiceSrc2));
+ok('captureSrsBlind 有呼叫 SRSUI.refreshBadge',
+  /function captureSrsBlind\(unit, words\)[\s\S]{0,900}refreshBadge\(\)/.test(practiceSrc2));
+
+// ⑰ 階梯標籤要跟它排的間隔一致（曾經錯位一階：標「10 分鐘」卻排 1 小時）
+// 標籤寫「幾分鐘／小時／天／週」，就必須剛好等於這階的 gap
+const UNIT_MS = { '分鐘': 60000, '小時': 3600000, '天': 86400000, '週': 604800000, '個月': 2592000000 };
+const labelGapOk = SRS.STEPS.every(st => {
+  const m = /^(\d+)\s*(分鐘|小時|天|週|個月)$/.exec(st.label);
+  if (!m) return false;
+  return Number(m[1]) * UNIT_MS[m[2]] === st.gap;
+});
+ok('每個階段的標籤跟 gap 剛好對得上（不會標「10 分鐘」卻排 1 小時）', labelGapOk,
+  SRS.STEPS.map(st => st.label + '=' + st.gap).join(' '));
+ok('所有階段的標籤都是「數字 + 時間單位」', SRS.STEPS.every(st => /^\d+\s*(分鐘|小時|天|週|個月)$/.test(st.label)));
+eq('第 0 階就是 10 分鐘（剛錯的先密集複習）', Math.round(SRS.STEPS[0].gap / 60000), 10);
+eq('最後一階是 30 天（1 個月）', Math.round(SRS.STEPS[SRS.STEPS.length - 1].gap / 86400000), 30);
+
+// ⑱ 滾動是真的有把卡片丟到隊伍最後，不是直接刪掉（迴歸：只 splice 沒有 push）
+ok('答錯時會先 splice 再 push 到最後',
+  /state\.queue\.splice\(state\.cursor, 1\);[\s\S]{0,160}state\.queue\.push\(it\)/.test(srsUiSrc));
+eq('滾動上限有上限，不會無限滾', SRSUI_MAX_REQUEUE, 3);
+
+// ⑲ 面板開著時，App 不會搶空白鍵／Enter
+ok('Escape 在複習中只回清單、不關整個面板',
+  /SRSUI\.isOpen\(\) && SRSUI\.state\.page === 'review'/.test(appSrc2));
 // ───────── 結果 ─────────
 process.stdout.write('\n' + '─'.repeat(58) + '\n');
 process.stdout.write(`通過 ${pass}　失敗 ${fail}\n`);

@@ -90,6 +90,7 @@
   function panelOpen() {
     return !!document.querySelector('.modal:not([hidden])') ||
            !!($('explainPanel') && $('explainPanel').classList.contains('open'));
+           !!($('srsPanel') && $('srsPanel').classList.contains('open'));
   }
 
   function bindKeys() {
@@ -105,7 +106,17 @@
         return;
       }
 
-      if (e.key === 'Escape') { UI.closeAll(); return; }
+      if (e.key === 'Escape') {
+        // 複習中按 Esc：先結束這一輪回清單，不要讓 UI.closeAll 把面板直接關掉
+        if (global.SRSUI && SRSUI.isOpen() && SRSUI.state.page === 'review') {
+          e.preventDefault();
+          SRSUI.backToList();
+          return;
+        }
+        if (global.SRSUI && SRSUI.isOpen()) { SRSUI.close(); return; }
+        UI.closeAll();
+        return;
+      }
 
       if (current === 'practice') {
         if (document.activeElement && document.activeElement.id === 'blindInput') {
@@ -164,6 +175,7 @@
     Speech.init($('voiceSelect'));
     Home.init();
     UI.init();
+    if (global.SRSUI) SRSUI.refreshBadge();
     bindKeys();
 
     // 事件

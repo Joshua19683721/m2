@@ -48,6 +48,9 @@
         <option value="5">5 次</option>
       </select>
     </div>
+    <button class="icon-btn icon-btn--badge" id="srsBtn" title="錯字本（SRS 間隔重複）" aria-label="錯字本">
+      📔<span class="icon-btn__badge" id="srsBadge" hidden>0</span>
+    </button>
     <button class="icon-btn" id="statsBtn" title="學習統計" aria-label="學習統計">📊</button>
     <button class="icon-btn" id="settingsBtn" title="設定" aria-label="設定">⚙️</button>
     <button class="icon-btn" id="helpBtn" title="快捷鍵說明" aria-label="快捷鍵說明">❓</button>
@@ -192,6 +195,99 @@
   <div class="drawer__body" id="explainBody"></div>
 </aside>
 
+<!-- ══════════════ 錯字本（SRS 間隔重複） ══════════════ -->
+<div class="scrim" id="srsScrim"></div>
+<aside class="drawer drawer--wide" id="srsPanel" aria-label="錯字本">
+  <header class="drawer__head">
+    <div>
+      <h2>📔 錯字本</h2>
+      <p class="drawer__sub" id="srsSubtitle">還沒有錯字紀錄</p>
+    </div>
+    <button class="drawer__close" id="srsClose" aria-label="關閉">✕</button>
+  </header>
+
+  <div class="drawer__body">
+    <!-- ── 清單 ── -->
+    <div id="srsPageList">
+      <div class="srs-stats" id="srsStats"></div>
+      <div class="srs-ladder-wrap" id="srsLadder"></div>
+
+      <div class="srs-toolbar">
+        <div class="srs-chips">
+          <button class="chip" data-srs-filter="due">待複習</button>
+          <button class="chip" data-srs-filter="waiting">學習中</button>
+          <button class="chip" data-srs-filter="graduated">已畢業</button>
+          <button class="chip" data-srs-filter="all">全部</button>
+        </div>
+        <select id="srsSort" aria-label="排序">
+          <option value="stage">由生到熟</option>
+          <option value="due">依到期時間</option>
+          <option value="adds">依出錯次數</option>
+        </select>
+      </div>
+
+      <div class="srs-actions">
+        <button class="btn btn--primary srs-start" id="srsStart">▶ 開始複習</button>
+        <button class="btn btn--ghost srs-clear" id="srsClear">清空錯字本</button>
+      </div>
+
+      <p class="srs-hint">
+        每個錯字都會排進間隔重複的隊伍：剛錯的 10 分鐘後再看一次，之後 1 小時、8 小時、
+        1 天、3 天、1 週、2 週、1 個月。<b>連續答對 <span id="srsNeed">3</span> 次才升一階</b>，
+        答錯立刻打回原點——猜對不算數。
+      </p>
+
+      <div class="srs-count" id="srsCount"></div>
+      <div class="srs-list" id="srsList"></div>
+    </div>
+
+    <!-- ── 滾動過關複習 ── -->
+    <div id="srsPageReview" hidden>
+      <button class="srs-back" id="srsBack">← 回到清單</button>
+
+      <div class="srs-play" id="srsPlay">
+        <div class="srs-play__top">
+          <span class="srs-play__pos" id="srsPos">1 / 1</span>
+          <span class="srs-play__tools">
+            <button class="srs-mini" id="srsZhToggle" aria-pressed="false">👁 顯示中文</button>
+            <button class="srs-mini" id="srsSpeak">🔊 朗讀</button>
+          </span>
+        </div>
+        <div class="srs-play__bar"><i id="srsRoundBar"></i></div>
+
+        <div class="srs-card">
+          <div class="srs-card__stage" id="srsCardStage">剛錯</div>
+          <div class="srs-card__ctx" id="srsCardCtx" hidden></div>
+          <div class="srs-card__zh" id="srsCardZh" hidden></div>
+          <div class="srs-card__ipa" id="srsCardIpa" hidden></div>
+          <input class="srs-input" id="srsInput" autocomplete="off" autocapitalize="off"
+                 autocorrect="off" spellcheck="false" aria-label="輸入答案">
+          <div class="srs-feedback" id="srsFeedback" hidden></div>
+          <div class="srs-card__from" id="srsCardFrom"></div>
+        </div>
+
+        <div class="srs-actions srs-actions--play">
+          <button class="btn btn--primary" id="srsSubmit">送出（Enter）</button>
+          <button class="btn btn--ghost" id="srsRetry">重打</button>
+          <button class="btn btn--ghost" id="srsNo">不會</button>
+          <button class="btn btn--ghost" id="srsYes">會了</button>
+        </div>
+
+        <p class="srs-hint srs-hint--play">
+          先自己打出來再看答案（主動回憶）比反覆看有效得多。中文預設藏著，
+          按 <kbd>Alt</kbd>+<kbd>H</kbd> 或按上方按鈕才會露出來。答錯的字會滾到本輪最後面，
+          讓你趁還記得它的時候再寫一次。
+        </p>
+      </div>
+
+      <div class="srs-summary" id="srsSummary" hidden></div>
+      <div class="srs-actions srs-actions--again">
+        <button class="btn btn--primary" id="srsAgain">再一輪</button>
+      </div>
+    </div>
+  </div>
+</aside>
+
 <!-- ══════════════ 統計彈窗 ══════════════ -->
 <div class="modal" id="statsModal" hidden>
   <div class="modal__card modal__card--wide">
@@ -299,6 +395,8 @@
 <script src="js/home.js"></script>
 <script src="js/practice.js"></script>
 <script src="js/ui.js"></script>
+<script src="js/srs-notebook.js"></script>
+<script src="js/srs-ui.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>
