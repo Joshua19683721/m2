@@ -41,10 +41,10 @@
     'been': 'av', 'be': 'v', 'being': 'v',
     'has': 'av', 'had': 'av', 'having': 'v',
     'does': 'av', 'did': 'av', 'doing': 'v', 'done': 'v',
-    "don't": 'adv', "doesn't": 'adv', "didn't": 'adv', "can't": 'mv',
-    "won't": 'mv', "isn't": 'adv', "aren't": 'adv', "wasn't": 'adv',
-    "weren't": 'adv', "hasn't": 'adv', "haven't": 'adv', "hadn't": 'adv',
-    "couldn't": 'adv', "wouldn't": 'adv', "shouldn't": 'adv', "mightn't": 'adv',
+    "don't": 'av', "doesn't": 'av', "didn't": 'av', "can't": 'mv',
+    "won't": 'mv', "isn't": 'av', "aren't": 'av', "wasn't": 'av',
+    "weren't": 'av', "hasn't": 'av', "haven't": 'av', "hadn't": 'av',
+    "couldn't": 'av', "wouldn't": 'av', "shouldn't": 'av', "mightn't": 'av',
     'two': 'n', 'three': 'n', 'four': 'n', 'five': 'n', 'six': 'n',
     'seven': 'n', 'eight': 'n', 'nine': 'n', 'ten': 'n', 'eleven': 'n',
     'twelve': 'n', 'thirteen': 'n', 'fourteen': 'n', 'fifteen': 'n',
@@ -344,6 +344,12 @@
 
   var BE_FORMS = { is: 1, am: 1, are: 1, was: 1, were: 1, be: 1, been: 1, being: 1 };
 
+  /* 疑問句／否定句開頭的助動詞：Did you…? / Do you…? / Have you…? */
+  var AV_WORDS = {
+    did: 1, do: 1, does: 1, have: 1, has: 1, had: 1,
+    "don't": 1, "doesn't": 1, "didn't": 1, "haven't": 1, "hasn't": 1, "hadn't": 1
+  };
+
   function isDetToken(token) { return !!DET_WORDS[normKey(token)]; }
 
   /* 資料庫查不到時的最後一線啟發式 */
@@ -441,6 +447,15 @@
     return !!(next && !next.punct && isNominalRole(next.role));
   }
 
+  /** 往前看有沒有限定詞（要跨過 adjectives 這種修飾語，
+      回 "a beautiful present" 的 present 也是名詞） */
+  function detBehind(rows, idx) {
+    var j = idx - 1;
+    while (j >= 0 && !rows[j].punct && (rows[j].role === 'adj' || rows[j].role === 'adv')) j--;
+    if (j >= 0 && !rows[j].punct && rows[j].role === 'det') return true;
+    return false;
+  }
+
   /** 往前看有沒有介系詞（要跨過 this / a / big 這種名詞片語的修飾語） */
   function prepBehind(rows, idx) {
     var j = idx - 1;
@@ -521,6 +536,10 @@
     var pRole = prev && !prev.punct ? prev.role : null;
     var pKey = prev && !prev.punct ? normKey(prev.token) : '';
     var afterBe = (pRole === 'verb' && BE_FORMS[pKey]) || beBehind(rows, idx);
+    // 下一個字能不能當動詞（用來判斷助動詞後面是不是接動作）
+    var nextC = next && !next.punct ? next.codes : null;
+    var nextCanDoVerb = nextC && (nextC.indexOf('v') >= 0 || nextC.indexOf('n v') >= 0 ||
+      nextC.indexOf('phr v') >= 0 || nextC.indexOf('mv') >= 0);
 
     /* 形容詞：看它修飾的是名詞，還是 be 動詞後面的表語 */
     if (inf.role === 'adj') {
@@ -560,7 +579,10 @@
         return { role: '主詞補語', func: '在 be 動詞後面，告訴我們主詞是什麼或怎樣' };
       }
       if (pRole === 'verb' || objectVerbBehind(rows, idx)) {
-        if (hasObjectAfter(rows, idx)) {
+        // 間接受詞：代名詞 + 冠詞（a/an/the）+ 名詞 → gave me a book
+        // 但 "the film last night" 的 film 不是間接受詞，它已是直接受詞，last night 是時間副詞
+        if (inf.role === 'pron' && next && !next.punct &&
+          (next.role === 'det' && /^(a|an|the)$/i.test(normKey(next.token)))) {
           return {
             role: '間接受詞',
             func: '動作的「給誰／對誰」，後面還有一個直接受詞'
@@ -592,6 +614,17 @@
         return { role: '情態動詞', func: '後面接動詞原形，表示能力、請求、可能性或義務' };
       }
       if (code === 'av') {
+        // 助動詞：句首疑問句（Did you…?）、主詞後否定句（He does not…）、祈使否定（Don't touch）
+        var isAuxUsage = AV_WORDS[key] && (
+          idx === 0 ||
+          (pRole === 'noun' || pRole === 'pron') && (
+            (next && normKey(next.token) === 'not') ||
+            nextCanDoVerb
+          )
+        );
+        if (isAuxUsage) {
+          return { role: '助動詞', func: '幫助主要動詞構成疑問句或否定句；真正的動作在後面的動詞上' };
+        }
         return { role: 'be 動詞', func: '後面接主詞補語；單複數要和主詞一致' };
       }
       if (pRole === 'prep') {
@@ -732,11 +765,17 @@
       subjIdx.unshift(j);
       j--;
     }
-    // 句首是情態動詞時，主詞在它後面（Can I … / Did you …）
-    if (!subjIdx.length && firstVerb >= 0 && rows[firstVerb].role === 'modal') {
-      for (var k = firstVerb + 1; k < rows.length; k++) {
-        if (isNominalRole(rows[k].role)) { subjIdx = [k]; break; }
-        if (rows[k].role !== 'adv') break;
+    // 句首是情態動詞或助動詞時，主詞在它後面（Can I … / Did you … / Have you …）
+    if (!subjIdx.length && firstVerb >= 0 &&
+      (rows[firstVerb].role === 'modal' || rows[firstVerb].role === 'verb')) {
+      // 確認句首真的是疑問句開頭的助動詞：後面接名詞再接另一個動詞才是疑問句
+      var firstIsAux = rows[firstVerb].role === 'modal' ||
+        (firstVerb === 0 && AV_WORDS[normKey(rows[firstVerb].token)]);
+      if (firstIsAux) {
+        for (var k = firstVerb + 1; k < rows.length; k++) {
+          if (isNominalRole(rows[k].role)) { subjIdx = [k]; break; }
+          if (rows[k].role !== 'adv') break;
+        }
       }
     }
     var subjSet = {};
@@ -783,6 +822,7 @@
           normKey(prevRow.token) === 'to'),
         afterBe: !!(prevRow && !prevRow.punct && prevRow.role === 'verb' &&
           BE_FORMS[normKey(prevRow.token)]),
+        afterDeterminer: !!r.afterDet || detBehind(rows, idx),
         afterModal: prevCanBeModal || modalBehind(rows, idx),
         beforeClause: !!(next && after && !next.punct && !after.punct &&
           NOMINAL[info(pick(next.codes || [], PRIORITY)).role] &&
