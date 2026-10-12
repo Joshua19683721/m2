@@ -935,12 +935,42 @@
       });
     }
     if (!ms.length) {
+      var posLabel = codes ? info(primaryPos(codes)).label : '單字';
+      var isVerb = /動詞|Verb/.test(posLabel);
+      var isAdj = /形容詞|Adjective/.test(posLabel);
+      var isAdv = /副詞|Adverb/.test(posLabel);
+      var isPrep = /介系詞|Preposition/.test(posLabel);
+      var isNoun = /名詞|Noun/.test(posLabel);
+      var exOk, exZh;
+
+      if (isPhrase) {
+        // 片語：用 "I like to ..." 或 "He is good at ..."
+        exOk = 'I often use the phrase "' + en + '" in my diary.';
+        exZh = '我常在日記裡用到「' + (item.zh || '') + '」這個片語。';
+      } else if (isVerb) {
+        exOk = 'I ' + en + ' every day.';
+        exZh = '我每天都' + (item.zh || '') + '。';
+      } else if (isAdj) {
+        exOk = 'The movie is ' + en + '.';
+        exZh = '這部電影很' + (item.zh || '') + '。';
+      } else if (isAdv) {
+        exOk = 'He runs ' + en + '.';
+        exZh = '他跑得' + (item.zh || '') + '。';
+      } else if (isPrep) {
+        exOk = 'The book is ' + en + ' the table.';
+        exZh = '書在桌子' + (item.zh || '') + '。';
+      } else {
+        // 名詞或其他
+        exOk = 'This is my ' + en + '.';
+        exZh = '這是我的' + (item.zh || '') + '。';
+      }
+
       ms.push({
         title: '把這個' + (isPhrase ? '片語' : '單字') + '放進一個句子裡',
         bad: '—', ok: en,
         why: '單獨背' + (isPhrase ? '片語' : '單字') + '容易忘，搭配句子記才會牢。試著自己造一句含有它的句子。',
-        exOkText: 'This is my favourite ' + en + '.',
-        exOkZh: '這是我最喜歡的' + (item.zh || '') + '。',
+        exOkText: exOk,
+        exOkZh: exZh,
         exBadText: '—', exBadNote: '把正確用法念三遍再往下'
       });
     }
