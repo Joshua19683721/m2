@@ -87,6 +87,7 @@
     'report': 'n v', 'respect': 'n v', 'rise': 'n v', 'search': 'n v', 'shake': 'n v', 'smile': 'n v',
     'support': 'n v', 'switch': 'n v', 'taste': 'n v', 'touch': 'n v', 'trust': 'n v', 'value': 'n v',
     'wave': 'n v', 'whisper': 'n v', 'type': 'n v', 'page': 'n v', 'hand': 'n v', 'book': 'n v',
+    'copies': 'n v', 'schemes': 'n v', 'shoes': 'n v', 'keys': 'n v',
     'answer': 'n v', 'change': 'n v', 'check': 'n v', 'clean': 'n v', 'clear': 'n v',
     'cross': 'n v', 'dry': 'n v', 'empty': 'n v', 'exercise': 'n v', 'experience': 'n v',
     'face': 'n v', 'fear': 'n v', 'finish': 'n v', 'force': 'n v', 'form': 'n v',
@@ -110,7 +111,7 @@
     'try': 'n v', 'turn': 'n v', 'use': 'n v', 'visit': 'n v', 'voice': 'n v',
     'vote': 'n v', 'wait': 'n v', 'walk': 'n v', 'wash': 'n v', 'watch': 'n v',
     'water': 'n v', 'wave': 'n v', 'whisper': 'n v', 'win': 'n v', 'wish': 'n v',
-    'worry': 'n v', 'wrap': 'n v',
+    'worry': 'n v', 'wrap': 'n v', 'driving': 'n v',
     /* 形容詞或動詞 */
     'calm': 'adj v',
     /* 名詞 */
@@ -300,15 +301,49 @@
     if (ctx.beforeClause && codes.indexOf('conj') >= 0) return 'conj';
     // to 後面接動詞原形
     if (ctx.afterTo) {
-      var inf2 = pick(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
+      var inf2 = pickStrict(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
       if (inf2 === 'adj v' || inf2 === 'n v') return 'v';
       if (inf2) return inf2;
     }
     // 情態動詞後面接動詞原形（絕不接 be 動詞）
     if (ctx.afterModal) {
-      var inf2 = pick(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
+      var inf2 = pickStrict(codes, ['phr v', 'v', 'n v', 'adj v', 'mv']);
       if (inf2 === 'adj v' || inf2 === 'n v') return 'v';
       if (inf2) return inf2;
+    }
+    // 名詞＋動詞兩碼（不是 n v 合併碼）：結尾是 s 時，出現在受詞位置
+    // （前面是動詞或「限定詞＋形容詞」）幾乎都是複數名詞（sends emails / bright colours）
+    // 這條要在 n v / adj v 之前，因為標記庫常把 colours 標成 n+v 兩個碼
+    if (codes.indexOf('n') >= 0 && codes.indexOf('v') >= 0 &&
+      /s$/.test(String(ctx.token || '')) && !/(ss|us|is|ys)$/.test(String(ctx.token || '')) &&
+      (ctx.afterVerbNotBe || ctx.prevAdjAfterDet)) {
+      return 'n';
+    }
+    /* 複合名詞的尾巴（traffic lights / colour scheme / whole book）：
+       codes 有名詞碼、前一個字也有名詞碼或形容詞碼時，這一個字仍然是名詞。
+       但前一個字如果是主詞的一部分（My passport ___），這個 -s 字是動詞，不適用。 */
+    if (codes.indexOf('n') >= 0 && ctx.prevHasNounOrAdj && !ctx.afterBe &&
+      !ctx.prevInSubject) {
+      return 'n';
+    }
+    // 限定詞後面同時有形容詞和名詞碼時，若下一個字還是名詞 → 這個字是形容詞
+    // （the whole book / a new project 的 whole、new）
+    // 但 a glass of water 的 glass 後面是介系詞 → 是名詞，不能算形容詞
+    // 也不適用於 -ing 動名詞（My driving licence 的 driving 是名詞，不是形容詞）
+    if (ctx.afterDeterminer && codes.indexOf('adj') >= 0 && codes.indexOf('n') >= 0 &&
+      ctx.nextIsNominal && !/ing$/.test(String(ctx.token || ''))) {
+      return 'adj';
+    }
+    /* -ing 形式接在限定詞後面、又還沒接 be 動詞 → 當名詞片語的修飾語
+       （My driving licence / a swimming pool） */
+    if (/ing$/.test(String(ctx.token || '')) && ctx.afterDeterminer && !ctx.afterBe &&
+      ctx.beforeNominal) {
+      return 'n';
+    }
+    // 形容詞／名詞兩碼：動詞後面（非 be）是受詞（She wears black.）
+    if (codes.indexOf('adj') >= 0 && codes.indexOf('n') >= 0 &&
+      ctx.afterVerbNotBe && !ctx.afterBe && !ctx.afterDeterminer) {
+      return 'n';
     }
     // 名詞／動詞兩用的字：看它站在哪個位置決定
     if (codes.indexOf('n v') >= 0 || codes.indexOf('adj v') >= 0) {
@@ -322,6 +357,17 @@
     if (ctx.afterPreposition) {
       var nom = pickStrict(codes, NOMINAL_FIRST);
       if (nom) return nom;
+    }
+    // 數詞後面接名詞 → 限定詞（two copies）
+    if (NUMBER_WORDS[normKey(ctx.token)] && ctx.beforeNominal) {
+      return 'det';
+    }
+    // 弱化：have / has / had / do / does / did 後面接名詞片語時是主要動詞
+    // （We had a conversation / She does her homework）
+    var k = normKey(ctx.token);
+    if ((k === 'have' || k === 'has' || k === 'had' ||
+      k === 'do' || k === 'does' || k === 'did') && ctx.beforeNominal) {
+      return 'v';
     }
     // 主詞位置，或緊跟在限定詞後面（the film / a glass）→ 先當名詞看
     if (ctx.inSubject || ctx.afterDeterminer) return pick(codes, PRIORITY_SUBJ);
@@ -342,7 +388,20 @@
     my: 1, your: 1, his: 1, her: 1, its: 1, our: 1, their: 1
   };
 
-  var BE_FORMS = { is: 1, am: 1, are: 1, was: 1, were: 1, be: 1, been: 1, being: 1 };
+    var BE_FORMS = { is: 1, am: 1, are: 1, was: 1, were: 1, be: 1, been: 1, being: 1 };
+
+  /* 數詞：後面接名詞時是限定詞（two copies / three apples） */
+  var NUMBER_WORDS = {
+    one: 1, two: 1, three: 1, four: 1, five: 1, six: 1, seven: 1, eight: 1,
+    nine: 1, ten: 1, eleven: 1, twelve: 1, twenty: 1, thirty: 1, forty: 1,
+    fifty: 1, hundred: 1, thousand: 1, million: 1, dozen: 1
+  };
+
+  /* 時間名詞：放在 in / at / every / this 後面是時間狀語，不是受詞 */
+  var TIME_NOUNS = {
+    afternoon: 1, morning: 1, evening: 1, night: 1, day: 1, week: 1,
+    month: 1, year: 1, hour: 1, minute: 1, moment: 1, weekend: 1, season: 1
+  };
 
   /* 疑問句／否定句開頭的助動詞：Did you…? / Do you…? / Have you…? */
   var AV_WORDS = {
@@ -693,17 +752,56 @@
       var nextTok = idx + 1 < tokens.length ? tokens[idx + 1] : null;
       var prevRole = prev && /[A-Za-z0-9']/.test(prev) ? roughRole(prev) : null;
       var afterDet = idx > 0 && isDetToken(prev);
+      /* -ing 接在限定詞後面、後面又是名詞 → 名詞片語的修飾語（My driving licence）
+         第一輪就要標，否則 firstVerb 會誤判到 driving 上 */
+      var isIngNoun = false;
+      if (/ing$/.test(normKey(tok)) && afterDet && idx + 1 < tokens.length) {
+        var ingNext = tokens[idx + 1];
+        var ingNextCodes = posOf(ingNext);
+        var ingNextIsNoun = ingNextCodes &&
+          (ingNextCodes.indexOf('n') >= 0 || ingNextCodes.indexOf('n v') >= 0 ||
+           ingNextCodes.indexOf('n pl') >= 0);
+        if (ingNextIsNoun) {
+          isIngNoun = true;
+          if (codes) {
+            codes = codes.concat(['n', 'adj']);
+          } else {
+            codes = ['n', 'adj'];
+          }
+        }
+      }
       var row = {
         token: tok, punct: false, codes: codes, afterDet: afterDet,
         role: codes
           ? info(pick(codes, afterDet ? PRIORITY_SUBJ : PRIORITY)).role
           : 'func'
       };
+      if (isIngNoun) {
+        row.role = 'noun';
+      }
       /* studies / works / lives：詞表只標成「名詞（複數）」，但站在主詞後面
          （He studies… / My sister studies…）時，它其實是第三人稱單數的動詞。 */
       var afterSubject = prevRole === 'pron' || prevRole === 'noun' || prevRole === 'modal';
+      /* 複合名詞的尾巴（traffic lights）不算動詞：前一個字是名詞、
+         而且那個名詞前面沒有限定詞（不是「My passport ___」這種完整名詞片語） */
+      var prevIsCompoundHead = false;
+      if (prevRole === 'noun' && idx >= 2) {
+        var two = tokens[idx - 2];
+        prevIsCompoundHead = !isDetToken(two) && !POSSESSIVE_DET[normKey(two)];
+      } else if (prevRole === 'noun') {
+        prevIsCompoundHead = true;
+      }
+      var nextIsNominal = nextTok && /[A-Za-z0-9']/.test(nextTok) &&
+        isNominalRole(roughRole(nextTok));
+      if (global.DEBUG_POS) {
+        console.log('[P1] ' + tok + ' codes=' + JSON.stringify(codes) +
+          ' nounOnlyS=' + nounOnlyS(codes, tok) + ' afterDet=' + afterDet +
+          ' afterSubject=' + afterSubject + ' prevRole=' + prevRole +
+          ' compound=' + prevIsCompoundHead + ' nextNom=' + nextIsNominal);
+      }
       if (codes && nounOnlyS(codes, tok) && !afterDet && afterSubject &&
-        !POSSESSIVE_DET[normKey(prev)] && !BE_FORMS[normKey(nextTok)]) {
+        !prevIsCompoundHead && !POSSESSIVE_DET[normKey(prev)] &&
+        !BE_FORMS[normKey(nextTok)] && nextIsNominal) {
         row.role = 'verb';
         row.codes = codes.concat(['v']);
       }
@@ -732,6 +830,19 @@
         row.role = 'exclam';
         row.codes = codes ? codes.concat(['exclam']) : ['exclam'];
       }
+      /* -ing 接在限定詞後面、後面又是名詞 → 名詞片語的修飾語（My driving licence）
+         第一輪就要標，否則 firstVerb 會誤判到 driving 上 */
+      if (/ing$/.test(normKey(tok)) && afterDet && idx + 1 < tokens.length) {
+        var ingNext = tokens[idx + 1];
+        var ingNextCodes = posOf(ingNext);
+        var ingNextIsNoun = ingNextCodes &&
+          (ingNextCodes.indexOf('n') >= 0 || ingNextCodes.indexOf('n v') >= 0 ||
+           ingNextCodes.indexOf('n pl') >= 0);
+        if (ingNextIsNoun) {
+          row.role = 'noun';
+          row.codes = codes ? codes.concat(['n', 'adj']) : ['n', 'adj'];
+        }
+      }
       return row;
     });
 
@@ -743,8 +854,9 @@
     }
 
     function nounOnlyS(codes, tok) {
-      if (!/s$/.test(tok) || /(ss|us|is)$/.test(tok)) return false;
-      var ok = ['n', 'n pl', 'unc n', 'proper', 'n poss', 'pron poss', 'adv', 'adj', 'exclam'];
+      if (!/s$/.test(tok) || /(ss|us|is|ys)$/.test(tok)) return false;
+      // 只有純名詞碼才算；adj/adv/exclam 一律不算（always、trousers 都不轉動詞）
+      var ok = ['n', 'n pl', 'unc n', 'proper', 'n poss'];
       for (var i = 0; i < codes.length; i++) {
         if (ok.indexOf(codes[i]) < 0) return false;
       }
@@ -757,13 +869,21 @@
       if (rows[i].role === 'verb' || rows[i].role === 'modal') { firstVerb = i; break; }
     }
 
-    /* ── 主詞區間：從第一個動詞往前回捲「名詞性」的連續區段（可夾一個副詞） ── */
+    /* ── 主詞區間：從第一個動詞往前回捲「名詞性」的連續區段（可夾一個副詞） ──
+       中途遇到介系詞，表示後面那串是介系詞片語（in this newspaper），
+       不是主詞的一部分，要丟掉再繼續往前找（The article｜in this newspaper｜is…）。 */
     var subjIdx = [];
     var j = firstVerb - 1;
     while (j >= 0 && rows[j].role === 'conj') j--;
     while (j >= 0 && (isNominalRole(rows[j].role) || rows[j].role === 'adv')) {
       subjIdx.unshift(j);
       j--;
+      // 碰到介系詞：剛收集的其實是介系詞片語的受詞，整個丢掉再往前
+      if (j >= 0 && !rows[j].punct && rows[j].role === 'prep') {
+        subjIdx = [];
+        j--;
+        while (j >= 0 && !rows[j].punct && (isNominalRole(rows[j].role) || rows[j].role === 'adv')) j--;
+      }
     }
     // 句首是情態動詞或助動詞時，主詞在它後面（Can I … / Did you … / Have you …）
     if (!subjIdx.length && firstVerb >= 0 &&
@@ -822,8 +942,46 @@
           normKey(prevRow.token) === 'to'),
         afterBe: !!(prevRow && !prevRow.punct && prevRow.role === 'verb' &&
           BE_FORMS[normKey(prevRow.token)]),
+        /* 前面是非 be 的動詞（wears / sends）→ 受詞位置 */
+        afterVerbNotBe: !!(prevRow && !prevRow.punct && prevRow.role === 'verb' &&
+          !BE_FORMS[normKey(prevRow.token)]),
+        /* 前一個字是不是主詞的一部分（My passport ___ → ___ 是動詞，不是複合名詞尾巴） */
+        prevInSubject: !!(prevRow && !prevRow.punct && idx >= 1 && subjSet[idx - 1]),
+        /* 前一個字有「名詞」碼（用 codes 判斷，第一輪的 role 太粗）→ 複合名詞的尾巴 */
+        prevHasNoun: !!(prevRow && !prevRow.punct && prevRow.codes &&
+          (prevRow.codes.indexOf('n') >= 0 || prevRow.codes.indexOf('n v') >= 0 ||
+           prevRow.codes.indexOf('n pl') >= 0 || prevRow.codes.indexOf('proper') >= 0)),
+        /* 前一個字是形容詞、而且形容詞前面還有名詞碼（the whole book / a new project） */
+        prevHasNounOrAdj: !!(prevRow && !prevRow.punct && prevRow.codes &&
+          (prevRow.codes.indexOf('n') >= 0 || prevRow.codes.indexOf('n v') >= 0 ||
+           prevRow.codes.indexOf('n pl') >= 0 || prevRow.codes.indexOf('proper') >= 0 ||
+           prevRow.codes.indexOf('adj') >= 0)),
+        /* 下一個字是不是名詞性（限定詞後的形容詞／名詞分辨用） */
+        nextIsNominal: !!(next && !next.punct && next.role !== 'punct' &&
+          (next.role === 'noun' || next.role === 'pron')),
+        /* 限定詞＋形容詞＋這個字（bright colours / the whole book）→ 名詞 */
+        prevAdjAfterDet: !!(prevRow && !prevRow.punct && (function () {
+          // 前一個字是形容詞、或數詞（two books），而且它前面是限定詞
+          var c = prevRow.codes || [];
+          var looksAdj = c.indexOf('adj') >= 0 || c.indexOf('n') >= 0 ||
+            c.indexOf('n v') >= 0;
+          return looksAdj && (r.afterDet || detBehind(rows, idx));
+        })()),
+        /* 前面是主詞人稱（I / you / he…）→ do-support 位置 */
+        afterSubjPron: !!(prevRow && !prevRow.punct && prevRow.role === 'pron'),
         afterDeterminer: !!r.afterDet || detBehind(rows, idx),
         afterModal: prevCanBeModal || modalBehind(rows, idx),
+        beforeNominal: !!(next && !next.punct && (function () {
+          // 看 codes：有 n／det／pron 任一個就算名詞片語開頭
+          var c = next.codes || [];
+          var i;
+          for (i = 0; i < c.length; i++) {
+            if (c[i] === 'n' || c[i] === 'det' || c[i] === 'pron' ||
+              c[i] === 'n pl' || c[i] === 'unc n' || c[i] === 'proper' ||
+              c[i] === 'n v' || c[i] === 'adj') return true;
+          }
+          return false;
+        })()),
         beforeClause: !!(next && after && !next.punct && !after.punct &&
           NOMINAL[info(pick(next.codes || [], PRIORITY)).role] &&
           ['verb', 'modal'].indexOf(info(pick(after.codes || [], PRIORITY)).role) >= 0)
