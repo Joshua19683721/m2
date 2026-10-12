@@ -18,6 +18,7 @@
     startedAt: 0,
     typedChars: 0,
     totalErr: 0,
+    finished: false,    // 這一張是否已經記過完成（同一次練習只算一次）
     timer: null
   };
 
@@ -50,6 +51,7 @@
     P.startedAt = Date.now();
     P.typedChars = 0;
     P.totalErr = 0;
+    P.finished = false;        // 換一張就解鎖，finish() 同一張只記一次
     clearInterval(P.timer);
     P.timer = setInterval(tick, 100);
     tick();
@@ -101,7 +103,10 @@
     $('promptIpa').style.display = (blind || !ipa) ? 'none' : 'inline-block';
 
     hideBanner();
-    if (imeHint) imeHint.style.display = 'none';
+    /* 不要用 imeHint 這個「id 自動變成全域變數」的隱式全域：
+       在瀏覽器以外（測試、某些嵌入環境）它不存在，會直接 ReferenceError。 */
+    var imeHintEl = $('imeHint');
+    if (imeHintEl) imeHintEl.style.display = 'none';
     startTimer();
 
     if (blind) renderBlind(unit);
@@ -532,6 +537,10 @@
   function currentUnit() { return unitAt(P.index) || { en: '', zh: '', index: 0 }; }
 
   function finish() {
+    /* 同一張只記一次。
+       restore()、onInput()、鍵盤事件都可能呼叫到這裡，
+       不加防線的話 attempts／錯字本會在沒有新打字的狀態下一直累加。 */
+    if (P.finished) return;
     var unit = currentUnit();
     var secs = (Date.now() - P.startedAt) / 1000;
     var prev = Store.unitState(Home.state.scene.id, Home.state.mode, unit.index);
@@ -555,10 +564,14 @@
       seconds: secs
     });
 
+    // 續打點沒用了，這一張已經結束
+    clearPartial();
+
     // 有錯就進錯字本，讓 SRS 排日後的複習
     if (P.totalErr > 0) captureSrs(unit, Home.state.mode);
     else srsPass(unit, Home.state.mode);
 
+    P.finished = true;
     stopTimer();
     showBanner(
       '✔ <strong>' + esc(unit.en) + '</strong> 完成！用時 ' + secs.toFixed(1) + ' 秒・錯誤 ' +
@@ -706,15 +719,31 @@
     showBanner('✔ 整句完全正確！按 <strong>Space</strong> 下一張、<strong>Enter</strong> 再打一次', false);
   }
 
-  /* ───────── 進度保存 ───────── */
+  /* ───────── 進度保存 ─────────
+     這裡存的是「打到一半」的續打點，不是完成紀錄（完成紀錄在 Store.progress）。
+     兩者必須分開，否則回到一張打好的卡片時會被當成「已經完成」。 */
+  function partialKey() {
+    return 'sceneTyping.partial.' + Home.state.scene.id + '.' + Home.state.mode;
+  }
+
+  function clearPartial() {
+    try { localStorage.removeItem(partialKey()); } catch (e) {}
+  }
+
   function save() {
     var unit = currentUnit();
-    var done = inputs().filter(function (i) {
+    var list = inputs();
+    var done = list.filter(function (i) {
       return eq(i.value, i.dataset.target);
     }).map(function (i) { return Number(i.dataset.index); });
     try {
-      localStorage.setItem('sceneTyping.partial.' + Home.state.scene.id + '.' + Home.state.mode,
-        JSON.stringify({ unit: unit.en, done: done }));
+      // 整張都打對了就不留續打點。這一張已經完成，
+      // 下次回來是「重練」，不是「續打」，不該自動填滿。
+      if (done.length >= list.length) {
+        localStorage.removeItem(partialKey());
+        return;
+      }
+      localStorage.setItem(partialKey(), JSON.stringify({ unit: unit.en, done: done }));
     } catch (e) {}
   }
 
@@ -722,13 +751,26 @@
     var unit = currentUnit();
     var raw;
     try {
-      raw = localStorage.getItem('sceneTyping.partial.' + Home.state.scene.id + '.' + Home.state.mode);
+      raw = localStorage.getItem(partialKey());
     } catch (e) { return; }
     if (!raw) return;
     var data;
     try { data = JSON.parse(raw); } catch (e) { return; }
     if (!data || data.unit !== unit.en) return;
-    inputs().forEach(function (input) {
+
+    var list = inputs();
+
+    /* 存檔裡每一格都對了 = 上一輪就已經打完。
+       這次是重新練習，不是續打。直接清掉紀錄、留給使用者從頭打，
+       千萬不要在這裡呼叫 finish()——
+       那會讓人光是「跳進來看一眼」就被算成又完成一次，
+       attempts 一直增加，錯字本也會多記一次答對。 */
+    if (!Array.isArray(data.done) || data.done.length >= list.length) {
+      clearPartial();
+      return;
+    }
+
+    list.forEach(function (input) {
       var idx = Number(input.dataset.index);
       if (data.done.indexOf(idx) >= 0) {
         input.value = input.dataset.target;
@@ -737,7 +779,6 @@
         if (w) w.classList.add('correct');
       }
     });
-    if (isComplete()) finish();
   }
 
   /* ───────── 切換 ───────── */
