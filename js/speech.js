@@ -1,7 +1,9 @@
 /* ══════════════════════════════════════════════════════════════
    speech.js — 朗讀（Web Speech API）
-   沿用 wordmomo 的做法：挑英文語音、速度可調、可連播幾次。
-   語音固定用 Microsoft Mark（en-US）；沒裝的電腦才退回其他英文語音。
+   沿用 wordmomo 的做法：速度可調、可連播幾次。
+
+   語音選項：列出所有可以發音的語音，Microsoft Mark 優先。
+   沒裝 Mark 的電腦就退回排序後面的其他語音。
    ══════════════════════════════════════════════════════════════ */
 (function (global) {
   'use strict';
@@ -12,8 +14,7 @@
 
   function supported() { return 'speechSynthesis' in global; }
 
-  /* 這個 App 固定用微軟的 Mark（en-US）朗讀。
-     沒裝這個語音的電腦才會往下退到其他英文語音。 */
+  /* 這個 App 優先用微軟的 Mark（en-US）朗讀。 */
   var PREFERRED = /microsoft[\s_-]*mark/i;
 
   function isPreferred(v) {
@@ -33,10 +34,11 @@
     return s;
   }
 
-  function englishVoices() {
+  /** 所有可以發音的語音，依優先序排列 */
+  function allVoices() {
     if (!supported()) return [];
-    return speechSynthesis.getVoices()
-      .filter(function (v) { return /^en/i.test(v.lang || ''); })
+    // 複製一份再排序，不要修改 getVoices() 回傳的原陣列
+    return speechSynthesis.getVoices().slice()
       .sort(function (a, b) { return score(b) - score(a); });
   }
 
@@ -58,11 +60,11 @@
     }
 
     function fill() {
-      var list = englishVoices();
+      var list = allVoices();
       if (selectEl) {
         selectEl.innerHTML = '';
         if (!list.length) {
-          selectEl.innerHTML = '<option>找不到英文語音</option>';
+          selectEl.innerHTML = '<option>找不到語音</option>';
         } else {
           list.forEach(function (v) {
             var o = document.createElement('option');
@@ -86,13 +88,13 @@
     // 部分瀏覽器第一次 getVoices() 會回空陣列
     var tries = 0;
     var timer = setInterval(function () {
-      if (englishVoices().length || ++tries > 12) { clearInterval(timer); fill(); }
+      if (allVoices().length || ++tries > 12) { clearInterval(timer); fill(); }
     }, 250);
 
     if (selectEl) {
       selectEl.addEventListener('change', function () {
         var parts = (selectEl.value || '').split('|');
-        var found = englishVoices().filter(function (v) { return v.name === parts[0]; })[0];
+        var found = allVoices().filter(function (v) { return v.name === parts[0]; })[0];
         if (found) selected = found;
       });
     }
@@ -109,7 +111,7 @@
   /** 語音清單還沒載入就先現挑一個（避免第一句朗讀沒聲音） */
   function currentVoice() {
     if (selected) return selected;
-    var list = englishVoices();
+    var list = allVoices();
     if (list.length) selected = defaultVoice(list);
     return selected;
   }
@@ -146,7 +148,7 @@
     say: say,
     stop: stop,
     supported: supported,
-    voices: englishVoices,
+    voices: allVoices,
     onChange: function (fn) { listeners.push(fn); },
     current: currentVoice,
     preferred: defaultVoice

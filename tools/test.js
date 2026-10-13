@@ -311,7 +311,9 @@ const VOICES = [
   { name: 'Google US English', lang: 'en-US', localService: false },
   { name: 'Microsoft Zira Desktop - Natural', lang: 'en-US', localService: true },
   { name: 'Microsoft Mark Desktop - Natural', lang: 'en-US', localService: true },
-  { name: 'Daniel', lang: 'en-GB', localService: true }
+  { name: 'Daniel', lang: 'en-GB', localService: true },
+  { name: 'Microsoft 曉臻 - Chinese (Taiwan)', lang: 'zh-TW', localService: true },
+  { name: 'Google 日本語', lang: 'ja-JP', localService: false }
 ];
 const spoken = [];
 ctx.speechSynthesis = {
@@ -332,6 +334,9 @@ function reloadVoices(list) {
 eq('英文語音清單第一位是 Microsoft Mark',
   Speech.voices()[0].name, 'Microsoft Mark Desktop - Natural');
 eq('preferred 直接指定 Mark', Speech.preferred(Speech.voices()).name, 'Microsoft Mark Desktop - Natural');
+eq('所有語音都列出來（包含非英文）', Speech.voices().length, 6);
+eq('非英文語音也在清單裡', Speech.voices().some(v => v.lang === 'zh-TW'), true);
+eq('日文語音也在清單裡', Speech.voices().some(v => v.lang === 'ja-JP'), true);
 
 Speech.say('Let me know.', 1, { rate: 0.8 });
 eq('朗讀用的是 Mark', spoken[0].voice.name, 'Microsoft Mark Desktop - Natural');
